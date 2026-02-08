@@ -9,9 +9,11 @@ This repository contains synthetic student performance data generated for my MSc
 # Project Goals
 
 Building a Student Performance Analytics Dashboard for Strategic Decision-Making in Undergraduate Programme Management using:
-- MySQL database
-- Power BI for visualization
+- MySQL database for data storage
+- Interactive web-based dashboard (accessible to anyone, no license required)
+- Hosted on GitHub Pages for public access
 - Predictive analytics for student outcomes
+
 
 # Dataset Contents
 
