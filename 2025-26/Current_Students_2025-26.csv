@@ -1,0 +1,1162 @@
+Academic_Year,Student_ID,Surname,Forename,Gender,Date_of_Birth,Nationality,username,email,Prog_Yr,Stud_Yr,AIMS_Start,AIMS_ExpEnd,Category,Programme_Name
+2025/26,10003814,Leon,Timothy,M,23/05/2002,Canada,tleon422,student10003814@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003815,Reynolds,Julie,F,18/09/2004,Jordan,jreynolds96,student10003815@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003816,Parker,Tracey,F,10/10/2002,Jordan,tparker274,student10003816@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003817,Wells,Rachel,F,28/12/2002,Philippines,rwells388,student10003817@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003818,Hernandez,Karen,F,21/02/2007,India,khernandez565,student10003818@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003819,Larson,Matthew,M,09/03/2003,Philippines,mlarson341,student10003819@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003820,Richardson,Anthony,M,13/12/2005,Philippines,arichardson114,student10003820@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003821,Curry,Carla,F,06/01/2004,Canada,ccurry967,student10003821@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003822,Nelson,Stephanie,F,04/01/2001,Bangladesh,snelson623,student10003822@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003823,Meyer,Matthew,M,14/12/2007,United Kingdom,mmeyer485,student10003823@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003824,Bender,Juan,M,21/07/2000,Egypt,jbender505,student10003824@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003825,Fowler,James,M,14/12/2004,Egypt,jfowler187,student10003825@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003826,Scott,Morgan,F,12/03/2006,Egypt,mscott430,student10003826@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003827,Hayes,Jose,M,05/12/2006,United Kingdom,jhayes175,student10003827@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003828,Thomas,Derek,M,06/08/2005,Pakistan,dthomas789,student10003828@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003829,Holland,Aaron,M,15/02/2000,United Kingdom,aholland985,student10003829@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003830,Phillips,Tanya,F,07/03/2005,Canada,tphillips373,student10003830@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003831,Huffman,Hailey,F,06/12/2008,Egypt,hhuffman349,student10003831@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003832,Harris,Jacob,M,29/05/2005,India,jharris408,student10003832@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003833,Sexton,Haley,F,21/08/2002,Pakistan,hsexton325,student10003833@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003834,Hawkins,Phillip,M,06/11/2007,United States,phawkins512,student10003834@sample.edu,3,1,2025-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003835,Walton,Carla,F,03/05/2007,Philippines,cwalton920,student10003835@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003836,Harrison,Larry,M,09/02/2002,Egypt,lharrison533,student10003836@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003837,Wilson,Daniel,M,01/06/2007,Philippines,dwilson160,student10003837@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003838,Martinez,Keith,M,16/08/2005,Canada,kmartinez684,student10003838@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003839,White,Heather,F,02/01/2007,Canada,hwhite37,student10003839@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003840,Taylor,Alexander,M,22/01/2004,Jordan,ataylor420,student10003840@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003841,Taylor,Robert,M,07/02/2008,Pakistan,rtaylor845,student10003841@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003842,Peterson,Mary,F,13/01/2000,United Kingdom,mpeterson12,student10003842@sample.edu,3,1,2025-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003843,Randall,Kenneth,M,30/05/2000,Jordan,krandall990,student10003843@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003844,Hernandez,Cassandra,F,25/08/2001,Bangladesh,chernandez415,student10003844@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003845,Stevenson,Angela,F,14/10/2003,Bangladesh,astevenson167,student10003845@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003846,Gordon,Diana,F,22/06/2003,Jordan,dgordon879,student10003846@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003847,Vaughan,Phillip,M,27/06/2003,Bangladesh,pvaughan421,student10003847@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003848,Brooks,Kristen,F,22/06/2005,Bangladesh,kbrooks918,student10003848@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003849,Smith,Sean,M,20/07/2002,Pakistan,ssmith540,student10003849@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003850,Grant,Amanda,F,28/06/2008,Bangladesh,agrant275,student10003850@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003851,Lewis,Jacob,M,01/02/2003,Philippines,jlewis20,student10003851@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003852,Gill,Brandon,M,13/12/2001,Egypt,bgill339,student10003852@sample.edu,3,1,2025-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003853,White,Sara,F,20/01/2006,Canada,swhite456,student10003853@sample.edu,2,1,2025-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003854,Reyes,Maria,F,09/09/2007,Bangladesh,mreyes527,student10003854@sample.edu,2,1,2025-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003855,Jones,Jessica,F,15/06/2005,United States,jjones188,student10003855@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003856,Blevins,Lisa,F,14/09/2001,Canada,lblevins333,student10003856@sample.edu,3,1,2025-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003857,Johnson,Lauren,F,21/01/2005,United Kingdom,ljohnson371,student10003857@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003858,Ward,Cynthia,F,21/01/2003,United States,cward417,student10003858@sample.edu,2,1,2025-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003859,Parrish,Catherine,F,26/01/2003,India,cparrish487,student10003859@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003860,Evans,Eileen,F,15/11/2003,Egypt,eevans864,student10003860@sample.edu,3,1,2025-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003861,Petty,Anthony,M,16/10/2005,United Kingdom,apetty471,student10003861@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003862,Wood,Heidi,F,20/12/2002,Egypt,hwood740,student10003862@sample.edu,1,1,2025-09-20,2028-06-30,UG,Accountancy & Finance
+2025/26,10003863,Fletcher,Julia,F,14/06/2007,Egypt,jfletcher2,student10003863@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003864,Rowe,Austin,M,28/11/2001,Jordan,arowe900,student10003864@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003865,Williams,Daniel,M,13/12/2007,India,dwilliams560,student10003865@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003866,Garcia,Heather,F,07/10/2004,Philippines,hgarcia814,student10003866@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003867,Nelson,Angela,F,29/09/2006,Egypt,anelson285,student10003867@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003868,White,Tiffany,F,05/01/2000,Philippines,twhite550,student10003868@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003869,Adams,Sara,F,10/02/2001,Canada,sadams456,student10003869@sample.edu,3,1,2025-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003870,Golden,Jill,F,06/08/2000,Pakistan,jgolden468,student10003870@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003871,Dean,Joyce,F,16/02/2001,Philippines,jdean672,student10003871@sample.edu,3,1,2025-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003872,Farley,Robert,M,08/04/2000,Egypt,rfarley136,student10003872@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003873,Watkins,Bradley,M,25/03/2005,United Kingdom,bwatkins360,student10003873@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003874,Jackson,Jeffrey,M,14/02/2007,Pakistan,jjackson150,student10003874@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003875,Brock,Rodney,M,30/03/2008,Pakistan,rbrock251,student10003875@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003876,Carlson,Tara,F,25/07/2003,United States,tcarlson558,student10003876@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003877,Wong,Wayne,M,24/04/2004,Bangladesh,wwong643,student10003877@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003878,Carroll,Garrett,M,16/11/2004,Egypt,gcarroll703,student10003878@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003879,Brown,Martin,M,05/11/2007,Philippines,mbrown471,student10003879@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003880,Curtis,Paul,M,24/11/2000,United Kingdom,pcurtis266,student10003880@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003881,Alexander,Annette,F,26/02/2001,United States,aalexander866,student10003881@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003882,Cole,Andrew,M,30/04/2003,United Kingdom,acole530,student10003882@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003883,Higgins,Linda,F,11/11/2007,Canada,lhiggins655,student10003883@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003884,Bell,Wendy,F,24/12/2002,Egypt,wbell498,student10003884@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003885,Robinson,Richard,M,21/11/2002,India,rrobinson453,student10003885@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003886,Le,William,M,26/07/2000,Egypt,wle121,student10003886@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003887,Gonzalez,Natalie,F,09/04/2005,Egypt,ngonzalez834,student10003887@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003888,Santos,Edward,M,03/05/2007,Philippines,esantos76,student10003888@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003889,Mathis,Scott,M,11/02/2007,Egypt,smathis311,student10003889@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003890,Wilson,Emily,F,31/12/2005,Egypt,ewilson180,student10003890@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003891,Garrison,Brian,M,12/10/2007,Jordan,bgarrison635,student10003891@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003892,Marks,Angela,F,13/06/2006,India,amarks108,student10003892@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003893,Jackson,Ashley,F,02/05/2008,Jordan,ajackson135,student10003893@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003894,Smith,James,M,28/04/2000,Pakistan,jsmith81,student10003894@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003895,Aguilar,Sandra,F,11/07/2002,Egypt,saguilar76,student10003895@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003896,Gonzalez,Holly,F,30/11/2003,Canada,hgonzalez424,student10003896@sample.edu,3,1,2025-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003897,Acosta,Rebecca,F,22/09/2006,United Kingdom,racosta675,student10003897@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003898,Aguilar,Amber,F,13/02/2005,India,aaguilar549,student10003898@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003899,Duran,Lisa,F,28/09/2008,Pakistan,lduran968,student10003899@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003900,Rios,Samuel,M,05/06/2001,Bangladesh,srios703,student10003900@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003901,Booth,Michael,M,16/04/2004,United States,mbooth107,student10003901@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003902,Hall,Steven,M,20/03/2001,Jordan,shall785,student10003902@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003903,Casey,Melissa,F,24/03/2004,United States,mcasey327,student10003903@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003904,Morris,Rebecca,F,11/10/2008,Canada,rmorris245,student10003904@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003905,Harrison,Christina,F,23/09/2004,Jordan,charrison743,student10003905@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003906,Davis,Brandon,M,28/05/2007,Jordan,bdavis56,student10003906@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003907,Hamilton,Karen,F,27/11/2001,United States,khamilton942,student10003907@sample.edu,3,1,2025-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003908,Hill,Matthew,M,10/08/2005,Philippines,mhill464,student10003908@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003909,Mcclain,Angela,F,26/01/2002,United Kingdom,amcclain704,student10003909@sample.edu,3,1,2025-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003910,Molina,Eric,M,27/03/2003,Jordan,emolina329,student10003910@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003911,Ross,Karen,F,30/12/2005,India,kross719,student10003911@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003912,Adams,James,M,24/12/2005,Canada,jadams287,student10003912@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003913,Drake,Tyler,M,28/03/2008,Pakistan,tdrake68,student10003913@sample.edu,3,1,2025-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003914,Smith,James,M,13/12/2001,Philippines,jsmith601,student10003914@sample.edu,2,1,2025-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003915,Gray,Teresa,F,30/11/2004,Bangladesh,tgray372,student10003915@sample.edu,1,1,2025-09-20,2028-06-30,UG,Politics and International Relations
+2025/26,10003916,Wood,Andrew,M,18/01/2006,India,awood507,student10003916@sample.edu,3,1,2025-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003917,Martin,Seth,M,14/06/2002,Egypt,smartin611,student10003917@sample.edu,3,1,2025-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003918,Benjamin,Jessica,F,25/06/2001,Jordan,jbenjamin930,student10003918@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003919,Pennington,Anna,F,03/07/2002,Egypt,apennington991,student10003919@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003920,Galvan,Jennifer,F,10/12/2000,United Kingdom,jgalvan424,student10003920@sample.edu,3,1,2025-09-20,2026-06-30,UG,Computing Science
+2025/26,10003921,Miller,Jacob,M,30/12/2004,United Kingdom,jmiller946,student10003921@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003922,White,Mike,M,28/12/2005,Bangladesh,mwhite822,student10003922@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003923,Morgan,Kathleen,F,04/07/2000,India,kmorgan981,student10003923@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003924,Parker,Vanessa,F,25/06/2006,United Kingdom,vparker511,student10003924@sample.edu,3,1,2025-09-20,2026-06-30,UG,Computing Science
+2025/26,10003925,Barron,Lauren,F,10/12/2008,Bangladesh,lbarron506,student10003925@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003926,Kaufman,John,M,06/11/2001,Canada,jkaufman791,student10003926@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003927,Hogan,Roger,M,23/08/2006,United Kingdom,rhogan285,student10003927@sample.edu,3,1,2025-09-20,2026-06-30,UG,Computing Science
+2025/26,10003928,Perez,Alicia,F,29/05/2001,Philippines,aperez235,student10003928@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003929,Nguyen,Aaron,M,07/04/2006,Philippines,anguyen723,student10003929@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003930,Powers,Lauren,F,21/12/2005,Bangladesh,lpowers902,student10003930@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003931,Smith,Julia,F,24/06/2008,United States,jsmith555,student10003931@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003932,Vincent,Bailey,F,26/11/2007,Philippines,bvincent655,student10003932@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003933,Ford,Duane,M,31/07/2006,Bangladesh,dford79,student10003933@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003934,Chapman,Sarah,F,27/11/2002,Bangladesh,schapman908,student10003934@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003935,Williamson,Courtney,F,04/01/2006,Bangladesh,cwilliamson188,student10003935@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003936,Jenkins,Danielle,F,06/08/2003,United Kingdom,djenkins737,student10003936@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003937,Ramsey,Ashley,F,17/02/2008,Canada,aramsey600,student10003937@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003938,Vazquez,Robin,F,14/10/2003,Jordan,rvazquez893,student10003938@sample.edu,3,1,2025-09-20,2026-06-30,UG,Computing Science
+2025/26,10003939,Thompson,Tonya,F,24/11/2006,Canada,tthompson825,student10003939@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003940,Gibbs,Robert,M,02/04/2002,United Kingdom,rgibbs34,student10003940@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003941,Young,Christopher,M,13/04/2007,Pakistan,cyoung175,student10003941@sample.edu,3,1,2025-09-20,2026-06-30,UG,Computing Science
+2025/26,10003942,Shelton,Jeffrey,M,23/05/2001,United States,jshelton801,student10003942@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003943,Bryant,Zachary,M,24/11/2006,Jordan,zbryant986,student10003943@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003944,Salazar,Eric,M,26/12/2002,Canada,esalazar22,student10003944@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003945,Mcdonald,Ashley,F,28/08/2007,Pakistan,amcdonald364,student10003945@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003946,Smith,Laura,F,21/05/2002,Philippines,lsmith644,student10003946@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003947,Rivera,Glenn,M,01/06/2001,Jordan,grivera36,student10003947@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003948,Black,Allison,F,03/02/2007,Egypt,ablack313,student10003948@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003949,Nichols,Aaron,M,21/08/2007,Bangladesh,anichols549,student10003949@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003950,Mcclure,Michael,M,01/04/2000,Bangladesh,mmcclure256,student10003950@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003951,Hogan,Gabriel,M,23/05/2001,Bangladesh,ghogan580,student10003951@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003952,Russell,Christina,F,06/10/2007,Canada,crussell321,student10003952@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003953,Franklin,Daniel,M,21/08/2002,Canada,dfranklin467,student10003953@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003954,Lee,Nicole,F,19/05/2002,Egypt,nlee150,student10003954@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003955,Warner,Tracy,F,11/02/2006,Philippines,twarner737,student10003955@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003956,Pittman,Tammy,F,30/12/2007,Bangladesh,tpittman169,student10003956@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003957,Brown,Michelle,F,13/03/2000,Pakistan,mbrown319,student10003957@sample.edu,3,1,2025-09-20,2026-06-30,UG,Computing Science
+2025/26,10003958,Harris,Brad,M,18/07/2008,Pakistan,bharris702,student10003958@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003959,Hart,Valerie,F,16/09/2000,Egypt,vhart841,student10003959@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003960,Freeman,Heather,F,27/09/2007,United Kingdom,hfreeman787,student10003960@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003961,Gonzalez,Thomas,M,27/12/2000,Philippines,tgonzalez232,student10003961@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003962,Medina,Harold,M,22/04/2007,Bangladesh,hmedina741,student10003962@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003963,Wright,Timothy,M,28/03/2007,Bangladesh,twright606,student10003963@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003964,Duarte,Jasmine,F,18/01/2006,Philippines,jduarte690,student10003964@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003965,Anderson,Sarah,F,04/06/2001,India,sanderson924,student10003965@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003966,Bender,Billy,M,19/03/2008,Egypt,bbender177,student10003966@sample.edu,3,1,2025-09-20,2026-06-30,UG,Computing Science
+2025/26,10003967,Hall,Michael,M,06/11/2005,Jordan,mhall545,student10003967@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003968,Peterson,Jacob,M,09/09/2007,United States,jpeterson594,student10003968@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003969,Newton,Michael,M,04/02/2008,Jordan,mnewton953,student10003969@sample.edu,3,1,2025-09-20,2026-06-30,UG,Computing Science
+2025/26,10003970,Chavez,Kathleen,F,12/05/2000,Egypt,kchavez273,student10003970@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003971,Shaw,Bonnie,F,14/03/2000,Philippines,bshaw720,student10003971@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003972,Wong,Cindy,F,10/04/2008,Bangladesh,cwong33,student10003972@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003973,Williams,Mark,M,29/09/2008,Jordan,mwilliams896,student10003973@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003974,Atkins,Kelly,F,18/11/2004,India,katkins284,student10003974@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003975,Wallace,Jody,F,19/03/2001,Bangladesh,jwallace247,student10003975@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003976,Smith,Deborah,F,11/12/2001,Canada,dsmith488,student10003976@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003977,West,John,M,20/06/2000,Jordan,jwest700,student10003977@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003978,Peters,Lisa,F,07/09/2000,Pakistan,lpeters371,student10003978@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003979,Garcia,Andrew,M,27/11/2007,Egypt,agarcia421,student10003979@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003980,Ortega,James,M,02/04/2008,Bangladesh,jortega934,student10003980@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003981,Williams,Valerie,F,10/03/2005,United States,vwilliams369,student10003981@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003982,Tanner,Lisa,F,20/03/2005,Jordan,ltanner719,student10003982@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003983,Romero,Timothy,M,19/04/2000,Egypt,tromero230,student10003983@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003984,Knox,Jared,M,05/05/2003,United Kingdom,jknox672,student10003984@sample.edu,1,1,2025-09-20,2028-06-30,UG,Computing Science
+2025/26,10003985,Cook,Amy,F,18/02/2002,India,acook436,student10003985@sample.edu,2,1,2025-09-20,2027-06-30,UG,Computing Science
+2025/26,10003986,Flores,Ashley,F,13/05/2004,United States,aflores410,student10003986@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003987,Vega,Sydney,F,15/07/2006,United States,svega705,student10003987@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003988,Sims,Shelia,F,22/05/2007,Pakistan,ssims325,student10003988@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003989,Cabrera,Melinda,F,05/12/2002,United States,mcabrera736,student10003989@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management
+2025/26,10003990,Campbell,Lisa,F,03/04/2000,United States,lcampbell378,student10003990@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003991,Jones,Richard,M,23/11/2004,Jordan,rjones283,student10003991@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003992,Martinez,Melissa,F,12/12/2005,India,mmartinez692,student10003992@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003993,Rogers,Lisa,F,06/10/2000,Pakistan,lrogers230,student10003993@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management
+2025/26,10003994,Powell,Ryan,M,11/03/2002,United Kingdom,rpowell832,student10003994@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10003995,Ramos,Melinda,F,01/07/2002,Pakistan,mramos833,student10003995@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003996,Alexander,Elizabeth,F,09/02/2005,United States,ealexander615,student10003996@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003997,Estrada,Jessica,F,04/09/2007,Jordan,jestrada309,student10003997@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003998,Hernandez,Ronald,M,03/07/2000,United Kingdom,rhernandez173,student10003998@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10003999,Gibson,Beth,F,03/11/2003,Pakistan,bgibson230,student10003999@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004000,Ramos,David,M,25/06/2003,United States,dramos552,student10004000@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10004001,Mcgee,Angela,F,28/03/2004,United States,amcgee593,student10004001@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004002,Walters,Scott,M,01/05/2005,Bangladesh,swalters576,student10004002@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004003,Ruiz,Kristen,F,08/07/2007,Philippines,kruiz89,student10004003@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004004,Rangel,Dominique,F,26/02/2002,Jordan,drangel795,student10004004@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004005,Anderson,Samantha,F,17/03/2007,Philippines,sanderson267,student10004005@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004006,Chang,Steven,M,27/10/2004,Philippines,schang39,student10004006@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10004007,Bray,John,M,17/02/2001,Egypt,jbray938,student10004007@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management
+2025/26,10004008,Potter,Carol,F,19/12/2003,Philippines,cpotter792,student10004008@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10004009,Rice,Aaron,M,09/09/2004,Egypt,arice817,student10004009@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management
+2025/26,10004010,Rodriguez,Dawn,F,06/01/2007,Philippines,drodriguez993,student10004010@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management
+2025/26,10004011,Robertson,Caleb,M,06/07/2003,Canada,crobertson550,student10004011@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10004012,Hurst,Stephanie,F,22/12/2003,United States,shurst945,student10004012@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004013,Black,Julia,F,20/09/2000,Canada,jblack203,student10004013@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10004014,Williams,Zachary,M,19/08/2002,Philippines,zwilliams264,student10004014@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004015,Smith,Kristen,F,01/05/2006,Pakistan,ksmith983,student10004015@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004016,Crawford,Linda,F,05/12/2000,Egypt,lcrawford861,student10004016@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10004017,Rojas,Shannon,F,13/03/2006,Egypt,srojas523,student10004017@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004018,Chavez,Mary,F,30/01/2004,Jordan,mchavez474,student10004018@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004019,Adams,Rachel,F,25/12/2003,Canada,radams712,student10004019@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10004020,Banks,Andrew,M,20/11/2005,Bangladesh,abanks449,student10004020@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004021,Marquez,Sherry,F,15/12/2002,Philippines,smarquez564,student10004021@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004022,Malone,Robin,F,12/08/2006,Canada,rmalone106,student10004022@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management
+2025/26,10004023,Riddle,Tyler,M,10/09/2001,Bangladesh,triddle389,student10004023@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004024,Thomas,Stephen,M,17/07/2004,India,sthomas849,student10004024@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management
+2025/26,10004025,Thompson,Calvin,M,21/05/2005,India,cthompson352,student10004025@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management
+2025/26,10004026,Allen,Gabriel,M,14/05/2007,India,gallen881,student10004026@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management
+2025/26,10004027,Smith,Christopher,M,21/02/2003,United Kingdom,csmith974,student10004027@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004028,Lopez,Linda,F,24/02/2007,Pakistan,llopez762,student10004028@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004029,Allen,Gina,F,06/02/2005,Canada,gallen49,student10004029@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004030,Harvey,Eric,M,24/02/2008,Philippines,eharvey185,student10004030@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004031,Johnson,Carol,F,30/09/2004,Egypt,cjohnson719,student10004031@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004032,Ramirez,Douglas,M,31/01/2001,Jordan,dramirez857,student10004032@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004033,Bryant,Zachary,M,17/11/2002,United States,zbryant789,student10004033@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004034,Pacheco,Michael,M,16/08/2006,United States,mpacheco889,student10004034@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004035,Hines,Benjamin,M,22/11/2000,Canada,bhines805,student10004035@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004036,Hughes,Derrick,M,04/12/2000,Jordan,dhughes883,student10004036@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004037,Wilson,Eric,M,20/01/2002,Jordan,ewilson682,student10004037@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004038,Simpson,Jessica,F,01/12/2005,India,jsimpson436,student10004038@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004039,Robinson,Jason,M,18/12/2002,Philippines,jrobinson624,student10004039@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004040,Carter,Jonathan,M,24/04/2003,Philippines,jcarter350,student10004040@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004041,Harris,Paula,F,20/11/2000,United States,pharris725,student10004041@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004042,Lopez,Kyle,M,15/10/2008,Jordan,klopez745,student10004042@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004043,Combs,Keith,M,30/11/2006,Canada,kcombs660,student10004043@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004044,Johnson,Jordan,M,06/04/2000,United States,jjohnson628,student10004044@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004045,Park,Kristin,F,27/06/2007,Pakistan,kpark923,student10004045@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004046,Roberts,Kelly,F,12/09/2006,India,kroberts675,student10004046@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004047,Williams,Anthony,M,16/07/2008,Egypt,awilliams152,student10004047@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004048,Williams,Jessica,F,12/03/2002,United States,jwilliams708,student10004048@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004049,Bowers,Eric,M,30/06/2007,United Kingdom,ebowers771,student10004049@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004050,Weaver,Keith,M,28/09/2005,United States,kweaver596,student10004050@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004051,Richardson,Felicia,F,10/05/2007,United Kingdom,frichardson637,student10004051@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004052,Bauer,Kendra,F,09/05/2001,Egypt,kbauer208,student10004052@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004053,Nelson,Ronald,M,24/01/2005,United States,rnelson163,student10004053@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004054,Fisher,Heather,F,30/04/2002,Jordan,hfisher293,student10004054@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004055,Johnson,Jasmine,F,17/11/2004,Egypt,jjohnson73,student10004055@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004056,Evans,Monica,F,29/08/2008,United States,mevans580,student10004056@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004057,Pugh,Michael,M,12/01/2001,United States,mpugh401,student10004057@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004058,Foster,Emily,F,15/10/2008,Philippines,efoster503,student10004058@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004059,Smith,Theresa,F,12/05/2003,United Kingdom,tsmith746,student10004059@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004060,Kemp,Donald,M,12/01/2007,United Kingdom,dkemp960,student10004060@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004061,Weaver,Adrienne,F,12/07/2006,United States,aweaver674,student10004061@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004062,Tran,Jordan,M,14/02/2008,United Kingdom,jtran74,student10004062@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004063,Dean,Gary,M,03/04/2001,United States,gdean898,student10004063@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10004064,Smith,Isaiah,M,29/09/2000,Pakistan,ismith648,student10004064@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004065,Lucas,Crystal,F,04/07/2006,Bangladesh,clucas67,student10004065@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004066,Wells,Dylan,M,05/01/2001,Bangladesh,dwells75,student10004066@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004067,Davis,John,M,16/04/2004,United Kingdom,jdavis943,student10004067@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004068,Mullen,Marisa,F,10/06/2002,India,mmullen415,student10004068@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004069,Lin,Bethany,F,29/07/2003,United Kingdom,blin700,student10004069@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004070,Vaughn,Lynn,F,26/09/2006,Philippines,lvaughn16,student10004070@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004071,Payne,Amy,F,15/02/2004,Canada,apayne735,student10004071@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004072,White,Michael,M,05/03/2001,Canada,mwhite722,student10004072@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004073,Martinez,Jessica,F,14/12/2003,India,jmartinez477,student10004073@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and International Relations
+2025/26,10004074,Rivera,Nancy,F,29/06/2008,Jordan,nrivera349,student10004074@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10004075,Jensen,Barbara,F,07/02/2005,United States,bjensen659,student10004075@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004076,West,Jose,M,05/01/2004,Philippines,jwest908,student10004076@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004077,Green,Timothy,M,24/07/2002,United Kingdom,tgreen815,student10004077@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004078,Riley,Cynthia,F,06/01/2003,United States,criley162,student10004078@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004079,Sanchez,Sandra,F,31/08/2005,Pakistan,ssanchez530,student10004079@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10004080,Hoffman,Benjamin,M,14/02/2004,Bangladesh,bhoffman694,student10004080@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10004081,Cruz,Gregory,M,16/09/2001,United Kingdom,gcruz304,student10004081@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004082,Fowler,Richard,M,25/06/2006,India,rfowler807,student10004082@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004083,Thomas,James,M,24/09/2002,Jordan,jthomas342,student10004083@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004084,Zamora,Michael,M,04/03/2002,India,mzamora664,student10004084@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10004085,Daniel,Jennifer,F,05/01/2007,Pakistan,jdaniel982,student10004085@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10004086,Bowman,Rachel,F,17/06/2006,Egypt,rbowman915,student10004086@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004087,Carter,Bobby,M,08/11/2008,Jordan,bcarter356,student10004087@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10004088,Jackson,Mark,M,27/11/2008,India,mjackson436,student10004088@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004089,Wilkinson,Sydney,F,20/07/2003,Jordan,swilkinson126,student10004089@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10004090,Alvarez,Laurie,F,16/07/2008,Jordan,lalvarez839,student10004090@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004091,Parker,Joanne,F,16/05/2004,India,jparker828,student10004091@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004092,Nelson,Jessica,F,08/07/2007,United Kingdom,jnelson27,student10004092@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004093,Brown,Tanner,M,17/12/2006,United States,tbrown386,student10004093@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004094,Fleming,Robert,M,09/04/2006,United States,rfleming459,student10004094@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004095,Richards,Nicholas,M,23/05/2007,Canada,nrichards503,student10004095@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004096,Williams,Jennifer,F,27/11/2005,Bangladesh,jwilliams445,student10004096@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004097,Brown,Daniel,M,16/04/2002,Jordan,dbrown982,student10004097@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10004098,Russo,Trevor,M,24/12/2007,Pakistan,trusso572,student10004098@sample.edu,3,1,2025-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10004099,Sexton,Matthew,M,06/10/2000,Bangladesh,msexton302,student10004099@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004100,Hanna,Summer,F,21/10/2005,Pakistan,shanna480,student10004100@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004101,Long,Jessica,F,04/04/2006,Bangladesh,jlong230,student10004101@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004102,Clark,Hannah,F,02/07/2006,Bangladesh,hclark430,student10004102@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004103,Lawson,Danielle,F,30/04/2004,United Kingdom,dlawson526,student10004103@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004104,Williams,Yolanda,F,01/07/2006,Jordan,ywilliams499,student10004104@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004105,Cooper,Victoria,F,28/02/2005,United Kingdom,vcooper753,student10004105@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004106,Jones,Jason,M,14/07/2008,India,jjones790,student10004106@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10004107,Bradford,Heather,F,23/05/2000,United States,hbradford65,student10004107@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004108,Price,Phillip,M,11/04/2005,India,pprice425,student10004108@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004109,Anderson,Steve,M,02/08/2002,Egypt,sanderson910,student10004109@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004110,Mcdonald,Christopher,M,21/07/2000,Bangladesh,cmcdonald19,student10004110@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004111,Elliott,Stephanie,F,04/05/2008,Pakistan,selliott677,student10004111@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004112,Walters,Dawn,F,09/06/2004,Pakistan,dwalters546,student10004112@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004113,Murphy,Jennifer,F,14/12/2003,Jordan,jmurphy688,student10004113@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004114,Bell,James,M,29/06/2005,Bangladesh,jbell786,student10004114@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004115,Kaufman,Perry,M,02/03/2008,Egypt,pkaufman288,student10004115@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004116,Hudson,Carolyn,F,22/01/2008,United Kingdom,chudson64,student10004116@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004117,Reed,Kelly,F,10/04/2003,Bangladesh,kreed423,student10004117@sample.edu,2,1,2025-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10004118,Houston,Frederick,M,30/05/2001,India,fhouston328,student10004118@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004119,Daniels,Julia,F,06/07/2007,India,jdaniels958,student10004119@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004120,Zamora,April,F,12/08/2004,United States,azamora199,student10004120@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004121,Thompson,Charles,M,04/05/2003,Egypt,cthompson226,student10004121@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004122,Hernandez,Monica,F,01/11/2007,India,mhernandez351,student10004122@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10004123,Cooley,Wayne,M,11/03/2000,Egypt,wcooley715,student10004123@sample.edu,1,1,2025-09-20,2028-06-30,UG,Business Management and Information Systems
+2025/26,10002426,Davis,Adrienne,F,30/04/2005,Egypt,adavis847,student10002426@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002427,Watson,Felicia,F,17/08/2004,United States,fwatson775,student10002427@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002428,Hurley,Brendan,M,29/08/2005,Canada,bhurley560,student10002428@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002429,Kirby,John,M,07/03/1997,United States,jkirby408,student10002429@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002432,Porter,Kenneth,M,25/03/2000,Philippines,kporter429,student10002432@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002433,Baker,Jimmy,M,22/09/2004,Philippines,jbaker979,student10002433@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002434,Banks,Karen,F,24/04/2003,United States,kbanks725,student10002434@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002436,Young,Tiffany,F,01/02/1997,United States,tyoung526,student10002436@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002437,Herrera,Michael,M,22/01/2001,Jordan,mherrera999,student10002437@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002439,Shaffer,Harold,M,17/02/2005,Bangladesh,hshaffer865,student10002439@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002441,Walsh,Jessica,F,29/11/2001,United States,jwalsh1,student10002441@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002442,Collins,John,M,07/06/2002,United Kingdom,jcollins659,student10002442@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002444,Robertson,Christine,F,25/06/1997,Pakistan,crobertson349,student10002444@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002446,Melton,Troy,M,06/03/2001,Canada,tmelton46,student10002446@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002448,Williams,Michael,M,04/09/1997,India,mwilliams16,student10002448@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002450,Garcia,Alexander,M,09/06/1997,Pakistan,agarcia202,student10002450@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002451,Bush,Laura,F,26/12/2003,India,lbush499,student10002451@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002452,Gomez,Tracy,F,08/10/2001,Philippines,tgomez659,student10002452@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002453,Best,Jerry,M,10/02/2003,Egypt,jbest811,student10002453@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002454,Yates,Laura,F,15/09/2000,India,lyates263,student10002454@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002457,Hahn,Jonathan,M,02/07/2004,United States,jhahn943,student10002457@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002458,Singh,Sara,F,13/07/2004,Jordan,ssingh649,student10002458@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002459,Estes,Cassandra,F,20/12/2003,India,cestes466,student10002459@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002461,Clark,Michael,M,27/06/2001,Egypt,mclark409,student10002461@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002462,Rowe,Mckenzie,F,25/12/2002,India,mrowe738,student10002462@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002463,Cortez,Charles,M,25/02/1997,Egypt,ccortez586,student10002463@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002464,Johnson,Samuel,M,05/10/1998,Egypt,sjohnson679,student10002464@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002466,Gross,Michael,M,10/08/2004,Egypt,mgross299,student10002466@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002468,Sandoval,Dustin,M,28/03/2002,Pakistan,dsandoval11,student10002468@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002469,Wilkins,Shannon,F,13/06/2001,India,swilkins405,student10002469@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002471,Meyer,Kristina,F,15/06/2000,Jordan,kmeyer118,student10002471@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002473,Berry,Margaret,F,12/02/1998,India,mberry444,student10002473@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002474,Serrano,Laura,F,28/08/1998,Canada,lserrano267,student10002474@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002475,Miller,Andrew,M,25/05/2003,United Kingdom,amiller548,student10002475@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002476,Mckinney,Whitney,F,19/10/2000,United Kingdom,wmckinney362,student10002476@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002477,Gonzalez,Tami,F,04/09/2003,Philippines,tgonzalez408,student10002477@sample.edu,4,4,2022-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002480,Ruiz,Kathleen,F,18/05/2004,Egypt,kruiz106,student10002480@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002481,Lee,Elizabeth,F,19/07/1998,Pakistan,elee935,student10002481@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002482,Duncan,Blake,M,20/04/1999,Canada,bduncan634,student10002482@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002483,Thompson,Joseph,M,06/09/2002,Jordan,jthompson768,student10002483@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002484,Cole,Michael,M,03/07/1998,Canada,mcole382,student10002484@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002486,Mendez,Beth,F,19/07/1999,Pakistan,bmendez760,student10002486@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002488,Hale,Daniel,M,22/03/2002,Philippines,dhale895,student10002488@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002489,Martin,Debra,F,30/12/2004,Canada,dmartin367,student10002489@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002491,Montoya,Erin,F,18/06/1998,Canada,emontoya577,student10002491@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002492,Baxter,Adam,M,06/08/2004,Bangladesh,abaxter566,student10002492@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002494,Williams,Michael,M,27/11/2004,United States,mwilliams449,student10002494@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002497,Garcia,Amanda,F,29/10/2003,Philippines,agarcia790,student10002497@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002498,Taylor,Becky,F,22/03/2005,India,btaylor919,student10002498@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002499,Brown,Adam,M,18/08/2003,Bangladesh,abrown511,student10002499@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002500,Smith,Scott,M,20/07/2001,Pakistan,ssmith770,student10002500@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002501,Underwood,Aaron,M,07/04/1998,United Kingdom,aunderwood202,student10002501@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002502,Hayes,Tara,F,19/05/2000,India,thayes74,student10002502@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002503,Ray,Kimberly,F,23/07/2001,Pakistan,kray680,student10002503@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002504,Harrison,Spencer,M,19/02/2000,Egypt,sharrison478,student10002504@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002505,Johnson,William,M,17/10/2005,United Kingdom,wjohnson403,student10002505@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002506,Payne,Tiffany,F,28/03/1999,Philippines,tpayne539,student10002506@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002507,Riley,Jonathan,M,12/01/2001,Bangladesh,jriley750,student10002507@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002508,Smith,Kathleen,F,01/01/1997,Bangladesh,ksmith656,student10002508@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002509,Jackson,Tina,F,04/06/1997,Philippines,tjackson388,student10002509@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002511,Robinson,Dwayne,M,19/12/1999,Pakistan,drobinson104,student10002511@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002512,Ramos,Scott,M,11/11/1999,Bangladesh,sramos607,student10002512@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002513,Flores,Tracy,F,13/07/1999,India,tflores783,student10002513@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002514,Leblanc,Sara,F,07/09/1999,Pakistan,sleblanc471,student10002514@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002515,Mitchell,James,M,05/08/2003,Egypt,jmitchell761,student10002515@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002517,Key,Andrew,M,05/07/2000,United States,akey670,student10002517@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002518,Hale,Virginia,F,05/11/2001,India,vhale807,student10002518@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002519,Anderson,Suzanne,F,03/01/2003,Egypt,sanderson131,student10002519@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002520,Bryant,Tara,F,24/03/2005,United Kingdom,tbryant637,student10002520@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002521,Hill,Danielle,F,14/11/1998,United Kingdom,dhill675,student10002521@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002522,Pace,Teresa,F,05/02/2003,Pakistan,tpace956,student10002522@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002523,Jenkins,Glen,M,29/08/1999,Bangladesh,gjenkins664,student10002523@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002524,Wagner,Cameron,M,06/10/1999,United Kingdom,cwagner76,student10002524@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002525,Bryan,Aaron,M,14/09/1998,India,abryan87,student10002525@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002526,Crawford,Jessica,F,13/08/1997,Philippines,jcrawford85,student10002526@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002527,Pineda,Kelsey,F,06/04/2000,Jordan,kpineda804,student10002527@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002528,Morris,Christopher,M,01/10/1999,Egypt,cmorris160,student10002528@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002529,Bryant,Karen,F,08/12/1998,United Kingdom,kbryant950,student10002529@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002530,Robles,Gary,M,14/05/1997,United Kingdom,grobles690,student10002530@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002532,Torres,Susan,F,19/01/2005,India,storres361,student10002532@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002533,Gonzalez,Michelle,F,12/12/1998,Philippines,mgonzalez727,student10002533@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002534,Werner,Jeremy,M,16/10/2004,Egypt,jwerner110,student10002534@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002535,Liu,Daniel,M,24/03/2004,India,dliu671,student10002535@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002536,Walker,Nicole,F,15/05/1997,Bangladesh,nwalker265,student10002536@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002537,Gilbert,Jennifer,F,17/02/1997,Bangladesh,jgilbert643,student10002537@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002538,Moore,Jeffrey,M,16/04/2004,Pakistan,jmoore75,student10002538@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002539,Kaiser,Alexander,M,21/11/2004,India,akaiser211,student10002539@sample.edu,4,4,2022-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002540,Bryant,Jennifer,F,10/10/1997,Canada,jbryant912,student10002540@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002541,Blevins,Debra,F,18/06/2005,Jordan,dblevins40,student10002541@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002542,Walker,Carol,F,15/08/2005,United Kingdom,cwalker267,student10002542@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002544,Miller,Stephen,M,12/07/2000,United Kingdom,smiller131,student10002544@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002547,Mcneil,Lindsay,F,26/12/2001,United States,lmcneil323,student10002547@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002548,Smith,Shawn,M,21/01/2001,Philippines,ssmith479,student10002548@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002549,Delgado,Erin,F,06/10/1998,Pakistan,edelgado811,student10002549@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002550,Glenn,Timothy,M,10/11/2005,Egypt,tglenn119,student10002550@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002551,Benitez,Lisa,F,16/05/2005,Pakistan,lbenitez35,student10002551@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002553,Miranda,Nathaniel,M,09/05/2004,Philippines,nmiranda793,student10002553@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002555,Smith,Krista,F,01/05/2001,United Kingdom,ksmith500,student10002555@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002556,Jenkins,Tanya,F,06/10/2004,Bangladesh,tjenkins5,student10002556@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002557,Jackson,Timothy,M,15/11/2003,Canada,tjackson357,student10002557@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002558,Black,Megan,F,09/03/2000,Philippines,mblack272,student10002558@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002559,Sweeney,Shawn,M,06/08/2002,Pakistan,ssweeney768,student10002559@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002561,Navarro,Cassie,F,20/03/2004,Jordan,cnavarro89,student10002561@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002562,Wilkins,Paula,F,25/08/2003,Egypt,pwilkins760,student10002562@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002563,Thompson,Tara,F,08/07/1999,Bangladesh,tthompson594,student10002563@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002564,Marshall,Adam,M,21/12/1998,Philippines,amarshall706,student10002564@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002565,Daniels,Charles,M,19/04/2003,Bangladesh,cdaniels278,student10002565@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002566,Mason,Robert,M,21/01/2000,India,rmason270,student10002566@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002567,Carpenter,Heather,F,02/02/2001,Canada,hcarpenter382,student10002567@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002568,Kramer,Mary,F,13/08/2003,Canada,mkramer693,student10002568@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002572,Brown,Angel,F,28/09/2003,United Kingdom,abrown908,student10002572@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002573,Brady,Judith,F,10/01/1999,India,jbrady420,student10002573@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002575,Mclaughlin,Rebecca,F,22/09/2000,United Kingdom,rmclaughlin907,student10002575@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002578,Bass,Nicole,F,09/06/2001,India,nbass79,student10002578@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002579,Mcdaniel,Joshua,M,09/02/2001,Egypt,jmcdaniel12,student10002579@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002580,Torres,Jose,M,25/08/1999,United States,jtorres411,student10002580@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002582,Cross,Vicki,F,11/09/2002,Jordan,vcross697,student10002582@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002583,Johns,Eric,M,18/06/2003,Philippines,ejohns536,student10002583@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002584,Turner,Victor,M,01/11/2005,Canada,vturner561,student10002584@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002586,Dodson,Jason,M,04/09/2004,Egypt,jdodson375,student10002586@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002587,Howard,Manuel,M,08/06/1998,Pakistan,mhoward229,student10002587@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002588,Williams,Steven,M,07/05/2001,United Kingdom,swilliams879,student10002588@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002589,Howe,Amy,F,20/01/2005,Pakistan,ahowe385,student10002589@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002590,Garcia,Brian,M,31/01/2004,Bangladesh,bgarcia457,student10002590@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002591,Chandler,Christopher,M,21/10/2002,Canada,cchandler839,student10002591@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002592,Jackson,Mark,M,31/12/2004,India,mjackson796,student10002592@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002593,Rodgers,Stephanie,F,28/02/2004,Jordan,srodgers159,student10002593@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management
+2025/26,10002596,Boyd,Carrie,F,10/05/2003,Egypt,cboyd327,student10002596@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002597,Garcia,Craig,M,30/11/1998,Pakistan,cgarcia372,student10002597@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002598,Adams,John,M,15/11/2004,Jordan,jadams503,student10002598@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002599,Wolfe,Timothy,M,23/07/2001,United Kingdom,twolfe929,student10002599@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002601,Carter,Dawn,F,25/05/2004,India,dcarter599,student10002601@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002602,Jones,Alan,M,13/07/2005,Philippines,ajones952,student10002602@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002604,Padilla,James,M,15/03/2001,Pakistan,jpadilla971,student10002604@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002605,Maynard,Scott,M,30/08/2004,Jordan,smaynard376,student10002605@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002606,Cole,Kenneth,M,13/10/2002,Bangladesh,kcole3,student10002606@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002607,Taylor,Kristopher,M,16/11/2003,Canada,ktaylor730,student10002607@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002608,Walker,Sarah,F,18/03/2004,Egypt,swalker805,student10002608@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002612,Miller,Judy,F,19/02/2004,United Kingdom,jmiller374,student10002612@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002615,Moore,David,M,22/01/2005,Pakistan,dmoore654,student10002615@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002616,Randall,Natasha,F,05/05/1999,Egypt,nrandall116,student10002616@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002617,Trevino,Bradley,M,19/07/2000,Jordan,btrevino752,student10002617@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002620,Lucas,James,M,25/12/1999,Philippines,jlucas546,student10002620@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002621,Thomas,Christian,M,08/09/2004,Jordan,cthomas326,student10002621@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002622,Mccall,Kathy,F,31/07/2005,Bangladesh,kmccall487,student10002622@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002623,Vasquez,Jon,M,19/02/1998,Philippines,jvasquez895,student10002623@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002625,Weber,Anthony,M,02/07/2001,India,aweber451,student10002625@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002626,Curtis,Ashley,F,18/06/2004,Canada,acurtis930,student10002626@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002628,Mitchell,Jessica,F,21/05/1998,Jordan,jmitchell775,student10002628@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002629,Johns,Lauren,F,18/03/2002,United Kingdom,ljohns448,student10002629@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002630,Herrera,Linda,F,22/07/2005,United States,lherrera514,student10002630@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002631,Burke,Christopher,M,23/05/2002,Philippines,cburke354,student10002631@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002633,Rivera,Joseph,M,03/08/2000,India,jrivera446,student10002633@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002635,White,Paul,M,07/01/2003,Egypt,pwhite657,student10002635@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002636,Berry,Cheryl,F,19/12/2005,Philippines,cberry260,student10002636@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002637,Ellis,Raymond,M,13/08/2002,United Kingdom,rellis460,student10002637@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002638,Gross,William,M,21/09/2004,Philippines,wgross103,student10002638@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002639,Parker,Roger,M,18/08/2001,Philippines,rparker318,student10002639@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002641,Coleman,Bryan,M,11/01/2000,Bangladesh,bcoleman539,student10002641@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002642,Bean,Fernando,M,04/07/2005,United Kingdom,fbean300,student10002642@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002644,Hansen,Ryan,M,31/08/1997,United States,rhansen4,student10002644@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002645,Kidd,Troy,M,24/03/1997,Jordan,tkidd357,student10002645@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002646,Powell,Nathan,M,02/02/2002,Bangladesh,npowell769,student10002646@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002648,Gray,Ashley,F,30/08/2005,Pakistan,agray607,student10002648@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002649,Moore,Timothy,M,23/04/2005,Jordan,tmoore93,student10002649@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002650,Burke,Christopher,M,06/01/2003,United States,cburke926,student10002650@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002651,Barajas,Nancy,F,27/05/2005,India,nbarajas371,student10002651@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002652,Matthews,Charles,M,20/08/2004,United Kingdom,cmatthews201,student10002652@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002653,Alvarez,Thomas,M,03/10/2003,Egypt,talvarez69,student10002653@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002655,French,Donald,M,26/02/2002,Philippines,dfrench444,student10002655@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002656,Thomas,Sonya,F,11/07/2002,United States,sthomas499,student10002656@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002658,Snow,Kenneth,M,11/03/1997,Bangladesh,ksnow893,student10002658@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002660,Mcbride,Joel,M,03/06/2003,Pakistan,jmcbride924,student10002660@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002661,Miller,Kim,F,05/05/2004,United Kingdom,kmiller253,student10002661@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10002662,Shaw,Mary,F,23/03/1999,India,mshaw83,student10002662@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002663,Simpson,Paul,M,06/09/2000,United Kingdom,psimpson869,student10002663@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002664,Thompson,Timothy,M,30/04/1998,Bangladesh,tthompson63,student10002664@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002665,Ford,Christopher,M,04/03/2005,India,cford78,student10002665@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002667,Smith,Mitchell,M,01/02/1998,Bangladesh,msmith329,student10002667@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002668,Golden,Brenda,F,30/03/2005,Jordan,bgolden335,student10002668@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002671,Juarez,Sarah,F,05/12/1998,India,sjuarez770,student10002671@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002672,Burgess,Deborah,F,21/03/2002,United Kingdom,dburgess539,student10002672@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002673,Park,Jonathan,M,15/09/2001,Bangladesh,jpark496,student10002673@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002677,Espinoza,Christine,F,27/11/2004,Philippines,cespinoza676,student10002677@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002678,Diaz,Andrea,F,14/06/2001,Philippines,adiaz572,student10002678@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002680,Heath,Eric,M,17/02/2002,Philippines,eheath30,student10002680@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002686,Brown,Brandon,M,28/11/2003,Jordan,bbrown597,student10002686@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002690,Alexander,Alice,F,07/05/2000,Pakistan,aalexander475,student10002690@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002691,Harper,Thomas,M,11/05/1999,Philippines,tharper805,student10002691@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002692,Watson,Megan,F,04/01/1998,India,mwatson580,student10002692@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002697,Scott,Brandon,M,07/07/2000,United States,bscott674,student10002697@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002698,Price,Cynthia,F,25/04/2000,United States,cprice232,student10002698@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002699,Davis,Lauren,F,08/06/2004,Philippines,ldavis335,student10002699@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002701,Beltran,Marc,M,13/04/1999,India,mbeltran774,student10002701@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002703,Gonzalez,Samuel,M,29/01/1998,Philippines,sgonzalez250,student10002703@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002704,Obrien,Matthew,M,07/03/1999,Bangladesh,mobrien465,student10002704@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002705,Davis,Angela,F,13/03/1998,Bangladesh,adavis820,student10002705@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002706,Spencer,Joshua,M,15/03/2000,United States,jspencer21,student10002706@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002708,Cortez,Anthony,M,11/04/2001,Philippines,acortez487,student10002708@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002709,Ramos,Christine,F,23/01/2003,United Kingdom,cramos747,student10002709@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002712,Blevins,Kenneth,M,25/03/1999,Pakistan,kblevins524,student10002712@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002714,Jones,Stephanie,F,06/10/2001,Egypt,sjones347,student10002714@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002715,Ramirez,James,M,18/10/2003,Philippines,jramirez753,student10002715@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002719,Jimenez,Maria,F,01/05/1998,India,mjimenez490,student10002719@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002721,Drake,Stacy,F,11/04/2002,United States,sdrake722,student10002721@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002722,Cohen,Jennifer,F,08/10/1999,Canada,jcohen758,student10002722@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002723,Gomez,Wesley,M,29/10/2003,Pakistan,wgomez252,student10002723@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002724,Ewing,Lisa,F,02/07/2005,Egypt,lewing596,student10002724@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002727,Matthews,Charles,M,16/07/1997,Egypt,cmatthews771,student10002727@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002728,Reynolds,Ashley,F,16/08/2004,Philippines,areynolds260,student10002728@sample.edu,4,4,2022-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10002849,Howard,Jeremy,M,21/12/1999,United Kingdom,jhoward840,student10002849@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002850,Johnson,Kristi,F,04/01/2003,India,kjohnson274,student10002850@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002851,Williamson,Christian,M,03/08/2002,United States,cwilliamson954,student10002851@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002852,Sanchez,Mary,F,16/10/2001,United Kingdom,msanchez714,student10002852@sample.edu,4,3,2023-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002853,Austin,Mark,M,21/05/2000,Philippines,maustin548,student10002853@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002854,Curry,Matthew,M,27/12/1999,India,mcurry219,student10002854@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002855,Fisher,Melinda,F,17/06/2005,Canada,mfisher357,student10002855@sample.edu,4,3,2023-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002856,Jensen,Brooke,F,06/05/2006,India,bjensen239,student10002856@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002857,Garcia,Jennifer,F,11/03/2006,India,jgarcia848,student10002857@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002858,Hines,Monique,F,05/12/1999,United Kingdom,mhines485,student10002858@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002861,Barnes,Anthony,M,10/01/2001,United States,abarnes743,student10002861@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002863,Oneill,Angel,M,07/09/2005,Bangladesh,aoneill158,student10002863@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002864,Carter,Amy,F,20/02/2004,Bangladesh,acarter176,student10002864@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002865,Ramos,Mallory,F,11/09/2004,India,mramos878,student10002865@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002866,Brown,Alexandra,F,26/11/2001,United Kingdom,abrown529,student10002866@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002867,Frederick,Scott,M,22/05/2002,Egypt,sfrederick764,student10002867@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002869,Todd,Paul,M,01/03/2001,Canada,ptodd220,student10002869@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002870,Kerr,Terry,M,10/09/2004,India,tkerr315,student10002870@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002871,Bolton,Erica,F,14/08/2001,Bangladesh,ebolton780,student10002871@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002872,Larson,Jonathan,M,04/03/2001,Canada,jlarson83,student10002872@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002873,Nash,Megan,F,17/03/2003,India,mnash838,student10002873@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002874,Short,Thomas,M,26/04/2003,United States,tshort248,student10002874@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002875,Adams,Debra,F,23/10/1998,United States,dadams129,student10002875@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002876,Alexander,Mary,F,23/09/1998,United States,malexander153,student10002876@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002877,Harris,Bradley,M,25/12/1998,Pakistan,bharris35,student10002877@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002878,Lopez,Valerie,F,15/07/2005,Philippines,vlopez48,student10002878@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002879,Tran,Mark,M,27/02/2005,Canada,mtran643,student10002879@sample.edu,4,3,2023-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002880,Savage,Matthew,M,16/01/2004,India,msavage636,student10002880@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002881,Nelson,Ryan,M,23/05/2001,India,rnelson843,student10002881@sample.edu,4,3,2023-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002882,Gonzales,Joseph,M,27/03/2001,Canada,jgonzales635,student10002882@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002883,Smith,Richard,M,17/10/1999,Jordan,rsmith259,student10002883@sample.edu,4,3,2023-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002884,Welch,Jennifer,F,23/03/2001,India,jwelch185,student10002884@sample.edu,4,3,2023-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002885,Massey,Christina,F,24/01/2002,Pakistan,cmassey401,student10002885@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002887,Hunt,Sara,F,08/12/2004,United Kingdom,shunt915,student10002887@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002888,Robertson,Kelly,F,07/03/2002,Jordan,krobertson990,student10002888@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002889,Ortiz,Julie,F,14/02/2004,Canada,jortiz961,student10002889@sample.edu,4,3,2023-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10002891,Rice,Natalie,F,02/07/1999,Philippines,nrice955,student10002891@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002892,Powers,Shari,F,02/02/2003,Egypt,spowers389,student10002892@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002893,Willis,Lisa,F,02/10/1998,Egypt,lwillis892,student10002893@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002894,Williams,Shelly,F,09/02/1999,India,swilliams438,student10002894@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002896,Hawkins,Clinton,M,26/02/2006,Bangladesh,chawkins628,student10002896@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002897,Lambert,Cynthia,F,07/10/2005,India,clambert559,student10002897@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002898,Ashley,Amanda,F,22/03/2003,Jordan,aashley326,student10002898@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002899,Hansen,Javier,M,03/01/2001,Philippines,jhansen991,student10002899@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002900,Steele,Bradley,M,31/12/2004,Bangladesh,bsteele520,student10002900@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002902,May,Tracey,F,28/03/2001,United Kingdom,tmay950,student10002902@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002903,Underwood,Tara,F,20/12/1998,Jordan,tunderwood123,student10002903@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002904,Olson,Anthony,M,19/09/2003,Jordan,aolson312,student10002904@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002905,Smith,Patricia,F,27/02/2005,Pakistan,psmith303,student10002905@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002906,Andrews,April,F,07/09/2006,Pakistan,aandrews999,student10002906@sample.edu,3,3,2023-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10002907,Allen,Lisa,F,06/05/2003,Philippines,lallen206,student10002907@sample.edu,4,3,2023-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002908,Branch,David,M,24/01/1998,United States,dbranch821,student10002908@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002909,Lane,Donald,M,30/04/2005,Philippines,dlane508,student10002909@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002910,Martinez,Jonathan,M,16/12/1998,Pakistan,jmartinez501,student10002910@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002913,Johnson,Taylor,F,27/03/2005,Egypt,tjohnson460,student10002913@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002914,Osborn,Sara,F,14/07/2001,Egypt,sosborn811,student10002914@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002915,Carlson,Ryan,M,08/09/2003,Canada,rcarlson403,student10002915@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002916,Johnson,Laura,F,25/02/2000,Egypt,ljohnson953,student10002916@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002918,Reed,Candace,F,05/09/2005,Egypt,creed481,student10002918@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002919,Aguilar,Randy,M,23/06/1999,India,raguilar734,student10002919@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002920,Lopez,Alex,M,24/09/2002,India,alopez848,student10002920@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002921,Hancock,Erica,F,11/02/2006,United Kingdom,ehancock124,student10002921@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002922,Daniels,Debra,F,13/02/1999,Canada,ddaniels170,student10002922@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002923,Palmer,Sarah,F,20/08/2002,Jordan,spalmer61,student10002923@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002924,Harris,Richard,M,27/11/2002,Canada,rharris888,student10002924@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002925,Griffin,Kenneth,M,18/04/1999,United States,kgriffin86,student10002925@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002926,Morrison,Scott,M,28/05/2000,United States,smorrison131,student10002926@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002927,Smith,Diane,F,28/04/2000,Egypt,dsmith712,student10002927@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002928,Torres,Kimberly,F,31/08/2005,Bangladesh,ktorres135,student10002928@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002929,Lopez,Cynthia,F,01/03/2001,Philippines,clopez776,student10002929@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002930,Dougherty,Larry,M,04/11/1999,United States,ldougherty342,student10002930@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002932,Soto,Kimberly,F,05/02/2005,Bangladesh,ksoto7,student10002932@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002933,Chen,Jonathan,M,23/07/2000,Jordan,jchen6,student10002933@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002934,Duncan,Matthew,M,30/12/2005,United Kingdom,mduncan805,student10002934@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002935,Roberts,Jack,M,12/02/2004,Pakistan,jroberts209,student10002935@sample.edu,4,3,2023-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002936,Harris,Carrie,F,07/06/2003,Jordan,charris223,student10002936@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002937,Gonzales,Justin,M,08/02/2000,Jordan,jgonzales710,student10002937@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002938,Christensen,Brittany,F,16/12/2000,Bangladesh,bchristensen944,student10002938@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002940,Reed,Sarah,F,13/11/2002,Jordan,sreed707,student10002940@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002941,Richards,Pamela,F,22/08/2001,Jordan,prichards381,student10002941@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002942,Valdez,Stephen,M,17/08/2000,Philippines,svaldez16,student10002942@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002943,Reilly,Cynthia,F,25/03/2002,Bangladesh,creilly522,student10002943@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002944,Patterson,Garrett,M,04/02/1999,United Kingdom,gpatterson267,student10002944@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002945,Hanson,Kevin,M,16/08/2002,United States,khanson124,student10002945@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002946,Fox,Glenn,M,05/11/2003,Jordan,gfox314,student10002946@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002947,Johns,Kyle,M,24/02/2006,United Kingdom,kjohns117,student10002947@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002950,Obrien,Caleb,M,10/03/2001,Philippines,cobrien244,student10002950@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002951,Hale,Michael,M,22/02/2005,Canada,mhale778,student10002951@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002952,Gordon,Theresa,F,26/08/1998,Philippines,tgordon393,student10002952@sample.edu,4,3,2023-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002953,Mcfarland,Emily,F,10/04/1999,India,emcfarland62,student10002953@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002954,Kim,Isabella,F,17/08/1999,Bangladesh,ikim206,student10002954@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002955,Carroll,Christopher,M,11/09/2002,Jordan,ccarroll189,student10002955@sample.edu,4,3,2023-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002956,Stanley,David,M,01/09/1998,United States,dstanley167,student10002956@sample.edu,3,3,2023-09-20,2026-06-30,UG,Legal Studies
+2025/26,10002957,Glover,Robert,M,29/07/2006,Canada,rglover476,student10002957@sample.edu,4,3,2023-09-20,2025-06-30,UG,Legal Studies
+2025/26,10002958,King,Seth,M,15/07/2005,Philippines,sking650,student10002958@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002959,Guerrero,Jason,M,15/07/2001,Jordan,jguerrero918,student10002959@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002960,Lee,William,M,02/01/1999,Egypt,wlee4,student10002960@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002962,Whitaker,Dana,F,06/12/2002,Jordan,dwhitaker225,student10002962@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002963,Snyder,Dustin,M,05/07/1999,Bangladesh,dsnyder933,student10002963@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002964,Rogers,Hunter,M,13/12/2002,Bangladesh,hrogers90,student10002964@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002965,Martinez,Maria,F,19/02/1999,United States,mmartinez372,student10002965@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002967,Becker,Donna,F,16/10/1998,Egypt,dbecker387,student10002967@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002969,Reynolds,Ana,F,02/09/2004,Bangladesh,areynolds725,student10002969@sample.edu,4,3,2023-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10002970,Moreno,Thomas,M,16/05/2000,Pakistan,tmoreno867,student10002970@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002971,James,Sarah,F,22/10/2000,Canada,sjames935,student10002971@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002972,Adams,Wanda,F,11/05/2001,Canada,wadams9,student10002972@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002973,Ford,Autumn,F,19/01/2006,India,aford782,student10002973@sample.edu,4,3,2023-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10002974,Brown,Donald,M,27/03/2006,Jordan,dbrown208,student10002974@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002975,Oneal,Ann,F,26/06/2001,United States,aoneal7,student10002975@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002976,Payne,Caleb,M,11/11/2006,India,cpayne869,student10002976@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002977,Krause,Kathryn,F,14/02/2000,India,kkrause408,student10002977@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002978,Stewart,Amy,F,14/06/2001,Canada,astewart888,student10002978@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002979,Rodriguez,Sarah,F,22/01/2001,India,srodriguez470,student10002979@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002980,Wallace,Scott,M,08/04/2003,United States,swallace186,student10002980@sample.edu,4,3,2023-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10002981,Davis,Brandi,F,03/10/2002,Philippines,bdavis828,student10002981@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002982,Martin,Cristian,M,04/05/2005,Bangladesh,cmartin408,student10002982@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002983,Davis,Jordan,M,01/03/2001,Bangladesh,jdavis903,student10002983@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002984,Saunders,Nicole,F,02/06/1998,Egypt,nsaunders561,student10002984@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002985,Graham,Dana,F,28/11/1999,Bangladesh,dgraham973,student10002985@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002988,Parker,Wesley,M,01/10/1999,India,wparker233,student10002988@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002989,Cobb,Alexandra,F,19/07/2001,United Kingdom,acobb252,student10002989@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002991,Thompson,Brent,M,04/08/2005,India,bthompson114,student10002991@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002992,Chan,Angela,F,16/06/2003,Philippines,achan673,student10002992@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002993,Kim,Brian,M,11/11/1998,Bangladesh,bkim49,student10002993@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002995,Kelly,Rose,F,07/07/2001,Philippines,rkelly758,student10002995@sample.edu,4,3,2023-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10002997,Walters,Francisco,M,07/09/2005,Bangladesh,fwalters767,student10002997@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002998,Yang,Timothy,M,02/05/2002,Bangladesh,tyang997,student10002998@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10002999,Jimenez,Caleb,M,13/10/2002,India,cjimenez106,student10002999@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003000,Copeland,Jeffrey,M,24/10/2003,Pakistan,jcopeland95,student10003000@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003001,Chaney,Brianna,F,28/12/2005,Pakistan,bchaney416,student10003001@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003002,Singh,Logan,M,11/10/2005,Bangladesh,lsingh145,student10003002@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003005,Cooper,Brittany,F,26/06/2003,Canada,bcooper807,student10003005@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003006,Peterson,Kelli,F,27/11/2005,Philippines,kpeterson731,student10003006@sample.edu,4,3,2023-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003007,Wise,Sara,F,26/09/2002,Canada,swise3,student10003007@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003008,Buchanan,Matthew,M,22/07/2002,India,mbuchanan108,student10003008@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003009,Haynes,Beverly,F,07/06/1998,Philippines,bhaynes916,student10003009@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003011,Ayala,Jose,M,22/08/1998,India,jayala765,student10003011@sample.edu,3,3,2023-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003012,Holloway,Jason,M,29/03/1998,Canada,jholloway607,student10003012@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003013,Mays,Cory,M,23/11/2006,Egypt,cmays999,student10003013@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003014,Matthews,Tyler,M,19/03/1998,Canada,tmatthews48,student10003014@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003015,Carpenter,David,M,22/04/1999,Jordan,dcarpenter987,student10003015@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003016,Davis,Ryan,M,30/05/1999,Egypt,rdavis129,student10003016@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003017,Holden,Tonya,F,28/10/1998,Pakistan,tholden573,student10003017@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003018,Harrison,Julie,F,24/10/2000,India,jharrison161,student10003018@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003019,Webb,Frank,M,07/09/2006,Bangladesh,fwebb980,student10003019@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003020,Cannon,Brian,M,05/08/2001,Canada,bcannon620,student10003020@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003021,Cunningham,Mitchell,M,24/03/2003,Bangladesh,mcunningham103,student10003021@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003022,Bailey,Christopher,M,14/07/2002,Pakistan,cbailey15,student10003022@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003023,Turner,Mary,F,21/02/2001,United Kingdom,mturner581,student10003023@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003024,Perez,Michael,M,09/07/2003,Egypt,mperez444,student10003024@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003025,Lewis,Amber,F,06/11/2002,Egypt,alewis924,student10003025@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003026,Goodman,Brittany,F,20/11/2002,India,bgoodman634,student10003026@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003027,Jones,Nicole,F,08/07/2003,Jordan,njones145,student10003027@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003028,Glenn,Brandon,M,07/03/2005,Jordan,bglenn259,student10003028@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003031,Andersen,Stephen,M,14/07/1998,Pakistan,sandersen635,student10003031@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003032,Mcguire,Janice,F,06/04/2006,Pakistan,jmcguire573,student10003032@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003033,Mendez,Cynthia,F,01/03/2002,Philippines,cmendez274,student10003033@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003034,Mitchell,Douglas,M,22/05/2002,Pakistan,dmitchell763,student10003034@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003035,Gutierrez,James,M,21/03/1998,Jordan,jgutierrez897,student10003035@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003036,Parker,Michael,M,16/12/2006,Pakistan,mparker444,student10003036@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003037,Kelley,Christopher,M,28/01/2006,Pakistan,ckelley73,student10003037@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003038,Gallagher,Travis,M,20/06/2005,Egypt,tgallagher804,student10003038@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003039,Shepherd,Denise,F,14/02/2002,United Kingdom,dshepherd160,student10003039@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003040,Williams,Derek,M,22/11/2001,India,dwilliams454,student10003040@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003041,Gregory,Ryan,M,31/07/2005,Bangladesh,rgregory576,student10003041@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003042,Gordon,Kathy,F,04/04/2004,Philippines,kgordon110,student10003042@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003043,Mathews,Brian,M,17/02/1998,India,bmathews362,student10003043@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003044,Kirk,Matthew,M,16/05/1998,Egypt,mkirk963,student10003044@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003045,Allen,David,M,20/04/2005,United States,dallen264,student10003045@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003046,Mejia,Amanda,F,11/06/2005,Pakistan,amejia391,student10003046@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003047,Roberson,Bryan,M,24/12/2000,Egypt,broberson173,student10003047@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003048,Ryan,Dan,M,07/07/2003,Pakistan,dryan736,student10003048@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003049,Warren,Zachary,M,06/02/2004,Pakistan,zwarren662,student10003049@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003050,Thompson,Brandy,F,15/05/2003,India,bthompson766,student10003050@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003051,Smith,Richard,M,28/05/2000,United States,rsmith518,student10003051@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003052,Howard,David,M,18/08/2006,United States,dhoward458,student10003052@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003053,Green,Timothy,M,31/12/2001,United States,tgreen255,student10003053@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003054,Brown,James,M,18/06/2005,United Kingdom,jbrown769,student10003054@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003055,Noble,Andrea,F,22/08/2000,Canada,anoble220,student10003055@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003056,Montgomery,Brittany,F,29/05/2003,Egypt,bmontgomery107,student10003056@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003058,Hancock,Candace,F,01/05/2001,United States,chancock609,student10003058@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003059,Thompson,Richard,M,22/12/2006,Jordan,rthompson592,student10003059@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003060,Patterson,David,M,30/12/2006,Bangladesh,dpatterson977,student10003060@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003061,Gray,Zachary,M,18/05/2003,United Kingdom,zgray627,student10003061@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003062,Jones,Holly,F,21/05/2000,Canada,hjones408,student10003062@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003063,Benson,David,M,04/11/2001,Philippines,dbenson175,student10003063@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003064,Anderson,Stephanie,F,28/04/1998,India,sanderson931,student10003064@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003065,Olsen,Juan,M,01/07/1999,Jordan,jolsen288,student10003065@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003066,Wright,Sheryl,F,10/05/2000,Jordan,swright887,student10003066@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003067,Mosley,Scott,M,10/04/2005,Canada,smosley57,student10003067@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003069,Carrillo,Felicia,F,11/11/1999,Pakistan,fcarrillo254,student10003069@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003070,Garcia,Stephanie,F,09/01/2000,Pakistan,sgarcia583,student10003070@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003071,Hester,Zachary,M,16/08/2005,United States,zhester431,student10003071@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003072,Pace,Tyler,M,23/06/2000,United States,tpace595,student10003072@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003073,Chen,Lisa,F,27/02/2000,United Kingdom,lchen527,student10003073@sample.edu,4,3,2023-09-20,2025-06-30,UG,Computing Science
+2025/26,10003074,Bell,Roberto,M,09/12/2004,United States,rbell307,student10003074@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003075,Thompson,Elizabeth,F,12/02/1998,United Kingdom,ethompson811,student10003075@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003076,Aguilar,David,M,24/10/2000,India,daguilar378,student10003076@sample.edu,3,3,2023-09-20,2026-06-30,UG,Computing Science
+2025/26,10003077,Coleman,Karen,F,11/12/1998,Bangladesh,kcoleman5,student10003077@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003078,Livingston,Matthew,M,01/12/1999,United Kingdom,mlivingston627,student10003078@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003079,Hernandez,Michael,M,21/11/2006,United Kingdom,mhernandez649,student10003079@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003081,Welch,Teresa,F,13/01/2004,Bangladesh,twelch364,student10003081@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003082,Berger,Brianna,F,10/11/2003,United Kingdom,bberger979,student10003082@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management
+2025/26,10003083,Stevenson,Angela,F,03/10/2001,Canada,astevenson440,student10003083@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003084,Wallace,Dana,F,08/03/2005,India,dwallace639,student10003084@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003085,Charles,Shelly,F,25/12/1998,Jordan,scharles990,student10003085@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003086,Reynolds,Jennifer,F,22/10/2004,Bangladesh,jreynolds470,student10003086@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003087,Dickerson,William,M,15/06/2000,Egypt,wdickerson87,student10003087@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003088,Hunter,Sara,F,05/12/1999,India,shunter385,student10003088@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003089,Case,Olivia,F,22/03/2002,Bangladesh,ocase848,student10003089@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003090,Jackson,Maria,F,07/05/2001,Bangladesh,mjackson580,student10003090@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003091,Stone,Donald,M,12/07/2005,Bangladesh,dstone147,student10003091@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003092,Patton,Brittany,F,29/07/2004,United States,bpatton718,student10003092@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management
+2025/26,10003094,Dillon,Jennifer,F,30/01/2006,Egypt,jdillon59,student10003094@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003096,Jones,Eric,M,15/02/2003,Canada,ejones31,student10003096@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management
+2025/26,10003097,Ramirez,Arthur,M,23/05/2003,Pakistan,aramirez86,student10003097@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003100,Thompson,Randy,M,12/02/2004,Philippines,rthompson828,student10003100@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003101,Howard,Marc,M,04/10/2004,United Kingdom,mhoward510,student10003101@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management
+2025/26,10003102,Griffith,Stephanie,F,17/12/2006,Jordan,sgriffith952,student10003102@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management
+2025/26,10003103,Dominguez,Jamie,M,27/08/2000,Philippines,jdominguez981,student10003103@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003104,Flores,Nathan,M,08/02/1999,Pakistan,nflores416,student10003104@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003105,Willis,Johnathan,M,28/04/2003,United Kingdom,jwillis268,student10003105@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003106,Gilbert,Vincent,M,24/05/2002,United States,vgilbert334,student10003106@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management
+2025/26,10003107,Gibson,Joseph,M,05/07/1999,Jordan,jgibson838,student10003107@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003108,Morgan,Peggy,F,20/04/2000,India,pmorgan986,student10003108@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003109,Brewer,Andrew,M,24/05/2003,India,abrewer462,student10003109@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management
+2025/26,10003110,Melendez,Chloe,F,06/07/2003,Pakistan,cmelendez355,student10003110@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003111,Moran,Jacob,M,01/03/2000,Canada,jmoran809,student10003111@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003112,Strickland,Alfred,M,08/05/2002,India,astrickland479,student10003112@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003115,Morrow,Katrina,F,28/03/1999,Canada,kmorrow970,student10003115@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management
+2025/26,10003116,Herrera,Danielle,F,13/12/2001,Bangladesh,dherrera515,student10003116@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003117,Allen,Joseph,M,13/12/2003,Canada,jallen707,student10003117@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management
+2025/26,10003118,Porter,Leah,F,20/12/2000,Egypt,lporter387,student10003118@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003119,Leonard,Martha,F,04/02/2002,United Kingdom,mleonard453,student10003119@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003121,Winters,Abigail,F,16/04/2001,Egypt,awinters564,student10003121@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003122,Cooper,Taylor,F,31/10/2001,Philippines,tcooper210,student10003122@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003123,Bennett,Aaron,M,09/01/2006,Pakistan,abennett200,student10003123@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003124,Lynch,Amy,F,13/10/1998,United Kingdom,alynch294,student10003124@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003125,Riddle,James,M,22/07/2002,Pakistan,jriddle546,student10003125@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003126,Pace,Christopher,M,31/03/2001,Philippines,cpace800,student10003126@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003128,Estrada,Julie,F,06/05/2004,Philippines,jestrada7,student10003128@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003129,Forbes,Matthew,M,30/08/1998,Bangladesh,mforbes840,student10003129@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003130,Braun,Cynthia,F,05/08/2001,United States,cbraun536,student10003130@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003131,Brown,Carol,F,23/06/2005,Bangladesh,cbrown301,student10003131@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003132,Wallace,Alexis,F,05/07/1998,Egypt,awallace368,student10003132@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003133,Douglas,Tamara,F,11/02/2002,Canada,tdouglas202,student10003133@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003134,Hill,Joseph,M,16/03/2006,Philippines,jhill716,student10003134@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003135,Kim,Robert,M,12/12/2002,Jordan,rkim713,student10003135@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003136,Webb,Samantha,F,29/05/2000,Canada,swebb562,student10003136@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003138,Howard,Angela,F,11/09/2002,Canada,ahoward104,student10003138@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003139,Gallagher,Tiffany,F,11/03/2000,Jordan,tgallagher451,student10003139@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003140,Hill,Frank,M,18/03/1999,Jordan,fhill404,student10003140@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003141,Richardson,Tammy,F,07/01/1999,Egypt,trichardson20,student10003141@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003143,Proctor,Joshua,M,16/01/2004,Bangladesh,jproctor428,student10003143@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003144,Hartman,David,M,23/03/2002,United States,dhartman896,student10003144@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003145,Grimes,Alexis,F,04/07/1999,India,agrimes525,student10003145@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003146,Tucker,Alexander,M,15/01/1999,India,atucker257,student10003146@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003147,Wilson,Brian,M,18/12/2001,Philippines,bwilson956,student10003147@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003148,Webster,Richard,M,16/08/1999,India,rwebster592,student10003148@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003149,Hodges,Julie,F,28/12/2005,Jordan,jhodges460,student10003149@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003150,Burns,Brenda,F,12/02/2004,United Kingdom,bburns617,student10003150@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003151,Tran,Lisa,F,28/04/2005,Philippines,ltran974,student10003151@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003152,Zamora,Phillip,M,27/03/2002,Bangladesh,pzamora93,student10003152@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003153,Sims,Alexis,F,17/12/2004,Pakistan,asims582,student10003153@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003154,Smith,Michele,F,29/10/2002,Egypt,msmith648,student10003154@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003155,Montoya,Julie,F,01/10/2003,United Kingdom,jmontoya247,student10003155@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003156,Ramos,John,M,06/10/1998,Egypt,jramos840,student10003156@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003157,Gallegos,Yolanda,F,08/02/2000,Canada,ygallegos831,student10003157@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003158,Smith,Todd,M,04/11/1999,Bangladesh,tsmith177,student10003158@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003159,Miller,Benjamin,M,10/01/2001,Egypt,bmiller463,student10003159@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003160,Parks,Scott,M,12/07/2005,Jordan,sparks553,student10003160@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003161,Daugherty,Kevin,M,05/06/2005,India,kdaugherty606,student10003161@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003162,Ramos,Karen,F,15/02/2006,Bangladesh,kramos656,student10003162@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003163,Taylor,Heather,F,21/08/1999,Canada,htaylor20,student10003163@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003165,James,Michael,M,02/06/2006,Egypt,mjames301,student10003165@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003166,Day,Justin,M,24/06/1999,India,jday27,student10003166@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003167,Ryan,Timothy,M,28/04/2004,United Kingdom,tryan766,student10003167@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003168,Young,Devon,M,10/11/2006,Egypt,dyoung519,student10003168@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003169,Wallace,April,F,24/01/2001,United Kingdom,awallace117,student10003169@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003170,Martin,Jennifer,F,20/09/2005,Egypt,jmartin14,student10003170@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003171,Clark,Rhonda,F,13/02/2000,Pakistan,rclark399,student10003171@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003172,Miller,Joshua,M,08/03/2002,India,jmiller506,student10003172@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003173,Patterson,Karen,F,01/02/2000,Canada,kpatterson808,student10003173@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003174,Carter,Amanda,F,13/03/2003,Philippines,acarter689,student10003174@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003176,Walter,Sarah,F,10/02/2004,India,swalter699,student10003176@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003177,Garza,Donald,M,24/07/1999,Pakistan,dgarza514,student10003177@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003179,Moreno,Jamie,F,22/06/2004,United Kingdom,jmoreno972,student10003179@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003180,Hart,Lori,F,17/06/2005,Philippines,lhart696,student10003180@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003182,Hall,Marco,M,09/08/2000,Bangladesh,mhall526,student10003182@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003183,Gonzalez,Nicole,F,25/02/2000,Pakistan,ngonzalez741,student10003183@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003184,Hopkins,Michael,M,20/06/2000,India,mhopkins835,student10003184@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003185,Williams,John,M,21/07/2004,Bangladesh,jwilliams653,student10003185@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003186,Silva,Nicholas,M,02/02/2000,Jordan,nsilva705,student10003186@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003187,Roth,Jennifer,F,15/06/1998,India,jroth778,student10003187@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003188,Chase,Gregory,M,22/11/2003,Egypt,gchase805,student10003188@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003190,Montoya,Rebecca,F,10/02/1998,United Kingdom,rmontoya110,student10003190@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003191,Lewis,Michele,F,03/07/1999,Canada,mlewis143,student10003191@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003192,Combs,Martin,M,05/05/1999,Egypt,mcombs23,student10003192@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003193,Vasquez,Carlos,M,29/11/2004,Bangladesh,cvasquez779,student10003193@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003194,Santos,Cassie,F,17/04/2002,India,csantos22,student10003194@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003195,Reynolds,Nicholas,M,19/05/2000,Jordan,nreynolds337,student10003195@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003198,Ramirez,Samuel,M,14/07/1998,Canada,sramirez279,student10003198@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003199,Williams,Christie,F,22/08/2005,Bangladesh,cwilliams526,student10003199@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003200,Jimenez,Mark,M,09/06/2002,India,mjimenez299,student10003200@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003202,Deleon,Amber,F,22/12/2005,Pakistan,adeleon673,student10003202@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003203,Wagner,Nathan,M,26/03/1999,India,nwagner992,student10003203@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003204,Barnes,Brenda,F,02/07/2004,Bangladesh,bbarnes691,student10003204@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003205,Mckinney,David,M,29/07/2005,United Kingdom,dmckinney902,student10003205@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003206,Smith,Terry,M,19/06/2002,Egypt,tsmith109,student10003206@sample.edu,4,3,2023-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003207,Novak,Jeffery,M,15/11/1999,Bangladesh,jnovak132,student10003207@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003208,Wright,Aaron,M,30/06/2002,United Kingdom,awright932,student10003208@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003209,Young,Jason,M,06/04/2004,Egypt,jyoung19,student10003209@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003210,Adams,Sarah,F,20/12/2005,United Kingdom,sadams349,student10003210@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003212,Gonzalez,Stacey,F,01/09/2000,United States,sgonzalez181,student10003212@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003213,Richards,Harold,M,04/07/2006,Philippines,hrichards438,student10003213@sample.edu,3,3,2023-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003359,Miller,Megan,F,04/02/2001,United States,mmiller913,student10003359@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003360,Bowman,Jacqueline,F,10/10/2002,Canada,jbowman883,student10003360@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003361,Martin,Courtney,F,05/09/2007,United States,cmartin988,student10003361@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003362,Gibson,Sally,F,10/06/2006,Canada,sgibson702,student10003362@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003363,Greene,Natalie,F,10/05/2002,India,ngreene971,student10003363@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003364,Ruiz,Nancy,F,26/01/2000,United States,nruiz513,student10003364@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003365,Cruz,Russell,M,26/03/2005,United Kingdom,rcruz841,student10003365@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003366,Decker,Robert,M,30/01/2001,United Kingdom,rdecker909,student10003366@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003367,Walton,Kristina,F,07/05/2003,United Kingdom,kwalton737,student10003367@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003368,Schwartz,Lisa,F,16/12/2005,United States,lschwartz213,student10003368@sample.edu,4,2,2024-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10003369,Smith,Colleen,F,18/02/2007,Jordan,csmith318,student10003369@sample.edu,4,2,2024-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10003370,Ruiz,Maria,F,28/02/2002,United Kingdom,mruiz507,student10003370@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003371,Hall,Isaac,M,16/07/2007,United Kingdom,ihall943,student10003371@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003372,Montoya,Makayla,F,15/10/2003,Egypt,mmontoya116,student10003372@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003373,Cowan,Alice,F,16/07/2002,United States,acowan467,student10003373@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003374,Walker,Kristina,F,17/03/2005,Canada,kwalker700,student10003374@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003375,Wood,Kelsey,F,22/08/2000,Pakistan,kwood819,student10003375@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003376,Rivas,Michelle,F,28/03/2000,Egypt,mrivas100,student10003376@sample.edu,4,2,2024-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10003377,Brown,Madison,F,26/02/2002,India,mbrown566,student10003377@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003378,Campos,Gavin,M,08/07/2001,Egypt,gcampos206,student10003378@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003379,Perkins,Jill,F,18/06/2001,United States,jperkins179,student10003379@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003380,Clarke,Charles,M,29/11/2007,Jordan,cclarke782,student10003380@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003381,Barker,Michael,M,09/12/2000,Canada,mbarker628,student10003381@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003382,Allen,Monica,F,23/03/2006,United Kingdom,mallen724,student10003382@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003383,Williams,Jodi,F,21/10/2007,Philippines,jwilliams266,student10003383@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003384,Adams,Peter,M,21/09/2003,United Kingdom,padams856,student10003384@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003385,Harris,Randy,M,18/11/2006,India,rharris368,student10003385@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003386,Nguyen,Sean,M,20/04/2006,Egypt,snguyen195,student10003386@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003387,Bowen,Mary,F,25/10/1999,United States,mbowen511,student10003387@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003388,Green,Tricia,F,17/10/2007,Pakistan,tgreen814,student10003388@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003389,Miller,Keith,M,17/08/2004,Canada,kmiller721,student10003389@sample.edu,4,2,2024-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10003390,Martin,Lisa,F,22/02/2007,Jordan,lmartin110,student10003390@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003391,Holt,David,M,31/03/1999,Philippines,dholt474,student10003391@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003392,Blake,Brandi,F,26/05/2007,United Kingdom,bblake521,student10003392@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003393,Gray,Kevin,M,27/04/2004,United States,kgray351,student10003393@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003394,Morgan,Sara,F,26/02/2000,Pakistan,smorgan517,student10003394@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003395,Mclaughlin,David,M,11/10/1999,Canada,dmclaughlin901,student10003395@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003396,Freeman,Suzanne,F,02/10/2001,India,sfreeman351,student10003396@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003397,Sanders,Tony,M,11/01/2000,United States,tsanders790,student10003397@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003398,Weber,Eduardo,M,14/03/2001,India,eweber24,student10003398@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003399,Hogan,Cindy,F,11/09/2007,Canada,chogan638,student10003399@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003400,Jones,Paula,F,03/05/2001,Jordan,pjones469,student10003400@sample.edu,4,2,2024-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10003401,Guzman,Gregory,M,18/02/2006,Philippines,gguzman396,student10003401@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003402,Gross,Elizabeth,F,05/05/2005,Philippines,egross110,student10003402@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003403,Baldwin,Catherine,F,25/05/2005,India,cbaldwin174,student10003403@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003404,Williamson,Jordan,M,10/03/2006,Canada,jwilliamson297,student10003404@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003405,Freeman,Jacob,M,06/11/2001,India,jfreeman219,student10003405@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003406,Manning,Thomas,M,31/10/2007,United Kingdom,tmanning370,student10003406@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003407,Williams,Sean,M,01/03/2002,Jordan,swilliams730,student10003407@sample.edu,2,2,2024-09-20,2027-06-30,UG,Accountancy & Finance
+2025/26,10003408,Peterson,Karen,F,13/05/2007,Canada,kpeterson540,student10003408@sample.edu,4,2,2024-09-20,2025-06-30,UG,Accountancy & Finance
+2025/26,10003409,Molina,Tonya,F,05/06/2006,India,tmolina494,student10003409@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003410,Perez,Patricia,F,09/06/2001,India,pperez38,student10003410@sample.edu,3,2,2024-09-20,2026-06-30,UG,Accountancy & Finance
+2025/26,10003411,Rivera,Christopher,M,02/02/2001,Philippines,crivera365,student10003411@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003412,Barrett,Frank,M,25/04/2004,United States,fbarrett846,student10003412@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003413,Black,Kimberly,F,17/08/2004,Canada,kblack314,student10003413@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003414,Smith,Brandon,M,31/07/1999,United States,bsmith180,student10003414@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003415,Wolfe,Benjamin,M,02/05/2006,Philippines,bwolfe471,student10003415@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003416,Martinez,Jessica,F,18/08/2002,India,jmartinez360,student10003416@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003417,Weaver,Elizabeth,F,16/02/2001,Egypt,eweaver192,student10003417@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003418,Crosby,Thomas,M,21/07/2007,Egypt,tcrosby7,student10003418@sample.edu,4,2,2024-09-20,2025-06-30,UG,Legal Studies
+2025/26,10003419,Sanchez,Katrina,F,09/01/2004,Philippines,ksanchez269,student10003419@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003420,Morgan,Kelly,M,22/10/1999,United Kingdom,kmorgan771,student10003420@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003421,Martin,Alfred,M,25/04/2006,Canada,amartin955,student10003421@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003422,Ingram,Jessica,F,26/11/1999,Egypt,jingram39,student10003422@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003423,Reese,Sergio,M,19/05/2005,Egypt,sreese115,student10003423@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003424,Brown,Terry,F,03/08/2001,United Kingdom,tbrown713,student10003424@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003425,Gray,Andrew,M,26/04/1999,United States,agray291,student10003425@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003426,Jenkins,James,M,18/06/2005,Bangladesh,jjenkins238,student10003426@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003427,Oliver,Scott,M,18/04/2005,Philippines,soliver225,student10003427@sample.edu,4,2,2024-09-20,2025-06-30,UG,Legal Studies
+2025/26,10003428,Mueller,William,M,15/09/2001,Egypt,wmueller525,student10003428@sample.edu,4,2,2024-09-20,2025-06-30,UG,Legal Studies
+2025/26,10003429,Henderson,James,M,27/01/2007,Jordan,jhenderson730,student10003429@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003430,Williams,Courtney,F,10/10/2000,India,cwilliams826,student10003430@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003431,Wilson,Ryan,M,02/01/2005,United Kingdom,rwilson418,student10003431@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003432,Hood,Jacqueline,F,20/05/2000,United States,jhood215,student10003432@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003433,Jackson,Larry,M,13/11/2003,Jordan,ljackson851,student10003433@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003434,Hernandez,Robert,M,07/11/2002,United Kingdom,rhernandez888,student10003434@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003435,Gomez,Kelly,F,02/05/1999,Egypt,kgomez78,student10003435@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003436,Miller,Andrea,F,18/12/2005,Philippines,amiller651,student10003436@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003437,Chan,Lauren,F,03/05/2006,Bangladesh,lchan938,student10003437@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003438,Wheeler,Christopher,M,04/12/2001,Jordan,cwheeler591,student10003438@sample.edu,4,2,2024-09-20,2025-06-30,UG,Legal Studies
+2025/26,10003439,Holt,Nicole,F,18/12/2005,Philippines,nholt137,student10003439@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003440,White,Julie,F,07/07/2003,United Kingdom,jwhite62,student10003440@sample.edu,4,2,2024-09-20,2025-06-30,UG,Legal Studies
+2025/26,10003441,Ponce,Andrew,M,29/06/1999,Egypt,aponce416,student10003441@sample.edu,4,2,2024-09-20,2025-06-30,UG,Legal Studies
+2025/26,10003442,Allison,Melissa,F,09/11/2002,Philippines,mallison955,student10003442@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003443,Lewis,Richard,M,08/05/2000,United Kingdom,rlewis200,student10003443@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003444,Ferguson,Joseph,M,07/06/2002,United States,jferguson491,student10003444@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003445,Walsh,Victor,M,11/10/2000,Egypt,vwalsh834,student10003445@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003446,Hodges,Martha,F,05/12/2007,United Kingdom,mhodges6,student10003446@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003447,Davidson,Charles,M,16/10/2007,United Kingdom,cdavidson159,student10003447@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003448,Pineda,Diana,F,22/01/2007,Jordan,dpineda958,student10003448@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003449,Morse,Laura,F,18/07/2005,United States,lmorse135,student10003449@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003450,Parker,Matthew,M,18/07/2000,India,mparker669,student10003450@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003451,Powell,Sandra,F,21/11/2006,Jordan,spowell802,student10003451@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003452,Mitchell,Melissa,F,01/09/2006,United Kingdom,mmitchell531,student10003452@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003453,Waters,Daniel,M,04/11/2000,Philippines,dwaters580,student10003453@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003454,Jones,Andrea,F,27/07/2002,Pakistan,ajones89,student10003454@sample.edu,3,2,2024-09-20,2026-06-30,UG,Legal Studies
+2025/26,10003455,Hall,Tiffany,F,06/07/2002,Pakistan,thall748,student10003455@sample.edu,2,2,2024-09-20,2027-06-30,UG,Legal Studies
+2025/26,10003456,Webb,Evan,M,15/02/2007,Jordan,ewebb443,student10003456@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003457,Lambert,Suzanne,F,15/04/2002,United States,slambert894,student10003457@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003458,Johnson,Ellen,F,24/04/2007,Canada,ejohnson7,student10003458@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003459,Bryan,John,M,22/05/2007,Philippines,jbryan213,student10003459@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003460,Ruiz,Kevin,M,03/04/2002,Egypt,kruiz268,student10003460@sample.edu,4,2,2024-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003461,Castillo,Carolyn,F,08/12/2003,India,ccastillo195,student10003461@sample.edu,4,2,2024-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003462,Mosley,Heather,F,31/08/2004,United Kingdom,hmosley874,student10003462@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003463,Sanford,Benjamin,M,09/01/2002,United Kingdom,bsanford649,student10003463@sample.edu,3,2,2024-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003464,Farmer,Daniel,M,23/12/2000,Egypt,dfarmer774,student10003464@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003465,Nelson,Jason,M,07/01/2004,Philippines,jnelson687,student10003465@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003466,Fisher,Patricia,F,28/02/2001,India,pfisher914,student10003466@sample.edu,4,2,2024-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003467,Kelly,Steven,M,17/10/2003,Bangladesh,skelly172,student10003467@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003468,Lopez,Aaron,M,18/03/2000,Jordan,alopez541,student10003468@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003469,Davis,Allen,M,24/11/2004,Canada,adavis649,student10003469@sample.edu,3,2,2024-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003470,Wilkerson,Andre,M,19/02/2005,Jordan,awilkerson112,student10003470@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003471,Rivera,Travis,M,03/12/2005,United Kingdom,trivera779,student10003471@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003472,Walker,Michael,M,30/05/2005,Egypt,mwalker68,student10003472@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003473,Martin,Kristen,F,24/09/2004,Canada,kmartin507,student10003473@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003474,Smith,Christina,F,28/04/2003,United Kingdom,csmith893,student10003474@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003475,Moore,Melissa,F,22/12/2007,Egypt,mmoore657,student10003475@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003476,Smith,Catherine,F,09/10/1999,Philippines,csmith719,student10003476@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003477,Howe,Brooke,F,01/08/1999,United States,bhowe692,student10003477@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003478,Smith,Darryl,M,22/11/2001,United States,dsmith582,student10003478@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003479,Medina,Linda,F,14/06/2007,United Kingdom,lmedina17,student10003479@sample.edu,4,2,2024-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003480,Carter,Jared,M,04/05/2001,Jordan,jcarter89,student10003480@sample.edu,4,2,2024-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003481,Casey,Jill,F,16/08/1999,Pakistan,jcasey720,student10003481@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003482,Moore,Donald,M,25/09/2002,Jordan,dmoore828,student10003482@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003483,Nguyen,Roger,M,08/12/2007,Jordan,rnguyen572,student10003483@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003484,Bell,Chelsea,F,30/05/2007,Bangladesh,cbell4,student10003484@sample.edu,3,2,2024-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003485,Shaffer,Felicia,F,15/09/2001,Jordan,fshaffer90,student10003485@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003486,Diaz,Joseph,M,13/01/2002,Canada,jdiaz721,student10003486@sample.edu,4,2,2024-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003487,Stein,Christopher,M,03/06/2004,United Kingdom,cstein617,student10003487@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003488,Dominguez,Colleen,F,08/12/2007,Bangladesh,cdominguez373,student10003488@sample.edu,3,2,2024-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003489,Spencer,Michael,M,08/02/2001,Jordan,mspencer266,student10003489@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003490,Becker,Randy,M,11/03/2004,Canada,rbecker441,student10003490@sample.edu,4,2,2024-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003491,Barnes,Monica,F,21/02/2003,Philippines,mbarnes961,student10003491@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003492,Sharp,John,M,16/01/2006,India,jsharp699,student10003492@sample.edu,3,2,2024-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003493,Tate,Melissa,F,19/01/2001,Bangladesh,mtate749,student10003493@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003494,Vasquez,Amber,F,08/05/2002,Egypt,avasquez521,student10003494@sample.edu,4,2,2024-09-20,2025-06-30,UG,Politics and International Relations
+2025/26,10003495,Parrish,Robert,M,08/08/2006,Egypt,rparrish273,student10003495@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003496,Kim,Anthony,M,27/01/2002,United Kingdom,akim158,student10003496@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003497,Wilson,Jesus,M,26/09/2002,Egypt,jwilson946,student10003497@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003498,Sullivan,Andrew,M,25/02/2004,Pakistan,asullivan438,student10003498@sample.edu,3,2,2024-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003499,Ramirez,Sandra,F,21/02/2000,Pakistan,sramirez996,student10003499@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003500,Hood,Joseph,M,04/10/2000,Philippines,jhood845,student10003500@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003501,Thomas,John,M,30/01/2006,India,jthomas243,student10003501@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003502,Murray,Garrett,M,11/07/2007,India,gmurray522,student10003502@sample.edu,3,2,2024-09-20,2026-06-30,UG,Politics and International Relations
+2025/26,10003503,Mcclain,Chelsea,F,02/03/2006,United Kingdom,cmcclain111,student10003503@sample.edu,2,2,2024-09-20,2027-06-30,UG,Politics and International Relations
+2025/26,10003504,Keller,Michelle,F,10/01/2000,Canada,mkeller830,student10003504@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003505,Freeman,Michael,M,04/02/2001,Egypt,mfreeman698,student10003505@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003506,Jackson,Sally,F,02/09/2007,India,sjackson711,student10003506@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003507,Pittman,Jennifer,F,13/07/2003,United Kingdom,jpittman423,student10003507@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003508,Flores,Douglas,M,25/10/2006,Bangladesh,dflores84,student10003508@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003509,Powell,Sandra,F,28/04/2001,Jordan,spowell268,student10003509@sample.edu,4,2,2024-09-20,2025-06-30,UG,Computing Science
+2025/26,10003510,Calderon,Pamela,F,13/08/2007,Pakistan,pcalderon682,student10003510@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003511,Molina,Jay,M,29/07/2000,Pakistan,jmolina825,student10003511@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003512,Wolf,David,M,21/06/2006,Pakistan,dwolf656,student10003512@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003513,Jennings,Richard,M,17/08/2007,Egypt,rjennings215,student10003513@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003514,Conley,Jamie,F,07/10/2002,Pakistan,jconley106,student10003514@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003515,Jefferson,David,M,01/02/2006,United States,djefferson326,student10003515@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003516,Davis,Kimberly,F,26/10/2006,Jordan,kdavis430,student10003516@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003517,Morris,Aaron,M,05/10/2004,Pakistan,amorris656,student10003517@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003518,Stokes,Eric,M,12/05/1999,United Kingdom,estokes487,student10003518@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003519,Reyes,Mary,F,24/08/2001,Pakistan,mreyes20,student10003519@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003520,Perry,Brian,M,08/03/2000,Jordan,bperry860,student10003520@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003521,Gonzalez,Crystal,F,02/01/2005,Bangladesh,cgonzalez795,student10003521@sample.edu,4,2,2024-09-20,2025-06-30,UG,Computing Science
+2025/26,10003522,Gonzalez,Brian,M,19/05/2005,Jordan,bgonzalez85,student10003522@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003523,Jackson,Christina,F,21/09/2001,Pakistan,cjackson533,student10003523@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003524,Huber,Christy,F,19/05/2002,Jordan,chuber599,student10003524@sample.edu,4,2,2024-09-20,2025-06-30,UG,Computing Science
+2025/26,10003525,Conrad,Cathy,F,05/03/1999,India,cconrad796,student10003525@sample.edu,4,2,2024-09-20,2025-06-30,UG,Computing Science
+2025/26,10003526,Vasquez,Ryan,M,20/05/2000,United Kingdom,rvasquez31,student10003526@sample.edu,4,2,2024-09-20,2025-06-30,UG,Computing Science
+2025/26,10003527,Armstrong,Melissa,F,12/05/2002,Bangladesh,marmstrong813,student10003527@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003528,Grant,Danielle,F,19/09/2007,Jordan,dgrant795,student10003528@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003529,Williams,Daniel,M,08/01/2005,India,dwilliams524,student10003529@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003530,Gardner,Jamie,F,28/09/1999,United Kingdom,jgardner628,student10003530@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003531,Moses,Christopher,M,12/07/2007,Pakistan,cmoses412,student10003531@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003532,Allen,Holly,F,21/04/2004,Pakistan,hallen671,student10003532@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003533,Brown,Joshua,M,11/02/2004,Canada,jbrown119,student10003533@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003534,Phillips,James,M,16/11/2004,Bangladesh,jphillips622,student10003534@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003535,Young,Tracy,M,23/10/2000,Jordan,tyoung197,student10003535@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003536,Norton,Richard,M,19/10/2002,Egypt,rnorton844,student10003536@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003537,Little,Jonathan,M,10/10/2002,Pakistan,jlittle349,student10003537@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003538,Baker,Adrian,M,06/06/2001,Jordan,abaker437,student10003538@sample.edu,4,2,2024-09-20,2025-06-30,UG,Computing Science
+2025/26,10003539,Torres,Lance,M,29/08/2006,Bangladesh,ltorres120,student10003539@sample.edu,4,2,2024-09-20,2025-06-30,UG,Computing Science
+2025/26,10003540,Clark,Annette,F,08/08/2007,Jordan,aclark120,student10003540@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003541,Neal,Michael,M,08/11/2007,India,mneal767,student10003541@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003542,Figueroa,Curtis,M,20/08/2004,Jordan,cfigueroa236,student10003542@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003543,Stevens,Kerry,M,16/04/2004,Canada,kstevens130,student10003543@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003544,Becker,Patrick,M,13/12/2002,Egypt,pbecker277,student10003544@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003545,Sandoval,Arthur,M,06/07/2004,Philippines,asandoval95,student10003545@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003546,Bean,Holly,F,01/06/2007,Philippines,hbean721,student10003546@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003547,Moore,Nicole,F,01/06/2006,United States,nmoore180,student10003547@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003548,Gray,Bethany,F,05/02/1999,India,bgray92,student10003548@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003549,Perkins,Cameron,M,07/08/2003,Egypt,cperkins294,student10003549@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003550,Burns,Thomas,M,01/01/2002,United Kingdom,tburns161,student10003550@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003551,Jones,Douglas,M,10/04/2004,Pakistan,djones783,student10003551@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003552,Smith,Jill,F,29/04/2005,Egypt,jsmith307,student10003552@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003553,Martinez,Mark,M,06/12/2003,United Kingdom,mmartinez981,student10003553@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003554,Murphy,Thomas,M,08/09/2002,Philippines,tmurphy803,student10003554@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003555,Chang,Tammy,F,01/04/2005,Bangladesh,tchang767,student10003555@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003556,Wallace,Lori,F,30/05/2005,India,lwallace950,student10003556@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003557,Shea,Teresa,F,27/01/2006,India,tshea881,student10003557@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003558,Copeland,Terry,M,21/07/2005,Jordan,tcopeland889,student10003558@sample.edu,3,2,2024-09-20,2026-06-30,UG,Computing Science
+2025/26,10003559,Wilson,Vickie,F,30/06/2006,Jordan,vwilson556,student10003559@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003560,Ritter,Brittany,F,15/05/2004,United States,britter826,student10003560@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003561,King,George,M,26/06/2004,Philippines,gking94,student10003561@sample.edu,2,2,2024-09-20,2027-06-30,UG,Computing Science
+2025/26,10003562,Bryant,Brittney,F,06/11/2002,Pakistan,bbryant908,student10003562@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management
+2025/26,10003563,Porter,Jacob,M,29/10/1999,India,jporter470,student10003563@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003564,Matthews,Jennifer,F,03/12/2001,Pakistan,jmatthews968,student10003564@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003565,Taylor,Ann,F,29/03/2006,Pakistan,ataylor916,student10003565@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003566,Simmons,Jessica,F,07/04/2005,United Kingdom,jsimmons456,student10003566@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003567,Dixon,Michael,M,23/07/1999,India,mdixon319,student10003567@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management
+2025/26,10003568,Young,Karen,F,20/06/2002,Canada,kyoung519,student10003568@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003569,Holmes,Tyrone,M,08/11/2001,India,tholmes471,student10003569@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003570,Brewer,Jessica,F,19/10/2007,United States,jbrewer145,student10003570@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003571,Ferguson,Joy,F,10/09/2004,Jordan,jferguson139,student10003571@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003572,Kennedy,Tracy,F,08/06/2005,Egypt,tkennedy558,student10003572@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003573,Newton,Samuel,M,26/11/2007,United States,snewton326,student10003573@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003574,Smith,Charles,M,28/03/2003,Philippines,csmith892,student10003574@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003575,Reynolds,Brian,M,29/10/1999,Canada,breynolds902,student10003575@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management
+2025/26,10003576,Campbell,James,M,24/04/2000,United States,jcampbell202,student10003576@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management
+2025/26,10003577,Davis,Martin,M,26/08/2006,Pakistan,mdavis513,student10003577@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003578,Hernandez,Blake,M,17/03/2006,Jordan,bhernandez91,student10003578@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003579,Hall,Jesse,M,25/11/2001,India,jhall631,student10003579@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003580,Baker,Joel,M,16/06/1999,Pakistan,jbaker194,student10003580@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003581,Brown,Susan,F,06/08/1999,Canada,sbrown387,student10003581@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003582,Rivera,Ryan,M,12/12/2002,Bangladesh,rrivera181,student10003582@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003583,Huynh,David,M,16/12/1999,Pakistan,dhuynh811,student10003583@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003584,Garrison,Erin,F,09/08/2000,Jordan,egarrison742,student10003584@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003585,Allison,Jason,M,30/11/2001,Egypt,jallison891,student10003585@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management
+2025/26,10003586,Yoder,David,M,08/04/2007,Philippines,dyoder971,student10003586@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management
+2025/26,10003587,Diaz,Natasha,F,28/08/2004,Canada,ndiaz206,student10003587@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003588,Wilson,Destiny,F,07/07/2004,Pakistan,dwilson330,student10003588@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003589,Ortega,Thomas,M,29/07/2003,Jordan,tortega964,student10003589@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003590,Stone,Karen,F,06/10/2001,India,kstone481,student10003590@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management
+2025/26,10003591,Pratt,Kayla,F,18/05/2002,Philippines,kpratt707,student10003591@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003592,Alvarez,Matthew,M,25/03/2006,Jordan,malvarez886,student10003592@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003593,Horn,Katherine,F,15/05/2006,Jordan,khorn88,student10003593@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003594,Garza,Mary,F,08/06/1999,Egypt,mgarza539,student10003594@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003595,Jones,Ariel,F,17/08/2007,India,ajones156,student10003595@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management
+2025/26,10003596,Kelly,April,F,15/07/2002,United Kingdom,akelly625,student10003596@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management
+2025/26,10003597,Bowers,Stephanie,F,14/07/2000,India,sbowers559,student10003597@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management
+2025/26,10003598,Smith,Sara,F,11/08/2002,Philippines,ssmith926,student10003598@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003599,Burgess,Robert,M,01/07/2003,Egypt,rburgess489,student10003599@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003600,Campbell,David,M,08/08/2005,Jordan,dcampbell65,student10003600@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003601,Blankenship,Susan,F,03/11/2003,India,sblankenship925,student10003601@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003602,Jackson,Alisha,F,10/02/2002,Bangladesh,ajackson527,student10003602@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003603,Green,Neil,M,18/09/1999,Philippines,ngreen459,student10003603@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003604,Campbell,John,M,30/05/2006,Bangladesh,jcampbell624,student10003604@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003605,Carr,Natalie,F,04/02/2004,Egypt,ncarr828,student10003605@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003606,Rogers,Robert,M,02/06/2006,United States,rrogers257,student10003606@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003607,Meyers,Kathleen,F,11/04/1999,Canada,kmeyers253,student10003607@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003608,Cummings,Erica,F,11/11/2004,India,ecummings45,student10003608@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003609,Palmer,John,M,24/05/2003,Canada,jpalmer784,student10003609@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003610,Stark,Randy,M,23/04/2003,United Kingdom,rstark324,student10003610@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003611,Jackson,Jeffrey,M,24/12/2005,Pakistan,jjackson232,student10003611@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003612,Bennett,Patricia,F,01/05/1999,Egypt,pbennett270,student10003612@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003613,Carter,Todd,M,27/05/2003,Egypt,tcarter952,student10003613@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003614,Gonzales,Thomas,M,31/07/2002,Pakistan,tgonzales54,student10003614@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003615,Huerta,Tracie,F,25/10/2001,Jordan,thuerta533,student10003615@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003616,Dyer,Phillip,M,21/08/2007,India,pdyer326,student10003616@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003617,Smith,Jason,M,28/03/1999,Pakistan,jsmith212,student10003617@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003618,Phillips,Vickie,F,08/04/2001,Canada,vphillips591,student10003618@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003619,Benson,Theresa,F,08/08/2004,Philippines,tbenson514,student10003619@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003620,Harris,Christopher,M,26/10/1999,India,charris41,student10003620@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003621,Boone,Terri,F,24/08/1999,United States,tboone932,student10003621@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003622,Bush,Christine,F,26/06/2000,Pakistan,cbush251,student10003622@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003623,Berger,Jenna,F,28/06/2006,Pakistan,jberger337,student10003623@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003624,Spears,Shirley,F,25/07/2004,Canada,sspears532,student10003624@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003625,Martinez,Matthew,M,15/04/2001,Canada,mmartinez724,student10003625@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003626,Harris,Christopher,M,01/09/2000,Jordan,charris151,student10003626@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003627,Clark,Antonio,M,19/03/2002,Jordan,aclark933,student10003627@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003628,Clark,Christina,F,31/05/2005,Philippines,cclark427,student10003628@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003629,Martinez,Lori,F,26/08/2007,Bangladesh,lmartinez460,student10003629@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003630,Thomas,David,M,08/06/2002,India,dthomas355,student10003630@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003631,Porter,Mark,M,22/07/2001,Philippines,mporter277,student10003631@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003632,Khan,Paul,M,18/12/2001,Jordan,pkhan119,student10003632@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003633,Moses,Aaron,M,19/06/2003,United Kingdom,amoses755,student10003633@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003634,Rubio,Andrea,F,26/10/2007,Bangladesh,arubio680,student10003634@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003635,Campbell,Johnny,M,05/03/2007,United States,jcampbell429,student10003635@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003636,Murphy,Jasmine,F,21/10/2002,India,jmurphy429,student10003636@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003637,Robinson,Cindy,F,07/07/2001,United States,crobinson92,student10003637@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and International Relations
+2025/26,10003638,Peters,Austin,M,18/02/2001,Jordan,apeters496,student10003638@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003639,Chapman,John,M,16/04/2001,India,jchapman866,student10003639@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and International Relations
+2025/26,10003640,Smith,Alejandro,M,19/06/2006,Egypt,asmith633,student10003640@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and International Relations
+2025/26,10003641,Hoffman,Chloe,F,29/11/2000,India,choffman353,student10003641@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003642,Velasquez,Robert,M,06/02/2003,United Kingdom,rvelasquez407,student10003642@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003643,Myers,Samantha,F,18/11/2006,United Kingdom,smyers924,student10003643@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003644,Lowery,Jason,M,27/01/2005,United Kingdom,jlowery559,student10003644@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003645,Adams,Bernard,M,06/01/2000,Jordan,badams506,student10003645@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003646,Caldwell,Marvin,M,13/02/2004,United States,mcaldwell317,student10003646@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003647,Gibbs,David,M,08/04/2003,Philippines,dgibbs688,student10003647@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003648,Hughes,Melinda,F,17/11/2003,Pakistan,mhughes282,student10003648@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003649,Church,Kurt,M,02/08/2006,Jordan,kchurch278,student10003649@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003650,Pearson,Donna,F,01/09/2002,Bangladesh,dpearson324,student10003650@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003651,Patel,Valerie,F,28/06/2005,Philippines,vpatel465,student10003651@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003652,Knight,Anthony,M,06/07/2001,Philippines,aknight693,student10003652@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003653,Medina,Cody,M,18/03/2006,Pakistan,cmedina996,student10003653@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003654,Sanders,Scott,M,24/08/2001,United Kingdom,ssanders233,student10003654@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003655,Cruz,Kevin,M,31/07/2006,Philippines,kcruz903,student10003655@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003656,Perez,Sandra,F,28/03/2004,United Kingdom,sperez344,student10003656@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003657,Pope,Veronica,F,14/05/2004,Jordan,vpope909,student10003657@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003658,Thomas,Evan,M,20/03/2000,India,ethomas446,student10003658@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003659,Taylor,Lacey,F,07/10/2003,Pakistan,ltaylor500,student10003659@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003660,Lloyd,April,F,22/12/1999,Jordan,alloyd154,student10003660@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003661,Garcia,Malik,M,07/05/2000,Philippines,mgarcia268,student10003661@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003662,Barron,Jesse,M,15/03/2007,Philippines,jbarron618,student10003662@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003663,Haney,Craig,M,20/07/2006,Canada,chaney814,student10003663@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003664,Stewart,David,M,11/09/2004,Egypt,dstewart115,student10003664@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003665,Gilmore,John,M,15/08/2000,Canada,jgilmore240,student10003665@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003666,Barton,Johnathan,M,03/12/2007,Egypt,jbarton367,student10003666@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003667,Roberts,Mason,M,29/11/2003,United Kingdom,mroberts811,student10003667@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003668,Wong,Yolanda,F,23/06/2000,Bangladesh,ywong81,student10003668@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003669,Roman,Jennifer,F,20/07/2003,Egypt,jroman362,student10003669@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003670,Garcia,Arthur,M,08/07/2005,Pakistan,agarcia67,student10003670@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003671,Martin,Samantha,F,24/10/2005,United Kingdom,smartin221,student10003671@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003672,Santiago,Jordan,M,13/08/2001,Bangladesh,jsantiago513,student10003672@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003673,Lopez,Robert,M,19/12/2005,United Kingdom,rlopez648,student10003673@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003674,Collins,Amy,F,23/07/2006,Pakistan,acollins255,student10003674@sample.edu,3,2,2024-09-20,2026-06-30,UG,Business Management and Information Systems
+2025/26,10003675,Scott,Sandra,F,29/04/2007,United States,sscott535,student10003675@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003676,Huang,Jessica,F,29/05/2005,United Kingdom,jhuang351,student10003676@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003677,Ho,Eric,M,22/05/1999,United Kingdom,eho883,student10003677@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003678,Huerta,Robert,M,24/12/2006,Canada,rhuerta867,student10003678@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003679,Graham,Stephanie,F,14/08/2004,United Kingdom,sgraham268,student10003679@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003680,White,Yolanda,F,12/02/1999,Philippines,ywhite379,student10003680@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003681,Garcia,Amanda,F,17/02/2006,United States,agarcia146,student10003681@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003682,Burke,Kathryn,F,15/07/2002,Philippines,kburke665,student10003682@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
+2025/26,10003683,Franklin,Eric,M,07/05/2005,Egypt,efranklin462,student10003683@sample.edu,4,2,2024-09-20,2025-06-30,UG,Business Management and Information Systems
+2025/26,10003684,White,Rebecca,F,15/01/1999,Bangladesh,rwhite99,student10003684@sample.edu,2,2,2024-09-20,2027-06-30,UG,Business Management and Information Systems
