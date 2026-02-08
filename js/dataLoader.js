@@ -1,42 +1,52 @@
-// Data Loader Module
+// Comprehensive Data Loader for Student Performance Analytics
 const DataLoader = {
     students: [],
+    currentStudents: [],
     enrollments: [],
-    grades: [],
+    attendance: [],
+    classifications: [],
     filteredData: null,
     
-    // Configuration for CSV file paths (adjust based on your repository structure)
+    // Configuration for all CSV file paths
     csvPaths: {
-        students: 'data/01_Admissions_Synthetic_Data.csv',
-        enrollments: 'data/COMBINED_Course_Enrolments_All_Years.csv',
-        grades: 'data/grades.csv'
+        admissions: 'data/01_Admissions_Synthetic_Data.csv',
+        currentStudents: 'data/02_COMBINED_Current_Students_All_Years.csv',
+        enrollments: 'data/03_COMBINED_Course_Enrolments_All_Years.csv',
+        courseReports: 'data/04_COMBINED_Current_Students_All_Years.csv',
+        attendance: 'data/05_COMBINED_Attendance_All_Years.csv',
+        classifications: 'data/06_Degree_Classifications.csv'
     },
 
     // Load all CSV files
     async loadAllData() {
         try {
-            console.log('Starting data load...');
+            console.log('Loading all data files...');
             
-            const [studentsData, enrollmentsData, gradesData] = await Promise.all([
-                this.loadCSV(this.csvPaths.students),
+            const [admissionsData, currentStudentsData, enrollmentsData, courseReportsData, attendanceData, classificationsData] = await Promise.all([
+                this.loadCSV(this.csvPaths.admissions),
+                this.loadCSV(this.csvPaths.currentStudents),
                 this.loadCSV(this.csvPaths.enrollments),
-                this.loadCSV(this.csvPaths.grades)
+                this.loadCSV(this.csvPaths.courseReports),
+                this.loadCSV(this.csvPaths.attendance),
+                this.loadCSV(this.csvPaths.classifications)
             ]);
 
-            this.students = this.processStudentsData(studentsData);
+            this.students = this.processAdmissionsData(admissionsData);
+            this.currentStudents = this.processCurrentStudentsData(currentStudentsData);
             this.enrollments = this.processEnrollmentsData(enrollmentsData);
-            this.grades = this.processGradesData(gradesData);
+            this.grades = this.processCourseReportsData(courseReportsData);
+            this.attendance = this.processAttendanceData(attendanceData);
+            this.classifications = this.processClassificationsData(classificationsData);
 
-            console.log(`Loaded ${this.students.length} students`);
-            console.log(`Loaded ${this.enrollments.length} enrollments`);
-            console.log(`Loaded ${this.grades.length} grades`);
+            console.log(`✓ Loaded ${this.students.length} admissions records`);
+            console.log(`✓ Loaded ${this.currentStudents.length} current student records`);
+            console.log(`✓ Loaded ${this.enrollments.length} enrollment records`);
+            console.log(`✓ Loaded ${this.grades.length} grade records`);
+            console.log(`✓ Loaded ${this.attendance.length} attendance records`);
+            console.log(`✓ Loaded ${this.classifications.length} degree classifications`);
 
-            // Initialize filtered data with all data
-            this.filteredData = {
-                students: this.students,
-                enrollments: this.enrollments,
-                grades: this.grades
-            };
+            // Initialize filtered data
+            this.filteredData = this.getData();
 
             return true;
         } catch (error) {
@@ -55,40 +65,117 @@ const DataLoader = {
                 skipEmptyLines: true,
                 complete: (results) => {
                     if (results.errors.length > 0) {
-                        console.warn('CSV parsing warnings:', results.errors);
+                        console.warn(`CSV parsing warnings for ${path}:`, results.errors);
                     }
                     resolve(results.data);
                 },
                 error: (error) => {
+                    console.error(`Failed to load ${path}:`, error);
                     reject(error);
                 }
             });
         });
     },
 
-    // Process students data
-    processStudentsData(data) {
+    // Process admissions data
+    processAdmissionsData(data) {
         return data.map(student => ({
             ...student,
             student_id: String(student.Student_ID),
-            gender: student.Gender ? student.Gender.trim() : 'Unknown',
+            gender: student['Gender '] ? student['Gender '].trim() : 'Unknown',
             nationality: student.Nationality,
             age: this.calculateAge(student['Date of Birth']),
-            entry_year: parseInt(student['Academic Year '].split('/')[0]),
+            entry_year: this.extractYear(student['Academic Year ']),
+            entry_semester: student['Entry Semester '],
             status: this.mapStudentStatus(student['Student Status']),
             school: this.getSchoolFromDegree(student['Course/Degree']),
             programme: student['Course/Degree'],
+            level: parseInt(student['Level offered']) || 1,
             is_disabled: student['Disability / Health Issues'] !== '00 No known disability',
+            disability: student['Disability / Health Issues'],
             english_proficiency: this.getEnglishProficiency(student.IELTS),
+            ielts_score: student.IELTS,
             education_system: student['Recent Education System'],
-            // Add calculated fields
-            expected_graduation_year: parseInt(student['Academic Year '].split('/')[0]) + 4
+            marital_status: student['Marital Status'],
+            sponsored: student['Sponsored Students (Yes / No)'] === 'Yes',
+            entry_level: parseInt(student['Preferred Entry Level']) || 1
         }));
     },
 
-    // Calculate age from date of birth
+    // Process current students data
+    processCurrentStudentsData(data) {
+        return data.map(student => ({
+            ...student,
+            student_id: String(student.Student_ID),
+            academic_year: student.Academic_Year,
+            current_level: parseInt(student.Current_Level),
+            cgpa: parseFloat(student.CGPA) || 0,
+            credits_completed: parseInt(student.Credits_Completed) || 0
+        }));
+    },
+
+    // Process enrollments data  
+    processEnrollmentsData(data) {
+        return data.map(enrollment => ({
+            ...enrollment,
+            student_id: String(enrollment.Student_ID),
+            academic_year: String(enrollment.Academic_Year),
+            course_code: String(enrollment.Course_Code),
+            credits: parseInt(enrollment.Credits),
+            semester: String(enrollment.Semester)
+        }));
+    },
+
+    // Process course reports/grades data
+    processCourseReportsData(data) {
+        return data.map(record => ({
+            ...record,
+            student_id: String(record.Student_ID),
+            course_code: String(record.Course_Code),
+            academic_year: String(record.Academic_Year),
+            semester: String(record.Semester),
+            course_grade_point: parseFloat(record.Course_Grade_Point),
+            overall_grade: String(record.Overall_Grade),
+            is_passed: this.isPassingGrade(record.Overall_Grade)
+        }));
+    },
+
+    // Check if grade is passing
+    isPassingGrade(grade) {
+        const passingGrades = ['A1', 'A2', 'A3', 'B1', 'B2', 'B3', 'C1', 'C2', 'C3', 'D1', 'D2', 'D3'];
+        return passingGrades.includes(grade);
+    },
+
+    // Process attendance data
+    processAttendanceData(data) {
+        return data.map(record => ({
+            ...record,
+            student_id: String(record.Student_ID),
+            academic_year: String(record.Academic_Year),
+            course_code: String(record.Course_Code),
+            semester: String(record.Semester),
+            total_sessions: parseInt(record.Total_Sessions),
+            sessions_attended: parseInt(record.Sessions_Attended),
+            attendance_percentage: parseFloat(record.Attendance_Percentage),
+            attendance_status: record.Attendance_Status
+        }));
+    },
+
+    // Process degree classifications data
+    processClassificationsData(data) {
+        return data.map(record => ({
+            ...record,
+            student_id: String(record.Student_ID),
+            programme: record.Programme,
+            classification: record.Classification,
+            average_grade_point: parseFloat(record.Average_Grade_Point),
+            graduation_year: record.Graduation_Year
+        }));
+    },
+
+    // Helper: Calculate age from date of birth
     calculateAge(dob) {
-        if (!dob) return 20; // default age
+        if (!dob) return 20;
         const birthDate = new Date(dob);
         const today = new Date();
         let age = today.getFullYear() - birthDate.getFullYear();
@@ -99,7 +186,14 @@ const DataLoader = {
         return age;
     },
 
-    // Map student status from your data format
+    // Helper: Extract year from academic year string
+    extractYear(academicYear) {
+        if (!academicYear) return 2017;
+        const match = academicYear.match(/(\d{4})/);
+        return match ? parseInt(match[1]) : 2017;
+    },
+
+    // Helper: Map student status
     mapStudentStatus(status) {
         if (!status) return 'Active';
         if (status.includes('Graduated')) return 'Graduated';
@@ -108,7 +202,7 @@ const DataLoader = {
         return 'Active';
     },
 
-    // Get school from degree name
+    // Helper: Get school from degree name
     getSchoolFromDegree(degree) {
         if (!degree) return 'Unknown';
         const degreeUpper = degree.toUpperCase();
@@ -120,7 +214,7 @@ const DataLoader = {
             return 'Legal Studies';
         }
         if (degreeUpper.includes('PSYCHOLOG') || degreeUpper.includes('SOCIOLOG') || 
-            degreeUpper.includes('INTERNATIONAL RELATIONS')) {
+            degreeUpper.includes('INTERNATIONAL')) {
             return 'Social Science';
         }
         if (degreeUpper.includes('COMPUT') || degreeUpper.includes('INFORMATION') || 
@@ -130,173 +224,106 @@ const DataLoader = {
         return 'Other';
     },
 
-    // Get English proficiency level from IELTS score
+    // Helper: Get English proficiency from IELTS
     getEnglishProficiency(ielts) {
         if (!ielts) return 'Not Specified';
         const score = parseFloat(ielts);
+        if (isNaN(score)) return 'Not Specified';
         if (score >= 7.5) return 'Advanced';
         if (score >= 6.5) return 'Proficient';
         if (score >= 5.5) return 'Intermediate';
         return 'Beginner';
     },
 
-    // Process enrollments data
-    processEnrollmentsData(data) {
-        return data.map(enrollment => ({
-            ...enrollment,
-            student_id: String(enrollment.Student_ID || enrollment.student_id),
-            academic_year: String(enrollment['Academic Year'] || enrollment.academic_year),
-            course_code: String(enrollment['Course Code'] || enrollment.course_code),
-            year_of_study: parseInt(enrollment['Year of Study'] || enrollment.year_of_study || 1)
-        }));
-    },
-
-    // Process grades data with CGS conversion
-    processGradesData(data) {
-        return data.map(grade => ({
-            ...grade,
-            student_id: String(grade.student_id),
-            numeric_grade: parseFloat(grade.numeric_grade || grade.grade),
-            cgs_grade: grade.cgs_grade || this.convertToCGS(grade.numeric_grade || grade.grade),
-            is_passed: this.isPassingGrade(grade.cgs_grade || this.convertToCGS(grade.numeric_grade || grade.grade))
-        }));
-    },
-
-    // Convert numeric grade to CGS grade
-    convertToCGS(numericGrade) {
-        const grade = parseFloat(numericGrade);
-        if (grade >= 18) return 'A1';
-        if (grade >= 16) return 'A2';
-        if (grade >= 14) return 'A3';
-        if (grade >= 12) return 'B1';
-        if (grade >= 10) return 'B2';
-        if (grade >= 8) return 'B3';
-        if (grade >= 6) return 'C1';
-        if (grade >= 4) return 'C2';
-        if (grade >= 2) return 'C3';
-        if (grade >= 1) return 'D1';
-        if (grade >= 0) return 'D2';
-        return 'F';
-    },
-
-    // Check if grade is passing
-    isPassingGrade(cgsGrade) {
-        const passingGrades = ['A1', 'A2', 'A3', 'B1', 'B2', 'B3', 'C1', 'C2', 'C3', 'D1', 'D2'];
-        return passingGrades.includes(cgsGrade);
-    },
-
-    // Calculate GPA from CGS grade
-    calculateGPA(cgsGrade) {
-        const gradePoints = {
-            'A1': 4.0, 'A2': 3.7, 'A3': 3.3,
-            'B1': 3.0, 'B2': 2.7, 'B3': 2.3,
-            'C1': 2.0, 'C2': 1.7, 'C3': 1.3,
-            'D1': 1.0, 'D2': 0.7, 'F': 0.0
-        };
-        return gradePoints[cgsGrade] || 0.0;
-    },
-
-    // Get unique values for filter dropdowns
+    // Get unique values for filters
     getUniqueValues(field, dataset = 'students') {
         const data = this[dataset];
-        const values = [...new Set(data.map(item => item[field]))].filter(v => v != null);
+        const values = [...new Set(data.map(item => item[field]))].filter(v => v != null && v !== '');
         return values.sort();
     },
 
-    // Apply filters to data
+    // Apply filters to all datasets
     applyFilters(filters) {
         let filteredStudents = [...this.students];
-        let filteredEnrollments = [...this.enrollments];
-        let filteredGrades = [...this.grades];
 
-        // Filter students
+        // Filter by academic year
         if (filters.year && !filters.year.includes('all')) {
-            const studentIds = new Set(
-                this.enrollments
-                    .filter(e => filters.year.includes(e.academic_year))
-                    .map(e => e.student_id)
+            const studentIdsInYear = new Set(
+                this.currentStudents
+                    .filter(s => filters.year.includes(s.academic_year))
+                    .map(s => s.student_id)
             );
-            filteredStudents = filteredStudents.filter(s => studentIds.has(s.student_id));
+            filteredStudents = filteredStudents.filter(s => studentIdsInYear.has(s.student_id));
         }
 
+        // Filter by school
         if (filters.school && !filters.school.includes('all')) {
             filteredStudents = filteredStudents.filter(s => filters.school.includes(s.school));
         }
 
+        // Filter by programme
         if (filters.programme && !filters.programme.includes('all')) {
             filteredStudents = filteredStudents.filter(s => filters.programme.includes(s.programme));
         }
 
+        // Filter by gender
         if (filters.gender && !filters.gender.includes('all')) {
             filteredStudents = filteredStudents.filter(s => filters.gender.includes(s.gender));
         }
 
+        // Filter by nationality
         if (filters.nationality && !filters.nationality.includes('all')) {
             filteredStudents = filteredStudents.filter(s => filters.nationality.includes(s.nationality));
         }
 
-        // Filter enrollments and grades based on filtered students
+        // Filter related datasets
         const studentIds = new Set(filteredStudents.map(s => s.student_id));
-        filteredEnrollments = filteredEnrollments.filter(e => studentIds.has(e.student_id));
-        filteredGrades = filteredGrades.filter(g => studentIds.has(g.student_id));
-
+        
         this.filteredData = {
             students: filteredStudents,
-            enrollments: filteredEnrollments,
-            grades: filteredGrades
+            currentStudents: this.currentStudents.filter(s => studentIds.has(s.student_id)),
+            enrollments: this.enrollments.filter(e => studentIds.has(e.student_id)),
+            grades: this.grades.filter(g => studentIds.has(g.student_id)),
+            attendance: this.attendance.filter(a => studentIds.has(a.student_id)),
+            classifications: this.classifications.filter(c => studentIds.has(c.student_id))
         };
 
         return this.filteredData;
     },
 
-    // Get current filtered data
+    // Get current data (filtered or all)
     getData() {
         return this.filteredData || {
             students: this.students,
+            currentStudents: this.currentStudents,
             enrollments: this.enrollments,
-            grades: this.grades
+            grades: this.grades,
+            attendance: this.attendance,
+            classifications: this.classifications
         };
     },
 
-    // Calculate student GPA
+    // Calculate student GPA from current students data
     calculateStudentGPA(studentId) {
-        const studentGrades = this.grades.filter(g => g.student_id === studentId);
-        if (studentGrades.length === 0) return 0;
-
-        const totalGPA = studentGrades.reduce((sum, grade) => {
-            return sum + this.calculateGPA(grade.cgs_grade);
-        }, 0);
-
-        return (totalGPA / studentGrades.length).toFixed(2);
+        const studentRecord = this.currentStudents.find(s => s.student_id === studentId);
+        return studentRecord ? studentRecord.cgpa : 0;
     },
 
     // Calculate completion rate
     calculateCompletionRate() {
         const data = this.getData();
         const eligibleStudents = data.students.filter(s => {
-            const yearsSinceEntry = 2025 - parseInt(s.entry_year);
-            return yearsSinceEntry >= 4; // Should have graduated by now
+            const yearsSinceEntry = 2025 - s.entry_year;
+            return yearsSinceEntry >= 4;
         });
 
         if (eligibleStudents.length === 0) return 0;
 
-        const completedStudents = eligibleStudents.filter(s => s.status === 'Graduated').length;
+        const completedStudents = data.classifications.length;
         return ((completedStudents / eligibleStudents.length) * 100).toFixed(1);
     },
 
-    // Calculate retention rate
-    calculateRetentionRate(year) {
-        const yearEnrollments = this.enrollments.filter(e => e.academic_year === year);
-        const nextYearEnrollments = this.enrollments.filter(e => e.academic_year === String(parseInt(year) + 1));
-
-        const year1Students = new Set(yearEnrollments.filter(e => e.year_of_study === 1).map(e => e.student_id));
-        const year2Students = new Set(nextYearEnrollments.filter(e => e.year_of_study === 2).map(e => e.student_id));
-
-        const retained = [...year1Students].filter(id => year2Students.has(id)).length;
-        return year1Students.size > 0 ? ((retained / year1Students.size) * 100).toFixed(1) : 0;
-    },
-
-    // Export filtered data to CSV
+    // Export filtered data
     exportToCSV() {
         const data = this.getData();
         const csv = Papa.unparse(data.students);
