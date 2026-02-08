@@ -1,0 +1,1683 @@
+Student_ID,Programme,Entry_Level,Entry_Year,Total_Credits,Year_3_GPA,Year_4_GPA,Final_GPA,Degree_Classification,Graduation_Date,Graduation_Status
+10000001,Accountancy & Finance,1,2017/18,360,10.47,11.11,10.79,Third Class Honours,2021-06-30,Graduated
+10000002,Accountancy & Finance,1,2017/18,360,17.66,19.8,18.73,First Class Honours,2021-06-30,Graduated
+10000003,Accountancy & Finance,1,2017/18,360,15.14,11.77,13.46,Lower Second Class Honours,2021-06-30,Pending
+10000004,Accountancy & Finance,1,2017/18,360,15.15,14.83,14.99,Borderline 2.2/2.1,2021-06-30,Graduated
+10000005,Accountancy & Finance,1,2017/18,360,11.23,10.33,10.78,Third Class Honours,2021-06-30,Graduated
+10000006,Accountancy & Finance,3,2017/18,120,10.64,11.09,10.86,Third Class Honours,2019-06-30,Graduated
+10000007,Accountancy & Finance,1,2017/18,360,6.49,4.89,5.69,Fail,2021-06-30,Deferred
+10000008,Accountancy & Finance,2,2017/18,240,20.45,20.15,20.3,First Class Honours,2020-06-30,Graduated
+10000009,Accountancy & Finance,1,2017/18,360,15.1,14.24,14.67,Borderline 2.2/2.1,2021-06-30,Graduated
+10000010,Accountancy & Finance,1,2017/18,360,20.09,20.03,20.06,First Class Honours,2021-06-30,Graduated
+10000011,Accountancy & Finance,2,2017/18,240,14.92,13.39,14.15,Lower Second Class Honours,2020-06-30,Pending
+10000012,Accountancy & Finance,1,2017/18,360,11.27,10.07,10.67,Third Class Honours,2021-06-30,Graduated
+10000013,Accountancy & Finance,1,2017/18,360,19.75,20.0,19.87,First Class Honours,2021-06-30,Graduated
+10000015,Accountancy & Finance,1,2017/18,360,9.76,10.9,10.33,Third Class Honours,2021-06-30,Graduated
+10000016,Accountancy & Finance,1,2017/18,360,11.25,10.84,11.05,Third Class Honours,2021-06-30,Graduated
+10000017,Accountancy & Finance,1,2017/18,360,12.84,15.21,14.02,Lower Second Class Honours,2021-06-30,Graduated
+10000018,Business Management,2,2017/18,240,8.86,10.23,9.54,Third Class Honours,2020-06-30,Graduated
+10000020,Business Management,1,2017/18,360,19.49,15.21,17.35,Upper Second Class Honours,2021-06-30,Pending
+10000021,Business Management,1,2017/18,360,9.02,10.45,9.73,Third Class Honours,2021-06-30,Graduated
+10000022,Business Management,3,2017/18,120,9.55,10.47,10.01,Third Class Honours,2019-06-30,Graduated
+10000023,Business Management,2,2017/18,240,10.55,14.77,12.66,Lower Second Class Honours,2020-06-30,Graduated
+10000024,Business Management,1,2017/18,360,15.97,15.48,15.73,Upper Second Class Honours,2021-06-30,Graduated
+10000025,Business Management,2,2017/18,240,4.23,3.9,4.07,Fail,2020-06-30,Deferred
+10000026,Business Management,1,2017/18,360,15.12,14.38,14.75,Borderline 2.2/2.1,2021-06-30,Graduated
+10000027,Business Management,1,2017/18,360,20.39,20.43,20.41,First Class Honours,2021-06-30,Graduated
+10000028,Business Management,1,2017/18,360,20.36,20.22,20.29,First Class Honours,2021-06-30,Graduated
+10000029,Business Management,1,2017/18,360,11.6,11.55,11.57,Borderline 3rd/2.2,2021-06-30,Graduated
+10000030,Business Management,1,2017/18,360,10.79,10.32,10.55,Third Class Honours,2021-06-30,Graduated
+10000031,Business Management,1,2017/18,360,11.56,7.45,9.5,Third Class Honours,2021-06-30,Pending
+10000032,Business Management,1,2017/18,360,12.61,10.66,11.63,Borderline 3rd/2.2,2021-06-30,Graduated
+10000033,Business Management,1,2017/18,360,8.66,10.03,9.35,Third Class Honours,2021-06-30,Pending
+10000035,Business Management,1,2017/18,360,11.69,14.73,13.21,Lower Second Class Honours,2021-06-30,Graduated
+10000036,Business Management,1,2017/18,360,11.99,11.66,11.82,Borderline 3rd/2.2,2021-06-30,Graduated
+10000037,Business Management,1,2017/18,360,9.29,11.1,10.19,Third Class Honours,2021-06-30,Graduated
+10000038,Business Management,1,2017/18,360,11.03,12.0,11.51,Borderline 3rd/2.2,2021-06-30,Graduated
+10000039,Business Management,1,2017/18,360,6.27,3.58,4.93,Fail,2021-06-30,Deferred
+10000040,Business Management,2,2017/18,240,10.34,11.97,11.15,Third Class Honours,2020-06-30,Graduated
+10000041,Business Management,1,2017/18,360,10.83,11.49,11.16,Third Class Honours,2021-06-30,Graduated
+10000042,Business Management,2,2017/18,240,19.46,20.34,19.9,First Class Honours,2020-06-30,Graduated
+10000043,Business Management,1,2017/18,360,10.71,14.48,12.59,Lower Second Class Honours,2021-06-30,Graduated
+10000044,Business Management,1,2017/18,360,11.53,14.86,13.19,Lower Second Class Honours,2021-06-30,Graduated
+10000045,Business Management,1,2017/18,360,19.65,19.83,19.74,First Class Honours,2021-06-30,Graduated
+10000046,Business Management,1,2017/18,360,15.64,14.93,15.28,Upper Second Class Honours,2021-06-30,Graduated
+10000047,Business Management,2,2017/18,240,19.93,20.17,20.05,First Class Honours,2020-06-30,Graduated
+10000048,Business Management,1,2017/18,360,15.59,14.83,15.21,Upper Second Class Honours,2021-06-30,Graduated
+10000049,Business Management,1,2017/18,360,8.08,10.17,9.12,Third Class Honours,2021-06-30,Pending
+10000050,Business Management,1,2017/18,360,15.32,14.07,14.7,Borderline 2.2/2.1,2021-06-30,Graduated
+10000051,Business Management,1,2017/18,360,15.49,15.68,15.58,Upper Second Class Honours,2021-06-30,Graduated
+10000052,Business Management,1,2017/18,360,11.68,15.47,13.58,Lower Second Class Honours,2021-06-30,Graduated
+10000053,Business Management,1,2017/18,360,11.75,15.96,13.86,Lower Second Class Honours,2021-06-30,Graduated
+10000055,Business Management,1,2017/18,360,10.69,10.39,10.54,Third Class Honours,2021-06-30,Graduated
+10000056,Business Management,1,2017/18,360,10.41,11.41,10.91,Third Class Honours,2021-06-30,Graduated
+10000057,Business Management,1,2017/18,360,14.74,15.48,15.11,Upper Second Class Honours,2021-06-30,Graduated
+10000058,Business Management,1,2017/18,360,10.05,10.71,10.38,Third Class Honours,2021-06-30,Graduated
+10000059,Business Management,1,2017/18,360,14.8,11.34,13.07,Lower Second Class Honours,2021-06-30,Pending
+10000060,Business Management,1,2017/18,360,14.89,15.35,15.12,Upper Second Class Honours,2021-06-30,Graduated
+10000062,Business Management,1,2017/18,360,10.46,10.8,10.63,Third Class Honours,2021-06-30,Graduated
+10000063,Business Management,2,2017/18,240,11.9,11.98,11.94,Borderline 3rd/2.2,2020-06-30,Graduated
+10000064,Business Management,1,2017/18,360,9.96,11.86,10.91,Third Class Honours,2021-06-30,Graduated
+10000065,Business Management,1,2017/18,360,7.52,10.73,9.13,Third Class Honours,2021-06-30,Pending
+10000066,Business Management,1,2017/18,360,10.54,9.58,10.06,Third Class Honours,2021-06-30,Graduated
+10000067,Business Management,1,2017/18,360,13.86,15.45,14.65,Borderline 2.2/2.1,2021-06-30,Graduated
+10000068,Business Management,1,2017/18,360,19.82,20.66,20.24,First Class Honours,2021-06-30,Graduated
+10000069,Business Management,1,2017/18,360,14.76,15.44,15.1,Upper Second Class Honours,2021-06-30,Graduated
+10000071,Business Management,2,2017/18,240,15.49,10.94,13.21,Lower Second Class Honours,2020-06-30,Pending
+10000072,Business Management,1,2017/18,360,5.48,4.65,5.06,Fail,2021-06-30,Deferred
+10000074,Business Management,1,2017/18,360,15.01,14.5,14.75,Borderline 2.2/2.1,2021-06-30,Graduated
+10000075,Business Management,1,2017/18,360,11.11,10.75,10.93,Third Class Honours,2021-06-30,Graduated
+10000076,Business Management,3,2017/18,120,15.32,15.56,15.44,Upper Second Class Honours,2019-06-30,Graduated
+10000077,Business Management,2,2017/18,240,5.44,5.79,5.61,Fail,2020-06-30,Deferred
+10000078,Business Management,1,2017/18,360,14.45,15.57,15.01,Upper Second Class Honours,2021-06-30,Graduated
+10000079,Business Management,1,2017/18,360,15.66,15.44,15.55,Upper Second Class Honours,2021-06-30,Graduated
+10000080,Business Management,1,2017/18,360,14.64,15.41,15.02,Upper Second Class Honours,2021-06-30,Graduated
+10000113,Accountancy & Finance,1,2018/19,360,11.18,9.83,10.51,Third Class Honours,2022-06-30,Graduated
+10000114,Accountancy & Finance,1,2018/19,360,15.28,15.06,15.17,Upper Second Class Honours,2022-06-30,Graduated
+10000115,Accountancy & Finance,3,2018/19,120,10.54,10.5,10.52,Third Class Honours,2020-06-30,Graduated
+10000116,Accountancy & Finance,2,2018/19,240,6.18,7.01,6.59,Fail,2021-06-30,Deferred
+10000117,Accountancy & Finance,1,2018/19,360,15.08,14.67,14.88,Borderline 2.2/2.1,2022-06-30,Graduated
+10000118,Accountancy & Finance,1,2018/19,360,14.64,15.85,15.24,Upper Second Class Honours,2022-06-30,Graduated
+10000119,Accountancy & Finance,3,2018/19,120,6.86,4.35,5.6,Fail,2020-06-30,Deferred
+10000120,Accountancy & Finance,1,2018/19,360,10.71,8.49,9.6,Third Class Honours,2022-06-30,Pending
+10000121,Accountancy & Finance,1,2018/19,360,20.44,19.89,20.16,First Class Honours,2022-06-30,Graduated
+10000122,Accountancy & Finance,1,2018/19,360,15.21,20.03,17.62,Borderline 2.1/1st,2022-06-30,Graduated
+10000123,Accountancy & Finance,2,2018/19,240,20.2,20.13,20.17,First Class Honours,2021-06-30,Graduated
+10000124,Accountancy & Finance,1,2018/19,360,11.46,11.7,11.58,Borderline 3rd/2.2,2022-06-30,Graduated
+10000125,Accountancy & Finance,2,2018/19,240,12.01,10.48,11.25,Third Class Honours,2021-06-30,Graduated
+10000126,Accountancy & Finance,2,2018/19,240,15.49,13.33,14.41,Lower Second Class Honours,2021-06-30,Pending
+10000127,Accountancy & Finance,1,2018/19,360,19.64,20.3,19.97,First Class Honours,2022-06-30,Graduated
+10000128,Accountancy & Finance,2,2018/19,240,13.77,15.36,14.56,Borderline 2.2/2.1,2021-06-30,Graduated
+10000129,Accountancy & Finance,1,2018/19,360,6.98,6.13,6.56,Fail,2022-06-30,Deferred
+10000130,Accountancy & Finance,1,2018/19,360,10.44,10.79,10.61,Third Class Honours,2022-06-30,Graduated
+10000131,Accountancy & Finance,1,2018/19,360,7.23,5.33,6.28,Fail,2022-06-30,Deferred
+10000132,Accountancy & Finance,1,2018/19,360,3.73,5.89,4.81,Fail,2022-06-30,Deferred
+10000133,Accountancy & Finance,2,2018/19,240,19.98,20.13,20.05,First Class Honours,2021-06-30,Graduated
+10000134,Accountancy & Finance,1,2018/19,360,11.44,11.62,11.53,Borderline 3rd/2.2,2022-06-30,Graduated
+10000135,Accountancy & Finance,1,2018/19,360,12.31,10.72,11.51,Borderline 3rd/2.2,2022-06-30,Graduated
+10000136,Accountancy & Finance,1,2018/19,360,11.63,10.24,10.93,Third Class Honours,2022-06-30,Graduated
+10000137,Accountancy & Finance,1,2018/19,360,14.29,14.18,14.23,Lower Second Class Honours,2022-06-30,Graduated
+10000138,Accountancy & Finance,1,2018/19,360,9.63,9.49,9.56,Third Class Honours,2022-06-30,Pending
+10000139,Accountancy & Finance,2,2018/19,240,19.6,15.5,17.55,Borderline 2.1/1st,2021-06-30,Pending
+10000140,Accountancy & Finance,1,2018/19,360,14.82,13.96,14.39,Lower Second Class Honours,2022-06-30,Graduated
+10000141,Accountancy & Finance,1,2018/19,360,14.99,15.7,15.34,Upper Second Class Honours,2022-06-30,Graduated
+10000142,Accountancy & Finance,1,2018/19,360,5.49,6.82,6.15,Fail,2022-06-30,Deferred
+10000143,Accountancy & Finance,2,2018/19,240,5.16,4.69,4.92,Fail,2021-06-30,Deferred
+10000144,Accountancy & Finance,1,2018/19,360,14.76,14.63,14.7,Borderline 2.2/2.1,2022-06-30,Graduated
+10000145,Accountancy & Finance,1,2018/19,360,10.68,11.19,10.94,Third Class Honours,2022-06-30,Graduated
+10000146,Accountancy & Finance,1,2018/19,360,14.81,14.56,14.69,Borderline 2.2/2.1,2022-06-30,Graduated
+10000148,Accountancy & Finance,1,2018/19,360,6.95,7.37,7.16,Fail,2022-06-30,Deferred
+10000149,Accountancy & Finance,1,2018/19,360,15.2,15.01,15.1,Upper Second Class Honours,2022-06-30,Graduated
+10000150,Accountancy & Finance,2,2018/19,240,9.78,11.82,10.8,Third Class Honours,2021-06-30,Graduated
+10000151,Accountancy & Finance,1,2018/19,360,9.75,9.96,9.85,Third Class Honours,2022-06-30,Graduated
+10000152,Accountancy & Finance,2,2018/19,240,15.11,14.52,14.82,Borderline 2.2/2.1,2021-06-30,Graduated
+10000153,Accountancy & Finance,1,2018/19,360,12.11,11.75,11.93,Borderline 3rd/2.2,2022-06-30,Graduated
+10000154,Accountancy & Finance,1,2018/19,360,11.19,11.91,11.55,Borderline 3rd/2.2,2022-06-30,Graduated
+10000155,Accountancy & Finance,1,2018/19,360,9.97,10.56,10.27,Third Class Honours,2022-06-30,Graduated
+10000156,Accountancy & Finance,1,2018/19,360,10.71,9.77,10.24,Third Class Honours,2022-06-30,Pending
+10000157,Accountancy & Finance,3,2018/19,120,18.16,15.66,16.91,Upper Second Class Honours,2020-06-30,Pending
+10000159,Accountancy & Finance,1,2018/19,360,19.96,19.69,19.83,First Class Honours,2022-06-30,Graduated
+10000160,Accountancy & Finance,1,2018/19,360,5.42,6.52,5.97,Fail,2022-06-30,Deferred
+10000161,Accountancy & Finance,1,2018/19,360,5.54,4.42,4.98,Fail,2022-06-30,Deferred
+10000162,Accountancy & Finance,1,2018/19,360,10.51,12.4,11.46,Third Class Honours,2022-06-30,Graduated
+10000163,Accountancy & Finance,1,2018/19,360,15.63,15.57,15.6,Upper Second Class Honours,2022-06-30,Graduated
+10000164,Accountancy & Finance,1,2018/19,360,17.51,20.47,18.99,First Class Honours,2022-06-30,Graduated
+10000165,Accountancy & Finance,1,2018/19,360,5.78,4.05,4.91,Fail,2022-06-30,Deferred
+10000166,Accountancy & Finance,1,2018/19,360,5.46,6.36,5.91,Fail,2022-06-30,Deferred
+10000168,Accountancy & Finance,1,2018/19,360,14.98,15.61,15.3,Upper Second Class Honours,2022-06-30,Graduated
+10000169,Accountancy & Finance,2,2018/19,240,19.73,19.9,19.82,First Class Honours,2021-06-30,Graduated
+10000170,Accountancy & Finance,1,2018/19,360,10.94,11.27,11.1,Third Class Honours,2022-06-30,Graduated
+10000171,Accountancy & Finance,1,2018/19,360,11.29,11.11,11.2,Third Class Honours,2022-06-30,Graduated
+10000172,Accountancy & Finance,1,2018/19,360,19.18,15.66,17.42,Upper Second Class Honours,2022-06-30,Pending
+10000173,Accountancy & Finance,1,2018/19,360,10.98,14.17,12.57,Lower Second Class Honours,2022-06-30,Graduated
+10000174,Accountancy & Finance,1,2018/19,360,11.43,8.94,10.18,Third Class Honours,2022-06-30,Pending
+10000175,Accountancy & Finance,1,2018/19,360,15.61,16.42,16.01,Upper Second Class Honours,2022-06-30,Graduated
+10000176,Accountancy & Finance,1,2018/19,360,4.0,7.08,5.54,Fail,2022-06-30,Deferred
+10000177,Accountancy & Finance,1,2018/19,360,15.5,15.51,15.5,Upper Second Class Honours,2022-06-30,Graduated
+10000178,Accountancy & Finance,1,2018/19,360,14.81,15.59,15.2,Upper Second Class Honours,2022-06-30,Graduated
+10000179,Accountancy & Finance,1,2018/19,360,12.41,10.63,11.52,Borderline 3rd/2.2,2022-06-30,Graduated
+10000181,Accountancy & Finance,1,2018/19,360,13.5,15.01,14.26,Lower Second Class Honours,2022-06-30,Graduated
+10000182,Accountancy & Finance,2,2018/19,240,14.41,14.75,14.58,Borderline 2.2/2.1,2021-06-30,Graduated
+10000183,Accountancy & Finance,1,2018/19,360,4.78,4.47,4.63,Fail,2022-06-30,Deferred
+10000184,Accountancy & Finance,1,2018/19,360,11.69,10.52,11.1,Third Class Honours,2022-06-30,Graduated
+10000185,Business Management,1,2018/19,360,14.47,15.43,14.95,Borderline 2.2/2.1,2022-06-30,Graduated
+10000186,Business Management,1,2018/19,360,11.42,10.01,10.71,Third Class Honours,2022-06-30,Graduated
+10000187,Business Management,2,2018/19,240,20.25,19.56,19.9,First Class Honours,2021-06-30,Graduated
+10000188,Business Management,1,2018/19,360,13.66,15.56,14.61,Borderline 2.2/2.1,2022-06-30,Graduated
+10000189,Business Management,1,2018/19,360,14.93,14.84,14.89,Borderline 2.2/2.1,2022-06-30,Graduated
+10000190,Business Management,1,2018/19,360,12.69,9.95,11.32,Third Class Honours,2022-06-30,Graduated
+10000191,Business Management,1,2018/19,360,10.84,15.04,12.94,Lower Second Class Honours,2022-06-30,Graduated
+10000192,Business Management,1,2018/19,360,15.32,15.25,15.29,Upper Second Class Honours,2022-06-30,Graduated
+10000193,Business Management,1,2018/19,360,20.23,20.11,20.17,First Class Honours,2022-06-30,Graduated
+10000194,Business Management,1,2018/19,360,12.3,11.72,12.01,Lower Second Class Honours,2022-06-30,Graduated
+10000195,Business Management,1,2018/19,360,16.05,15.25,15.65,Upper Second Class Honours,2022-06-30,Graduated
+10000196,Business Management,1,2018/19,360,3.85,4.98,4.42,Fail,2022-06-30,Deferred
+10000197,Business Management,1,2018/19,360,5.87,6.2,6.04,Fail,2022-06-30,Deferred
+10000199,Business Management,1,2018/19,360,12.17,14.22,13.2,Lower Second Class Honours,2022-06-30,Graduated
+10000200,Business Management,1,2018/19,360,10.58,10.38,10.48,Third Class Honours,2022-06-30,Graduated
+10000201,Business Management,1,2018/19,360,7.3,14.15,10.73,Third Class Honours,2022-06-30,Graduated
+10000202,Business Management,1,2018/19,360,20.17,19.96,20.06,First Class Honours,2022-06-30,Graduated
+10000203,Business Management,1,2018/19,360,3.67,5.56,4.62,Fail,2022-06-30,Deferred
+10000204,Business Management,1,2018/19,360,11.75,9.85,10.8,Third Class Honours,2022-06-30,Graduated
+10000205,Business Management,2,2018/19,240,10.86,14.92,12.89,Lower Second Class Honours,2021-06-30,Graduated
+10000206,Business Management,1,2018/19,360,10.02,9.79,9.91,Third Class Honours,2022-06-30,Graduated
+10000207,Business Management,1,2018/19,360,11.05,12.22,11.63,Borderline 3rd/2.2,2022-06-30,Graduated
+10000208,Business Management,2,2018/19,240,14.32,15.18,14.75,Borderline 2.2/2.1,2021-06-30,Graduated
+10000209,Business Management,1,2018/19,360,19.93,19.83,19.88,First Class Honours,2022-06-30,Graduated
+10000210,Business Management,1,2018/19,360,14.93,15.05,14.99,Borderline 2.2/2.1,2022-06-30,Graduated
+10000211,Business Management,1,2018/19,360,15.01,10.74,12.87,Lower Second Class Honours,2022-06-30,Pending
+10000212,Business Management,1,2018/19,360,16.94,14.62,15.78,Upper Second Class Honours,2022-06-30,Graduated
+10000213,Business Management,1,2018/19,360,11.19,9.04,10.12,Third Class Honours,2022-06-30,Graduated
+10000214,Business Management,1,2018/19,360,12.21,11.71,11.96,Borderline 3rd/2.2,2022-06-30,Graduated
+10000215,Business Management,1,2018/19,360,6.79,7.36,7.07,Fail,2022-06-30,Deferred
+10000217,Business Management,1,2018/19,360,14.8,15.48,15.14,Upper Second Class Honours,2022-06-30,Graduated
+10000218,Business Management,1,2018/19,360,15.99,15.09,15.54,Upper Second Class Honours,2022-06-30,Graduated
+10000219,Business Management,1,2018/19,360,5.71,6.01,5.86,Fail,2022-06-30,Deferred
+10000220,Business Management,3,2018/19,120,14.74,15.29,15.02,Upper Second Class Honours,2020-06-30,Graduated
+10000221,Business Management,1,2018/19,360,14.17,15.35,14.76,Borderline 2.2/2.1,2022-06-30,Graduated
+10000222,Business Management,1,2018/19,360,13.97,15.0,14.48,Lower Second Class Honours,2022-06-30,Graduated
+10000223,Business Management,1,2018/19,360,14.72,14.77,14.75,Borderline 2.2/2.1,2022-06-30,Graduated
+10000224,Business Management,1,2018/19,360,15.29,14.86,15.07,Upper Second Class Honours,2022-06-30,Graduated
+10000226,Business Management,1,2018/19,360,5.01,6.3,5.65,Fail,2022-06-30,Deferred
+10000227,Business Management,1,2018/19,360,14.35,15.36,14.85,Borderline 2.2/2.1,2022-06-30,Graduated
+10000228,Business Management,1,2018/19,360,4.92,6.23,5.57,Fail,2022-06-30,Deferred
+10000229,Business Management,1,2018/19,360,10.35,11.67,11.01,Third Class Honours,2022-06-30,Graduated
+10000230,Business Management,2,2018/19,240,19.79,20.31,20.05,First Class Honours,2021-06-30,Graduated
+10000231,Business Management,2,2018/19,240,7.05,5.29,6.17,Fail,2021-06-30,Deferred
+10000233,Business Management,1,2018/19,360,6.69,5.84,6.27,Fail,2022-06-30,Deferred
+10000234,Business Management,3,2018/19,120,3.33,7.21,5.27,Fail,2020-06-30,Deferred
+10000235,Business Management,3,2018/19,120,10.45,9.86,10.15,Third Class Honours,2020-06-30,Graduated
+10000236,Business Management,1,2018/19,360,14.23,15.24,14.73,Borderline 2.2/2.1,2022-06-30,Graduated
+10000237,Business Management,1,2018/19,360,14.89,13.74,14.31,Lower Second Class Honours,2022-06-30,Graduated
+10000238,Business Management,2,2018/19,240,14.83,15.68,15.26,Upper Second Class Honours,2021-06-30,Graduated
+10000239,Business Management,1,2018/19,360,14.3,15.2,14.75,Borderline 2.2/2.1,2022-06-30,Graduated
+10000240,Business Management,1,2018/19,360,19.66,19.64,19.65,First Class Honours,2022-06-30,Graduated
+10000241,Business Management,1,2018/19,360,15.47,15.62,15.55,Upper Second Class Honours,2022-06-30,Graduated
+10000242,Business Management,1,2018/19,360,4.97,7.14,6.06,Fail,2022-06-30,Deferred
+10000243,Business Management,1,2018/19,360,11.72,15.6,13.66,Lower Second Class Honours,2022-06-30,Graduated
+10000244,Business Management,1,2018/19,360,11.25,12.8,12.02,Lower Second Class Honours,2022-06-30,Graduated
+10000245,Business Management,1,2018/19,360,15.09,15.01,15.05,Upper Second Class Honours,2022-06-30,Graduated
+10000246,Business Management,1,2018/19,360,15.78,15.98,15.88,Upper Second Class Honours,2022-06-30,Graduated
+10000247,Business Management,1,2018/19,360,6.81,4.72,5.76,Fail,2022-06-30,Deferred
+10000248,Business Management,2,2018/19,240,6.76,6.29,6.53,Fail,2021-06-30,Deferred
+10000249,Business Management,1,2018/19,360,9.48,11.69,10.59,Third Class Honours,2022-06-30,Graduated
+10000251,Business Management,1,2018/19,360,15.35,14.74,15.05,Upper Second Class Honours,2022-06-30,Graduated
+10000252,Business Management,1,2018/19,360,15.86,15.34,15.6,Upper Second Class Honours,2022-06-30,Graduated
+10000253,Business Management,1,2018/19,360,6.87,6.48,6.67,Fail,2022-06-30,Deferred
+10000254,Business Management,1,2018/19,360,9.84,9.9,9.87,Third Class Honours,2022-06-30,Graduated
+10000255,Business Management,2,2018/19,240,10.61,10.51,10.56,Third Class Honours,2021-06-30,Graduated
+10000256,Business Management,1,2018/19,360,10.32,7.12,8.72,Borderline Fail/3rd,2022-06-30,Pending
+10000257,Business Management,1,2018/19,360,19.83,20.41,20.12,First Class Honours,2022-06-30,Graduated
+10000258,Business Management,1,2018/19,360,9.95,12.07,11.01,Third Class Honours,2022-06-30,Graduated
+10000259,Business Management,1,2018/19,360,10.12,10.14,10.13,Third Class Honours,2022-06-30,Graduated
+10000260,Business Management,1,2018/19,360,3.12,6.19,4.66,Fail,2022-06-30,Deferred
+10000261,Business Management,2,2018/19,240,14.0,14.98,14.49,Lower Second Class Honours,2021-06-30,Graduated
+10000262,Business Management,1,2018/19,360,5.3,4.05,4.68,Fail,2022-06-30,Deferred
+10000263,Business Management,1,2018/19,360,19.82,19.58,19.7,First Class Honours,2022-06-30,Graduated
+10000264,Business Management,1,2018/19,360,15.32,11.38,13.36,Lower Second Class Honours,2022-06-30,Pending
+10000265,Business Management,1,2018/19,360,11.4,10.64,11.02,Third Class Honours,2022-06-30,Graduated
+10000267,Business Management,1,2018/19,360,14.6,15.34,14.97,Borderline 2.2/2.1,2022-06-30,Graduated
+10000268,Business Management,1,2018/19,360,19.32,19.36,19.34,First Class Honours,2022-06-30,Graduated
+10000270,Business Management,1,2018/19,360,14.54,14.39,14.46,Lower Second Class Honours,2022-06-30,Graduated
+10000271,Business Management,1,2018/19,360,10.96,4.92,7.94,Fail,2022-06-30,Deferred
+10000272,Business Management,3,2018/19,120,10.51,11.34,10.92,Third Class Honours,2020-06-30,Graduated
+10000273,Business Management,2,2018/19,240,15.37,15.61,15.49,Upper Second Class Honours,2021-06-30,Graduated
+10000274,Business Management,2,2018/19,240,11.34,10.07,10.7,Third Class Honours,2021-06-30,Graduated
+10000276,Business Management,1,2018/19,360,3.1,5.97,4.53,Fail,2022-06-30,Deferred
+10000277,Business Management,1,2018/19,360,10.73,14.52,12.63,Lower Second Class Honours,2022-06-30,Graduated
+10000278,Business Management,1,2018/19,360,10.72,12.4,11.56,Borderline 3rd/2.2,2022-06-30,Graduated
+10000279,Business Management,1,2018/19,360,11.26,14.91,13.08,Lower Second Class Honours,2022-06-30,Graduated
+10000280,Business Management,1,2018/19,360,14.32,15.21,14.77,Borderline 2.2/2.1,2022-06-30,Graduated
+10000281,Business Management,1,2018/19,360,11.86,7.96,9.91,Third Class Honours,2022-06-30,Pending
+10000282,Business Management,1,2018/19,360,14.83,15.44,15.13,Upper Second Class Honours,2022-06-30,Graduated
+10000283,Business Management,1,2018/19,360,14.52,14.64,14.58,Borderline 2.2/2.1,2022-06-30,Graduated
+10000284,Business Management,1,2018/19,360,10.21,8.59,9.39,Third Class Honours,2022-06-30,Pending
+10000285,Business Management,1,2018/19,360,15.64,19.84,17.74,Borderline 2.1/1st,2022-06-30,Graduated
+10000286,Business Management,1,2018/19,360,15.5,16.61,16.05,Upper Second Class Honours,2022-06-30,Graduated
+10000287,Business Management,1,2018/19,360,6.91,4.33,5.62,Fail,2022-06-30,Deferred
+10000289,Business Management,1,2018/19,360,20.46,19.27,19.87,First Class Honours,2022-06-30,Graduated
+10000290,Business Management,1,2018/19,360,14.71,15.47,15.09,Upper Second Class Honours,2022-06-30,Graduated
+10000291,Business Management,1,2018/19,360,15.11,15.19,15.15,Upper Second Class Honours,2022-06-30,Graduated
+10000292,Business Management,1,2018/19,360,6.21,7.17,6.69,Fail,2022-06-30,Deferred
+10000293,Business Management,1,2018/19,360,6.03,5.01,5.52,Fail,2022-06-30,Deferred
+10000294,Business Management,1,2018/19,360,3.56,4.47,4.01,Fail,2022-06-30,Deferred
+10000295,Business Management,1,2018/19,360,10.86,15.11,12.98,Lower Second Class Honours,2022-06-30,Graduated
+10000296,Business Management,1,2018/19,360,14.93,15.7,15.31,Upper Second Class Honours,2022-06-30,Graduated
+10000297,Business Management,1,2018/19,360,9.64,11.21,10.43,Third Class Honours,2022-06-30,Graduated
+10000298,Business Management,3,2018/19,120,11.59,8.3,9.95,Third Class Honours,2020-06-30,Pending
+10000299,Business Management,1,2018/19,360,10.41,11.26,10.83,Third Class Honours,2022-06-30,Graduated
+10000300,Business Management,1,2018/19,360,3.71,5.27,4.49,Fail,2022-06-30,Deferred
+10000301,Business Management,1,2018/19,360,11.32,11.47,11.4,Third Class Honours,2022-06-30,Graduated
+10000302,Business Management,1,2018/19,360,15.1,20.02,17.56,Borderline 2.1/1st,2022-06-30,Graduated
+10000303,Business Management,2,2018/19,240,11.29,9.82,10.55,Third Class Honours,2021-06-30,Graduated
+10000304,Business Management,2,2018/19,240,14.37,15.34,14.86,Borderline 2.2/2.1,2021-06-30,Graduated
+10000305,Business Management,1,2018/19,360,10.27,8.92,9.59,Third Class Honours,2022-06-30,Pending
+10000306,Business Management,1,2018/19,360,3.69,6.14,4.92,Fail,2022-06-30,Deferred
+10000307,Business Management,2,2018/19,240,15.01,20.45,17.73,Borderline 2.1/1st,2021-06-30,Graduated
+10000308,Business Management,1,2018/19,360,19.76,20.59,20.18,First Class Honours,2022-06-30,Graduated
+10000309,Business Management,1,2018/19,360,19.75,19.88,19.82,First Class Honours,2022-06-30,Graduated
+10000310,Business Management,1,2018/19,360,9.7,10.69,10.2,Third Class Honours,2022-06-30,Graduated
+10000311,Business Management,1,2018/19,360,13.79,14.93,14.36,Lower Second Class Honours,2022-06-30,Graduated
+10000312,Business Management,1,2018/19,360,10.65,10.97,10.81,Third Class Honours,2022-06-30,Graduated
+10000314,Business Management,2,2018/19,240,15.35,14.31,14.83,Borderline 2.2/2.1,2021-06-30,Graduated
+10000315,Business Management,1,2018/19,360,11.62,10.03,10.83,Third Class Honours,2022-06-30,Graduated
+10000316,Business Management,3,2018/19,120,15.19,15.21,15.2,Upper Second Class Honours,2020-06-30,Graduated
+10000317,Business Management,1,2018/19,360,14.6,14.82,14.71,Borderline 2.2/2.1,2022-06-30,Graduated
+10000318,Business Management,1,2018/19,360,6.56,6.62,6.59,Fail,2022-06-30,Deferred
+10000319,Business Management,1,2018/19,360,11.21,9.25,10.23,Third Class Honours,2022-06-30,Graduated
+10000320,Business Management,3,2018/19,120,20.58,19.61,20.09,First Class Honours,2020-06-30,Graduated
+10000321,Business Management,1,2018/19,360,14.75,15.34,15.05,Upper Second Class Honours,2022-06-30,Graduated
+10000323,Business Management,3,2018/19,120,19.37,14.82,17.1,Upper Second Class Honours,2020-06-30,Pending
+10000324,Business Management,1,2018/19,360,10.86,10.16,10.51,Third Class Honours,2022-06-30,Graduated
+10000325,Business Management,1,2018/19,360,10.29,11.74,11.02,Third Class Honours,2022-06-30,Graduated
+10000327,Business Management,1,2018/19,360,9.83,9.25,9.54,Third Class Honours,2022-06-30,Pending
+10000328,Business Management,1,2018/19,360,8.91,10.54,9.73,Third Class Honours,2022-06-30,Graduated
+10000329,Business Management,1,2018/19,360,15.23,15.43,15.33,Upper Second Class Honours,2022-06-30,Graduated
+10000330,Business Management,1,2018/19,360,20.08,20.79,20.44,First Class Honours,2022-06-30,Graduated
+10000331,Business Management,1,2018/19,360,20.09,20.48,20.28,First Class Honours,2022-06-30,Graduated
+10000332,Business Management,2,2018/19,240,7.71,5.92,6.81,Fail,2021-06-30,Deferred
+10000333,Business Management,1,2018/19,360,6.21,7.88,7.05,Fail,2022-06-30,Deferred
+10000334,Business Management,1,2018/19,360,12.33,12.75,12.54,Lower Second Class Honours,2022-06-30,Graduated
+10000335,Business Management,1,2018/19,360,11.8,12.45,12.12,Lower Second Class Honours,2022-06-30,Graduated
+10000336,Business Management,2,2018/19,240,10.97,11.58,11.27,Third Class Honours,2021-06-30,Graduated
+10000337,Business Management,2,2018/19,240,20.16,19.59,19.88,First Class Honours,2021-06-30,Graduated
+10000338,Business Management,1,2018/19,360,19.64,19.59,19.62,First Class Honours,2022-06-30,Graduated
+10000339,Business Management,1,2018/19,360,15.17,14.75,14.96,Borderline 2.2/2.1,2022-06-30,Graduated
+10000340,Business Management,1,2018/19,360,6.41,5.18,5.79,Fail,2022-06-30,Deferred
+10000341,Business Management,3,2018/19,120,10.43,11.38,10.91,Third Class Honours,2020-06-30,Graduated
+10000342,Business Management,1,2018/19,360,5.0,5.29,5.14,Fail,2022-06-30,Deferred
+10000343,Business Management,1,2018/19,360,7.42,7.12,7.27,Fail,2022-06-30,Deferred
+10000344,Business Management,1,2018/19,360,11.29,14.59,12.94,Lower Second Class Honours,2022-06-30,Graduated
+10000346,Business Management,1,2018/19,360,20.02,20.34,20.18,First Class Honours,2022-06-30,Graduated
+10000347,Business Management,3,2018/19,120,11.86,11.57,11.71,Borderline 3rd/2.2,2020-06-30,Graduated
+10000348,Business Management,1,2018/19,360,6.22,6.36,6.29,Fail,2022-06-30,Deferred
+10000349,Business Management,1,2018/19,360,14.64,11.92,13.28,Lower Second Class Honours,2022-06-30,Pending
+10000350,Business Management,1,2018/19,360,9.15,11.98,10.57,Third Class Honours,2022-06-30,Graduated
+10000351,Business Management,1,2018/19,360,15.49,13.99,14.74,Borderline 2.2/2.1,2022-06-30,Graduated
+10000352,Business Management,1,2018/19,360,3.2,5.08,4.14,Fail,2022-06-30,Deferred
+10000353,Business Management,1,2018/19,360,7.02,6.7,6.86,Fail,2022-06-30,Deferred
+10000354,Business Management,1,2018/19,360,4.8,6.6,5.7,Fail,2022-06-30,Deferred
+10000355,Business Management,1,2018/19,360,10.61,11.62,11.11,Third Class Honours,2022-06-30,Graduated
+10000356,Business Management,1,2018/19,360,5.79,5.28,5.53,Fail,2022-06-30,Deferred
+10000357,Business Management,1,2018/19,360,19.82,19.97,19.9,First Class Honours,2022-06-30,Graduated
+10000358,Business Management,1,2018/19,360,11.56,12.38,11.97,Borderline 3rd/2.2,2022-06-30,Graduated
+10000359,Business Management,1,2018/19,360,14.78,14.66,14.72,Borderline 2.2/2.1,2022-06-30,Graduated
+10000360,Business Management,1,2018/19,360,6.42,6.81,6.61,Fail,2022-06-30,Deferred
+10000361,Business Management,1,2018/19,360,10.38,10.34,10.36,Third Class Honours,2022-06-30,Graduated
+10000362,Business Management,2,2018/19,240,4.45,8.73,6.59,Fail,2021-06-30,Deferred
+10000363,Business Management,1,2018/19,360,12.0,11.85,11.93,Borderline 3rd/2.2,2022-06-30,Graduated
+10000364,Business Management,1,2018/19,360,15.43,14.7,15.06,Upper Second Class Honours,2022-06-30,Graduated
+10000365,Business Management,1,2018/19,360,9.04,10.3,9.67,Third Class Honours,2022-06-30,Graduated
+10000366,Business Management,1,2018/19,360,14.66,19.49,17.07,Upper Second Class Honours,2022-06-30,Graduated
+10000367,Business Management,1,2018/19,360,4.95,4.96,4.96,Fail,2022-06-30,Deferred
+10000368,Business Management,2,2018/19,240,6.55,5.06,5.8,Fail,2021-06-30,Deferred
+10000369,Business Management,1,2018/19,360,15.23,14.26,14.74,Borderline 2.2/2.1,2022-06-30,Graduated
+10000370,Business Management,1,2018/19,360,11.11,10.19,10.65,Third Class Honours,2022-06-30,Graduated
+10000371,Business Management,1,2018/19,360,14.5,15.24,14.87,Borderline 2.2/2.1,2022-06-30,Graduated
+10000372,Business Management,1,2018/19,360,15.71,14.37,15.04,Upper Second Class Honours,2022-06-30,Graduated
+10000373,Business Management,1,2018/19,360,10.43,9.85,10.14,Third Class Honours,2022-06-30,Graduated
+10000374,Business Management,1,2018/19,360,15.16,13.59,14.38,Lower Second Class Honours,2022-06-30,Graduated
+10000376,Business Management,1,2018/19,360,14.38,15.81,15.1,Upper Second Class Honours,2022-06-30,Graduated
+10000377,Business Management,1,2018/19,360,15.34,15.21,15.28,Upper Second Class Honours,2022-06-30,Graduated
+10000378,Business Management,1,2018/19,360,7.43,7.77,7.6,Fail,2022-06-30,Deferred
+10000380,Business Management,1,2018/19,360,14.43,15.94,15.18,Upper Second Class Honours,2022-06-30,Graduated
+10000381,Business Management,1,2018/19,360,8.46,10.31,9.38,Third Class Honours,2022-06-30,Pending
+10000382,Business Management,1,2018/19,360,14.88,15.63,15.25,Upper Second Class Honours,2022-06-30,Graduated
+10000383,Business Management,1,2018/19,360,4.87,5.05,4.96,Fail,2022-06-30,Deferred
+10000384,Business Management,2,2018/19,240,10.76,8.06,9.41,Third Class Honours,2021-06-30,Pending
+10000385,Business Management,1,2018/19,360,3.61,5.14,4.37,Fail,2022-06-30,Deferred
+10000387,Business Management,1,2018/19,360,3.9,5.64,4.77,Fail,2022-06-30,Deferred
+10000388,Business Management,1,2018/19,360,14.09,15.25,14.67,Borderline 2.2/2.1,2022-06-30,Graduated
+10000389,Business Management,1,2018/19,360,5.75,4.78,5.27,Fail,2022-06-30,Deferred
+10000390,Business Management,1,2018/19,360,15.81,14.85,15.33,Upper Second Class Honours,2022-06-30,Graduated
+10000391,Business Management,1,2018/19,360,20.16,20.55,20.35,First Class Honours,2022-06-30,Graduated
+10000392,Business Management,1,2018/19,360,15.69,14.01,14.85,Borderline 2.2/2.1,2022-06-30,Graduated
+10000393,Business Management,1,2018/19,360,10.91,11.06,10.99,Third Class Honours,2022-06-30,Graduated
+10000394,Business Management,1,2018/19,360,14.77,14.37,14.57,Borderline 2.2/2.1,2022-06-30,Graduated
+10000396,Business Management,2,2018/19,240,11.29,10.3,10.8,Third Class Honours,2021-06-30,Graduated
+10000397,Business Management,1,2018/19,360,15.2,14.37,14.79,Borderline 2.2/2.1,2022-06-30,Graduated
+10000398,Business Management,3,2018/19,120,11.07,11.06,11.07,Third Class Honours,2020-06-30,Graduated
+10000399,Business Management,1,2018/19,360,15.15,15.12,15.13,Upper Second Class Honours,2022-06-30,Graduated
+10000400,Business Management,1,2018/19,360,11.73,12.96,12.35,Lower Second Class Honours,2022-06-30,Graduated
+10000401,Business Management,2,2018/19,240,19.82,20.24,20.03,First Class Honours,2021-06-30,Graduated
+10000402,Business Management,2,2018/19,240,6.35,4.89,5.62,Fail,2021-06-30,Deferred
+10000404,Business Management,1,2018/19,360,12.07,11.91,11.99,Borderline 3rd/2.2,2022-06-30,Graduated
+10000405,Business Management,1,2018/19,360,10.25,11.0,10.63,Third Class Honours,2022-06-30,Graduated
+10000406,Business Management,1,2018/19,360,11.24,10.37,10.8,Third Class Honours,2022-06-30,Graduated
+10000407,Business Management,1,2018/19,360,15.39,14.58,14.98,Borderline 2.2/2.1,2022-06-30,Graduated
+10000408,Business Management,1,2018/19,360,19.48,20.07,19.77,First Class Honours,2022-06-30,Graduated
+10000409,Business Management,1,2018/19,360,11.01,10.11,10.56,Third Class Honours,2022-06-30,Graduated
+10000410,Business Management,2,2018/19,240,14.95,15.4,15.17,Upper Second Class Honours,2021-06-30,Graduated
+10000411,Business Management,3,2018/19,120,16.08,14.37,15.22,Upper Second Class Honours,2020-06-30,Graduated
+10000413,Business Management,1,2018/19,360,11.15,10.07,10.61,Third Class Honours,2022-06-30,Graduated
+10000415,Business Management,1,2018/19,360,15.28,15.39,15.34,Upper Second Class Honours,2022-06-30,Graduated
+10000416,Business Management,2,2018/19,240,14.56,14.45,14.5,Borderline 2.2/2.1,2021-06-30,Graduated
+10000417,Business Management,2,2018/19,240,15.36,15.53,15.44,Upper Second Class Honours,2021-06-30,Graduated
+10000418,Business Management,1,2018/19,360,10.83,14.59,12.71,Lower Second Class Honours,2022-06-30,Graduated
+10000419,Business Management,1,2018/19,360,19.94,19.56,19.75,First Class Honours,2022-06-30,Graduated
+10000420,Business Management,3,2018/19,120,15.75,14.25,15.0,Upper Second Class Honours,2020-06-30,Graduated
+10000422,Business Management,1,2018/19,360,11.57,10.31,10.94,Third Class Honours,2022-06-30,Graduated
+10000423,Business Management,1,2018/19,360,6.78,6.1,6.44,Fail,2022-06-30,Deferred
+10000424,Business Management,1,2018/19,360,11.24,11.16,11.2,Third Class Honours,2022-06-30,Graduated
+10000425,Business Management,1,2018/19,360,15.96,15.42,15.69,Upper Second Class Honours,2022-06-30,Graduated
+10000426,Business Management,2,2018/19,240,9.16,10.67,9.92,Third Class Honours,2021-06-30,Graduated
+10000429,Business Management,1,2018/19,360,13.86,15.85,14.85,Borderline 2.2/2.1,2022-06-30,Graduated
+10000430,Business Management,1,2018/19,360,9.45,11.22,10.33,Third Class Honours,2022-06-30,Graduated
+10000431,Business Management,1,2018/19,360,8.96,10.27,9.61,Third Class Honours,2022-06-30,Graduated
+10000432,Business Management,1,2018/19,360,15.62,16.25,15.94,Upper Second Class Honours,2022-06-30,Graduated
+10000433,Business Management,2,2018/19,240,15.31,14.78,15.04,Upper Second Class Honours,2021-06-30,Graduated
+10000434,Business Management,1,2018/19,360,15.35,15.8,15.57,Upper Second Class Honours,2022-06-30,Graduated
+10000435,Business Management,1,2018/19,360,14.65,11.15,12.9,Lower Second Class Honours,2022-06-30,Pending
+10000436,Business Management,1,2018/19,360,6.18,5.96,6.07,Fail,2022-06-30,Deferred
+10000437,Business Management,1,2018/19,360,7.63,12.14,9.89,Third Class Honours,2022-06-30,Graduated
+10000438,Business Management,1,2018/19,360,14.91,15.76,15.34,Upper Second Class Honours,2022-06-30,Graduated
+10000439,Business Management,1,2018/19,360,15.38,19.75,17.57,Borderline 2.1/1st,2022-06-30,Graduated
+10000440,Business Management,1,2018/19,360,11.61,10.15,10.88,Third Class Honours,2022-06-30,Graduated
+10000441,Business Management,1,2018/19,360,11.55,11.29,11.42,Third Class Honours,2022-06-30,Graduated
+10000442,Business Management,1,2018/19,360,14.29,15.27,14.78,Borderline 2.2/2.1,2022-06-30,Graduated
+10000443,Business Management,1,2018/19,360,11.42,9.83,10.62,Third Class Honours,2022-06-30,Graduated
+10000444,Business Management,1,2018/19,360,10.41,11.06,10.74,Third Class Honours,2022-06-30,Graduated
+10000445,Business Management,1,2018/19,360,9.55,7.23,8.39,Fail,2022-06-30,Deferred
+10000446,Business Management,1,2018/19,360,15.75,15.73,15.74,Upper Second Class Honours,2022-06-30,Graduated
+10000447,Business Management,1,2018/19,360,16.58,14.4,15.49,Upper Second Class Honours,2022-06-30,Graduated
+10000448,Business Management,1,2018/19,360,20.48,19.78,20.13,First Class Honours,2022-06-30,Graduated
+10000449,Business Management,3,2018/19,120,14.98,15.19,15.08,Upper Second Class Honours,2020-06-30,Graduated
+10000450,Business Management,1,2018/19,360,14.4,14.29,14.35,Lower Second Class Honours,2022-06-30,Graduated
+10000452,Business Management,2,2018/19,240,20.07,20.78,20.43,First Class Honours,2021-06-30,Graduated
+10000453,Business Management,1,2018/19,360,10.88,14.35,12.62,Lower Second Class Honours,2022-06-30,Graduated
+10000454,Business Management,1,2018/19,360,9.99,10.66,10.32,Third Class Honours,2022-06-30,Graduated
+10000455,Business Management,2,2018/19,240,14.95,15.38,15.17,Upper Second Class Honours,2021-06-30,Graduated
+10000458,Business Management,1,2018/19,360,15.46,16.18,15.82,Upper Second Class Honours,2022-06-30,Graduated
+10000459,Business Management,1,2018/19,360,10.78,12.66,11.72,Borderline 3rd/2.2,2022-06-30,Graduated
+10000460,Business Management,1,2018/19,360,19.94,20.8,20.37,First Class Honours,2022-06-30,Graduated
+10000461,Business Management,1,2018/19,360,11.11,11.33,11.22,Third Class Honours,2022-06-30,Graduated
+10000462,Business Management,1,2018/19,360,10.92,9.55,10.23,Third Class Honours,2022-06-30,Graduated
+10000463,Business Management,1,2018/19,360,20.08,19.82,19.95,First Class Honours,2022-06-30,Graduated
+10000464,Business Management,1,2018/19,360,15.43,10.68,13.06,Lower Second Class Honours,2022-06-30,Pending
+10000466,Business Management,2,2018/19,240,5.62,4.59,5.11,Fail,2021-06-30,Deferred
+10000467,Business Management,1,2018/19,360,11.99,11.34,11.67,Borderline 3rd/2.2,2022-06-30,Graduated
+10000468,Business Management,1,2018/19,360,20.01,20.39,20.2,First Class Honours,2022-06-30,Graduated
+10000469,Business Management,1,2018/19,360,14.0,14.12,14.06,Lower Second Class Honours,2022-06-30,Graduated
+10000470,Business Management,1,2018/19,360,11.71,11.18,11.44,Third Class Honours,2022-06-30,Graduated
+10000471,Business Management,1,2018/19,360,11.7,15.02,13.36,Lower Second Class Honours,2022-06-30,Graduated
+10000472,Business Management,1,2018/19,360,10.62,8.87,9.74,Third Class Honours,2022-06-30,Pending
+10000473,Business Management,1,2018/19,360,9.6,11.49,10.54,Third Class Honours,2022-06-30,Graduated
+10000474,Business Management,1,2018/19,360,7.34,4.63,5.99,Fail,2022-06-30,Deferred
+10000475,Business Management,1,2018/19,360,11.04,10.44,10.74,Third Class Honours,2022-06-30,Graduated
+10000476,Business Management,1,2018/19,360,6.0,7.21,6.61,Fail,2022-06-30,Deferred
+10000622,Accountancy & Finance,3,2019/20,120,6.54,5.97,6.25,Fail,2021-06-30,Deferred
+10000623,Accountancy & Finance,1,2019/20,360,11.06,10.73,10.9,Third Class Honours,2023-06-30,Graduated
+10000624,Accountancy & Finance,1,2019/20,360,11.28,10.49,10.88,Third Class Honours,2023-06-30,Graduated
+10000625,Accountancy & Finance,1,2019/20,360,11.77,11.25,11.51,Borderline 3rd/2.2,2023-06-30,Graduated
+10000626,Accountancy & Finance,1,2019/20,360,9.49,8.57,9.03,Third Class Honours,2023-06-30,Pending
+10000627,Accountancy & Finance,2,2019/20,240,10.72,11.34,11.03,Third Class Honours,2022-06-30,Graduated
+10000628,Accountancy & Finance,1,2019/20,360,5.71,6.13,5.92,Fail,2023-06-30,Deferred
+10000629,Accountancy & Finance,1,2019/20,360,11.19,11.16,11.17,Third Class Honours,2023-06-30,Graduated
+10000630,Accountancy & Finance,3,2019/20,120,11.83,14.31,13.07,Lower Second Class Honours,2021-06-30,Graduated
+10000631,Accountancy & Finance,1,2019/20,360,14.05,15.42,14.73,Borderline 2.2/2.1,2023-06-30,Graduated
+10000632,Accountancy & Finance,1,2019/20,360,14.06,14.88,14.47,Lower Second Class Honours,2023-06-30,Graduated
+10000633,Accountancy & Finance,3,2019/20,120,11.13,9.59,10.36,Third Class Honours,2021-06-30,Pending
+10000634,Accountancy & Finance,1,2019/20,360,10.97,10.45,10.71,Third Class Honours,2023-06-30,Graduated
+10000635,Accountancy & Finance,1,2019/20,360,10.05,11.22,10.63,Third Class Honours,2023-06-30,Graduated
+10000636,Accountancy & Finance,1,2019/20,360,10.85,9.42,10.13,Third Class Honours,2023-06-30,Graduated
+10000637,Accountancy & Finance,3,2019/20,120,14.09,16.09,15.09,Upper Second Class Honours,2021-06-30,Graduated
+10000638,Accountancy & Finance,1,2019/20,360,19.87,20.38,20.12,First Class Honours,2023-06-30,Graduated
+10000639,Accountancy & Finance,1,2019/20,360,14.0,13.35,13.67,Lower Second Class Honours,2023-06-30,Pending
+10000640,Accountancy & Finance,1,2019/20,360,11.4,14.5,12.95,Lower Second Class Honours,2023-06-30,Graduated
+10000641,Accountancy & Finance,1,2019/20,360,15.48,12.28,13.88,Lower Second Class Honours,2023-06-30,Pending
+10000642,Accountancy & Finance,1,2019/20,360,8.98,10.15,9.56,Third Class Honours,2023-06-30,Pending
+10000643,Accountancy & Finance,1,2019/20,360,19.55,19.25,19.4,First Class Honours,2023-06-30,Graduated
+10000644,Accountancy & Finance,3,2019/20,120,15.02,12.82,13.92,Lower Second Class Honours,2021-06-30,Pending
+10000645,Accountancy & Finance,2,2019/20,240,12.25,10.12,11.19,Third Class Honours,2022-06-30,Graduated
+10000646,Accountancy & Finance,1,2019/20,360,10.42,12.46,11.44,Third Class Honours,2023-06-30,Graduated
+10000647,Accountancy & Finance,1,2019/20,360,13.41,19.67,16.54,Upper Second Class Honours,2023-06-30,Graduated
+10000648,Accountancy & Finance,1,2019/20,360,14.56,15.73,15.14,Upper Second Class Honours,2023-06-30,Graduated
+10000649,Accountancy & Finance,1,2019/20,360,11.66,11.44,11.55,Borderline 3rd/2.2,2023-06-30,Pending
+10000650,Accountancy & Finance,1,2019/20,360,14.89,15.58,15.24,Upper Second Class Honours,2023-06-30,Graduated
+10000651,Accountancy & Finance,2,2019/20,240,14.33,14.68,14.51,Borderline 2.2/2.1,2022-06-30,Graduated
+10000652,Accountancy & Finance,1,2019/20,360,14.8,15.3,15.05,Upper Second Class Honours,2023-06-30,Graduated
+10000653,Accountancy & Finance,2,2019/20,240,6.21,6.4,6.3,Fail,2022-06-30,Deferred
+10000654,Accountancy & Finance,1,2019/20,360,10.37,9.77,10.07,Third Class Honours,2023-06-30,Graduated
+10000655,Accountancy & Finance,1,2019/20,360,10.28,11.93,11.1,Third Class Honours,2023-06-30,Graduated
+10000656,Accountancy & Finance,1,2019/20,360,5.59,7.87,6.73,Fail,2023-06-30,Deferred
+10000657,Accountancy & Finance,1,2019/20,360,10.51,11.16,10.84,Third Class Honours,2023-06-30,Graduated
+10000658,Accountancy & Finance,2,2019/20,240,14.8,14.9,14.85,Borderline 2.2/2.1,2022-06-30,Graduated
+10000659,Accountancy & Finance,1,2019/20,360,19.84,19.81,19.82,First Class Honours,2023-06-30,Graduated
+10000660,Accountancy & Finance,1,2019/20,360,15.6,14.19,14.9,Borderline 2.2/2.1,2023-06-30,Graduated
+10000661,Accountancy & Finance,2,2019/20,240,9.86,9.78,9.82,Third Class Honours,2022-06-30,Graduated
+10000662,Accountancy & Finance,1,2019/20,360,6.12,6.31,6.21,Fail,2023-06-30,Deferred
+10000663,Accountancy & Finance,1,2019/20,360,7.82,6.85,7.34,Fail,2023-06-30,Deferred
+10000664,Accountancy & Finance,1,2019/20,360,15.79,15.0,15.39,Upper Second Class Honours,2023-06-30,Graduated
+10000665,Accountancy & Finance,1,2019/20,360,10.49,9.97,10.23,Third Class Honours,2023-06-30,Pending
+10000666,Accountancy & Finance,1,2019/20,360,9.2,12.16,10.68,Third Class Honours,2023-06-30,Graduated
+10000667,Accountancy & Finance,1,2019/20,360,9.76,11.33,10.54,Third Class Honours,2023-06-30,Graduated
+10000668,Accountancy & Finance,1,2019/20,360,14.63,15.07,14.85,Borderline 2.2/2.1,2023-06-30,Graduated
+10000669,Accountancy & Finance,2,2019/20,240,15.04,15.05,15.04,Upper Second Class Honours,2022-06-30,Graduated
+10000671,Accountancy & Finance,1,2019/20,360,19.99,20.08,20.03,First Class Honours,2023-06-30,Graduated
+10000672,Accountancy & Finance,1,2019/20,360,13.0,14.61,13.8,Lower Second Class Honours,2023-06-30,Graduated
+10000673,Accountancy & Finance,1,2019/20,360,10.47,11.1,10.79,Third Class Honours,2023-06-30,Pending
+10000674,Accountancy & Finance,1,2019/20,360,14.66,15.32,14.99,Borderline 2.2/2.1,2023-06-30,Graduated
+10000676,Accountancy & Finance,1,2019/20,360,15.39,15.76,15.57,Upper Second Class Honours,2023-06-30,Graduated
+10000677,Accountancy & Finance,1,2019/20,360,20.26,20.26,20.26,First Class Honours,2023-06-30,Graduated
+10000679,Accountancy & Finance,1,2019/20,360,19.82,19.57,19.7,First Class Honours,2023-06-30,Graduated
+10000680,Accountancy & Finance,1,2019/20,360,15.38,15.3,15.34,Upper Second Class Honours,2023-06-30,Graduated
+10000681,Accountancy & Finance,1,2019/20,360,12.53,10.96,11.74,Borderline 3rd/2.2,2023-06-30,Graduated
+10000682,Accountancy & Finance,2,2019/20,240,19.66,20.31,19.98,First Class Honours,2022-06-30,Graduated
+10000683,Accountancy & Finance,3,2019/20,120,10.33,11.06,10.7,Third Class Honours,2021-06-30,Graduated
+10000684,Accountancy & Finance,2,2019/20,240,19.81,15.44,17.63,Borderline 2.1/1st,2022-06-30,Pending
+10000685,Accountancy & Finance,1,2019/20,360,15.06,15.2,15.13,Upper Second Class Honours,2023-06-30,Graduated
+10000687,Accountancy & Finance,2,2019/20,240,14.92,14.85,14.88,Borderline 2.2/2.1,2022-06-30,Graduated
+10000689,Accountancy & Finance,1,2019/20,360,13.26,13.56,13.41,Lower Second Class Honours,2023-06-30,Pending
+10000690,Accountancy & Finance,1,2019/20,360,11.52,10.62,11.07,Third Class Honours,2023-06-30,Graduated
+10000691,Accountancy & Finance,1,2019/20,360,15.05,14.77,14.91,Borderline 2.2/2.1,2023-06-30,Graduated
+10000692,Accountancy & Finance,1,2019/20,360,11.15,11.91,11.53,Borderline 3rd/2.2,2023-06-30,Graduated
+10000693,Accountancy & Finance,2,2019/20,240,10.42,9.56,9.99,Third Class Honours,2022-06-30,Pending
+10000694,Accountancy & Finance,2,2019/20,240,14.2,15.19,14.69,Borderline 2.2/2.1,2022-06-30,Graduated
+10000695,Accountancy & Finance,1,2019/20,360,19.82,19.78,19.8,First Class Honours,2023-06-30,Graduated
+10000698,Accountancy & Finance,3,2019/20,120,5.96,6.32,6.14,Fail,2021-06-30,Deferred
+10000699,Accountancy & Finance,2,2019/20,240,14.9,15.63,15.26,Upper Second Class Honours,2022-06-30,Graduated
+10000700,Accountancy & Finance,3,2019/20,120,10.29,11.68,10.98,Third Class Honours,2021-06-30,Graduated
+10000701,Accountancy & Finance,1,2019/20,360,10.17,11.09,10.63,Third Class Honours,2023-06-30,Graduated
+10000702,Accountancy & Finance,2,2019/20,240,10.84,10.46,10.65,Third Class Honours,2022-06-30,Graduated
+10000703,Accountancy & Finance,1,2019/20,360,9.05,10.55,9.8,Third Class Honours,2023-06-30,Graduated
+10000704,Accountancy & Finance,2,2019/20,240,5.86,6.04,5.95,Fail,2022-06-30,Deferred
+10000705,Accountancy & Finance,1,2019/20,360,12.94,15.63,14.29,Lower Second Class Honours,2023-06-30,Graduated
+10000706,Accountancy & Finance,2,2019/20,240,20.19,19.72,19.96,First Class Honours,2022-06-30,Graduated
+10000707,Business Management,1,2019/20,360,14.49,15.69,15.09,Upper Second Class Honours,2023-06-30,Graduated
+10000709,Business Management,1,2019/20,360,11.27,10.76,11.02,Third Class Honours,2023-06-30,Graduated
+10000710,Business Management,1,2019/20,360,10.64,11.31,10.98,Third Class Honours,2023-06-30,Graduated
+10000712,Business Management,2,2019/20,240,10.35,10.73,10.54,Third Class Honours,2022-06-30,Graduated
+10000715,Business Management,1,2019/20,360,11.38,11.02,11.2,Third Class Honours,2023-06-30,Graduated
+10000716,Business Management,1,2019/20,360,10.51,11.76,11.13,Third Class Honours,2023-06-30,Graduated
+10000717,Business Management,1,2019/20,360,15.2,14.7,14.95,Borderline 2.2/2.1,2023-06-30,Pending
+10000718,Business Management,1,2019/20,360,9.55,10.75,10.15,Third Class Honours,2023-06-30,Graduated
+10000719,Business Management,1,2019/20,360,3.86,4.65,4.26,Fail,2023-06-30,Deferred
+10000720,Business Management,2,2019/20,240,14.98,20.33,17.66,Borderline 2.1/1st,2022-06-30,Graduated
+10000721,Business Management,1,2019/20,360,20.11,20.15,20.13,First Class Honours,2023-06-30,Graduated
+10000723,Business Management,1,2019/20,360,11.61,10.75,11.18,Third Class Honours,2023-06-30,Graduated
+10000724,Business Management,1,2019/20,360,9.14,5.39,7.27,Fail,2023-06-30,Deferred
+10000725,Business Management,1,2019/20,360,15.3,15.14,15.22,Upper Second Class Honours,2023-06-30,Graduated
+10000726,Business Management,1,2019/20,360,8.13,12.64,10.39,Third Class Honours,2023-06-30,Graduated
+10000727,Business Management,1,2019/20,360,14.55,19.41,16.98,Upper Second Class Honours,2023-06-30,Graduated
+10000728,Business Management,2,2019/20,240,11.57,11.88,11.73,Borderline 3rd/2.2,2022-06-30,Graduated
+10000729,Business Management,1,2019/20,360,8.98,11.06,10.02,Third Class Honours,2023-06-30,Graduated
+10000730,Business Management,1,2019/20,360,20.42,20.07,20.25,First Class Honours,2023-06-30,Graduated
+10000731,Business Management,1,2019/20,360,7.98,11.26,9.62,Third Class Honours,2023-06-30,Graduated
+10000733,Business Management,1,2019/20,360,10.43,11.49,10.96,Third Class Honours,2023-06-30,Graduated
+10000734,Business Management,1,2019/20,360,19.12,19.4,19.26,First Class Honours,2023-06-30,Graduated
+10000735,Business Management,3,2019/20,120,6.01,5.75,5.88,Fail,2021-06-30,Deferred
+10000736,Business Management,3,2019/20,120,8.33,10.52,9.42,Third Class Honours,2021-06-30,Pending
+10000737,Business Management,2,2019/20,240,14.92,14.2,14.56,Borderline 2.2/2.1,2022-06-30,Graduated
+10000738,Business Management,1,2019/20,360,15.87,14.81,15.34,Upper Second Class Honours,2023-06-30,Graduated
+10000739,Business Management,1,2019/20,360,16.09,15.12,15.61,Upper Second Class Honours,2023-06-30,Graduated
+10000740,Business Management,1,2019/20,360,8.76,11.86,10.31,Third Class Honours,2023-06-30,Graduated
+10000741,Business Management,1,2019/20,360,15.24,14.99,15.12,Upper Second Class Honours,2023-06-30,Graduated
+10000742,Business Management,2,2019/20,240,11.45,11.8,11.63,Borderline 3rd/2.2,2022-06-30,Graduated
+10000743,Business Management,1,2019/20,360,9.18,10.53,9.85,Third Class Honours,2023-06-30,Graduated
+10000744,Business Management,2,2019/20,240,19.58,19.74,19.66,First Class Honours,2022-06-30,Graduated
+10000745,Business Management,1,2019/20,360,4.89,5.95,5.42,Fail,2023-06-30,Deferred
+10000746,Business Management,1,2019/20,360,10.02,8.48,9.25,Third Class Honours,2023-06-30,Pending
+10000747,Business Management,1,2019/20,360,12.2,11.58,11.89,Borderline 3rd/2.2,2023-06-30,Graduated
+10000748,Business Management,1,2019/20,360,6.83,11.77,9.3,Third Class Honours,2023-06-30,Pending
+10000750,Business Management,1,2019/20,360,11.16,11.95,11.55,Borderline 3rd/2.2,2023-06-30,Graduated
+10000751,Business Management,1,2019/20,360,5.49,5.54,5.52,Fail,2023-06-30,Deferred
+10000752,Business Management,2,2019/20,240,11.14,15.99,13.57,Lower Second Class Honours,2022-06-30,Graduated
+10000754,Business Management,1,2019/20,360,12.21,12.02,12.11,Lower Second Class Honours,2023-06-30,Graduated
+10000755,Business Management,1,2019/20,360,15.41,16.09,15.75,Upper Second Class Honours,2023-06-30,Graduated
+10000757,Business Management,1,2019/20,360,12.05,11.37,11.71,Borderline 3rd/2.2,2023-06-30,Graduated
+10000758,Business Management,3,2019/20,120,10.64,15.16,12.9,Lower Second Class Honours,2021-06-30,Graduated
+10000760,Business Management,2,2019/20,240,10.09,10.97,10.53,Third Class Honours,2022-06-30,Graduated
+10000761,Business Management,1,2019/20,360,20.05,20.18,20.12,First Class Honours,2023-06-30,Graduated
+10000762,Business Management,3,2019/20,120,4.96,5.4,5.18,Fail,2021-06-30,Deferred
+10000763,Business Management,1,2019/20,360,16.06,15.45,15.76,Upper Second Class Honours,2023-06-30,Graduated
+10000764,Business Management,1,2019/20,360,14.56,15.46,15.01,Upper Second Class Honours,2023-06-30,Graduated
+10000765,Business Management,1,2019/20,360,10.66,10.78,10.72,Third Class Honours,2023-06-30,Graduated
+10000767,Business Management,1,2019/20,360,20.0,20.59,20.3,First Class Honours,2023-06-30,Graduated
+10000768,Business Management,2,2019/20,240,4.92,4.81,4.86,Fail,2022-06-30,Deferred
+10000769,Business Management,1,2019/20,360,10.98,14.15,12.56,Lower Second Class Honours,2023-06-30,Graduated
+10000770,Business Management,2,2019/20,240,14.42,14.31,14.36,Lower Second Class Honours,2022-06-30,Graduated
+10000771,Business Management,2,2019/20,240,8.82,12.11,10.47,Third Class Honours,2022-06-30,Graduated
+10000772,Business Management,2,2019/20,240,14.37,11.21,12.79,Lower Second Class Honours,2022-06-30,Pending
+10000774,Business Management,2,2019/20,240,9.99,10.23,10.11,Third Class Honours,2022-06-30,Graduated
+10000775,Business Management,2,2019/20,240,13.63,14.27,13.95,Lower Second Class Honours,2022-06-30,Graduated
+10000776,Business Management,1,2019/20,360,20.11,19.98,20.04,First Class Honours,2023-06-30,Graduated
+10000777,Business Management,1,2019/20,360,7.07,7.01,7.04,Fail,2023-06-30,Deferred
+10000778,Business Management,1,2019/20,360,20.86,20.88,20.87,First Class Honours,2023-06-30,Graduated
+10000779,Business Management,2,2019/20,240,11.92,11.94,11.93,Borderline 3rd/2.2,2022-06-30,Graduated
+10000780,Business Management,1,2019/20,360,12.16,15.33,13.75,Lower Second Class Honours,2023-06-30,Graduated
+10000781,Business Management,1,2019/20,360,11.81,12.09,11.95,Borderline 3rd/2.2,2023-06-30,Graduated
+10000782,Business Management,1,2019/20,360,10.15,11.77,10.96,Third Class Honours,2023-06-30,Graduated
+10000783,Business Management,1,2019/20,360,10.77,10.66,10.72,Third Class Honours,2023-06-30,Graduated
+10000784,Business Management,1,2019/20,360,14.48,15.15,14.82,Borderline 2.2/2.1,2023-06-30,Graduated
+10000785,Business Management,1,2019/20,360,11.49,7.93,9.71,Third Class Honours,2023-06-30,Pending
+10000786,Business Management,1,2019/20,360,20.27,20.01,20.14,First Class Honours,2023-06-30,Graduated
+10000788,Business Management,3,2019/20,120,11.27,10.47,10.87,Third Class Honours,2021-06-30,Graduated
+10000789,Business Management,2,2019/20,240,15.02,11.25,13.13,Lower Second Class Honours,2022-06-30,Pending
+10000790,Business Management,1,2019/20,360,5.33,10.48,7.91,Fail,2023-06-30,Deferred
+10000791,Business Management,1,2019/20,360,14.66,15.11,14.88,Borderline 2.2/2.1,2023-06-30,Graduated
+10000792,Business Management,1,2019/20,360,10.86,11.79,11.32,Third Class Honours,2023-06-30,Graduated
+10000793,Business Management,1,2019/20,360,15.24,15.46,15.35,Upper Second Class Honours,2023-06-30,Graduated
+10000794,Business Management,1,2019/20,360,10.73,10.93,10.83,Third Class Honours,2023-06-30,Graduated
+10000795,Business Management,2,2019/20,240,14.63,14.22,14.43,Lower Second Class Honours,2022-06-30,Graduated
+10000796,Business Management,1,2019/20,360,11.3,9.71,10.5,Third Class Honours,2023-06-30,Graduated
+10000797,Business Management,1,2019/20,360,14.98,15.3,15.14,Upper Second Class Honours,2023-06-30,Graduated
+10000798,Business Management,1,2019/20,360,15.44,14.18,14.81,Borderline 2.2/2.1,2023-06-30,Graduated
+10000800,Business Management,1,2019/20,360,14.56,15.18,14.87,Borderline 2.2/2.1,2023-06-30,Graduated
+10000801,Business Management,1,2019/20,360,19.91,20.09,20.0,First Class Honours,2023-06-30,Graduated
+10000802,Business Management,1,2019/20,360,10.96,10.61,10.79,Third Class Honours,2023-06-30,Graduated
+10000804,Business Management,1,2019/20,360,16.21,14.91,15.56,Upper Second Class Honours,2023-06-30,Graduated
+10000805,Business Management,1,2019/20,360,15.41,14.98,15.2,Upper Second Class Honours,2023-06-30,Graduated
+10000806,Business Management,1,2019/20,360,15.53,13.26,14.39,Lower Second Class Honours,2023-06-30,Graduated
+10000807,Business Management,1,2019/20,360,8.33,12.41,10.37,Third Class Honours,2023-06-30,Graduated
+10000808,Business Management,1,2019/20,360,7.34,5.33,6.33,Fail,2023-06-30,Deferred
+10000809,Business Management,1,2019/20,360,10.29,10.95,10.62,Third Class Honours,2023-06-30,Graduated
+10000810,Business Management,1,2019/20,360,15.88,14.38,15.13,Upper Second Class Honours,2023-06-30,Graduated
+10000811,Business Management,1,2019/20,360,19.97,15.3,17.64,Borderline 2.1/1st,2023-06-30,Pending
+10000812,Business Management,1,2019/20,360,14.7,15.48,15.09,Upper Second Class Honours,2023-06-30,Graduated
+10000813,Business Management,1,2019/20,360,14.89,14.66,14.78,Borderline 2.2/2.1,2023-06-30,Graduated
+10000814,Business Management,1,2019/20,360,15.02,16.15,15.59,Upper Second Class Honours,2023-06-30,Graduated
+10000815,Business Management,1,2019/20,360,19.21,19.98,19.6,First Class Honours,2023-06-30,Graduated
+10000816,Business Management,2,2019/20,240,11.36,10.93,11.14,Third Class Honours,2022-06-30,Graduated
+10000817,Business Management,2,2019/20,240,15.54,15.09,15.31,Upper Second Class Honours,2022-06-30,Graduated
+10000819,Business Management,1,2019/20,360,10.41,11.36,10.88,Third Class Honours,2023-06-30,Graduated
+10000820,Business Management,1,2019/20,360,7.9,7.33,7.61,Fail,2023-06-30,Deferred
+10000821,Business Management,3,2019/20,120,19.6,20.47,20.04,First Class Honours,2021-06-30,Graduated
+10000822,Business Management,1,2019/20,360,2.23,5.42,3.82,Fail,2023-06-30,Deferred
+10000823,Business Management,2,2019/20,240,11.04,14.41,12.73,Lower Second Class Honours,2022-06-30,Graduated
+10000824,Business Management,1,2019/20,360,5.14,5.92,5.53,Fail,2023-06-30,Deferred
+10000825,Business Management,1,2019/20,360,10.38,9.91,10.14,Third Class Honours,2023-06-30,Graduated
+10000826,Business Management,3,2019/20,120,14.43,14.68,14.56,Borderline 2.2/2.1,2021-06-30,Graduated
+10000827,Business Management,1,2019/20,360,15.44,14.7,15.07,Upper Second Class Honours,2023-06-30,Graduated
+10000828,Business Management,1,2019/20,360,15.63,15.22,15.43,Upper Second Class Honours,2023-06-30,Graduated
+10000829,Business Management,2,2019/20,240,19.44,20.07,19.76,First Class Honours,2022-06-30,Graduated
+10000830,Business Management,1,2019/20,360,5.07,8.45,6.76,Fail,2023-06-30,Deferred
+10000831,Business Management,1,2019/20,360,15.28,16.32,15.8,Upper Second Class Honours,2023-06-30,Graduated
+10000833,Business Management,3,2019/20,120,15.83,14.89,15.36,Upper Second Class Honours,2021-06-30,Graduated
+10000834,Business Management,1,2019/20,360,19.23,19.96,19.59,First Class Honours,2023-06-30,Graduated
+10000835,Business Management,1,2019/20,360,8.97,8.94,8.96,Borderline Fail/3rd,2023-06-30,Pending
+10000836,Business Management,1,2019/20,360,20.03,19.41,19.72,First Class Honours,2023-06-30,Graduated
+10000837,Business Management,2,2019/20,240,19.93,20.28,20.11,First Class Honours,2022-06-30,Graduated
+10000839,Business Management,1,2019/20,360,15.11,16.14,15.62,Upper Second Class Honours,2023-06-30,Graduated
+10000840,Business Management,1,2019/20,360,6.7,4.62,5.66,Fail,2023-06-30,Deferred
+10000841,Business Management,1,2019/20,360,20.43,15.05,17.74,Borderline 2.1/1st,2023-06-30,Pending
+10000843,Business Management,1,2019/20,360,10.46,10.69,10.57,Third Class Honours,2023-06-30,Graduated
+10000844,Business Management,3,2019/20,120,12.06,10.85,11.45,Third Class Honours,2021-06-30,Graduated
+10000845,Business Management,1,2019/20,360,15.04,15.91,15.47,Upper Second Class Honours,2023-06-30,Graduated
+10000846,Business Management,1,2019/20,360,10.26,6.99,8.63,Borderline Fail/3rd,2023-06-30,Pending
+10000847,Business Management,1,2019/20,360,15.68,14.68,15.18,Upper Second Class Honours,2023-06-30,Graduated
+10000850,Business Management,1,2019/20,360,7.58,4.04,5.81,Fail,2023-06-30,Deferred
+10000851,Business Management,1,2019/20,360,14.65,14.95,14.8,Borderline 2.2/2.1,2023-06-30,Graduated
+10000852,Business Management,1,2019/20,360,8.59,10.74,9.66,Third Class Honours,2023-06-30,Graduated
+10000853,Business Management,3,2019/20,120,9.15,11.68,10.41,Third Class Honours,2021-06-30,Graduated
+10000855,Business Management,1,2019/20,360,5.37,3.81,4.59,Fail,2023-06-30,Deferred
+10000856,Business Management,1,2019/20,360,14.48,13.65,14.07,Lower Second Class Honours,2023-06-30,Graduated
+10000857,Business Management,1,2019/20,360,14.88,7.66,11.27,Third Class Honours,2023-06-30,Pending
+10000858,Business Management,1,2019/20,360,10.18,10.41,10.29,Third Class Honours,2023-06-30,Graduated
+10000859,Business Management,2,2019/20,240,15.34,14.2,14.77,Borderline 2.2/2.1,2022-06-30,Graduated
+10000860,Business Management,1,2019/20,360,14.67,16.46,15.57,Upper Second Class Honours,2023-06-30,Graduated
+10000861,Business Management,1,2019/20,360,19.74,20.52,20.13,First Class Honours,2023-06-30,Graduated
+10000862,Business Management,1,2019/20,360,19.29,19.76,19.53,First Class Honours,2023-06-30,Graduated
+10000863,Business Management,1,2019/20,360,13.86,13.87,13.86,Lower Second Class Honours,2023-06-30,Graduated
+10000866,Business Management,1,2019/20,360,15.68,14.88,15.28,Upper Second Class Honours,2023-06-30,Graduated
+10000867,Business Management,1,2019/20,360,11.98,9.62,10.8,Third Class Honours,2023-06-30,Graduated
+10000868,Business Management,1,2019/20,360,11.11,11.85,11.48,Third Class Honours,2023-06-30,Graduated
+10000870,Business Management,2,2019/20,240,10.94,9.76,10.35,Third Class Honours,2022-06-30,Graduated
+10000871,Business Management,1,2019/20,360,7.29,7.89,7.59,Fail,2023-06-30,Deferred
+10000872,Business Management,1,2019/20,360,11.02,10.34,10.68,Third Class Honours,2023-06-30,Graduated
+10000873,Business Management,1,2019/20,360,9.8,7.58,8.69,Borderline Fail/3rd,2023-06-30,Pending
+10000874,Business Management,1,2019/20,360,12.59,11.78,12.19,Lower Second Class Honours,2023-06-30,Graduated
+10000875,Business Management,1,2019/20,360,7.14,7.43,7.29,Fail,2023-06-30,Deferred
+10000876,Business Management,2,2019/20,240,15.63,16.0,15.81,Upper Second Class Honours,2022-06-30,Graduated
+10000877,Business Management,1,2019/20,360,13.38,10.97,12.18,Lower Second Class Honours,2023-06-30,Graduated
+10000878,Business Management,1,2019/20,360,10.44,11.38,10.91,Third Class Honours,2023-06-30,Graduated
+10000879,Business Management,1,2019/20,360,8.0,6.56,7.28,Fail,2023-06-30,Deferred
+10000880,Business Management,1,2019/20,360,10.44,10.57,10.5,Third Class Honours,2023-06-30,Graduated
+10000881,Business Management,1,2019/20,360,20.52,19.75,20.14,First Class Honours,2023-06-30,Graduated
+10000882,Business Management,1,2019/20,360,14.94,15.5,15.22,Upper Second Class Honours,2023-06-30,Graduated
+10000883,Business Management,1,2019/20,360,15.49,13.93,14.71,Borderline 2.2/2.1,2023-06-30,Graduated
+10000884,Business Management,1,2019/20,360,9.78,9.92,9.85,Third Class Honours,2023-06-30,Graduated
+10000885,Business Management,2,2019/20,240,10.36,10.63,10.5,Third Class Honours,2022-06-30,Graduated
+10000886,Business Management,1,2019/20,360,11.03,15.26,13.14,Lower Second Class Honours,2023-06-30,Graduated
+10000887,Business Management,1,2019/20,360,19.51,19.14,19.32,First Class Honours,2023-06-30,Graduated
+10000888,Business Management,3,2019/20,120,7.37,10.2,8.79,Borderline Fail/3rd,2021-06-30,Pending
+10000889,Business Management,1,2019/20,360,9.57,9.78,9.67,Third Class Honours,2023-06-30,Graduated
+10000890,Business Management,1,2019/20,360,4.57,3.7,4.13,Fail,2023-06-30,Deferred
+10000891,Business Management,2,2019/20,240,10.47,10.68,10.58,Third Class Honours,2022-06-30,Graduated
+10000893,Business Management,1,2019/20,360,19.56,21.36,20.46,First Class Honours,2023-06-30,Graduated
+10000894,Business Management,1,2019/20,360,19.74,19.86,19.8,First Class Honours,2023-06-30,Graduated
+10000895,Business Management,1,2019/20,360,11.67,15.03,13.35,Lower Second Class Honours,2023-06-30,Graduated
+10000896,Business Management,1,2019/20,360,15.4,15.03,15.22,Upper Second Class Honours,2023-06-30,Graduated
+10000897,Business Management,1,2019/20,360,15.51,15.47,15.49,Upper Second Class Honours,2023-06-30,Graduated
+10000898,Business Management,2,2019/20,240,20.73,20.0,20.36,First Class Honours,2022-06-30,Graduated
+10000900,Business Management,1,2019/20,360,11.19,11.65,11.42,Third Class Honours,2023-06-30,Graduated
+10000901,Business Management,1,2019/20,360,10.29,12.12,11.2,Third Class Honours,2023-06-30,Graduated
+10000903,Business Management,3,2019/20,120,6.37,5.26,5.81,Fail,2021-06-30,Deferred
+10000904,Business Management,1,2019/20,360,8.24,10.11,9.18,Third Class Honours,2023-06-30,Graduated
+10000905,Business Management,1,2019/20,360,14.38,15.52,14.95,Borderline 2.2/2.1,2023-06-30,Graduated
+10000906,Business Management,2,2019/20,240,19.95,19.71,19.83,First Class Honours,2022-06-30,Graduated
+10000907,Business Management,1,2019/20,360,11.84,9.63,10.74,Third Class Honours,2023-06-30,Pending
+10000908,Business Management,1,2019/20,360,15.73,11.1,13.42,Lower Second Class Honours,2023-06-30,Pending
+10000909,Business Management,1,2019/20,360,10.42,11.69,11.05,Third Class Honours,2023-06-30,Graduated
+10000910,Business Management,2,2019/20,240,4.97,7.43,6.2,Fail,2022-06-30,Deferred
+10000911,Business Management,1,2019/20,360,14.84,14.88,14.86,Borderline 2.2/2.1,2023-06-30,Graduated
+10000912,Business Management,2,2019/20,240,9.91,9.88,9.89,Third Class Honours,2022-06-30,Graduated
+10000913,Business Management,3,2019/20,120,8.68,9.88,9.28,Third Class Honours,2021-06-30,Graduated
+10000914,Business Management,2,2019/20,240,14.93,15.08,15.0,Upper Second Class Honours,2022-06-30,Graduated
+10000915,Business Management,2,2019/20,240,20.32,19.79,20.05,First Class Honours,2022-06-30,Graduated
+10000917,Business Management,1,2019/20,360,14.77,15.38,15.07,Upper Second Class Honours,2023-06-30,Graduated
+10000918,Business Management,1,2019/20,360,11.24,11.42,11.33,Third Class Honours,2023-06-30,Graduated
+10000920,Business Management,1,2019/20,360,15.25,15.0,15.13,Upper Second Class Honours,2023-06-30,Graduated
+10000921,Business Management,1,2019/20,360,12.34,12.27,12.3,Lower Second Class Honours,2023-06-30,Graduated
+10000922,Business Management,3,2019/20,120,14.53,16.2,15.36,Upper Second Class Honours,2021-06-30,Graduated
+10000923,Business Management,1,2019/20,360,5.33,5.61,5.47,Fail,2023-06-30,Deferred
+10000924,Business Management,2,2019/20,240,11.27,11.82,11.55,Borderline 3rd/2.2,2022-06-30,Graduated
+10000926,Business Management,1,2019/20,360,15.11,15.37,15.24,Upper Second Class Honours,2023-06-30,Graduated
+10000927,Business Management,2,2019/20,240,13.64,15.68,14.66,Borderline 2.2/2.1,2022-06-30,Graduated
+10000928,Business Management,1,2019/20,360,15.24,14.72,14.98,Borderline 2.2/2.1,2023-06-30,Graduated
+10000929,Business Management,3,2019/20,120,7.69,7.73,7.71,Fail,2021-06-30,Deferred
+10000930,Business Management,2,2019/20,240,15.33,15.73,15.53,Upper Second Class Honours,2022-06-30,Graduated
+10000931,Business Management,2,2019/20,240,11.46,10.1,10.78,Third Class Honours,2022-06-30,Graduated
+10000932,Business Management,2,2019/20,240,5.49,5.2,5.34,Fail,2022-06-30,Deferred
+10000933,Business Management,1,2019/20,360,7.6,10.42,9.01,Third Class Honours,2023-06-30,Graduated
+10000934,Business Management,1,2019/20,360,12.7,10.21,11.46,Third Class Honours,2023-06-30,Graduated
+10000935,Business Management,1,2019/20,360,15.23,14.1,14.67,Borderline 2.2/2.1,2023-06-30,Graduated
+10000936,Business Management,3,2019/20,120,15.65,15.1,15.38,Upper Second Class Honours,2021-06-30,Graduated
+10000937,Business Management,1,2019/20,360,14.54,15.27,14.9,Borderline 2.2/2.1,2023-06-30,Graduated
+10000938,Business Management,1,2019/20,360,10.89,12.59,11.74,Borderline 3rd/2.2,2023-06-30,Graduated
+10000939,Business Management,1,2019/20,360,11.63,8.52,10.08,Third Class Honours,2023-06-30,Pending
+10000941,Business Management,1,2019/20,360,12.06,14.2,13.13,Lower Second Class Honours,2023-06-30,Graduated
+10000942,Business Management,1,2019/20,360,10.54,11.34,10.94,Third Class Honours,2023-06-30,Graduated
+10000943,Business Management,2,2019/20,240,8.11,4.33,6.22,Fail,2022-06-30,Deferred
+10000944,Business Management,1,2019/20,360,16.84,14.46,15.65,Upper Second Class Honours,2023-06-30,Graduated
+10000945,Business Management,3,2019/20,120,12.14,9.79,10.97,Third Class Honours,2021-06-30,Graduated
+10000946,Business Management,1,2019/20,360,20.0,19.98,19.99,First Class Honours,2023-06-30,Graduated
+10000947,Business Management,1,2019/20,360,6.66,7.84,7.25,Fail,2023-06-30,Deferred
+10000948,Business Management,2,2019/20,240,10.78,8.23,9.51,Third Class Honours,2022-06-30,Pending
+10000949,Business Management,1,2019/20,360,13.95,15.03,14.49,Lower Second Class Honours,2023-06-30,Graduated
+10000950,Business Management,1,2019/20,360,14.7,14.39,14.54,Borderline 2.2/2.1,2023-06-30,Graduated
+10000951,Business Management,1,2019/20,360,11.45,11.75,11.6,Borderline 3rd/2.2,2023-06-30,Graduated
+10000952,Business Management,1,2019/20,360,10.9,7.95,9.42,Third Class Honours,2023-06-30,Pending
+10000953,Business Management,1,2019/20,360,19.69,19.54,19.61,First Class Honours,2023-06-30,Graduated
+10000954,Business Management,1,2019/20,360,5.82,4.35,5.08,Fail,2023-06-30,Deferred
+10000955,Business Management,1,2019/20,360,6.31,6.58,6.45,Fail,2023-06-30,Deferred
+10000956,Business Management,1,2019/20,360,14.56,15.32,14.94,Borderline 2.2/2.1,2023-06-30,Graduated
+10000957,Business Management,1,2019/20,360,19.77,20.28,20.02,First Class Honours,2023-06-30,Graduated
+10000958,Business Management,2,2019/20,240,10.1,11.1,10.6,Third Class Honours,2022-06-30,Graduated
+10000959,Business Management,1,2019/20,360,15.3,15.07,15.18,Upper Second Class Honours,2023-06-30,Graduated
+10000960,Business Management,1,2019/20,360,10.33,10.52,10.43,Third Class Honours,2023-06-30,Graduated
+10000961,Business Management,2,2019/20,240,10.17,11.57,10.87,Third Class Honours,2022-06-30,Graduated
+10000962,Business Management,3,2019/20,120,15.37,14.69,15.03,Upper Second Class Honours,2021-06-30,Graduated
+10000963,Business Management,2,2019/20,240,9.23,10.41,9.82,Third Class Honours,2022-06-30,Graduated
+10000964,Business Management,1,2019/20,360,5.79,4.05,4.92,Fail,2023-06-30,Deferred
+10000965,Business Management,1,2019/20,360,14.97,10.99,12.98,Lower Second Class Honours,2023-06-30,Pending
+10000966,Business Management,1,2019/20,360,12.1,10.48,11.29,Third Class Honours,2023-06-30,Graduated
+10000967,Business Management,3,2019/20,120,15.47,15.54,15.51,Upper Second Class Honours,2021-06-30,Graduated
+10000968,Business Management,1,2019/20,360,6.37,7.42,6.89,Fail,2023-06-30,Deferred
+10000969,Business Management,2,2019/20,240,11.13,11.7,11.42,Third Class Honours,2022-06-30,Graduated
+10000970,Business Management,3,2019/20,120,6.29,8.02,7.15,Fail,2021-06-30,Deferred
+10000971,Business Management,1,2019/20,360,7.47,4.41,5.94,Fail,2023-06-30,Deferred
+10000972,Business Management,1,2019/20,360,15.67,14.29,14.98,Borderline 2.2/2.1,2023-06-30,Graduated
+10000973,Business Management,1,2019/20,360,11.87,12.24,12.05,Lower Second Class Honours,2023-06-30,Graduated
+10000974,Business Management,1,2019/20,360,15.15,15.15,15.15,Upper Second Class Honours,2023-06-30,Graduated
+10000975,Business Management,1,2019/20,360,3.09,3.71,3.4,Fail,2023-06-30,Deferred
+10000976,Business Management,2,2019/20,240,10.83,9.74,10.28,Third Class Honours,2022-06-30,Graduated
+10000977,Business Management,3,2019/20,120,11.07,10.85,10.96,Third Class Honours,2021-06-30,Graduated
+10000979,Business Management,1,2019/20,360,15.7,15.29,15.49,Upper Second Class Honours,2023-06-30,Graduated
+10000980,Business Management,1,2019/20,360,11.21,9.53,10.37,Third Class Honours,2023-06-30,Graduated
+10000981,Business Management,1,2019/20,360,5.89,6.87,6.38,Fail,2023-06-30,Deferred
+10000982,Business Management,1,2019/20,360,10.79,14.93,12.86,Lower Second Class Honours,2023-06-30,Graduated
+10000984,Business Management,1,2019/20,360,10.69,10.64,10.66,Third Class Honours,2023-06-30,Graduated
+10000985,Business Management,1,2019/20,360,14.58,15.17,14.87,Borderline 2.2/2.1,2023-06-30,Graduated
+10000986,Business Management,1,2019/20,360,10.79,12.05,11.42,Third Class Honours,2023-06-30,Graduated
+10000987,Business Management,1,2019/20,360,11.4,11.42,11.41,Third Class Honours,2023-06-30,Graduated
+10000988,Business Management,1,2019/20,360,15.74,14.72,15.23,Upper Second Class Honours,2023-06-30,Graduated
+10000989,Business Management,1,2019/20,360,14.26,15.25,14.75,Borderline 2.2/2.1,2023-06-30,Graduated
+10000990,Business Management,1,2019/20,360,15.03,15.61,15.32,Upper Second Class Honours,2023-06-30,Graduated
+10000991,Business Management,1,2019/20,360,10.61,11.3,10.95,Third Class Honours,2023-06-30,Graduated
+10000992,Business Management,1,2019/20,360,10.71,12.54,11.63,Borderline 3rd/2.2,2023-06-30,Graduated
+10000993,Business Management,1,2019/20,360,14.69,15.11,14.9,Borderline 2.2/2.1,2023-06-30,Graduated
+10000994,Business Management,1,2019/20,360,11.6,10.37,10.98,Third Class Honours,2023-06-30,Graduated
+10000995,Business Management,1,2019/20,360,19.64,20.37,20.0,First Class Honours,2023-06-30,Graduated
+10000996,Business Management,1,2019/20,360,12.99,10.33,11.66,Borderline 3rd/2.2,2023-06-30,Graduated
+10000998,Business Management,1,2019/20,360,10.17,11.98,11.07,Third Class Honours,2023-06-30,Graduated
+10000999,Business Management,3,2019/20,120,14.93,14.74,14.83,Borderline 2.2/2.1,2021-06-30,Graduated
+10001001,Business Management,1,2019/20,360,9.9,11.53,10.71,Third Class Honours,2023-06-30,Graduated
+10001002,Business Management,1,2019/20,360,6.58,3.96,5.27,Fail,2023-06-30,Deferred
+10001003,Business Management,1,2019/20,360,14.02,15.36,14.69,Borderline 2.2/2.1,2023-06-30,Graduated
+10001004,Business Management,1,2019/20,360,19.9,20.07,19.98,First Class Honours,2023-06-30,Graduated
+10001006,Business Management,3,2019/20,120,10.86,11.57,11.21,Third Class Honours,2021-06-30,Graduated
+10001007,Business Management,1,2019/20,360,5.36,5.75,5.56,Fail,2023-06-30,Deferred
+10001008,Business Management,1,2019/20,360,5.79,6.07,5.93,Fail,2023-06-30,Deferred
+10001009,Business Management,1,2019/20,360,15.11,13.55,14.33,Lower Second Class Honours,2023-06-30,Graduated
+10001010,Business Management,2,2019/20,240,11.48,10.25,10.87,Third Class Honours,2022-06-30,Graduated
+10001011,Business Management,2,2019/20,240,13.86,15.1,14.48,Lower Second Class Honours,2022-06-30,Graduated
+10001012,Business Management,1,2019/20,360,10.38,10.0,10.19,Third Class Honours,2023-06-30,Graduated
+10001013,Business Management,1,2019/20,360,15.24,15.09,15.17,Upper Second Class Honours,2023-06-30,Graduated
+10001015,Business Management,2,2019/20,240,14.62,14.12,14.37,Lower Second Class Honours,2022-06-30,Graduated
+10001017,Business Management,1,2019/20,360,4.95,6.59,5.77,Fail,2023-06-30,Deferred
+10001018,Business Management,1,2019/20,360,13.88,15.5,14.69,Borderline 2.2/2.1,2023-06-30,Graduated
+10001019,Business Management,1,2019/20,360,10.68,10.99,10.84,Third Class Honours,2023-06-30,Graduated
+10001020,Business Management,1,2019/20,360,11.52,8.06,9.79,Third Class Honours,2023-06-30,Pending
+10001021,Business Management,1,2019/20,360,7.57,5.07,6.32,Fail,2023-06-30,Deferred
+10001022,Business Management,3,2019/20,120,6.74,9.07,7.91,Fail,2021-06-30,Deferred
+10001023,Business Management,1,2019/20,360,5.6,2.9,4.25,Fail,2023-06-30,Deferred
+10001024,Business Management,1,2019/20,360,15.3,15.49,15.4,Upper Second Class Honours,2023-06-30,Graduated
+10001025,Business Management,2,2019/20,240,14.36,11.75,13.06,Lower Second Class Honours,2022-06-30,Pending
+10001026,Business Management,1,2019/20,360,11.35,10.95,11.15,Third Class Honours,2023-06-30,Graduated
+10001027,Business Management,1,2019/20,360,11.48,11.47,11.48,Third Class Honours,2023-06-30,Graduated
+10001028,Business Management,1,2019/20,360,8.89,5.78,7.33,Fail,2023-06-30,Deferred
+10001029,Business Management,1,2019/20,360,19.92,19.7,19.81,First Class Honours,2023-06-30,Graduated
+10001030,Business Management,2,2019/20,240,19.54,20.59,20.07,First Class Honours,2022-06-30,Graduated
+10001031,Business Management,1,2019/20,360,10.6,7.77,9.18,Third Class Honours,2023-06-30,Pending
+10001032,Business Management,1,2019/20,360,4.97,4.12,4.54,Fail,2023-06-30,Deferred
+10001033,Business Management,1,2019/20,360,6.79,5.46,6.12,Fail,2023-06-30,Deferred
+10001035,Business Management,1,2019/20,360,14.56,14.32,14.44,Lower Second Class Honours,2023-06-30,Graduated
+10001036,Business Management,3,2019/20,120,19.52,19.82,19.67,First Class Honours,2021-06-30,Graduated
+10001038,Business Management,1,2019/20,360,4.63,4.89,4.76,Fail,2023-06-30,Deferred
+10001039,Business Management,3,2019/20,120,14.67,15.6,15.13,Upper Second Class Honours,2021-06-30,Graduated
+10001040,Business Management,3,2019/20,120,11.31,11.74,11.53,Borderline 3rd/2.2,2021-06-30,Graduated
+10001041,Business Management,3,2019/20,120,6.39,7.08,6.73,Fail,2021-06-30,Deferred
+10001042,Business Management,3,2019/20,120,15.17,20.02,17.59,Borderline 2.1/1st,2021-06-30,Graduated
+10001043,Business Management,1,2019/20,360,11.68,11.61,11.64,Borderline 3rd/2.2,2023-06-30,Graduated
+10001044,Business Management,1,2019/20,360,13.83,15.02,14.42,Lower Second Class Honours,2023-06-30,Graduated
+10001045,Business Management,3,2019/20,120,14.68,15.28,14.98,Borderline 2.2/2.1,2021-06-30,Graduated
+10001046,Business Management,1,2019/20,360,19.5,14.45,16.98,Upper Second Class Honours,2023-06-30,Pending
+10001047,Business Management,3,2019/20,120,9.89,10.04,9.96,Third Class Honours,2021-06-30,Graduated
+10001048,Business Management,1,2019/20,360,9.97,11.77,10.87,Third Class Honours,2023-06-30,Graduated
+10001219,Accountancy & Finance,1,2020/21,360,11.59,11.12,11.35,Third Class Honours,2024-06-30,Graduated
+10001220,Accountancy & Finance,1,2020/21,360,14.69,14.73,14.71,Borderline 2.2/2.1,2024-06-30,Graduated
+10001221,Accountancy & Finance,2,2020/21,240,20.17,19.81,19.99,First Class Honours,2023-06-30,Graduated
+10001222,Accountancy & Finance,2,2020/21,240,4.34,5.12,4.73,Fail,2023-06-30,Deferred
+10001223,Accountancy & Finance,1,2020/21,360,11.14,8.07,9.6,Third Class Honours,2024-06-30,Pending
+10001224,Accountancy & Finance,1,2020/21,360,15.28,14.88,15.08,Upper Second Class Honours,2024-06-30,Graduated
+10001225,Accountancy & Finance,1,2020/21,360,6.04,4.03,5.04,Fail,2024-06-30,Deferred
+10001226,Accountancy & Finance,1,2020/21,360,20.08,13.49,16.78,Upper Second Class Honours,2024-06-30,Pending
+10001227,Accountancy & Finance,1,2020/21,360,15.07,15.55,15.31,Upper Second Class Honours,2024-06-30,Graduated
+10001228,Accountancy & Finance,1,2020/21,360,14.36,15.29,14.83,Borderline 2.2/2.1,2024-06-30,Graduated
+10001229,Accountancy & Finance,1,2020/21,360,15.52,15.12,15.32,Upper Second Class Honours,2024-06-30,Graduated
+10001230,Accountancy & Finance,1,2020/21,360,19.69,20.27,19.98,First Class Honours,2024-06-30,Graduated
+10001231,Accountancy & Finance,2,2020/21,240,10.42,10.06,10.24,Third Class Honours,2023-06-30,Pending
+10001232,Accountancy & Finance,1,2020/21,360,5.09,7.6,6.34,Fail,2024-06-30,Deferred
+10001233,Accountancy & Finance,1,2020/21,360,11.34,8.38,9.86,Third Class Honours,2024-06-30,Pending
+10001234,Accountancy & Finance,1,2020/21,360,14.6,15.36,14.98,Borderline 2.2/2.1,2024-06-30,Graduated
+10001235,Accountancy & Finance,1,2020/21,360,14.21,14.48,14.35,Lower Second Class Honours,2024-06-30,Graduated
+10001236,Accountancy & Finance,1,2020/21,360,14.99,14.3,14.64,Borderline 2.2/2.1,2024-06-30,Graduated
+10001237,Accountancy & Finance,1,2020/21,360,10.61,10.73,10.67,Third Class Honours,2024-06-30,Graduated
+10001238,Accountancy & Finance,2,2020/21,240,11.17,9.48,10.32,Third Class Honours,2023-06-30,Pending
+10001239,Accountancy & Finance,1,2020/21,360,14.86,15.64,15.25,Upper Second Class Honours,2024-06-30,Graduated
+10001241,Accountancy & Finance,2,2020/21,240,8.1,9.3,8.7,Borderline Fail/3rd,2023-06-30,Pending
+10001242,Accountancy & Finance,1,2020/21,360,13.98,16.05,15.02,Upper Second Class Honours,2024-06-30,Graduated
+10001243,Accountancy & Finance,1,2020/21,360,11.23,15.18,13.2,Lower Second Class Honours,2024-06-30,Graduated
+10001245,Accountancy & Finance,1,2020/21,360,14.96,15.44,15.2,Upper Second Class Honours,2024-06-30,Graduated
+10001247,Accountancy & Finance,3,2020/21,120,11.5,10.36,10.93,Third Class Honours,2022-06-30,Graduated
+10001248,Accountancy & Finance,1,2020/21,360,5.99,6.75,6.37,Fail,2024-06-30,Deferred
+10001249,Accountancy & Finance,1,2020/21,360,14.66,14.07,14.37,Lower Second Class Honours,2024-06-30,Graduated
+10001251,Accountancy & Finance,1,2020/21,360,10.95,10.91,10.93,Third Class Honours,2024-06-30,Graduated
+10001252,Accountancy & Finance,2,2020/21,240,14.93,15.89,15.41,Upper Second Class Honours,2023-06-30,Graduated
+10001253,Accountancy & Finance,1,2020/21,360,10.42,11.73,11.08,Third Class Honours,2024-06-30,Graduated
+10001254,Accountancy & Finance,2,2020/21,240,10.19,9.64,9.92,Third Class Honours,2023-06-30,Pending
+10001255,Accountancy & Finance,1,2020/21,360,11.6,11.23,11.41,Third Class Honours,2024-06-30,Graduated
+10001256,Accountancy & Finance,1,2020/21,360,20.16,20.33,20.25,First Class Honours,2024-06-30,Graduated
+10001257,Accountancy & Finance,3,2020/21,120,10.54,10.09,10.31,Third Class Honours,2022-06-30,Graduated
+10001259,Accountancy & Finance,1,2020/21,360,6.63,5.36,6.0,Fail,2024-06-30,Deferred
+10001261,Accountancy & Finance,2,2020/21,240,11.59,10.68,11.14,Third Class Honours,2023-06-30,Pending
+10001262,Accountancy & Finance,1,2020/21,360,10.46,10.46,10.46,Third Class Honours,2024-06-30,Graduated
+10001263,Accountancy & Finance,2,2020/21,240,12.04,13.23,12.64,Lower Second Class Honours,2023-06-30,Pending
+10001264,Accountancy & Finance,1,2020/21,360,10.55,10.9,10.73,Third Class Honours,2024-06-30,Graduated
+10001265,Accountancy & Finance,1,2020/21,360,10.47,10.49,10.48,Third Class Honours,2024-06-30,Graduated
+10001266,Accountancy & Finance,1,2020/21,360,10.43,11.54,10.98,Third Class Honours,2024-06-30,Graduated
+10001267,Accountancy & Finance,1,2020/21,360,10.54,10.64,10.59,Third Class Honours,2024-06-30,Graduated
+10001268,Accountancy & Finance,3,2020/21,120,10.31,11.1,10.7,Third Class Honours,2022-06-30,Graduated
+10001269,Accountancy & Finance,1,2020/21,360,11.66,10.76,11.21,Third Class Honours,2024-06-30,Pending
+10001270,Accountancy & Finance,1,2020/21,360,11.46,10.83,11.14,Third Class Honours,2024-06-30,Graduated
+10001271,Accountancy & Finance,1,2020/21,360,6.09,5.84,5.97,Fail,2024-06-30,Deferred
+10001272,Accountancy & Finance,2,2020/21,240,9.18,11.79,10.48,Third Class Honours,2023-06-30,Graduated
+10001273,Accountancy & Finance,1,2020/21,360,14.55,15.4,14.97,Borderline 2.2/2.1,2024-06-30,Graduated
+10001274,Accountancy & Finance,3,2020/21,120,15.42,15.04,15.23,Upper Second Class Honours,2022-06-30,Graduated
+10001275,Accountancy & Finance,1,2020/21,360,10.62,11.5,11.06,Third Class Honours,2024-06-30,Graduated
+10001276,Accountancy & Finance,2,2020/21,240,9.93,12.63,11.28,Third Class Honours,2023-06-30,Graduated
+10001278,Accountancy & Finance,1,2020/21,360,15.51,16.19,15.85,Upper Second Class Honours,2024-06-30,Graduated
+10001279,Accountancy & Finance,3,2020/21,120,9.8,10.19,9.99,Third Class Honours,2022-06-30,Graduated
+10001280,Accountancy & Finance,1,2020/21,360,14.07,14.31,14.19,Lower Second Class Honours,2024-06-30,Graduated
+10001281,Accountancy & Finance,1,2020/21,360,20.34,19.93,20.14,First Class Honours,2024-06-30,Graduated
+10001282,Accountancy & Finance,1,2020/21,360,11.01,10.5,10.76,Third Class Honours,2024-06-30,Graduated
+10001284,Accountancy & Finance,3,2020/21,120,10.75,10.59,10.67,Third Class Honours,2022-06-30,Graduated
+10001285,Accountancy & Finance,1,2020/21,360,6.48,5.86,6.17,Fail,2024-06-30,Deferred
+10001286,Accountancy & Finance,1,2020/21,360,10.95,11.06,11.01,Third Class Honours,2024-06-30,Graduated
+10001288,Accountancy & Finance,1,2020/21,360,10.95,11.06,11.0,Third Class Honours,2024-06-30,Graduated
+10001289,Accountancy & Finance,1,2020/21,360,11.38,14.4,12.89,Lower Second Class Honours,2024-06-30,Graduated
+10001290,Accountancy & Finance,3,2020/21,120,9.75,11.14,10.45,Third Class Honours,2022-06-30,Graduated
+10001291,Accountancy & Finance,3,2020/21,120,11.85,11.25,11.55,Borderline 3rd/2.2,2022-06-30,Graduated
+10001292,Accountancy & Finance,2,2020/21,240,14.48,13.75,14.12,Lower Second Class Honours,2023-06-30,Pending
+10001293,Accountancy & Finance,1,2020/21,360,20.39,19.79,20.09,First Class Honours,2024-06-30,Graduated
+10001294,Accountancy & Finance,1,2020/21,360,6.56,4.82,5.69,Fail,2024-06-30,Deferred
+10001295,Accountancy & Finance,1,2020/21,360,19.59,20.44,20.01,First Class Honours,2024-06-30,Graduated
+10001296,Accountancy & Finance,1,2020/21,360,5.91,6.01,5.96,Fail,2024-06-30,Deferred
+10001297,Accountancy & Finance,1,2020/21,360,4.32,6.48,5.4,Fail,2024-06-30,Deferred
+10001298,Accountancy & Finance,2,2020/21,240,10.89,11.48,11.19,Third Class Honours,2023-06-30,Graduated
+10001299,Accountancy & Finance,1,2020/21,360,5.72,6.37,6.05,Fail,2024-06-30,Deferred
+10001300,Accountancy & Finance,1,2020/21,360,5.68,5.82,5.75,Fail,2024-06-30,Deferred
+10001301,Accountancy & Finance,1,2020/21,360,10.49,8.82,9.65,Third Class Honours,2024-06-30,Pending
+10001302,Accountancy & Finance,3,2020/21,120,15.09,15.15,15.12,Upper Second Class Honours,2022-06-30,Graduated
+10001304,Accountancy & Finance,3,2020/21,120,19.98,20.0,19.99,First Class Honours,2022-06-30,Graduated
+10001305,Accountancy & Finance,1,2020/21,360,11.62,11.28,11.45,Third Class Honours,2024-06-30,Graduated
+10001306,Accountancy & Finance,1,2020/21,360,15.22,15.27,15.25,Upper Second Class Honours,2024-06-30,Graduated
+10001307,Accountancy & Finance,3,2020/21,120,11.66,9.21,10.43,Third Class Honours,2022-06-30,Graduated
+10001308,Accountancy & Finance,1,2020/21,360,10.99,9.53,10.26,Third Class Honours,2024-06-30,Pending
+10001309,Accountancy & Finance,2,2020/21,240,10.9,11.17,11.03,Third Class Honours,2023-06-30,Graduated
+10001310,Accountancy & Finance,2,2020/21,240,11.04,10.44,10.74,Third Class Honours,2023-06-30,Graduated
+10001311,Accountancy & Finance,1,2020/21,360,4.88,4.5,4.69,Fail,2024-06-30,Deferred
+10001312,Accountancy & Finance,3,2020/21,120,20.0,20.45,20.23,First Class Honours,2022-06-30,Graduated
+10001313,Business Management,1,2020/21,360,14.03,14.47,14.25,Lower Second Class Honours,2024-06-30,Graduated
+10001314,Business Management,2,2020/21,240,20.18,18.59,19.38,First Class Honours,2023-06-30,Graduated
+10001315,Business Management,3,2020/21,120,6.94,6.51,6.72,Fail,2022-06-30,Deferred
+10001316,Business Management,1,2020/21,360,10.18,8.77,9.48,Third Class Honours,2024-06-30,Pending
+10001317,Business Management,1,2020/21,360,5.52,6.33,5.93,Fail,2024-06-30,Deferred
+10001318,Business Management,3,2020/21,120,14.88,15.24,15.06,Upper Second Class Honours,2022-06-30,Graduated
+10001319,Business Management,1,2020/21,360,20.75,19.84,20.3,First Class Honours,2024-06-30,Graduated
+10001320,Business Management,1,2020/21,360,10.2,11.47,10.83,Third Class Honours,2024-06-30,Graduated
+10001321,Business Management,1,2020/21,360,3.58,4.68,4.13,Fail,2024-06-30,Deferred
+10001322,Business Management,1,2020/21,360,14.9,15.82,15.36,Upper Second Class Honours,2024-06-30,Graduated
+10001323,Business Management,1,2020/21,360,14.8,14.1,14.45,Lower Second Class Honours,2024-06-30,Graduated
+10001324,Business Management,1,2020/21,360,20.13,20.48,20.31,First Class Honours,2024-06-30,Graduated
+10001325,Business Management,3,2020/21,120,3.1,6.15,4.63,Fail,2022-06-30,Deferred
+10001326,Business Management,1,2020/21,360,15.46,13.96,14.71,Borderline 2.2/2.1,2024-06-30,Graduated
+10001327,Business Management,1,2020/21,360,15.99,11.29,13.64,Lower Second Class Honours,2024-06-30,Pending
+10001328,Business Management,1,2020/21,360,20.61,19.76,20.18,First Class Honours,2024-06-30,Graduated
+10001329,Business Management,1,2020/21,360,5.88,7.38,6.62,Fail,2024-06-30,Deferred
+10001330,Business Management,1,2020/21,360,14.51,20.24,17.37,Upper Second Class Honours,2024-06-30,Graduated
+10001331,Business Management,2,2020/21,240,15.03,14.01,14.52,Borderline 2.2/2.1,2023-06-30,Graduated
+10001332,Business Management,1,2020/21,360,11.29,11.23,11.26,Third Class Honours,2024-06-30,Graduated
+10001335,Business Management,3,2020/21,120,15.13,15.49,15.31,Upper Second Class Honours,2022-06-30,Graduated
+10001336,Business Management,3,2020/21,120,9.63,9.04,9.33,Third Class Honours,2022-06-30,Pending
+10001338,Business Management,2,2020/21,240,13.87,14.76,14.32,Lower Second Class Honours,2023-06-30,Graduated
+10001339,Business Management,1,2020/21,360,14.72,19.69,17.2,Upper Second Class Honours,2024-06-30,Graduated
+10001340,Business Management,1,2020/21,360,15.39,15.2,15.29,Upper Second Class Honours,2024-06-30,Graduated
+10001341,Business Management,1,2020/21,360,7.9,15.33,11.61,Borderline 3rd/2.2,2024-06-30,Graduated
+10001343,Business Management,2,2020/21,240,19.96,19.93,19.95,First Class Honours,2023-06-30,Graduated
+10001345,Business Management,1,2020/21,360,11.61,15.58,13.59,Lower Second Class Honours,2024-06-30,Graduated
+10001346,Business Management,1,2020/21,360,2.95,4.73,3.84,Fail,2024-06-30,Deferred
+10001347,Business Management,2,2020/21,240,7.61,6.21,6.91,Fail,2023-06-30,Deferred
+10001348,Business Management,1,2020/21,360,19.83,20.34,20.09,First Class Honours,2024-06-30,Graduated
+10001349,Business Management,1,2020/21,360,11.81,10.8,11.3,Third Class Honours,2024-06-30,Graduated
+10001351,Business Management,1,2020/21,360,5.91,6.35,6.13,Fail,2024-06-30,Deferred
+10001352,Business Management,1,2020/21,360,12.06,14.61,13.33,Lower Second Class Honours,2024-06-30,Graduated
+10001353,Business Management,1,2020/21,360,11.99,15.96,13.97,Lower Second Class Honours,2024-06-30,Graduated
+10001354,Business Management,3,2020/21,120,15.03,15.18,15.1,Upper Second Class Honours,2022-06-30,Graduated
+10001355,Business Management,2,2020/21,240,19.96,19.9,19.93,First Class Honours,2023-06-30,Graduated
+10001358,Business Management,1,2020/21,360,11.63,7.97,9.8,Third Class Honours,2024-06-30,Pending
+10001360,Business Management,3,2020/21,120,7.23,11.35,9.29,Third Class Honours,2022-06-30,Pending
+10001361,Business Management,1,2020/21,360,19.55,15.61,17.58,Borderline 2.1/1st,2024-06-30,Pending
+10001362,Business Management,3,2020/21,120,10.88,8.02,9.45,Third Class Honours,2022-06-30,Pending
+10001363,Business Management,1,2020/21,360,15.88,11.29,13.58,Lower Second Class Honours,2024-06-30,Pending
+10001365,Business Management,1,2020/21,360,10.84,11.04,10.94,Third Class Honours,2024-06-30,Graduated
+10001366,Business Management,1,2020/21,360,20.26,19.32,19.79,First Class Honours,2024-06-30,Graduated
+10001369,Business Management,3,2020/21,120,15.03,11.86,13.45,Lower Second Class Honours,2022-06-30,Pending
+10001370,Business Management,2,2020/21,240,5.84,5.45,5.64,Fail,2023-06-30,Deferred
+10001371,Business Management,1,2020/21,360,16.1,15.64,15.87,Upper Second Class Honours,2024-06-30,Graduated
+10001372,Business Management,1,2020/21,360,20.51,20.23,20.37,First Class Honours,2024-06-30,Graduated
+10001374,Business Management,1,2020/21,360,19.71,19.62,19.66,First Class Honours,2024-06-30,Graduated
+10001375,Business Management,1,2020/21,360,2.83,7.72,5.28,Fail,2024-06-30,Deferred
+10001376,Business Management,1,2020/21,360,20.15,19.57,19.86,First Class Honours,2024-06-30,Graduated
+10001377,Business Management,3,2020/21,120,19.59,20.17,19.88,First Class Honours,2022-06-30,Graduated
+10001378,Business Management,1,2020/21,360,15.59,15.93,15.76,Upper Second Class Honours,2024-06-30,Graduated
+10001379,Business Management,2,2020/21,240,16.17,14.71,15.44,Upper Second Class Honours,2023-06-30,Graduated
+10001380,Business Management,2,2020/21,240,10.95,10.84,10.9,Third Class Honours,2023-06-30,Graduated
+10001381,Business Management,1,2020/21,360,19.62,20.37,19.99,First Class Honours,2024-06-30,Graduated
+10001383,Business Management,1,2020/21,360,10.31,10.75,10.53,Third Class Honours,2024-06-30,Graduated
+10001384,Business Management,1,2020/21,360,16.4,11.65,14.03,Lower Second Class Honours,2024-06-30,Pending
+10001385,Business Management,2,2020/21,240,15.6,14.6,15.1,Upper Second Class Honours,2023-06-30,Graduated
+10001386,Business Management,1,2020/21,360,14.6,14.38,14.49,Lower Second Class Honours,2024-06-30,Graduated
+10001388,Business Management,3,2020/21,120,11.61,12.22,11.92,Borderline 3rd/2.2,2022-06-30,Graduated
+10001389,Business Management,3,2020/21,120,10.75,8.27,9.51,Third Class Honours,2022-06-30,Pending
+10001390,Business Management,1,2020/21,360,10.88,10.21,10.55,Third Class Honours,2024-06-30,Graduated
+10001391,Business Management,1,2020/21,360,10.91,16.24,13.57,Lower Second Class Honours,2024-06-30,Graduated
+10001392,Business Management,1,2020/21,360,11.88,11.0,11.44,Third Class Honours,2024-06-30,Graduated
+10001394,Business Management,2,2020/21,240,19.67,20.16,19.91,First Class Honours,2023-06-30,Graduated
+10001395,Business Management,1,2020/21,360,10.26,10.86,10.56,Third Class Honours,2024-06-30,Graduated
+10001397,Business Management,2,2020/21,240,20.21,19.61,19.91,First Class Honours,2023-06-30,Graduated
+10001398,Business Management,2,2020/21,240,9.85,10.75,10.3,Third Class Honours,2023-06-30,Graduated
+10001399,Business Management,1,2020/21,360,5.36,6.82,6.09,Fail,2024-06-30,Deferred
+10001400,Business Management,1,2020/21,360,11.1,11.57,11.33,Third Class Honours,2024-06-30,Graduated
+10001401,Business Management,1,2020/21,360,14.51,14.3,14.41,Lower Second Class Honours,2024-06-30,Graduated
+10001402,Business Management,1,2020/21,360,7.69,3.91,5.8,Fail,2024-06-30,Deferred
+10001403,Business Management,3,2020/21,120,20.11,15.41,17.76,Borderline 2.1/1st,2022-06-30,Pending
+10001404,Business Management,2,2020/21,240,14.94,15.46,15.2,Upper Second Class Honours,2023-06-30,Graduated
+10001405,Business Management,1,2020/21,360,14.16,10.49,12.33,Lower Second Class Honours,2024-06-30,Pending
+10001406,Business Management,1,2020/21,360,11.59,10.96,11.27,Third Class Honours,2024-06-30,Graduated
+10001407,Business Management,1,2020/21,360,14.78,11.63,13.21,Lower Second Class Honours,2024-06-30,Pending
+10001408,Business Management,1,2020/21,360,7.67,8.04,7.86,Fail,2024-06-30,Deferred
+10001409,Business Management,2,2020/21,240,19.69,20.04,19.86,First Class Honours,2023-06-30,Graduated
+10001410,Business Management,3,2020/21,120,19.05,19.92,19.48,First Class Honours,2022-06-30,Graduated
+10001411,Business Management,3,2020/21,120,10.96,11.86,11.41,Third Class Honours,2022-06-30,Graduated
+10001412,Business Management,2,2020/21,240,20.27,20.18,20.23,First Class Honours,2023-06-30,Graduated
+10001413,Business Management,1,2020/21,360,11.23,14.96,13.09,Lower Second Class Honours,2024-06-30,Graduated
+10001414,Business Management,1,2020/21,360,8.8,7.23,8.02,Fail,2024-06-30,Deferred
+10001415,Business Management,1,2020/21,360,9.93,10.38,10.15,Third Class Honours,2024-06-30,Graduated
+10001416,Business Management,1,2020/21,360,14.68,14.54,14.61,Borderline 2.2/2.1,2024-06-30,Graduated
+10001417,Business Management,1,2020/21,360,5.13,7.16,6.14,Fail,2024-06-30,Deferred
+10001418,Business Management,1,2020/21,360,11.36,9.76,10.56,Third Class Honours,2024-06-30,Pending
+10001419,Business Management,1,2020/21,360,14.64,15.26,14.95,Borderline 2.2/2.1,2024-06-30,Graduated
+10001420,Business Management,2,2020/21,240,10.18,11.0,10.59,Third Class Honours,2023-06-30,Graduated
+10001421,Business Management,3,2020/21,120,20.38,20.63,20.51,First Class Honours,2022-06-30,Graduated
+10001422,Business Management,1,2020/21,360,10.63,12.04,11.34,Third Class Honours,2024-06-30,Graduated
+10001424,Business Management,1,2020/21,360,12.53,11.45,11.99,Borderline 3rd/2.2,2024-06-30,Graduated
+10001425,Business Management,2,2020/21,240,11.06,8.37,9.71,Third Class Honours,2023-06-30,Pending
+10001427,Business Management and International Relations,1,2020/21,360,15.55,11.04,13.29,Lower Second Class Honours,2024-06-30,Pending
+10001429,Business Management and International Relations,1,2020/21,360,14.23,14.29,14.26,Lower Second Class Honours,2024-06-30,Graduated
+10001430,Business Management and International Relations,1,2020/21,360,14.81,14.53,14.67,Borderline 2.2/2.1,2024-06-30,Graduated
+10001432,Business Management and International Relations,1,2020/21,360,16.05,14.66,15.36,Upper Second Class Honours,2024-06-30,Graduated
+10001433,Business Management and International Relations,2,2020/21,240,20.71,19.78,20.24,First Class Honours,2023-06-30,Graduated
+10001434,Business Management and International Relations,1,2020/21,360,13.87,14.2,14.04,Lower Second Class Honours,2024-06-30,Graduated
+10001435,Business Management and International Relations,1,2020/21,360,10.78,12.72,11.75,Borderline 3rd/2.2,2024-06-30,Graduated
+10001436,Business Management and International Relations,3,2020/21,120,14.79,7.22,11.0,Third Class Honours,2022-06-30,Pending
+10001437,Business Management and International Relations,1,2020/21,360,15.46,15.04,15.25,Upper Second Class Honours,2024-06-30,Graduated
+10001438,Business Management and International Relations,1,2020/21,360,6.23,7.69,6.96,Fail,2024-06-30,Deferred
+10001439,Business Management and International Relations,1,2020/21,360,20.03,19.74,19.89,First Class Honours,2024-06-30,Graduated
+10001440,Business Management and International Relations,1,2020/21,360,11.21,11.6,11.41,Third Class Honours,2024-06-30,Graduated
+10001441,Business Management and International Relations,1,2020/21,360,20.2,21.02,20.61,First Class Honours,2024-06-30,Graduated
+10001442,Business Management and International Relations,3,2020/21,120,19.84,20.8,20.32,First Class Honours,2022-06-30,Graduated
+10001443,Business Management and International Relations,2,2020/21,240,11.11,11.47,11.29,Third Class Honours,2023-06-30,Graduated
+10001444,Business Management and International Relations,1,2020/21,360,11.43,11.6,11.52,Borderline 3rd/2.2,2024-06-30,Graduated
+10001445,Business Management and International Relations,1,2020/21,360,10.39,11.04,10.72,Third Class Honours,2024-06-30,Graduated
+10001446,Business Management and International Relations,1,2020/21,360,11.09,7.91,9.5,Third Class Honours,2024-06-30,Pending
+10001447,Business Management and International Relations,1,2020/21,360,11.85,11.14,11.49,Third Class Honours,2024-06-30,Graduated
+10001448,Business Management and International Relations,1,2020/21,360,14.82,15.41,15.12,Upper Second Class Honours,2024-06-30,Graduated
+10001449,Business Management and International Relations,1,2020/21,360,20.47,20.4,20.43,First Class Honours,2024-06-30,Graduated
+10001450,Business Management and International Relations,1,2020/21,360,15.41,14.11,14.76,Borderline 2.2/2.1,2024-06-30,Graduated
+10001451,Business Management and International Relations,1,2020/21,360,11.93,10.99,11.46,Third Class Honours,2024-06-30,Graduated
+10001452,Business Management and International Relations,1,2020/21,360,10.95,12.19,11.57,Borderline 3rd/2.2,2024-06-30,Graduated
+10001455,Business Management and International Relations,1,2020/21,360,7.16,5.07,6.11,Fail,2024-06-30,Deferred
+10001456,Business Management and International Relations,1,2020/21,360,10.58,11.27,10.93,Third Class Honours,2024-06-30,Graduated
+10001457,Business Management and International Relations,1,2020/21,360,11.33,15.14,13.24,Lower Second Class Honours,2024-06-30,Graduated
+10001458,Business Management and International Relations,1,2020/21,360,9.37,9.61,9.49,Third Class Honours,2024-06-30,Graduated
+10001459,Business Management and International Relations,1,2020/21,360,14.42,15.03,14.72,Borderline 2.2/2.1,2024-06-30,Graduated
+10001460,Business Management and International Relations,1,2020/21,360,10.08,10.58,10.33,Third Class Honours,2024-06-30,Graduated
+10001462,Business Management and International Relations,1,2020/21,360,15.23,20.04,17.63,Borderline 2.1/1st,2024-06-30,Graduated
+10001463,Business Management and International Relations,1,2020/21,360,11.23,8.28,9.75,Third Class Honours,2024-06-30,Pending
+10001464,Business Management and International Relations,1,2020/21,360,15.03,15.9,15.46,Upper Second Class Honours,2024-06-30,Graduated
+10001465,Business Management and International Relations,3,2020/21,120,11.74,10.57,11.16,Third Class Honours,2022-06-30,Graduated
+10001466,Business Management and International Relations,1,2020/21,360,11.7,7.83,9.76,Third Class Honours,2024-06-30,Pending
+10001467,Business Management and International Relations,1,2020/21,360,10.57,9.09,9.83,Third Class Honours,2024-06-30,Pending
+10001468,Business Management and International Relations,1,2020/21,360,10.66,9.17,9.92,Third Class Honours,2024-06-30,Pending
+10001469,Business Management and International Relations,1,2020/21,360,6.27,7.69,6.98,Fail,2024-06-30,Deferred
+10001470,Business Management and International Relations,1,2020/21,360,8.53,11.35,9.94,Third Class Honours,2024-06-30,Graduated
+10001471,Business Management and International Relations,1,2020/21,360,10.69,7.31,9.0,Third Class Honours,2024-06-30,Pending
+10001472,Business Management and International Relations,1,2020/21,360,11.09,11.61,11.35,Third Class Honours,2024-06-30,Graduated
+10001473,Business Management and International Relations,1,2020/21,360,20.0,19.38,19.69,First Class Honours,2024-06-30,Graduated
+10001474,Business Management and International Relations,1,2020/21,360,6.32,6.62,6.47,Fail,2024-06-30,Deferred
+10001475,Business Management and International Relations,1,2020/21,360,10.84,9.69,10.27,Third Class Honours,2024-06-30,Pending
+10001476,Business Management and International Relations,1,2020/21,360,12.33,14.7,13.52,Lower Second Class Honours,2024-06-30,Graduated
+10001477,Business Management and International Relations,1,2020/21,360,14.85,15.68,15.27,Upper Second Class Honours,2024-06-30,Graduated
+10001478,Business Management and International Relations,1,2020/21,360,10.73,11.01,10.87,Third Class Honours,2024-06-30,Graduated
+10001479,Business Management and International Relations,2,2020/21,240,14.75,14.81,14.78,Borderline 2.2/2.1,2023-06-30,Graduated
+10001480,Business Management and International Relations,1,2020/21,360,16.93,15.33,16.13,Upper Second Class Honours,2024-06-30,Graduated
+10001481,Business Management and International Relations,2,2020/21,240,20.58,19.82,20.2,First Class Honours,2023-06-30,Graduated
+10001482,Business Management and International Relations,1,2020/21,360,5.74,4.03,4.88,Fail,2024-06-30,Deferred
+10001483,Business Management and International Relations,1,2020/21,360,10.79,11.61,11.2,Third Class Honours,2024-06-30,Graduated
+10001484,Business Management and International Relations,1,2020/21,360,15.03,14.78,14.9,Borderline 2.2/2.1,2024-06-30,Graduated
+10001485,Business Management and International Relations,3,2020/21,120,20.29,20.01,20.15,First Class Honours,2022-06-30,Graduated
+10001486,Business Management and International Relations,1,2020/21,360,10.22,13.2,11.71,Borderline 3rd/2.2,2024-06-30,Graduated
+10001487,Business Management and International Relations,2,2020/21,240,20.34,19.51,19.92,First Class Honours,2023-06-30,Graduated
+10001488,Business Management and International Relations,1,2020/21,360,11.56,12.84,12.2,Lower Second Class Honours,2024-06-30,Graduated
+10001489,Business Management and International Relations,1,2020/21,360,14.51,14.71,14.61,Borderline 2.2/2.1,2024-06-30,Graduated
+10001490,Business Management and International Relations,1,2020/21,360,11.52,14.96,13.24,Lower Second Class Honours,2024-06-30,Graduated
+10001491,Business Management and International Relations,1,2020/21,360,14.23,14.64,14.43,Lower Second Class Honours,2024-06-30,Graduated
+10001492,Business Management and International Relations,1,2020/21,360,15.51,15.39,15.45,Upper Second Class Honours,2024-06-30,Graduated
+10001493,Business Management and International Relations,1,2020/21,360,10.35,10.23,10.29,Third Class Honours,2024-06-30,Graduated
+10001494,Business Management and International Relations,3,2020/21,120,11.5,11.04,11.27,Third Class Honours,2022-06-30,Graduated
+10001495,Business Management and International Relations,1,2020/21,360,11.81,11.54,11.68,Borderline 3rd/2.2,2024-06-30,Graduated
+10001497,Business Management and International Relations,1,2020/21,360,20.07,19.93,20.0,First Class Honours,2024-06-30,Graduated
+10001498,Business Management and International Relations,1,2020/21,360,15.04,14.5,14.77,Borderline 2.2/2.1,2024-06-30,Graduated
+10001499,Business Management and International Relations,3,2020/21,120,11.76,11.06,11.41,Third Class Honours,2022-06-30,Graduated
+10001501,Business Management and International Relations,1,2020/21,360,11.23,14.09,12.66,Lower Second Class Honours,2024-06-30,Graduated
+10001502,Business Management and International Relations,1,2020/21,360,8.94,9.84,9.39,Third Class Honours,2024-06-30,Pending
+10001503,Business Management and International Relations,2,2020/21,240,15.14,14.7,14.92,Borderline 2.2/2.1,2023-06-30,Graduated
+10001504,Business Management and International Relations,1,2020/21,360,15.49,14.16,14.82,Borderline 2.2/2.1,2024-06-30,Graduated
+10001505,Business Management and International Relations,1,2020/21,360,15.26,14.62,14.94,Borderline 2.2/2.1,2024-06-30,Graduated
+10001506,Business Management and International Relations,1,2020/21,360,12.39,11.76,12.08,Lower Second Class Honours,2024-06-30,Graduated
+10001507,Business Management and International Relations,1,2020/21,360,20.03,19.87,19.95,First Class Honours,2024-06-30,Graduated
+10001508,Business Management and International Relations,2,2020/21,240,15.7,14.52,15.11,Upper Second Class Honours,2023-06-30,Graduated
+10001509,Business Management and International Relations,1,2020/21,360,15.59,16.5,16.04,Upper Second Class Honours,2024-06-30,Graduated
+10001510,Business Management and International Relations,3,2020/21,120,9.69,10.55,10.12,Third Class Honours,2022-06-30,Graduated
+10001512,Business Management and International Relations,1,2020/21,360,9.27,11.69,10.48,Third Class Honours,2024-06-30,Graduated
+10001513,Business Management and International Relations,3,2020/21,120,20.12,19.86,19.99,First Class Honours,2022-06-30,Graduated
+10001514,Business Management and International Relations,2,2020/21,240,14.49,14.54,14.52,Borderline 2.2/2.1,2023-06-30,Graduated
+10001515,Business Management and International Relations,1,2020/21,360,10.83,12.48,11.66,Borderline 3rd/2.2,2024-06-30,Graduated
+10001517,Business Management and International Relations,3,2020/21,120,14.39,13.86,14.12,Lower Second Class Honours,2022-06-30,Graduated
+10001519,Business Management and International Relations,1,2020/21,360,19.8,20.17,19.99,First Class Honours,2024-06-30,Graduated
+10001521,Business Management and International Relations,1,2020/21,360,12.0,15.48,13.74,Lower Second Class Honours,2024-06-30,Graduated
+10001522,Business Management and International Relations,1,2020/21,360,20.14,20.58,20.36,First Class Honours,2024-06-30,Graduated
+10001523,Business Management and International Relations,1,2020/21,360,10.97,10.6,10.78,Third Class Honours,2024-06-30,Graduated
+10001525,Business Management and International Relations,1,2020/21,360,15.43,14.2,14.81,Borderline 2.2/2.1,2024-06-30,Graduated
+10001526,Business Management and International Relations,1,2020/21,360,10.1,13.24,11.67,Borderline 3rd/2.2,2024-06-30,Graduated
+10001527,Business Management and International Relations,2,2020/21,240,7.21,11.86,9.54,Third Class Honours,2023-06-30,Graduated
+10001530,Business Management and International Relations,1,2020/21,360,19.56,15.06,17.31,Upper Second Class Honours,2024-06-30,Pending
+10001531,Business Management and International Relations,1,2020/21,360,5.33,7.35,6.34,Fail,2024-06-30,Deferred
+10001532,Business Management and International Relations,3,2020/21,120,20.12,20.26,20.19,First Class Honours,2022-06-30,Graduated
+10001533,Business Management and International Relations,3,2020/21,120,20.06,15.35,17.7,Borderline 2.1/1st,2022-06-30,Pending
+10001534,Business Management and International Relations,1,2020/21,360,6.37,5.42,5.89,Fail,2024-06-30,Deferred
+10001535,Business Management and International Relations,2,2020/21,240,8.77,4.5,6.64,Fail,2023-06-30,Deferred
+10001536,Business Management and International Relations,1,2020/21,360,10.58,6.92,8.75,Borderline Fail/3rd,2024-06-30,Pending
+10001537,Business Management and International Relations,1,2020/21,360,10.97,9.91,10.44,Third Class Honours,2024-06-30,Graduated
+10001538,Business Management and International Relations,1,2020/21,360,10.73,10.73,10.73,Third Class Honours,2024-06-30,Graduated
+10001539,Business Management and International Relations,3,2020/21,120,15.22,15.19,15.2,Upper Second Class Honours,2022-06-30,Graduated
+10001540,Business Management and International Relations,1,2020/21,360,20.9,19.56,20.23,First Class Honours,2024-06-30,Graduated
+10001542,Business Management and International Relations,1,2020/21,360,15.48,15.13,15.31,Upper Second Class Honours,2024-06-30,Graduated
+10001543,Business Management and International Relations,1,2020/21,360,9.88,10.74,10.31,Third Class Honours,2024-06-30,Graduated
+10001545,Business Management and International Relations,1,2020/21,360,10.68,8.17,9.43,Third Class Honours,2024-06-30,Pending
+10001548,Business Management and International Relations,1,2020/21,360,11.32,7.89,9.61,Third Class Honours,2024-06-30,Pending
+10001549,Business Management and International Relations,1,2020/21,360,14.14,15.24,14.69,Borderline 2.2/2.1,2024-06-30,Graduated
+10001550,Business Management and International Relations,3,2020/21,120,7.75,12.38,10.07,Third Class Honours,2022-06-30,Graduated
+10001551,Business Management and International Relations,1,2020/21,360,11.84,10.89,11.37,Third Class Honours,2024-06-30,Graduated
+10001552,Business Management and International Relations,3,2020/21,120,11.25,14.82,13.03,Lower Second Class Honours,2022-06-30,Graduated
+10001553,Business Management and International Relations,1,2020/21,360,15.06,11.66,13.36,Lower Second Class Honours,2024-06-30,Pending
+10001554,Business Management and International Relations,1,2020/21,360,15.0,16.07,15.53,Upper Second Class Honours,2024-06-30,Graduated
+10001555,Business Management and International Relations,1,2020/21,360,14.09,15.14,14.61,Borderline 2.2/2.1,2024-06-30,Graduated
+10001556,Business Management and International Relations,1,2020/21,360,15.3,14.81,15.06,Upper Second Class Honours,2024-06-30,Graduated
+10001557,Business Management and International Relations,1,2020/21,360,9.22,11.01,10.12,Third Class Honours,2024-06-30,Graduated
+10001558,Business Management and Information Systems,1,2020/21,360,17.33,19.55,18.44,First Class Honours,2024-06-30,Graduated
+10001559,Business Management and Information Systems,1,2020/21,360,11.22,10.95,11.09,Third Class Honours,2024-06-30,Graduated
+10001560,Business Management and Information Systems,1,2020/21,360,3.79,4.54,4.16,Fail,2024-06-30,Deferred
+10001561,Business Management and Information Systems,2,2020/21,240,11.23,13.9,12.56,Lower Second Class Honours,2023-06-30,Graduated
+10001562,Business Management and Information Systems,3,2020/21,120,11.29,11.15,11.22,Third Class Honours,2022-06-30,Graduated
+10001563,Business Management and Information Systems,1,2020/21,360,10.55,11.14,10.84,Third Class Honours,2024-06-30,Graduated
+10001564,Business Management and Information Systems,1,2020/21,360,8.6,10.33,9.47,Third Class Honours,2024-06-30,Pending
+10001565,Business Management and Information Systems,1,2020/21,360,15.61,14.37,14.99,Borderline 2.2/2.1,2024-06-30,Graduated
+10001566,Business Management and Information Systems,3,2020/21,120,20.66,20.15,20.4,First Class Honours,2022-06-30,Graduated
+10001567,Business Management and Information Systems,1,2020/21,360,14.87,15.57,15.22,Upper Second Class Honours,2024-06-30,Graduated
+10001568,Business Management and Information Systems,1,2020/21,360,10.78,10.96,10.87,Third Class Honours,2024-06-30,Graduated
+10001569,Business Management and Information Systems,1,2020/21,360,10.04,11.08,10.56,Third Class Honours,2024-06-30,Graduated
+10001570,Business Management and Information Systems,1,2020/21,360,7.96,9.94,8.95,Borderline Fail/3rd,2024-06-30,Graduated
+10001571,Business Management and Information Systems,1,2020/21,360,14.82,14.51,14.66,Borderline 2.2/2.1,2024-06-30,Graduated
+10001572,Business Management and Information Systems,1,2020/21,360,10.4,11.15,10.77,Third Class Honours,2024-06-30,Graduated
+10001573,Business Management and Information Systems,1,2020/21,360,15.01,14.7,14.85,Borderline 2.2/2.1,2024-06-30,Graduated
+10001574,Business Management and Information Systems,1,2020/21,360,11.2,11.59,11.4,Third Class Honours,2024-06-30,Graduated
+10001575,Business Management and Information Systems,3,2020/21,120,8.83,9.94,9.38,Third Class Honours,2022-06-30,Pending
+10001576,Business Management and Information Systems,1,2020/21,360,15.91,15.19,15.55,Upper Second Class Honours,2024-06-30,Graduated
+10001577,Business Management and Information Systems,3,2020/21,120,5.31,7.53,6.42,Fail,2022-06-30,Deferred
+10001578,Business Management and Information Systems,1,2020/21,360,9.78,9.13,9.46,Third Class Honours,2024-06-30,Pending
+10001579,Business Management and Information Systems,3,2020/21,120,9.75,9.28,9.51,Third Class Honours,2022-06-30,Graduated
+10001580,Business Management and Information Systems,1,2020/21,360,8.35,10.49,9.42,Third Class Honours,2024-06-30,Pending
+10001581,Business Management and Information Systems,1,2020/21,360,6.08,4.32,5.2,Fail,2024-06-30,Deferred
+10001582,Business Management and Information Systems,3,2020/21,120,12.33,9.42,10.87,Third Class Honours,2022-06-30,Graduated
+10001583,Business Management and Information Systems,3,2020/21,120,15.65,14.84,15.25,Upper Second Class Honours,2022-06-30,Graduated
+10001584,Business Management and Information Systems,3,2020/21,120,20.02,19.8,19.91,First Class Honours,2022-06-30,Graduated
+10001585,Business Management and Information Systems,1,2020/21,360,15.81,15.28,15.55,Upper Second Class Honours,2024-06-30,Graduated
+10001586,Business Management and Information Systems,3,2020/21,120,13.05,14.32,13.68,Lower Second Class Honours,2022-06-30,Graduated
+10001588,Business Management and Information Systems,1,2020/21,360,17.26,17.28,17.27,Upper Second Class Honours,2024-06-30,Pending
+10001589,Business Management and Information Systems,1,2020/21,360,10.51,11.95,11.23,Third Class Honours,2024-06-30,Graduated
+10001590,Business Management and Information Systems,1,2020/21,360,14.75,14.42,14.59,Borderline 2.2/2.1,2024-06-30,Graduated
+10001591,Business Management and Information Systems,1,2020/21,360,15.05,14.9,14.98,Borderline 2.2/2.1,2024-06-30,Graduated
+10001592,Business Management and Information Systems,3,2020/21,120,15.3,20.41,17.86,Borderline 2.1/1st,2022-06-30,Graduated
+10001593,Business Management and Information Systems,3,2020/21,120,10.41,9.65,10.03,Third Class Honours,2022-06-30,Graduated
+10001594,Business Management and Information Systems,1,2020/21,360,17.87,20.41,19.14,First Class Honours,2024-06-30,Graduated
+10001596,Business Management and Information Systems,1,2020/21,360,6.53,6.38,6.46,Fail,2024-06-30,Deferred
+10001597,Business Management and Information Systems,1,2020/21,360,10.54,12.22,11.38,Third Class Honours,2024-06-30,Graduated
+10001598,Business Management and Information Systems,1,2020/21,360,10.18,10.31,10.24,Third Class Honours,2024-06-30,Graduated
+10001599,Business Management and Information Systems,3,2020/21,120,14.89,15.21,15.05,Upper Second Class Honours,2022-06-30,Graduated
+10001600,Business Management and Information Systems,1,2020/21,360,9.71,11.68,10.69,Third Class Honours,2024-06-30,Graduated
+10001601,Business Management and Information Systems,1,2020/21,360,10.88,11.14,11.01,Third Class Honours,2024-06-30,Graduated
+10001602,Business Management and Information Systems,1,2020/21,360,6.24,5.97,6.11,Fail,2024-06-30,Deferred
+10001603,Business Management and Information Systems,3,2020/21,120,14.5,15.52,15.01,Upper Second Class Honours,2022-06-30,Graduated
+10001604,Business Management and Information Systems,1,2020/21,360,11.28,10.58,10.93,Third Class Honours,2024-06-30,Graduated
+10001605,Business Management and Information Systems,1,2020/21,360,10.83,12.33,11.58,Borderline 3rd/2.2,2024-06-30,Graduated
+10001606,Business Management and Information Systems,3,2020/21,120,9.48,14.39,11.94,Borderline 3rd/2.2,2022-06-30,Graduated
+10001607,Business Management and Information Systems,1,2020/21,360,15.45,15.9,15.67,Upper Second Class Honours,2024-06-30,Graduated
+10001608,Business Management and Information Systems,1,2020/21,360,16.12,10.81,13.47,Lower Second Class Honours,2024-06-30,Pending
+10001609,Business Management and Information Systems,1,2020/21,360,20.61,20.15,20.38,First Class Honours,2024-06-30,Graduated
+10001610,Business Management and Information Systems,1,2020/21,360,20.31,17.64,18.98,First Class Honours,2024-06-30,Pending
+10001612,Business Management and Information Systems,1,2020/21,360,14.66,15.27,14.97,Borderline 2.2/2.1,2024-06-30,Graduated
+10001613,Business Management and Information Systems,1,2020/21,360,10.91,7.11,9.01,Third Class Honours,2024-06-30,Pending
+10001614,Business Management and Information Systems,1,2020/21,360,10.65,11.01,10.83,Third Class Honours,2024-06-30,Graduated
+10001615,Business Management and Information Systems,1,2020/21,360,11.35,15.35,13.35,Lower Second Class Honours,2024-06-30,Graduated
+10001616,Business Management and Information Systems,3,2020/21,120,13.2,15.14,14.17,Lower Second Class Honours,2022-06-30,Graduated
+10001617,Business Management and Information Systems,1,2020/21,360,13.42,14.27,13.84,Lower Second Class Honours,2024-06-30,Graduated
+10001618,Business Management and Information Systems,1,2020/21,360,13.21,10.88,12.04,Lower Second Class Honours,2024-06-30,Pending
+10001620,Business Management and Information Systems,2,2020/21,240,14.39,15.58,14.99,Borderline 2.2/2.1,2023-06-30,Graduated
+10001621,Business Management and Information Systems,1,2020/21,360,15.71,14.65,15.18,Upper Second Class Honours,2024-06-30,Graduated
+10001622,Business Management and Information Systems,1,2020/21,360,15.52,14.65,15.09,Upper Second Class Honours,2024-06-30,Graduated
+10001623,Business Management and Information Systems,1,2020/21,360,14.52,15.01,14.76,Borderline 2.2/2.1,2024-06-30,Graduated
+10001624,Business Management and Information Systems,1,2020/21,360,15.79,14.45,15.12,Upper Second Class Honours,2024-06-30,Graduated
+10001625,Business Management and Information Systems,1,2020/21,360,11.73,10.04,10.89,Third Class Honours,2024-06-30,Graduated
+10001626,Business Management and Information Systems,1,2020/21,360,11.92,8.48,10.2,Third Class Honours,2024-06-30,Pending
+10001627,Business Management and Information Systems,1,2020/21,360,11.06,8.18,9.62,Third Class Honours,2024-06-30,Pending
+10001628,Business Management and Information Systems,1,2020/21,360,14.6,20.2,17.4,Upper Second Class Honours,2024-06-30,Graduated
+10001629,Business Management and Information Systems,3,2020/21,120,20.04,20.66,20.35,First Class Honours,2022-06-30,Graduated
+10001631,Business Management and Information Systems,1,2020/21,360,14.7,15.48,15.09,Upper Second Class Honours,2024-06-30,Graduated
+10001632,Business Management and Information Systems,1,2020/21,360,9.54,7.73,8.63,Borderline Fail/3rd,2024-06-30,Pending
+10001633,Business Management and Information Systems,1,2020/21,360,13.12,11.38,12.25,Lower Second Class Honours,2024-06-30,Graduated
+10001634,Business Management and Information Systems,1,2020/21,360,6.77,5.42,6.09,Fail,2024-06-30,Deferred
+10001635,Business Management and Information Systems,3,2020/21,120,7.47,5.29,6.38,Fail,2022-06-30,Deferred
+10001636,Business Management and Information Systems,3,2020/21,120,15.86,15.14,15.5,Upper Second Class Honours,2022-06-30,Graduated
+10001637,Business Management and Information Systems,3,2020/21,120,11.06,10.18,10.62,Third Class Honours,2022-06-30,Graduated
+10001638,Business Management and Information Systems,1,2020/21,360,19.97,19.97,19.97,First Class Honours,2024-06-30,Graduated
+10001639,Business Management and Information Systems,1,2020/21,360,14.19,14.66,14.42,Lower Second Class Honours,2024-06-30,Graduated
+10001640,Business Management and Information Systems,3,2020/21,120,5.21,6.46,5.83,Fail,2022-06-30,Deferred
+10001641,Business Management and Information Systems,1,2020/21,360,10.62,10.89,10.76,Third Class Honours,2024-06-30,Graduated
+10001642,Business Management and Information Systems,2,2020/21,240,15.46,15.36,15.41,Upper Second Class Honours,2023-06-30,Graduated
+10001643,Business Management and Information Systems,1,2020/21,360,11.55,11.38,11.47,Third Class Honours,2024-06-30,Graduated
+10001644,Business Management and Information Systems,1,2020/21,360,6.91,3.58,5.24,Fail,2024-06-30,Deferred
+10001646,Business Management and Information Systems,3,2020/21,120,15.88,15.48,15.68,Upper Second Class Honours,2022-06-30,Graduated
+10001649,Business Management and Information Systems,1,2020/21,360,11.09,11.88,11.48,Third Class Honours,2024-06-30,Graduated
+10001650,Business Management and Information Systems,1,2020/21,360,10.52,9.54,10.03,Third Class Honours,2024-06-30,Pending
+10001651,Business Management and Information Systems,3,2020/21,120,8.67,9.14,8.91,Borderline Fail/3rd,2022-06-30,Pending
+10001652,Business Management and Information Systems,2,2020/21,240,10.19,11.41,10.8,Third Class Honours,2023-06-30,Graduated
+10001653,Business Management and Information Systems,1,2020/21,360,9.7,11.06,10.38,Third Class Honours,2024-06-30,Graduated
+10001654,Business Management and Information Systems,1,2020/21,360,11.11,11.65,11.38,Third Class Honours,2024-06-30,Graduated
+10001655,Business Management and Information Systems,1,2020/21,360,14.58,14.65,14.61,Borderline 2.2/2.1,2024-06-30,Graduated
+10001656,Business Management and Information Systems,1,2020/21,360,15.78,14.59,15.19,Upper Second Class Honours,2024-06-30,Graduated
+10001657,Business Management and Information Systems,1,2020/21,360,14.79,15.33,15.06,Upper Second Class Honours,2024-06-30,Graduated
+10001658,Business Management and Information Systems,1,2020/21,360,15.42,14.15,14.79,Borderline 2.2/2.1,2024-06-30,Graduated
+10001659,Business Management and Information Systems,1,2020/21,360,16.04,14.81,15.42,Upper Second Class Honours,2024-06-30,Graduated
+10001660,Business Management and Information Systems,1,2020/21,360,8.18,5.17,6.68,Fail,2024-06-30,Deferred
+10001662,Business Management and Information Systems,1,2020/21,360,15.23,14.66,14.95,Borderline 2.2/2.1,2024-06-30,Graduated
+10001663,Business Management and Information Systems,1,2020/21,360,19.77,20.32,20.04,First Class Honours,2024-06-30,Graduated
+10001664,Business Management and Information Systems,1,2020/21,360,17.17,19.85,18.51,First Class Honours,2024-06-30,Graduated
+10001665,Business Management and Information Systems,1,2020/21,360,10.19,10.38,10.28,Third Class Honours,2024-06-30,Pending
+10001666,Business Management and Information Systems,1,2020/21,360,20.61,19.68,20.14,First Class Honours,2024-06-30,Graduated
+10001667,Business Management and Information Systems,1,2020/21,360,11.07,12.15,11.61,Borderline 3rd/2.2,2024-06-30,Graduated
+10001668,Business Management and Information Systems,1,2020/21,360,10.96,10.59,10.77,Third Class Honours,2024-06-30,Graduated
+10001669,Business Management and Information Systems,1,2020/21,360,6.67,8.16,7.41,Fail,2024-06-30,Deferred
+10001670,Business Management and Information Systems,2,2020/21,240,20.13,19.82,19.98,First Class Honours,2023-06-30,Graduated
+10001671,Business Management and Information Systems,1,2020/21,360,13.79,12.1,12.95,Lower Second Class Honours,2024-06-30,Pending
+10001674,Business Management and Information Systems,1,2020/21,360,15.71,14.56,15.14,Upper Second Class Honours,2024-06-30,Graduated
+10001675,Business Management and Information Systems,1,2020/21,360,16.07,14.78,15.43,Upper Second Class Honours,2024-06-30,Graduated
+10001676,Business Management and Information Systems,3,2020/21,120,11.7,8.81,10.25,Third Class Honours,2022-06-30,Pending
+10001677,Business Management and Information Systems,3,2020/21,120,11.67,11.4,11.54,Borderline 3rd/2.2,2022-06-30,Graduated
+10001678,Business Management and Information Systems,1,2020/21,360,11.1,10.61,10.86,Third Class Honours,2024-06-30,Graduated
+10001679,Business Management and Information Systems,1,2020/21,360,14.96,14.81,14.89,Borderline 2.2/2.1,2024-06-30,Graduated
+10001680,Business Management and Information Systems,2,2020/21,240,14.99,15.46,15.22,Upper Second Class Honours,2023-06-30,Graduated
+10001681,Business Management and Information Systems,1,2020/21,360,14.32,14.96,14.64,Borderline 2.2/2.1,2024-06-30,Graduated
+10001682,Business Management and Information Systems,1,2020/21,360,11.08,11.42,11.25,Third Class Honours,2024-06-30,Graduated
+10001683,Business Management and Information Systems,1,2020/21,360,14.82,15.08,14.95,Borderline 2.2/2.1,2024-06-30,Graduated
+10001684,Business Management and Information Systems,3,2020/21,120,15.33,13.38,14.35,Lower Second Class Honours,2022-06-30,Pending
+10001685,Business Management and Information Systems,3,2020/21,120,14.93,14.22,14.57,Borderline 2.2/2.1,2022-06-30,Graduated
+10001686,Business Management and Information Systems,1,2020/21,360,10.52,10.6,10.56,Third Class Honours,2024-06-30,Graduated
+10001687,Business Management and Information Systems,1,2020/21,360,13.96,14.07,14.02,Lower Second Class Honours,2024-06-30,Graduated
+10001688,Business Management and Information Systems,1,2020/21,360,10.44,8.56,9.5,Third Class Honours,2024-06-30,Pending
+10001689,Business Management and Information Systems,1,2020/21,360,14.54,15.65,15.09,Upper Second Class Honours,2024-06-30,Graduated
+10001690,Business Management and Information Systems,2,2020/21,240,11.39,11.73,11.56,Borderline 3rd/2.2,2023-06-30,Graduated
+10001691,Business Management and Information Systems,1,2020/21,360,14.27,15.42,14.84,Borderline 2.2/2.1,2024-06-30,Graduated
+10001880,Accountancy & Finance,3,2021/22,120,9.86,10.64,10.25,Third Class Honours,2023-06-30,Graduated
+10001881,Accountancy & Finance,3,2021/22,120,15.02,14.72,14.87,Borderline 2.2/2.1,2023-06-30,Graduated
+10001882,Accountancy & Finance,1,2021/22,360,6.91,6.73,6.82,Fail,2025-06-30,Deferred
+10001883,Accountancy & Finance,1,2021/22,360,4.72,5.17,4.94,Fail,2025-06-30,Deferred
+10001884,Accountancy & Finance,1,2021/22,360,12.45,14.8,13.63,Lower Second Class Honours,2025-06-30,Graduated
+10001885,Accountancy & Finance,1,2021/22,360,14.84,14.58,14.71,Borderline 2.2/2.1,2025-06-30,Graduated
+10001886,Accountancy & Finance,1,2021/22,360,15.51,15.36,15.44,Upper Second Class Honours,2025-06-30,Graduated
+10001887,Accountancy & Finance,1,2021/22,360,11.58,11.14,11.36,Third Class Honours,2025-06-30,Graduated
+10001888,Accountancy & Finance,1,2021/22,360,6.47,5.7,6.09,Fail,2025-06-30,Deferred
+10001889,Accountancy & Finance,1,2021/22,360,10.57,8.17,9.37,Third Class Honours,2025-06-30,Pending
+10001890,Accountancy & Finance,2,2021/22,240,11.15,11.84,11.49,Third Class Honours,2024-06-30,Graduated
+10001891,Accountancy & Finance,2,2021/22,240,20.13,20.09,20.11,First Class Honours,2024-06-30,Graduated
+10001892,Accountancy & Finance,1,2021/22,360,15.1,15.41,15.26,Upper Second Class Honours,2025-06-30,Graduated
+10001893,Accountancy & Finance,3,2021/22,120,11.46,11.52,11.49,Third Class Honours,2023-06-30,Graduated
+10001894,Accountancy & Finance,1,2021/22,360,5.81,6.31,6.06,Fail,2025-06-30,Deferred
+10001895,Accountancy & Finance,3,2021/22,120,11.04,9.91,10.48,Third Class Honours,2023-06-30,Graduated
+10001896,Accountancy & Finance,1,2021/22,360,20.37,19.84,20.11,First Class Honours,2025-06-30,Graduated
+10001897,Accountancy & Finance,2,2021/22,240,10.39,11.73,11.06,Third Class Honours,2024-06-30,Graduated
+10001898,Accountancy & Finance,1,2021/22,360,5.65,5.38,5.51,Fail,2025-06-30,Deferred
+10001900,Accountancy & Finance,2,2021/22,240,11.07,11.62,11.34,Third Class Honours,2024-06-30,Graduated
+10001901,Accountancy & Finance,1,2021/22,360,11.45,13.92,12.68,Lower Second Class Honours,2025-06-30,Pending
+10001902,Accountancy & Finance,1,2021/22,360,6.28,6.07,6.17,Fail,2025-06-30,Deferred
+10001903,Accountancy & Finance,2,2021/22,240,19.52,19.82,19.67,First Class Honours,2024-06-30,Graduated
+10001904,Accountancy & Finance,1,2021/22,360,14.45,15.87,15.16,Upper Second Class Honours,2025-06-30,Graduated
+10001905,Accountancy & Finance,3,2021/22,120,5.87,7.51,6.69,Fail,2023-06-30,Deferred
+10001906,Accountancy & Finance,1,2021/22,360,15.51,14.35,14.93,Borderline 2.2/2.1,2025-06-30,Graduated
+10001907,Accountancy & Finance,1,2021/22,360,14.56,15.42,14.99,Borderline 2.2/2.1,2025-06-30,Graduated
+10001908,Accountancy & Finance,1,2021/22,360,14.68,13.11,13.89,Lower Second Class Honours,2025-06-30,Pending
+10001909,Accountancy & Finance,3,2021/22,120,19.94,19.26,19.6,First Class Honours,2023-06-30,Graduated
+10001910,Accountancy & Finance,1,2021/22,360,19.8,20.18,19.99,First Class Honours,2025-06-30,Graduated
+10001911,Accountancy & Finance,1,2021/22,360,9.73,9.91,9.82,Third Class Honours,2025-06-30,Graduated
+10001912,Accountancy & Finance,1,2021/22,360,14.88,14.5,14.69,Borderline 2.2/2.1,2025-06-30,Graduated
+10001913,Accountancy & Finance,1,2021/22,360,5.92,4.78,5.35,Fail,2025-06-30,Deferred
+10001914,Accountancy & Finance,1,2021/22,360,15.15,15.04,15.09,Upper Second Class Honours,2025-06-30,Graduated
+10001915,Accountancy & Finance,1,2021/22,360,17.89,19.61,18.75,First Class Honours,2025-06-30,Graduated
+10001916,Accountancy & Finance,3,2021/22,120,5.36,4.97,5.16,Fail,2023-06-30,Deferred
+10001917,Accountancy & Finance,1,2021/22,360,10.91,11.11,11.01,Third Class Honours,2025-06-30,Graduated
+10001918,Accountancy & Finance,2,2021/22,240,10.41,10.68,10.54,Third Class Honours,2024-06-30,Graduated
+10001919,Accountancy & Finance,3,2021/22,120,10.19,10.88,10.54,Third Class Honours,2023-06-30,Graduated
+10001920,Accountancy & Finance,1,2021/22,360,20.12,14.73,17.43,Upper Second Class Honours,2025-06-30,Pending
+10001921,Accountancy & Finance,3,2021/22,120,14.85,15.02,14.93,Borderline 2.2/2.1,2023-06-30,Graduated
+10001922,Accountancy & Finance,1,2021/22,360,10.43,10.13,10.28,Third Class Honours,2025-06-30,Graduated
+10001923,Accountancy & Finance,1,2021/22,360,11.08,10.53,10.8,Third Class Honours,2025-06-30,Graduated
+10001925,Accountancy & Finance,1,2021/22,360,11.26,10.27,10.77,Third Class Honours,2025-06-30,Pending
+10001926,Accountancy & Finance,1,2021/22,360,14.68,13.4,14.04,Lower Second Class Honours,2025-06-30,Pending
+10001927,Accountancy & Finance,1,2021/22,360,17.37,15.08,16.23,Upper Second Class Honours,2025-06-30,Pending
+10001928,Accountancy & Finance,1,2021/22,360,20.2,19.67,19.93,First Class Honours,2025-06-30,Graduated
+10001929,Accountancy & Finance,1,2021/22,360,14.55,15.9,15.22,Upper Second Class Honours,2025-06-30,Graduated
+10001930,Accountancy & Finance,1,2021/22,360,10.99,11.62,11.3,Third Class Honours,2025-06-30,Graduated
+10001931,Accountancy & Finance,3,2021/22,120,11.27,11.47,11.37,Third Class Honours,2023-06-30,Graduated
+10001932,Accountancy & Finance,1,2021/22,360,10.14,11.68,10.91,Third Class Honours,2025-06-30,Graduated
+10001933,Accountancy & Finance,1,2021/22,360,11.35,11.41,11.38,Third Class Honours,2025-06-30,Graduated
+10001935,Accountancy & Finance,1,2021/22,360,14.17,15.44,14.81,Borderline 2.2/2.1,2025-06-30,Graduated
+10001936,Accountancy & Finance,1,2021/22,360,14.35,14.85,14.6,Borderline 2.2/2.1,2025-06-30,Graduated
+10001937,Accountancy & Finance,1,2021/22,360,20.15,19.97,20.06,First Class Honours,2025-06-30,Graduated
+10001938,Accountancy & Finance,1,2021/22,360,14.85,14.99,14.92,Borderline 2.2/2.1,2025-06-30,Graduated
+10001939,Accountancy & Finance,1,2021/22,360,10.36,10.96,10.66,Third Class Honours,2025-06-30,Graduated
+10001940,Accountancy & Finance,1,2021/22,360,15.5,15.07,15.28,Upper Second Class Honours,2025-06-30,Graduated
+10001941,Accountancy & Finance,1,2021/22,360,19.77,19.43,19.6,First Class Honours,2025-06-30,Graduated
+10001942,Accountancy & Finance,1,2021/22,360,5.14,5.01,5.07,Fail,2025-06-30,Deferred
+10001943,Accountancy & Finance,1,2021/22,360,10.33,10.93,10.63,Third Class Honours,2025-06-30,Graduated
+10001944,Accountancy & Finance,1,2021/22,360,17.76,20.19,18.97,First Class Honours,2025-06-30,Graduated
+10001945,Accountancy & Finance,1,2021/22,360,10.95,10.77,10.86,Third Class Honours,2025-06-30,Graduated
+10001946,Accountancy & Finance,1,2021/22,360,14.93,14.1,14.51,Borderline 2.2/2.1,2025-06-30,Graduated
+10001947,Accountancy & Finance,1,2021/22,360,15.77,20.42,18.1,First Class Honours,2025-06-30,Graduated
+10001948,Accountancy & Finance,1,2021/22,360,15.05,14.18,14.62,Borderline 2.2/2.1,2025-06-30,Graduated
+10001949,Accountancy & Finance,2,2021/22,240,10.68,10.5,10.59,Third Class Honours,2024-06-30,Graduated
+10001951,Accountancy & Finance,1,2021/22,360,15.45,14.72,15.08,Upper Second Class Honours,2025-06-30,Graduated
+10001952,Accountancy & Finance,1,2021/22,360,10.73,10.31,10.52,Third Class Honours,2025-06-30,Graduated
+10001953,Accountancy & Finance,1,2021/22,360,17.62,17.84,17.73,Borderline 2.1/1st,2025-06-30,Pending
+10001954,Accountancy & Finance,1,2021/22,360,4.22,5.98,5.1,Fail,2025-06-30,Deferred
+10001955,Accountancy & Finance,1,2021/22,360,17.72,17.95,17.83,Borderline 2.1/1st,2025-06-30,Pending
+10001956,Accountancy & Finance,1,2021/22,360,11.77,10.95,11.36,Third Class Honours,2025-06-30,Graduated
+10001957,Accountancy & Finance,3,2021/22,120,12.0,10.44,11.22,Third Class Honours,2023-06-30,Graduated
+10001959,Business Management,3,2021/22,120,11.57,10.54,11.05,Third Class Honours,2023-06-30,Graduated
+10001960,Business Management,1,2021/22,360,14.41,14.51,14.46,Lower Second Class Honours,2025-06-30,Graduated
+10001961,Business Management,2,2021/22,240,14.86,16.27,15.56,Upper Second Class Honours,2024-06-30,Graduated
+10001962,Business Management,1,2021/22,360,10.95,11.33,11.14,Third Class Honours,2025-06-30,Graduated
+10001963,Business Management,1,2021/22,360,4.79,4.9,4.85,Fail,2025-06-30,Deferred
+10001964,Business Management,2,2021/22,240,14.8,15.28,15.04,Upper Second Class Honours,2024-06-30,Graduated
+10001965,Business Management,1,2021/22,360,19.55,20.51,20.03,First Class Honours,2025-06-30,Graduated
+10001966,Business Management,1,2021/22,360,9.69,12.31,11.0,Third Class Honours,2025-06-30,Graduated
+10001967,Business Management,1,2021/22,360,15.08,10.94,13.01,Lower Second Class Honours,2025-06-30,Pending
+10001968,Business Management,1,2021/22,360,11.23,11.16,11.2,Third Class Honours,2025-06-30,Graduated
+10001969,Business Management,1,2021/22,360,7.27,11.05,9.16,Third Class Honours,2025-06-30,Pending
+10001970,Business Management,1,2021/22,360,10.08,10.62,10.35,Third Class Honours,2025-06-30,Graduated
+10001971,Business Management,1,2021/22,360,11.16,10.79,10.98,Third Class Honours,2025-06-30,Graduated
+10001972,Business Management,1,2021/22,360,11.68,16.34,14.01,Lower Second Class Honours,2025-06-30,Graduated
+10001973,Business Management,1,2021/22,360,19.79,20.19,19.99,First Class Honours,2025-06-30,Graduated
+10001974,Business Management,1,2021/22,360,11.51,11.34,11.43,Third Class Honours,2025-06-30,Graduated
+10001975,Business Management,1,2021/22,360,11.34,5.91,8.62,Borderline Fail/3rd,2025-06-30,Pending
+10001976,Business Management,1,2021/22,360,15.13,15.31,15.22,Upper Second Class Honours,2025-06-30,Graduated
+10001977,Business Management,2,2021/22,240,10.57,11.85,11.21,Third Class Honours,2024-06-30,Graduated
+10001978,Business Management,1,2021/22,360,17.0,15.81,16.41,Upper Second Class Honours,2025-06-30,Graduated
+10001979,Business Management,1,2021/22,360,10.79,11.46,11.13,Third Class Honours,2025-06-30,Graduated
+10001980,Business Management,1,2021/22,360,11.77,13.22,12.49,Lower Second Class Honours,2025-06-30,Graduated
+10001981,Business Management,1,2021/22,360,10.25,11.64,10.95,Third Class Honours,2025-06-30,Graduated
+10001982,Business Management,1,2021/22,360,18.97,20.22,19.59,First Class Honours,2025-06-30,Graduated
+10001983,Business Management,2,2021/22,240,10.21,9.04,9.62,Third Class Honours,2024-06-30,Graduated
+10001984,Business Management,2,2021/22,240,15.66,14.28,14.97,Borderline 2.2/2.1,2024-06-30,Graduated
+10001986,Business Management,1,2021/22,360,19.16,20.5,19.83,First Class Honours,2025-06-30,Graduated
+10001987,Business Management,1,2021/22,360,14.54,15.62,15.08,Upper Second Class Honours,2025-06-30,Graduated
+10001988,Business Management,1,2021/22,360,20.55,15.0,17.77,Borderline 2.1/1st,2025-06-30,Pending
+10001989,Business Management,1,2021/22,360,5.17,3.79,4.48,Fail,2025-06-30,Deferred
+10001990,Business Management,1,2021/22,360,11.54,11.49,11.51,Borderline 3rd/2.2,2025-06-30,Graduated
+10001991,Business Management,1,2021/22,360,4.34,5.98,5.16,Fail,2025-06-30,Deferred
+10001992,Business Management,1,2021/22,360,12.0,8.71,10.36,Third Class Honours,2025-06-30,Pending
+10001993,Business Management,1,2021/22,360,14.32,7.55,10.94,Third Class Honours,2025-06-30,Pending
+10001994,Business Management,1,2021/22,360,11.16,11.12,11.14,Third Class Honours,2025-06-30,Graduated
+10001996,Business Management,1,2021/22,360,15.57,14.86,15.21,Upper Second Class Honours,2025-06-30,Graduated
+10001997,Business Management,1,2021/22,360,10.95,10.51,10.73,Third Class Honours,2025-06-30,Graduated
+10001998,Business Management,2,2021/22,240,6.2,3.81,5.0,Fail,2024-06-30,Deferred
+10001999,Business Management,3,2021/22,120,15.32,15.99,15.66,Upper Second Class Honours,2023-06-30,Graduated
+10002000,Business Management,1,2021/22,360,20.62,20.0,20.31,First Class Honours,2025-06-30,Graduated
+10002002,Business Management,2,2021/22,240,5.26,3.0,4.13,Fail,2024-06-30,Deferred
+10002003,Business Management,2,2021/22,240,10.84,7.94,9.39,Third Class Honours,2024-06-30,Pending
+10002004,Business Management,1,2021/22,360,6.74,6.79,6.76,Fail,2025-06-30,Deferred
+10002005,Business Management,1,2021/22,360,15.69,15.18,15.44,Upper Second Class Honours,2025-06-30,Graduated
+10002006,Business Management,1,2021/22,360,6.13,7.14,6.64,Fail,2025-06-30,Deferred
+10002007,Business Management,3,2021/22,120,15.41,15.86,15.64,Upper Second Class Honours,2023-06-30,Graduated
+10002009,Business Management,1,2021/22,360,7.44,5.95,6.69,Fail,2025-06-30,Deferred
+10002010,Business Management,1,2021/22,360,9.05,11.36,10.21,Third Class Honours,2025-06-30,Graduated
+10002012,Business Management,1,2021/22,360,10.35,9.9,10.12,Third Class Honours,2025-06-30,Graduated
+10002013,Business Management,1,2021/22,360,20.87,20.87,20.87,First Class Honours,2025-06-30,Graduated
+10002014,Business Management,1,2021/22,360,11.23,11.61,11.42,Third Class Honours,2025-06-30,Graduated
+10002015,Business Management,1,2021/22,360,11.48,10.89,11.19,Third Class Honours,2025-06-30,Graduated
+10002016,Business Management,1,2021/22,360,11.7,10.09,10.9,Third Class Honours,2025-06-30,Graduated
+10002017,Business Management,2,2021/22,240,14.51,7.19,10.85,Third Class Honours,2024-06-30,Pending
+10002018,Business Management,1,2021/22,360,20.59,19.72,20.16,First Class Honours,2025-06-30,Graduated
+10002019,Business Management,1,2021/22,360,11.53,10.96,11.25,Third Class Honours,2025-06-30,Graduated
+10002020,Business Management,2,2021/22,240,15.12,13.96,14.54,Borderline 2.2/2.1,2024-06-30,Graduated
+10002021,Business Management,1,2021/22,360,11.09,7.69,9.39,Third Class Honours,2025-06-30,Pending
+10002022,Business Management,2,2021/22,240,15.64,15.3,15.47,Upper Second Class Honours,2024-06-30,Graduated
+10002023,Business Management,3,2021/22,120,6.82,6.75,6.79,Fail,2023-06-30,Deferred
+10002024,Business Management,3,2021/22,120,15.06,13.88,14.47,Lower Second Class Honours,2023-06-30,Graduated
+10002026,Business Management,2,2021/22,240,5.68,4.81,5.25,Fail,2024-06-30,Deferred
+10002027,Business Management,3,2021/22,120,15.18,14.82,15.0,Upper Second Class Honours,2023-06-30,Graduated
+10002029,Business Management,1,2021/22,360,14.13,10.94,12.53,Lower Second Class Honours,2025-06-30,Pending
+10002030,Business Management,1,2021/22,360,5.83,8.2,7.02,Fail,2025-06-30,Deferred
+10002031,Business Management,3,2021/22,120,7.38,6.25,6.81,Fail,2023-06-30,Deferred
+10002033,Business Management,2,2021/22,240,10.61,10.77,10.69,Third Class Honours,2024-06-30,Graduated
+10002034,Business Management,1,2021/22,360,15.03,14.83,14.93,Borderline 2.2/2.1,2025-06-30,Graduated
+10002035,Business Management,1,2021/22,360,10.45,12.54,11.49,Third Class Honours,2025-06-30,Graduated
+10002036,Business Management,1,2021/22,360,10.19,8.6,9.39,Third Class Honours,2025-06-30,Pending
+10002037,Business Management,1,2021/22,360,8.04,6.45,7.25,Fail,2025-06-30,Deferred
+10002038,Business Management,1,2021/22,360,19.89,20.25,20.07,First Class Honours,2025-06-30,Graduated
+10002039,Business Management,1,2021/22,360,10.78,10.72,10.75,Third Class Honours,2025-06-30,Graduated
+10002040,Business Management,2,2021/22,240,11.6,11.46,11.53,Borderline 3rd/2.2,2024-06-30,Graduated
+10002041,Business Management,1,2021/22,360,19.96,20.2,20.08,First Class Honours,2025-06-30,Graduated
+10002042,Business Management,2,2021/22,240,19.93,19.79,19.86,First Class Honours,2024-06-30,Graduated
+10002043,Business Management,2,2021/22,240,10.91,11.61,11.26,Third Class Honours,2024-06-30,Graduated
+10002044,Business Management,1,2021/22,360,15.64,15.03,15.33,Upper Second Class Honours,2025-06-30,Graduated
+10002045,Business Management,1,2021/22,360,14.78,14.94,14.86,Borderline 2.2/2.1,2025-06-30,Graduated
+10002046,Business Management,1,2021/22,360,12.2,9.74,10.97,Third Class Honours,2025-06-30,Graduated
+10002047,Business Management,3,2021/22,120,11.41,7.89,9.65,Third Class Honours,2023-06-30,Pending
+10002048,Business Management,1,2021/22,360,10.79,8.84,9.81,Third Class Honours,2025-06-30,Pending
+10002049,Business Management,1,2021/22,360,7.62,4.73,6.18,Fail,2025-06-30,Deferred
+10002050,Business Management,2,2021/22,240,14.87,14.66,14.77,Borderline 2.2/2.1,2024-06-30,Graduated
+10002051,Business Management and International Relations,3,2021/22,120,10.66,11.38,11.02,Third Class Honours,2023-06-30,Graduated
+10002052,Business Management and International Relations,1,2021/22,360,11.15,10.87,11.01,Third Class Honours,2025-06-30,Graduated
+10002053,Business Management and International Relations,1,2021/22,360,10.83,10.87,10.85,Third Class Honours,2025-06-30,Graduated
+10002055,Business Management and International Relations,2,2021/22,240,5.8,10.57,8.18,Fail,2024-06-30,Deferred
+10002056,Business Management and International Relations,1,2021/22,360,15.14,10.07,12.61,Lower Second Class Honours,2025-06-30,Pending
+10002057,Business Management and International Relations,3,2021/22,120,19.58,20.59,20.08,First Class Honours,2023-06-30,Graduated
+10002058,Business Management and International Relations,2,2021/22,240,8.59,11.36,9.97,Third Class Honours,2024-06-30,Graduated
+10002059,Business Management and International Relations,1,2021/22,360,14.66,15.05,14.86,Borderline 2.2/2.1,2025-06-30,Graduated
+10002060,Business Management and International Relations,1,2021/22,360,15.08,14.93,15.0,Upper Second Class Honours,2025-06-30,Graduated
+10002061,Business Management and International Relations,1,2021/22,360,11.8,10.38,11.09,Third Class Honours,2025-06-30,Graduated
+10002062,Business Management and International Relations,1,2021/22,360,7.12,15.9,11.51,Borderline 3rd/2.2,2025-06-30,Graduated
+10002063,Business Management and International Relations,1,2021/22,360,15.54,14.78,15.16,Upper Second Class Honours,2025-06-30,Graduated
+10002064,Business Management and International Relations,1,2021/22,360,16.33,15.27,15.8,Upper Second Class Honours,2025-06-30,Graduated
+10002065,Business Management and International Relations,1,2021/22,360,5.4,4.85,5.12,Fail,2025-06-30,Deferred
+10002066,Business Management and International Relations,1,2021/22,360,14.38,15.64,15.01,Upper Second Class Honours,2025-06-30,Graduated
+10002067,Business Management and International Relations,2,2021/22,240,5.35,7.64,6.5,Fail,2024-06-30,Deferred
+10002068,Business Management and International Relations,1,2021/22,360,15.43,14.37,14.9,Borderline 2.2/2.1,2025-06-30,Graduated
+10002069,Business Management and International Relations,1,2021/22,360,15.27,20.46,17.86,Borderline 2.1/1st,2025-06-30,Graduated
+10002071,Business Management and International Relations,1,2021/22,360,14.54,14.87,14.71,Borderline 2.2/2.1,2025-06-30,Graduated
+10002072,Business Management and International Relations,3,2021/22,120,5.93,5.33,5.63,Fail,2023-06-30,Deferred
+10002074,Business Management and International Relations,1,2021/22,360,20.28,19.31,19.79,First Class Honours,2025-06-30,Graduated
+10002075,Business Management and International Relations,2,2021/22,240,12.18,11.23,11.7,Borderline 3rd/2.2,2024-06-30,Graduated
+10002076,Business Management and International Relations,1,2021/22,360,11.39,8.62,10.01,Third Class Honours,2025-06-30,Pending
+10002077,Business Management and International Relations,1,2021/22,360,14.23,14.73,14.48,Lower Second Class Honours,2025-06-30,Graduated
+10002078,Business Management and International Relations,3,2021/22,120,14.39,14.21,14.3,Lower Second Class Honours,2023-06-30,Graduated
+10002079,Business Management and International Relations,1,2021/22,360,14.66,14.68,14.67,Borderline 2.2/2.1,2025-06-30,Pending
+10002080,Business Management and International Relations,1,2021/22,360,9.52,12.21,10.86,Third Class Honours,2025-06-30,Graduated
+10002081,Business Management and International Relations,1,2021/22,360,5.81,4.01,4.91,Fail,2025-06-30,Deferred
+10002082,Business Management and International Relations,3,2021/22,120,5.04,6.16,5.6,Fail,2023-06-30,Deferred
+10002083,Business Management and International Relations,1,2021/22,360,11.38,9.79,10.58,Third Class Honours,2025-06-30,Graduated
+10002084,Business Management and International Relations,2,2021/22,240,7.37,6.14,6.75,Fail,2024-06-30,Deferred
+10002085,Business Management and International Relations,1,2021/22,360,10.85,11.9,11.38,Third Class Honours,2025-06-30,Graduated
+10002086,Business Management and International Relations,1,2021/22,360,11.63,11.88,11.76,Borderline 3rd/2.2,2025-06-30,Graduated
+10002087,Business Management and International Relations,1,2021/22,360,10.92,11.18,11.05,Third Class Honours,2025-06-30,Graduated
+10002088,Business Management and International Relations,1,2021/22,360,19.06,19.16,19.11,First Class Honours,2025-06-30,Graduated
+10002089,Business Management and International Relations,1,2021/22,360,15.48,15.33,15.4,Upper Second Class Honours,2025-06-30,Graduated
+10002090,Business Management and International Relations,3,2021/22,120,14.85,14.87,14.86,Borderline 2.2/2.1,2023-06-30,Pending
+10002091,Business Management and International Relations,1,2021/22,360,10.8,10.33,10.56,Third Class Honours,2025-06-30,Graduated
+10002092,Business Management and International Relations,2,2021/22,240,20.05,19.87,19.96,First Class Honours,2024-06-30,Graduated
+10002093,Business Management and International Relations,1,2021/22,360,10.44,11.84,11.14,Third Class Honours,2025-06-30,Graduated
+10002094,Business Management and International Relations,1,2021/22,360,12.44,15.44,13.94,Lower Second Class Honours,2025-06-30,Graduated
+10002096,Business Management and International Relations,1,2021/22,360,10.64,10.82,10.73,Third Class Honours,2025-06-30,Graduated
+10002097,Business Management and International Relations,2,2021/22,240,4.97,12.24,8.61,Borderline Fail/3rd,2024-06-30,Pending
+10002098,Business Management and International Relations,1,2021/22,360,19.66,19.53,19.59,First Class Honours,2025-06-30,Graduated
+10002099,Business Management and International Relations,1,2021/22,360,15.4,14.91,15.16,Upper Second Class Honours,2025-06-30,Graduated
+10002100,Business Management and International Relations,1,2021/22,360,8.22,6.04,7.13,Fail,2025-06-30,Deferred
+10002102,Business Management and International Relations,1,2021/22,360,11.32,11.04,11.18,Third Class Honours,2025-06-30,Graduated
+10002103,Business Management and International Relations,2,2021/22,240,10.95,10.46,10.7,Third Class Honours,2024-06-30,Graduated
+10002104,Business Management and International Relations,1,2021/22,360,11.78,10.21,11.0,Third Class Honours,2025-06-30,Graduated
+10002105,Business Management and International Relations,1,2021/22,360,20.34,20.06,20.2,First Class Honours,2025-06-30,Graduated
+10002106,Business Management and International Relations,1,2021/22,360,5.77,5.49,5.63,Fail,2025-06-30,Deferred
+10002107,Business Management and International Relations,1,2021/22,360,11.33,11.54,11.44,Third Class Honours,2025-06-30,Graduated
+10002108,Business Management and International Relations,1,2021/22,360,13.86,16.09,14.97,Borderline 2.2/2.1,2025-06-30,Graduated
+10002109,Business Management and International Relations,1,2021/22,360,10.72,10.77,10.75,Third Class Honours,2025-06-30,Graduated
+10002110,Business Management and International Relations,1,2021/22,360,15.14,14.32,14.73,Borderline 2.2/2.1,2025-06-30,Graduated
+10002111,Business Management and International Relations,1,2021/22,360,4.24,7.4,5.82,Fail,2025-06-30,Deferred
+10002112,Business Management and International Relations,1,2021/22,360,11.38,11.86,11.62,Borderline 3rd/2.2,2025-06-30,Graduated
+10002114,Business Management and International Relations,1,2021/22,360,11.23,15.34,13.29,Lower Second Class Honours,2025-06-30,Graduated
+10002115,Business Management and International Relations,2,2021/22,240,6.01,5.43,5.72,Fail,2024-06-30,Deferred
+10002116,Business Management and International Relations,1,2021/22,360,14.29,7.71,11.0,Third Class Honours,2025-06-30,Pending
+10002117,Business Management and International Relations,1,2021/22,360,6.24,5.27,5.75,Fail,2025-06-30,Deferred
+10002118,Business Management and International Relations,2,2021/22,240,19.91,20.08,19.99,First Class Honours,2024-06-30,Graduated
+10002119,Business Management and International Relations,1,2021/22,360,20.33,20.36,20.35,First Class Honours,2025-06-30,Graduated
+10002120,Business Management and International Relations,1,2021/22,360,15.77,14.86,15.32,Upper Second Class Honours,2025-06-30,Graduated
+10002121,Business Management and International Relations,1,2021/22,360,14.06,15.35,14.7,Borderline 2.2/2.1,2025-06-30,Graduated
+10002122,Business Management and International Relations,3,2021/22,120,12.4,14.72,13.56,Lower Second Class Honours,2023-06-30,Graduated
+10002123,Business Management and International Relations,3,2021/22,120,10.65,10.68,10.66,Third Class Honours,2023-06-30,Graduated
+10002124,Business Management and International Relations,1,2021/22,360,14.99,15.51,15.25,Upper Second Class Honours,2025-06-30,Graduated
+10002126,Business Management and International Relations,1,2021/22,360,4.69,6.05,5.37,Fail,2025-06-30,Deferred
+10002127,Business Management and International Relations,3,2021/22,120,10.56,7.39,8.97,Borderline Fail/3rd,2023-06-30,Pending
+10002128,Business Management and International Relations,1,2021/22,360,16.48,14.59,15.54,Upper Second Class Honours,2025-06-30,Graduated
+10002129,Business Management and International Relations,1,2021/22,360,10.31,8.38,9.35,Third Class Honours,2025-06-30,Pending
+10002130,Business Management and International Relations,1,2021/22,360,10.01,9.86,9.93,Third Class Honours,2025-06-30,Graduated
+10002132,Business Management and International Relations,2,2021/22,240,15.86,15.42,15.64,Upper Second Class Honours,2024-06-30,Graduated
+10002133,Business Management and International Relations,1,2021/22,360,9.52,10.31,9.91,Third Class Honours,2025-06-30,Graduated
+10002134,Business Management and International Relations,1,2021/22,360,11.56,9.94,10.75,Third Class Honours,2025-06-30,Graduated
+10002135,Business Management and International Relations,1,2021/22,360,11.47,13.93,12.7,Lower Second Class Honours,2025-06-30,Graduated
+10002136,Business Management and International Relations,3,2021/22,120,3.97,3.82,3.89,Fail,2023-06-30,Deferred
+10002137,Business Management and International Relations,2,2021/22,240,15.25,15.18,15.21,Upper Second Class Honours,2024-06-30,Graduated
+10002138,Business Management and International Relations,1,2021/22,360,10.26,8.98,9.62,Third Class Honours,2025-06-30,Graduated
+10002140,Business Management and International Relations,2,2021/22,240,11.47,10.8,11.14,Third Class Honours,2024-06-30,Graduated
+10002141,Business Management and International Relations,3,2021/22,120,10.07,12.04,11.06,Third Class Honours,2023-06-30,Graduated
+10002142,Business Management and International Relations,1,2021/22,360,11.66,11.22,11.44,Third Class Honours,2025-06-30,Graduated
+10002143,Business Management and International Relations,1,2021/22,360,12.15,10.5,11.32,Third Class Honours,2025-06-30,Graduated
+10002144,Business Management and International Relations,1,2021/22,360,20.26,19.32,19.79,First Class Honours,2025-06-30,Graduated
+10002145,Business Management and International Relations,1,2021/22,360,19.34,20.29,19.81,First Class Honours,2025-06-30,Graduated
+10002147,Business Management and International Relations,2,2021/22,240,9.2,10.68,9.94,Third Class Honours,2024-06-30,Graduated
+10002148,Business Management and International Relations,1,2021/22,360,11.06,10.46,10.76,Third Class Honours,2025-06-30,Graduated
+10002149,Business Management and International Relations,1,2021/22,360,12.11,11.88,12.0,Lower Second Class Honours,2025-06-30,Graduated
+10002150,Business Management and International Relations,1,2021/22,360,15.2,15.4,15.3,Upper Second Class Honours,2025-06-30,Graduated
+10002151,Business Management and International Relations,1,2021/22,360,11.99,9.67,10.83,Third Class Honours,2025-06-30,Graduated
+10002153,Business Management and International Relations,1,2021/22,360,10.28,9.93,10.11,Third Class Honours,2025-06-30,Graduated
+10002154,Business Management and International Relations,1,2021/22,360,14.96,15.29,15.13,Upper Second Class Honours,2025-06-30,Graduated
+10002155,Business Management and International Relations,3,2021/22,120,6.47,6.16,6.31,Fail,2023-06-30,Deferred
+10002156,Business Management and International Relations,1,2021/22,360,11.2,14.84,13.02,Lower Second Class Honours,2025-06-30,Graduated
+10002157,Business Management and International Relations,2,2021/22,240,10.62,10.48,10.55,Third Class Honours,2024-06-30,Graduated
+10002158,Business Management and International Relations,3,2021/22,120,10.92,8.23,9.57,Third Class Honours,2023-06-30,Pending
+10002159,Business Management and International Relations,3,2021/22,120,15.26,16.11,15.68,Upper Second Class Honours,2023-06-30,Graduated
+10002160,Business Management and Information Systems,1,2021/22,360,17.32,20.05,18.69,First Class Honours,2025-06-30,Graduated
+10002161,Business Management and Information Systems,1,2021/22,360,20.23,19.6,19.92,First Class Honours,2025-06-30,Graduated
+10002162,Business Management and Information Systems,3,2021/22,120,14.67,14.23,14.45,Lower Second Class Honours,2023-06-30,Graduated
+10002163,Business Management and Information Systems,1,2021/22,360,14.42,15.14,14.78,Borderline 2.2/2.1,2025-06-30,Graduated
+10002164,Business Management and Information Systems,1,2021/22,360,14.92,9.64,12.28,Lower Second Class Honours,2025-06-30,Pending
+10002165,Business Management and Information Systems,2,2021/22,240,10.77,10.39,10.58,Third Class Honours,2024-06-30,Graduated
+10002166,Business Management and Information Systems,1,2021/22,360,13.11,14.74,13.93,Lower Second Class Honours,2025-06-30,Graduated
+10002167,Business Management and Information Systems,3,2021/22,120,7.61,9.22,8.41,Fail,2023-06-30,Deferred
+10002169,Business Management and Information Systems,1,2021/22,360,6.68,6.32,6.5,Fail,2025-06-30,Deferred
+10002170,Business Management and Information Systems,1,2021/22,360,6.32,5.43,5.88,Fail,2025-06-30,Deferred
+10002171,Business Management and Information Systems,3,2021/22,120,20.2,20.35,20.28,First Class Honours,2023-06-30,Graduated
+10002172,Business Management and Information Systems,1,2021/22,360,15.36,15.32,15.34,Upper Second Class Honours,2025-06-30,Graduated
+10002174,Business Management and Information Systems,2,2021/22,240,14.95,15.28,15.11,Upper Second Class Honours,2024-06-30,Graduated
+10002175,Business Management and Information Systems,2,2021/22,240,15.32,16.25,15.79,Upper Second Class Honours,2024-06-30,Graduated
+10002176,Business Management and Information Systems,2,2021/22,240,15.46,15.43,15.44,Upper Second Class Honours,2024-06-30,Graduated
+10002177,Business Management and Information Systems,3,2021/22,120,15.29,14.88,15.08,Upper Second Class Honours,2023-06-30,Graduated
+10002178,Business Management and Information Systems,1,2021/22,360,20.39,20.16,20.27,First Class Honours,2025-06-30,Graduated
+10002179,Business Management and Information Systems,2,2021/22,240,14.79,14.9,14.85,Borderline 2.2/2.1,2024-06-30,Graduated
+10002180,Business Management and Information Systems,3,2021/22,120,14.58,15.65,15.12,Upper Second Class Honours,2023-06-30,Graduated
+10002181,Business Management and Information Systems,1,2021/22,360,11.37,9.9,10.63,Third Class Honours,2025-06-30,Graduated
+10002182,Business Management and Information Systems,3,2021/22,120,14.98,14.88,14.93,Borderline 2.2/2.1,2023-06-30,Graduated
+10002183,Business Management and Information Systems,1,2021/22,360,5.42,8.55,6.99,Fail,2025-06-30,Deferred
+10002184,Business Management and Information Systems,1,2021/22,360,13.41,15.29,14.35,Lower Second Class Honours,2025-06-30,Graduated
+10002185,Business Management and Information Systems,1,2021/22,360,15.84,14.41,15.12,Upper Second Class Honours,2025-06-30,Graduated
+10002186,Business Management and Information Systems,1,2021/22,360,12.05,8.97,10.51,Third Class Honours,2025-06-30,Graduated
+10002188,Business Management and Information Systems,2,2021/22,240,10.95,10.66,10.81,Third Class Honours,2024-06-30,Graduated
+10002190,Business Management and Information Systems,2,2021/22,240,10.3,9.3,9.8,Third Class Honours,2024-06-30,Pending
+10002191,Business Management and Information Systems,2,2021/22,240,14.41,11.04,12.72,Lower Second Class Honours,2024-06-30,Pending
+10002193,Business Management and Information Systems,1,2021/22,360,20.15,20.34,20.24,First Class Honours,2025-06-30,Graduated
+10002194,Business Management and Information Systems,1,2021/22,360,4.06,7.3,5.68,Fail,2025-06-30,Deferred
+10002195,Business Management and Information Systems,1,2021/22,360,10.33,10.27,10.3,Third Class Honours,2025-06-30,Graduated
+10002196,Business Management and Information Systems,1,2021/22,360,6.32,5.72,6.02,Fail,2025-06-30,Deferred
+10002197,Business Management and Information Systems,1,2021/22,360,14.28,14.04,14.16,Lower Second Class Honours,2025-06-30,Graduated
+10002198,Business Management and Information Systems,1,2021/22,360,10.96,15.24,13.1,Lower Second Class Honours,2025-06-30,Graduated
+10002199,Business Management and Information Systems,1,2021/22,360,20.02,10.11,15.07,Upper Second Class Honours,2025-06-30,Pending
+10002200,Business Management and Information Systems,1,2021/22,360,15.83,16.29,16.06,Upper Second Class Honours,2025-06-30,Graduated
+10002201,Business Management and Information Systems,1,2021/22,360,5.64,6.94,6.29,Fail,2025-06-30,Deferred
+10002202,Business Management and Information Systems,1,2021/22,360,11.09,10.64,10.87,Third Class Honours,2025-06-30,Graduated
+10002203,Business Management and Information Systems,1,2021/22,360,14.65,10.77,12.71,Lower Second Class Honours,2025-06-30,Pending
+10002204,Business Management and Information Systems,1,2021/22,360,10.66,11.18,10.92,Third Class Honours,2025-06-30,Graduated
+10002205,Business Management and Information Systems,1,2021/22,360,10.92,9.53,10.23,Third Class Honours,2025-06-30,Graduated
+10002206,Business Management and Information Systems,1,2021/22,360,14.8,11.74,13.27,Lower Second Class Honours,2025-06-30,Pending
+10002207,Business Management and Information Systems,1,2021/22,360,5.86,5.64,5.75,Fail,2025-06-30,Deferred
+10002208,Business Management and Information Systems,1,2021/22,360,9.97,8.98,9.48,Third Class Honours,2025-06-30,Graduated
+10002209,Business Management and Information Systems,1,2021/22,360,8.66,10.87,9.77,Third Class Honours,2025-06-30,Graduated
+10002210,Business Management and Information Systems,1,2021/22,360,14.5,14.26,14.38,Lower Second Class Honours,2025-06-30,Graduated
+10002211,Business Management and Information Systems,1,2021/22,360,14.58,14.76,14.67,Borderline 2.2/2.1,2025-06-30,Graduated
+10002212,Business Management and Information Systems,1,2021/22,360,11.05,10.26,10.65,Third Class Honours,2025-06-30,Graduated
+10002213,Business Management and Information Systems,1,2021/22,360,14.73,15.22,14.98,Borderline 2.2/2.1,2025-06-30,Graduated
+10002214,Business Management and Information Systems,1,2021/22,360,9.41,11.51,10.46,Third Class Honours,2025-06-30,Graduated
+10002215,Business Management and Information Systems,1,2021/22,360,19.78,15.06,17.42,Upper Second Class Honours,2025-06-30,Pending
+10002217,Business Management and Information Systems,1,2021/22,360,8.7,10.82,9.76,Third Class Honours,2025-06-30,Graduated
+10002218,Business Management and Information Systems,1,2021/22,360,15.25,13.72,14.48,Lower Second Class Honours,2025-06-30,Pending
+10002219,Business Management and Information Systems,1,2021/22,360,2.69,3.94,3.32,Fail,2025-06-30,Deferred
+10002220,Business Management and Information Systems,1,2021/22,360,10.44,8.39,9.41,Third Class Honours,2025-06-30,Pending
+10002221,Business Management and Information Systems,3,2021/22,120,15.45,20.57,18.01,First Class Honours,2023-06-30,Graduated
+10002223,Business Management and Information Systems,1,2021/22,360,15.08,14.08,14.58,Borderline 2.2/2.1,2025-06-30,Graduated
+10002224,Business Management and Information Systems,3,2021/22,120,9.92,11.49,10.71,Third Class Honours,2023-06-30,Graduated
+10002225,Business Management and Information Systems,1,2021/22,360,14.75,15.55,15.15,Upper Second Class Honours,2025-06-30,Graduated
+10002226,Business Management and Information Systems,3,2021/22,120,5.36,3.89,4.63,Fail,2023-06-30,Deferred
+10002227,Business Management and Information Systems,2,2021/22,240,11.16,11.06,11.11,Third Class Honours,2024-06-30,Graduated
+10002228,Business Management and Information Systems,1,2021/22,360,14.41,15.23,14.82,Borderline 2.2/2.1,2025-06-30,Graduated
+10002229,Business Management and Information Systems,2,2021/22,240,11.01,8.91,9.96,Third Class Honours,2024-06-30,Pending
+10002230,Business Management and Information Systems,1,2021/22,360,10.82,10.79,10.81,Third Class Honours,2025-06-30,Graduated
+10002231,Business Management and Information Systems,2,2021/22,240,20.09,20.03,20.06,First Class Honours,2024-06-30,Graduated
+10002232,Business Management and Information Systems,1,2021/22,360,20.5,20.02,20.26,First Class Honours,2025-06-30,Graduated
+10002233,Business Management and Information Systems,3,2021/22,120,14.74,15.08,14.91,Borderline 2.2/2.1,2023-06-30,Graduated
+10002234,Business Management and Information Systems,1,2021/22,360,16.07,14.76,15.41,Upper Second Class Honours,2025-06-30,Graduated
+10002235,Business Management and Information Systems,1,2021/22,360,15.6,15.44,15.52,Upper Second Class Honours,2025-06-30,Graduated
+10002236,Business Management and Information Systems,3,2021/22,120,11.43,9.98,10.71,Third Class Honours,2023-06-30,Graduated
+10002237,Business Management and Information Systems,1,2021/22,360,10.32,11.34,10.83,Third Class Honours,2025-06-30,Graduated
+10002238,Business Management and Information Systems,1,2021/22,360,15.02,14.9,14.96,Borderline 2.2/2.1,2025-06-30,Graduated
+10002240,Business Management and Information Systems,1,2021/22,360,14.5,12.61,13.56,Lower Second Class Honours,2025-06-30,Pending
+10002241,Business Management and Information Systems,2,2021/22,240,5.37,6.34,5.86,Fail,2024-06-30,Deferred
+10002242,Business Management and Information Systems,2,2021/22,240,9.52,11.72,10.62,Third Class Honours,2024-06-30,Graduated
+10002243,Business Management and Information Systems,1,2021/22,360,15.39,12.41,13.9,Lower Second Class Honours,2025-06-30,Pending
+10002244,Business Management and Information Systems,1,2021/22,360,14.86,14.49,14.67,Borderline 2.2/2.1,2025-06-30,Graduated
+10002245,Business Management and Information Systems,2,2021/22,240,10.48,9.45,9.96,Third Class Honours,2024-06-30,Graduated
+10002246,Business Management and Information Systems,1,2021/22,360,10.06,10.6,10.33,Third Class Honours,2025-06-30,Graduated
+10002247,Business Management and Information Systems,2,2021/22,240,10.19,11.22,10.71,Third Class Honours,2024-06-30,Graduated
+10002249,Business Management and Information Systems,1,2021/22,360,10.99,12.22,11.61,Borderline 3rd/2.2,2025-06-30,Graduated
+10002250,Business Management and Information Systems,1,2021/22,360,14.72,15.49,15.11,Upper Second Class Honours,2025-06-30,Graduated
+10002251,Business Management and Information Systems,1,2021/22,360,11.39,12.46,11.93,Borderline 3rd/2.2,2025-06-30,Graduated
+10002252,Business Management and Information Systems,1,2021/22,360,6.7,6.92,6.81,Fail,2025-06-30,Deferred
+10002253,Business Management and Information Systems,2,2021/22,240,11.84,9.11,10.47,Third Class Honours,2024-06-30,Pending
+10002254,Business Management and Information Systems,2,2021/22,240,9.21,9.33,9.27,Third Class Honours,2024-06-30,Pending
+10002255,Business Management and Information Systems,1,2021/22,360,11.53,11.96,11.75,Borderline 3rd/2.2,2025-06-30,Graduated
+10002256,Business Management and Information Systems,1,2021/22,360,10.29,11.63,10.96,Third Class Honours,2025-06-30,Graduated
+10002257,Business Management and Information Systems,1,2021/22,360,17.35,14.53,15.94,Upper Second Class Honours,2025-06-30,Pending
+10002258,Business Management and Information Systems,1,2021/22,360,14.83,14.75,14.79,Borderline 2.2/2.1,2025-06-30,Graduated
+10002259,Business Management and Information Systems,1,2021/22,360,7.51,5.14,6.33,Fail,2025-06-30,Deferred
+10002260,Business Management and Information Systems,2,2021/22,240,7.19,10.65,8.92,Borderline Fail/3rd,2024-06-30,Graduated
+10002261,Business Management and Information Systems,2,2021/22,240,11.73,11.71,11.72,Borderline 3rd/2.2,2024-06-30,Graduated
+10002262,Business Management and Information Systems,1,2021/22,360,11.38,12.16,11.77,Borderline 3rd/2.2,2025-06-30,Graduated
+10002263,Business Management and Information Systems,1,2021/22,360,9.93,10.17,10.05,Third Class Honours,2025-06-30,Graduated
+10002264,Business Management and Information Systems,1,2021/22,360,10.55,10.11,10.33,Third Class Honours,2025-06-30,Graduated
+10002266,Business Management and Information Systems,1,2021/22,360,9.73,11.96,10.84,Third Class Honours,2025-06-30,Graduated
+10002267,Business Management and Information Systems,1,2021/22,360,12.12,8.92,10.52,Third Class Honours,2025-06-30,Pending
+10002268,Business Management and Information Systems,1,2021/22,360,11.63,9.3,10.46,Third Class Honours,2025-06-30,Pending
+10002269,Business Management and Information Systems,1,2021/22,360,20.02,20.09,20.06,First Class Honours,2025-06-30,Graduated
+10002430,Accountancy & Finance,3,2022/23,120,19.61,19.64,19.63,First Class Honours,2024-06-30,Graduated
+10002431,Accountancy & Finance,2,2022/23,240,13.03,15.43,14.23,Lower Second Class Honours,2025-06-30,Graduated
+10002435,Accountancy & Finance,3,2022/23,120,10.72,11.46,11.09,Third Class Honours,2024-06-30,Graduated
+10002438,Accountancy & Finance,3,2022/23,120,10.9,12.17,11.53,Borderline 3rd/2.2,2024-06-30,Graduated
+10002440,Accountancy & Finance,2,2022/23,240,19.79,19.85,19.82,First Class Honours,2025-06-30,Graduated
+10002443,Accountancy & Finance,3,2022/23,120,10.96,12.31,11.64,Borderline 3rd/2.2,2024-06-30,Graduated
+10002445,Accountancy & Finance,2,2022/23,240,14.6,15.36,14.98,Borderline 2.2/2.1,2025-06-30,Graduated
+10002447,Accountancy & Finance,3,2022/23,120,4.33,2.34,3.34,Fail,2024-06-30,Deferred
+10002449,Accountancy & Finance,2,2022/23,240,15.43,14.93,15.18,Upper Second Class Honours,2025-06-30,Graduated
+10002455,Accountancy & Finance,3,2022/23,120,15.12,15.36,15.24,Upper Second Class Honours,2024-06-30,Graduated
+10002456,Accountancy & Finance,3,2022/23,120,14.13,11.39,12.76,Lower Second Class Honours,2024-06-30,Pending
+10002460,Accountancy & Finance,3,2022/23,120,13.48,14.63,14.05,Lower Second Class Honours,2024-06-30,Graduated
+10002465,Accountancy & Finance,3,2022/23,120,11.91,14.55,13.23,Lower Second Class Honours,2024-06-30,Pending
+10002467,Accountancy & Finance,2,2022/23,240,10.59,10.49,10.54,Third Class Honours,2025-06-30,Graduated
+10002470,Accountancy & Finance,2,2022/23,240,11.3,10.45,10.87,Third Class Honours,2025-06-30,Graduated
+10002485,Legal Studies,3,2022/23,120,5.05,3.09,4.07,Fail,2024-06-30,Deferred
+10002487,Legal Studies,3,2022/23,120,15.14,20.27,17.71,Borderline 2.1/1st,2024-06-30,Graduated
+10002490,Legal Studies,2,2022/23,240,14.83,10.9,12.86,Lower Second Class Honours,2025-06-30,Pending
+10002493,Legal Studies,2,2022/23,240,9.13,11.07,10.1,Third Class Honours,2025-06-30,Graduated
+10002495,Legal Studies,3,2022/23,120,15.41,15.38,15.39,Upper Second Class Honours,2024-06-30,Graduated
+10002496,Legal Studies,3,2022/23,120,11.55,11.13,11.34,Third Class Honours,2024-06-30,Graduated
+10002510,Legal Studies,3,2022/23,120,4.53,6.03,5.28,Fail,2024-06-30,Deferred
+10002531,Legal Studies,2,2022/23,240,7.17,6.58,6.88,Fail,2025-06-30,Deferred
+10002543,Business Management,3,2022/23,120,14.17,15.32,14.75,Borderline 2.2/2.1,2024-06-30,Graduated
+10002545,Business Management,3,2022/23,120,11.48,10.98,11.23,Third Class Honours,2024-06-30,Graduated
+10002552,Business Management,2,2022/23,240,11.22,10.75,10.99,Third Class Honours,2025-06-30,Graduated
+10002554,Business Management,2,2022/23,240,20.15,20.04,20.1,First Class Honours,2025-06-30,Graduated
+10002560,Business Management,2,2022/23,240,14.81,15.01,14.91,Borderline 2.2/2.1,2025-06-30,Graduated
+10002569,Business Management,2,2022/23,240,19.53,19.81,19.67,First Class Honours,2025-06-30,Graduated
+10002570,Business Management,3,2022/23,120,20.3,19.79,20.05,First Class Honours,2024-06-30,Graduated
+10002571,Business Management,2,2022/23,240,14.77,15.63,15.2,Upper Second Class Honours,2025-06-30,Graduated
+10002574,Business Management,3,2022/23,120,6.66,4.21,5.44,Fail,2024-06-30,Deferred
+10002576,Business Management,3,2022/23,120,15.52,14.89,15.2,Upper Second Class Honours,2024-06-30,Graduated
+10002577,Business Management,2,2022/23,240,19.41,19.71,19.56,First Class Honours,2025-06-30,Graduated
+10002581,Business Management,3,2022/23,120,14.95,15.35,15.15,Upper Second Class Honours,2024-06-30,Graduated
+10002585,Business Management,3,2022/23,120,10.75,9.96,10.36,Third Class Honours,2024-06-30,Graduated
+10002594,Business Management,2,2022/23,240,4.28,5.76,5.02,Fail,2025-06-30,Deferred
+10002603,Business Management and International Relations,2,2022/23,240,11.54,12.44,11.99,Borderline 3rd/2.2,2025-06-30,Graduated
+10002609,Business Management and International Relations,3,2022/23,120,12.02,11.11,11.56,Borderline 3rd/2.2,2024-06-30,Graduated
+10002610,Business Management and International Relations,3,2022/23,120,14.58,19.5,17.04,Upper Second Class Honours,2024-06-30,Graduated
+10002611,Business Management and International Relations,3,2022/23,120,11.4,10.21,10.8,Third Class Honours,2024-06-30,Graduated
+10002613,Business Management and International Relations,3,2022/23,120,14.97,14.38,14.67,Borderline 2.2/2.1,2024-06-30,Graduated
+10002618,Business Management and International Relations,3,2022/23,120,10.99,10.88,10.94,Third Class Honours,2024-06-30,Graduated
+10002619,Business Management and International Relations,2,2022/23,240,9.17,11.57,10.37,Third Class Honours,2025-06-30,Graduated
+10002624,Business Management and International Relations,3,2022/23,120,19.87,19.81,19.84,First Class Honours,2024-06-30,Graduated
+10002627,Business Management and International Relations,3,2022/23,120,6.86,2.59,4.73,Fail,2024-06-30,Deferred
+10002632,Business Management and International Relations,2,2022/23,240,15.0,15.33,15.17,Upper Second Class Honours,2025-06-30,Graduated
+10002634,Business Management and International Relations,3,2022/23,120,9.84,9.27,9.55,Third Class Honours,2024-06-30,Graduated
+10002640,Business Management and International Relations,3,2022/23,120,4.72,8.38,6.55,Fail,2024-06-30,Deferred
+10002643,Business Management and International Relations,2,2022/23,240,10.48,12.17,11.32,Third Class Honours,2025-06-30,Graduated
+10002647,Business Management and International Relations,3,2022/23,120,14.84,11.59,13.22,Lower Second Class Honours,2024-06-30,Pending
+10002657,Business Management and International Relations,2,2022/23,240,9.66,11.14,10.4,Third Class Honours,2025-06-30,Graduated
+10002659,Business Management and International Relations,3,2022/23,120,13.24,10.88,12.06,Lower Second Class Honours,2024-06-30,Graduated
+10002666,Business Management and Information Systems,3,2022/23,120,11.48,10.79,11.13,Third Class Honours,2024-06-30,Graduated
+10002669,Business Management and Information Systems,3,2022/23,120,6.25,6.64,6.44,Fail,2024-06-30,Deferred
+10002674,Business Management and Information Systems,3,2022/23,120,9.8,12.1,10.95,Third Class Honours,2024-06-30,Graduated
+10002675,Business Management and Information Systems,3,2022/23,120,10.42,10.68,10.55,Third Class Honours,2024-06-30,Graduated
+10002676,Business Management and Information Systems,2,2022/23,240,20.46,20.43,20.44,First Class Honours,2025-06-30,Graduated
+10002679,Business Management and Information Systems,3,2022/23,120,13.39,14.6,13.99,Lower Second Class Honours,2024-06-30,Graduated
+10002681,Business Management and Information Systems,2,2022/23,240,7.48,6.85,7.16,Fail,2025-06-30,Deferred
+10002682,Business Management and Information Systems,2,2022/23,240,19.53,17.46,18.49,First Class Honours,2025-06-30,Pending
+10002683,Business Management and Information Systems,2,2022/23,240,10.2,10.4,10.3,Third Class Honours,2025-06-30,Graduated
+10002684,Business Management and Information Systems,3,2022/23,120,15.77,15.16,15.47,Upper Second Class Honours,2024-06-30,Graduated
+10002685,Business Management and Information Systems,3,2022/23,120,9.61,11.76,10.68,Third Class Honours,2024-06-30,Graduated
+10002687,Business Management and Information Systems,3,2022/23,120,13.61,14.36,13.99,Lower Second Class Honours,2024-06-30,Graduated
+10002688,Business Management and Information Systems,2,2022/23,240,12.24,10.72,11.48,Third Class Honours,2025-06-30,Graduated
+10002689,Business Management and Information Systems,2,2022/23,240,9.9,11.52,10.71,Third Class Honours,2025-06-30,Graduated
+10002693,Business Management and Information Systems,3,2022/23,120,10.19,10.52,10.36,Third Class Honours,2024-06-30,Graduated
+10002695,Business Management and Information Systems,3,2022/23,120,14.91,16.04,15.48,Upper Second Class Honours,2024-06-30,Graduated
+10002696,Business Management and Information Systems,2,2022/23,240,20.13,19.7,19.92,First Class Honours,2025-06-30,Graduated
+10002702,Business Management and Information Systems,2,2022/23,240,14.92,15.57,15.25,Upper Second Class Honours,2025-06-30,Graduated
+10002707,Business Management and Information Systems,2,2022/23,240,15.19,12.29,13.74,Lower Second Class Honours,2025-06-30,Pending
+10002711,Business Management and Information Systems,2,2022/23,240,11.57,9.81,10.69,Third Class Honours,2025-06-30,Graduated
+10002713,Business Management and Information Systems,3,2022/23,120,11.57,10.14,10.85,Third Class Honours,2024-06-30,Graduated
+10002716,Business Management and Information Systems,3,2022/23,120,11.27,9.51,10.39,Third Class Honours,2024-06-30,Graduated
+10002717,Business Management and Information Systems,3,2022/23,120,6.06,5.26,5.66,Fail,2024-06-30,Deferred
+10002720,Business Management and Information Systems,2,2022/23,240,11.38,10.43,10.9,Third Class Honours,2025-06-30,Graduated
+10002725,Business Management and Information Systems,2,2022/23,240,5.74,3.96,4.85,Fail,2025-06-30,Deferred
+10002859,Accountancy & Finance,3,2023/24,120,3.36,7.54,5.45,Fail,2025-06-30,Deferred
+10002860,Accountancy & Finance,3,2023/24,120,12.98,14.87,13.93,Lower Second Class Honours,2025-06-30,Graduated
+10002862,Accountancy & Finance,3,2023/24,120,20.42,20.33,20.38,First Class Honours,2025-06-30,Graduated
+10002868,Accountancy & Finance,3,2023/24,120,13.86,15.11,14.49,Lower Second Class Honours,2025-06-30,Graduated
+10002886,Accountancy & Finance,3,2023/24,120,14.5,14.4,14.45,Lower Second Class Honours,2025-06-30,Graduated
+10002890,Accountancy & Finance,3,2023/24,120,13.76,15.95,14.85,Borderline 2.2/2.1,2025-06-30,Graduated
+10002895,Accountancy & Finance,3,2023/24,120,15.14,15.63,15.38,Upper Second Class Honours,2025-06-30,Graduated
+10002901,Accountancy & Finance,3,2023/24,120,14.94,15.34,15.14,Upper Second Class Honours,2025-06-30,Graduated
+10002911,Legal Studies,3,2023/24,120,5.5,6.27,5.89,Fail,2025-06-30,Deferred
+10002912,Legal Studies,3,2023/24,120,11.44,11.33,11.38,Third Class Honours,2025-06-30,Graduated
+10002917,Legal Studies,3,2023/24,120,5.83,6.26,6.05,Fail,2025-06-30,Deferred
+10002931,Legal Studies,3,2023/24,120,15.03,14.52,14.78,Borderline 2.2/2.1,2025-06-30,Graduated
+10002939,Legal Studies,3,2023/24,120,11.07,11.99,11.53,Borderline 3rd/2.2,2025-06-30,Graduated
+10002948,Legal Studies,3,2023/24,120,11.79,9.83,10.81,Third Class Honours,2025-06-30,Graduated
+10002949,Legal Studies,3,2023/24,120,14.89,10.41,12.65,Lower Second Class Honours,2025-06-30,Pending
+10002961,Politics and International Relations,3,2023/24,120,14.87,19.74,17.3,Upper Second Class Honours,2025-06-30,Graduated
+10002968,Politics and International Relations,3,2023/24,120,15.35,14.98,15.17,Upper Second Class Honours,2025-06-30,Graduated
+10002987,Politics and International Relations,3,2023/24,120,3.03,5.12,4.07,Fail,2025-06-30,Deferred
+10002990,Politics and International Relations,3,2023/24,120,11.82,9.54,10.68,Third Class Honours,2025-06-30,Graduated
+10002994,Politics and International Relations,3,2023/24,120,14.34,14.25,14.29,Lower Second Class Honours,2025-06-30,Graduated
+10002996,Politics and International Relations,3,2023/24,120,15.4,14.68,15.04,Upper Second Class Honours,2025-06-30,Graduated
+10003003,Politics and International Relations,3,2023/24,120,12.32,12.65,12.49,Lower Second Class Honours,2025-06-30,Graduated
+10003004,Politics and International Relations,3,2023/24,120,6.17,4.46,5.31,Fail,2025-06-30,Deferred
+10003010,Politics and International Relations,3,2023/24,120,4.04,5.7,4.87,Fail,2025-06-30,Deferred
+10003029,Computing Science,3,2023/24,120,10.17,10.96,10.56,Third Class Honours,2025-06-30,Graduated
+10003030,Computing Science,3,2023/24,120,10.87,10.77,10.82,Third Class Honours,2025-06-30,Graduated
+10003057,Computing Science,3,2023/24,120,20.09,20.05,20.07,First Class Honours,2025-06-30,Graduated
+10003068,Computing Science,3,2023/24,120,11.81,11.13,11.47,Third Class Honours,2025-06-30,Graduated
+10003080,Business Management,3,2023/24,120,6.7,5.26,5.98,Fail,2025-06-30,Deferred
+10003093,Business Management,3,2023/24,120,15.01,14.91,14.96,Borderline 2.2/2.1,2025-06-30,Graduated
+10003095,Business Management,3,2023/24,120,11.94,14.7,13.32,Lower Second Class Honours,2025-06-30,Graduated
+10003098,Business Management,3,2023/24,120,10.77,9.55,10.16,Third Class Honours,2025-06-30,Graduated
+10003099,Business Management,3,2023/24,120,10.56,12.37,11.47,Third Class Honours,2025-06-30,Graduated
+10003113,Business Management,3,2023/24,120,16.15,15.48,15.81,Upper Second Class Honours,2025-06-30,Graduated
+10003114,Business Management,3,2023/24,120,10.58,12.61,11.59,Borderline 3rd/2.2,2025-06-30,Graduated
+10003120,Business Management and International Relations,3,2023/24,120,14.19,15.99,15.09,Upper Second Class Honours,2025-06-30,Graduated
+10003127,Business Management and International Relations,3,2023/24,120,3.03,6.48,4.75,Fail,2025-06-30,Deferred
+10003137,Business Management and International Relations,3,2023/24,120,10.57,8.75,9.66,Third Class Honours,2025-06-30,Pending
+10003142,Business Management and International Relations,3,2023/24,120,20.54,19.55,20.05,First Class Honours,2025-06-30,Graduated
+10003164,Business Management and International Relations,3,2023/24,120,14.65,15.18,14.92,Borderline 2.2/2.1,2025-06-30,Graduated
+10003175,Business Management and Information Systems,3,2023/24,120,13.93,14.55,14.24,Lower Second Class Honours,2025-06-30,Graduated
+10003178,Business Management and Information Systems,3,2023/24,120,16.01,14.69,15.35,Upper Second Class Honours,2025-06-30,Graduated
+10003181,Business Management and Information Systems,3,2023/24,120,7.25,3.37,5.31,Fail,2025-06-30,Deferred
+10003189,Business Management and Information Systems,3,2023/24,120,15.31,16.23,15.77,Upper Second Class Honours,2025-06-30,Graduated
+10003196,Business Management and Information Systems,3,2023/24,120,19.46,15.24,17.35,Upper Second Class Honours,2025-06-30,Pending
+10003197,Business Management and Information Systems,3,2023/24,120,14.94,20.15,17.55,Borderline 2.1/1st,2025-06-30,Graduated
+10003201,Business Management and Information Systems,3,2023/24,120,15.08,14.87,14.97,Borderline 2.2/2.1,2025-06-30,Graduated
+10003211,Business Management and Information Systems,3,2023/24,120,9.11,10.52,9.81,Third Class Honours,2025-06-30,Graduated
