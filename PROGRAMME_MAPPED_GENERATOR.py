@@ -1,21 +1,3 @@
-"""
-═══════════════════════════════════════════════════════════════════════════════
-STUDENT PERFORMANCE ANALYTICS - CORRECT GENERATOR WITH PROGRAMME MAPPING
-Built from Official Programme Prescriptions
-═══════════════════════════════════════════════════════════════════════════════
-
-CRITICAL FIXES:
-✓ Each programme has EXACT course assignments from prescriptions
-✓ AF students take AF courses ONLY (not BM courses)
-✓ Handles "OR" choices (B4501 OR B4502 for AF dissertations)
-✓ Students tracked through correct academic years
-✓ Student IDs preserved from admissions file
-
-Created: 2026-02-07 16:00 Doha Time
-Author: Cindy
-═══════════════════════════════════════════════════════════════════════════════
-"""
-
 import pandas as pd
 import random
 import os
@@ -158,9 +140,7 @@ PROGRAMME_LAUNCH = {
 ACADEMIC_YEARS = ["2017/18", "2018/19", "2019/20", "2020/21", "2021/22", 
                   "2022/23", "2023/24", "2024/25", "2025/26"]
 
-# ============================================================================
 # LOAD DATA
-# ============================================================================
 
 print("="*80)
 print(" LOADING DATA")
@@ -176,9 +156,9 @@ print(f"✓ Sample Student IDs: {students_df['Student_ID'].head(3).tolist()}")
 courses_df = pd.read_excel('List_of_Courses.xlsx', engine='openpyxl')
 print(f"✓ Loaded {len(courses_df)} courses\n")
 
-# ============================================================================
+
 # HELPER FUNCTIONS
-# ============================================================================
+
 
 def get_programme_courses(programme_name):
     """Get course structure for a programme"""
@@ -321,9 +301,9 @@ def get_course_credits(course_code):
         return int(course_info.iloc[0]['Credit'])
     return 15  # Default
 
-# ============================================================================
+
 # GENERATE DATA
-# ============================================================================
+
 
 output_base = 'Generated_Data'
 os.makedirs(output_base, exist_ok=True)
@@ -637,12 +617,11 @@ print("="*80)
 print(" ✅ GENERATION COMPLETE!")
 print("="*80)
 print(f"\nFinished: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-print("\n🎯 KEY FEATURES:")
+print("\n KEY FEATURES:")
 print("  ✓ Programme-specific course assignments from prescriptions")
 print("  ✓ AF students take AF courses ONLY (not BM)")
 print("  ✓ Handles dissertation choices (B4501 OR B4502)")
 print("  ✓ Student IDs preserved from admissions")
 print("  ✓ 50/50 GPA weighting (Year 3 + Year 4)")
 print("  ✓ 2025-26: Sem1 only (current year)")
-print("\n🚀 Ready for verification and GitHub upload!")
 print("="*80)
