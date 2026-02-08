@@ -314,7 +314,7 @@ const ChartsManager = {
         if (!ctx) return;
 
         this.charts.gpaProgramme = new Chart(ctx, {
-            type: 'horizontalBar',
+            type: 'bar',
             data: {
                 labels: programmes,
                 datasets: [{
