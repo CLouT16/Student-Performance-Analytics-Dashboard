@@ -2,13 +2,9 @@
 
 Interactive analytics dashboard for student performance data across 9 academic years (2017-2025).
 
----
-
 ## Overview
 
-This dashboard analyzes performance data for 4,246 undergraduate students across four schools: Business, Social Science, Natural & Computing Sciences, and Legal Studies.
-
----
+This repository contains synthetic student performance data generated for my MSc Data Science thesis project. The dataset spans 9 academic years (2017/18 - 2025/26) across 7 undergraduate programmes.
 
 ## Features
 
@@ -27,16 +23,12 @@ This dashboard analyzes performance data for 4,246 undergraduate students across
 - Export filtered data as CSV
 - Responsive design for all devices
 
----
-
 ## Technical Stack
 
 - HTML5, CSS3, JavaScript
 - Chart.js for visualizations
 - PapaParse for CSV processing
 - Client-side processing (no backend)
-
----
 
 ## Data Files
 
@@ -60,8 +52,6 @@ Complete breakdown by academic year (2017-18 through 2025-26), including:
 - `database/` - SQL database files
 - `scripts/` - Python data generation scripts
 
----
-
 ## Setup
 
 ### View Live Dashboard
@@ -78,8 +68,6 @@ python -m http.server 8000
 
 Open browser to http://localhost:8000
 
----
-
 ## Project Structure
 
 ```
@@ -93,24 +81,11 @@ Student-Performance-Analytics-Dashboard/
 └── scripts/                 (Python scripts)
 ```
 
----
-
 ## Academic Project
 
-**Title:** Building a Student Performance Analytics Dashboard for Strategic Decision-Making
-
-**Programme:** MSc Data Science
-
-**Year:** 2025-2026
-
-All data is synthetic and generated for academic purposes.
-
----
+All data is synthetic and generated for thesis project purposes.
 
 ## Browser Support
 
 Chrome/Edge 90+, Firefox 88+, Safari 14+
 
----
-
-**Last Updated:** February 2026
