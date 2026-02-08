@@ -1,0 +1,1307 @@
+Academic_Year,Student_ID,Surname,Forename,Gender,Date_of_Birth,Nationality,username,email,Prog_Yr,Stud_Yr,AIMS_Start,AIMS_ExpEnd,Category,Programme_Name
+2020/21,10001219,Long,Timothy,M,03/05/1998,India,tlong410,student10001219@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001220,Hinton,Julian,M,29/11/1998,Jordan,jhinton410,student10001220@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001221,Hudson,Amy,F,13/01/2001,Philippines,ahudson955,student10001221@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001222,Evans,Dana,F,23/12/1999,Philippines,devans572,student10001222@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001223,Juarez,Joel,M,21/07/2000,United States,jjuarez102,student10001223@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001224,Chandler,Jason,M,04/12/2002,Bangladesh,jchandler802,student10001224@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001225,Martin,Darren,M,16/04/2003,Philippines,dmartin888,student10001225@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001226,Proctor,Brittany,F,19/03/2002,Philippines,bproctor526,student10001226@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001227,Jackson,Deborah,F,22/09/2000,United States,djackson768,student10001227@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001228,Cabrera,Patricia,F,01/01/1996,Pakistan,pcabrera976,student10001228@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001229,Scott,Alyssa,F,28/02/1998,United States,ascott334,student10001229@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001230,Watson,Cynthia,F,05/12/1997,Bangladesh,cwatson429,student10001230@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001231,Green,Holly,F,08/02/1996,Jordan,hgreen898,student10001231@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001232,Estes,Nichole,F,24/02/1997,Pakistan,nestes942,student10001232@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001233,George,Ruth,F,11/02/2002,United Kingdom,rgeorge889,student10001233@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001234,Alvarado,Christopher,M,05/05/1998,Jordan,calvarado97,student10001234@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001235,Smith,Maureen,F,21/03/1997,India,msmith712,student10001235@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001236,Wilson,Mark,M,17/02/2001,United States,mwilson44,student10001236@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001237,Harrison,Melanie,F,21/10/2003,Pakistan,mharrison145,student10001237@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001238,King,Lisa,F,12/08/2001,Bangladesh,lking53,student10001238@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001239,Diaz,Jeremiah,M,24/11/2000,United Kingdom,jdiaz755,student10001239@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001240,Martinez,Kathryn,F,20/07/2001,United Kingdom,kmartinez145,student10001240@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001241,Oconnor,Laura,F,03/04/1996,United Kingdom,loconnor245,student10001241@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001242,Henry,Samuel,M,25/03/2002,Bangladesh,shenry602,student10001242@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001243,Cooley,Douglas,M,24/10/2002,India,dcooley39,student10001243@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001244,Miller,Jerome,M,14/06/1997,Pakistan,jmiller461,student10001244@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001245,Davis,Chris,M,08/03/1998,India,cdavis710,student10001245@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001246,Graham,William,M,03/11/1999,India,wgraham538,student10001246@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001247,Green,Kaylee,F,20/09/2000,Egypt,kgreen500,student10001247@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001248,Morales,Erin,F,01/12/1999,Jordan,emorales247,student10001248@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001249,Green,Jamie,F,17/04/1999,India,jgreen793,student10001249@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001250,Mcintosh,Jerry,M,24/04/1995,United Kingdom,jmcintosh26,student10001250@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001251,Lewis,Michelle,F,21/05/1997,United States,mlewis279,student10001251@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001252,Nelson,Leslie,F,16/04/2003,Jordan,lnelson799,student10001252@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001253,Joseph,Benjamin,M,08/02/1997,United States,bjoseph334,student10001253@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001254,Hunter,Cody,M,20/11/1996,Canada,chunter808,student10001254@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001255,Beck,Rodney,M,29/09/2002,United States,rbeck717,student10001255@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001256,Lee,Joshua,M,30/06/2003,Pakistan,jlee303,student10001256@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001257,Williamson,Mark,M,13/03/1998,Egypt,mwilliamson817,student10001257@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001258,Bond,Christina,F,18/06/1997,Canada,cbond519,student10001258@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001259,Garner,Christine,F,31/08/2001,United Kingdom,cgarner458,student10001259@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001260,Wilson,Valerie,F,19/01/2002,Pakistan,vwilson312,student10001260@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001261,Doyle,Elizabeth,F,09/01/2002,Pakistan,edoyle926,student10001261@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001262,Wood,Anthony,M,30/01/2000,Canada,awood951,student10001262@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001263,Chen,Henry,M,17/07/2003,Bangladesh,hchen340,student10001263@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001264,Richardson,Ethan,M,23/11/1999,Egypt,erichardson262,student10001264@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001265,Carter,Mariah,F,14/07/1995,India,mcarter946,student10001265@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001266,Mercado,Kristina,F,21/02/1997,Philippines,kmercado717,student10001266@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001267,Welch,Alan,M,20/09/1995,Philippines,awelch66,student10001267@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001268,Nelson,Raven,F,03/05/2001,Canada,rnelson611,student10001268@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001269,Davidson,Marissa,F,17/02/1999,Canada,mdavidson201,student10001269@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001270,Curtis,Anthony,M,18/03/2000,Jordan,acurtis693,student10001270@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001271,Medina,Jessica,F,19/07/1998,United States,jmedina345,student10001271@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001272,Lopez,Crystal,F,23/05/2002,India,clopez206,student10001272@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001273,Jones,Jonathan,M,31/12/1997,United Kingdom,jjones659,student10001273@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001274,Paul,Erica,F,08/01/2000,Pakistan,epaul422,student10001274@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001275,Herrera,Dillon,M,04/07/2002,Pakistan,dherrera101,student10001275@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001276,Griffin,Kara,F,20/10/1996,Pakistan,kgriffin486,student10001276@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001277,Orozco,James,M,22/05/2003,Pakistan,jorozco809,student10001277@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001278,Bernard,Debbie,F,01/02/2001,United States,dbernard218,student10001278@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001279,Fisher,Brooke,F,01/12/2001,United Kingdom,bfisher316,student10001279@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001280,Kelly,Jennifer,F,31/08/2001,India,jkelly968,student10001280@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001281,Ryan,William,M,17/09/1998,Canada,wryan554,student10001281@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001282,Martinez,Kristie,F,12/03/1999,United States,kmartinez541,student10001282@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001283,Schaefer,Kenneth,M,25/12/2001,Egypt,kschaefer476,student10001283@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001284,Lee,Meagan,F,29/12/1999,Bangladesh,mlee347,student10001284@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001285,Hebert,Angelica,F,11/01/2002,Canada,ahebert256,student10001285@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001286,Sanders,Hannah,F,17/05/1997,Canada,hsanders239,student10001286@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001287,Guerra,Ethan,M,23/05/2002,India,eguerra843,student10001287@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001288,Greene,Sherri,F,15/08/2002,Philippines,sgreene278,student10001288@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001289,Evans,Kylie,F,02/06/1995,Egypt,kevans782,student10001289@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001290,Gibson,Kenneth,M,06/10/1996,United Kingdom,kgibson605,student10001290@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001291,Harding,Lauren,F,09/03/1998,Philippines,lharding854,student10001291@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001292,Johnson,Amber,F,22/10/2002,Jordan,ajohnson30,student10001292@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001293,Jones,Kyle,M,24/04/2002,Canada,kjones697,student10001293@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001294,Schroeder,Vanessa,F,02/01/1995,Jordan,vschroeder899,student10001294@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001295,Taylor,Melissa,F,02/04/2003,Philippines,mtaylor854,student10001295@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001296,Sullivan,Matthew,M,13/06/1996,United States,msullivan544,student10001296@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001297,Myers,Daniel,M,30/03/2001,India,dmyers998,student10001297@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001298,Anderson,Kristen,F,26/09/2003,Canada,kanderson952,student10001298@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001299,Villegas,Daniel,M,11/04/1997,Bangladesh,dvillegas472,student10001299@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001300,Murray,Lisa,F,30/07/2000,Philippines,lmurray605,student10001300@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001301,Dalton,Tara,F,27/05/1998,Egypt,tdalton688,student10001301@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001302,Wilson,Michelle,F,12/10/2002,United Kingdom,mwilson813,student10001302@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001303,Pittman,Kent,M,22/09/2002,Bangladesh,kpittman497,student10001303@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001304,Bennett,Manuel,M,08/03/2003,United Kingdom,mbennett548,student10001304@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001305,Casey,Douglas,M,31/01/1995,Philippines,dcasey105,student10001305@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001306,Downs,John,M,15/02/1997,Canada,jdowns905,student10001306@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001307,Cole,Brian,M,11/05/1999,Bangladesh,bcole269,student10001307@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001308,Sampson,Wayne,M,15/09/2002,United Kingdom,wsampson538,student10001308@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001309,Hubbard,Carolyn,F,07/06/2003,Pakistan,chubbard981,student10001309@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001310,Le,Scott,M,26/10/1999,United Kingdom,sle318,student10001310@sample.edu,2,1,2020-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10001311,Jenkins,Mary,F,20/12/1999,India,mjenkins976,student10001311@sample.edu,1,1,2020-09-20,2023-06-30,UG,Accountancy & Finance
+2020/21,10001312,Carter,Carly,F,12/08/2000,Bangladesh,ccarter499,student10001312@sample.edu,3,1,2020-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10001313,Chambers,Phillip,M,24/04/1996,Canada,pchambers764,student10001313@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001314,Moore,Robert,M,05/04/1995,Egypt,rmoore808,student10001314@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001315,Jordan,Jaime,F,01/07/2003,Canada,jjordan477,student10001315@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001316,Ruiz,Alan,M,12/09/2000,United Kingdom,aruiz245,student10001316@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001317,Kaufman,Patricia,F,01/06/2003,United Kingdom,pkaufman878,student10001317@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001318,Greene,Philip,M,24/12/1997,Egypt,pgreene473,student10001318@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001319,Mckinney,Heather,F,07/02/1999,United Kingdom,hmckinney221,student10001319@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001320,Ryan,William,M,14/04/1995,Canada,wryan282,student10001320@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001321,Mccoy,Emily,F,05/01/1996,India,emccoy847,student10001321@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001322,Ayala,Marcus,M,02/02/1999,Bangladesh,mayala229,student10001322@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001323,Davis,James,M,14/09/2000,United Kingdom,jdavis56,student10001323@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001324,Moyer,Isaac,M,24/08/1998,Bangladesh,imoyer597,student10001324@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001325,Norman,Austin,M,04/10/2002,United Kingdom,anorman245,student10001325@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001326,Morrow,Calvin,M,21/03/1995,Philippines,cmorrow154,student10001326@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001327,Ford,Mark,M,19/02/1997,Egypt,mford715,student10001327@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001328,Adams,Jamie,M,22/07/2003,India,jadams467,student10001328@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001329,Campbell,Rebecca,F,10/04/2001,Pakistan,rcampbell511,student10001329@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001330,Clay,Jeffrey,M,30/06/1999,Pakistan,jclay701,student10001330@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001331,Woodard,Anna,F,27/12/1997,Canada,awoodard207,student10001331@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001332,Allen,Ian,M,15/06/1998,Pakistan,iallen587,student10001332@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001333,Rivers,Matthew,M,03/04/1999,United States,mrivers881,student10001333@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001334,Carpenter,Joshua,M,25/03/2000,Philippines,jcarpenter799,student10001334@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001335,Suarez,Rebekah,F,04/03/2002,Canada,rsuarez597,student10001335@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001336,Hernandez,Kim,F,15/08/2001,Pakistan,khernandez621,student10001336@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001337,Smith,Heather,F,04/07/1998,Bangladesh,hsmith884,student10001337@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001338,Scott,Julie,F,25/06/1995,United Kingdom,jscott969,student10001338@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001339,Horn,Lynn,F,10/08/2000,Canada,lhorn293,student10001339@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001340,Smith,Ivan,M,28/05/1996,India,ismith534,student10001340@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001341,Kim,Linda,F,06/02/2002,Philippines,lkim668,student10001341@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001342,Garcia,Alice,F,23/12/1999,Philippines,agarcia702,student10001342@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001343,Clements,Kyle,M,27/04/2003,India,kclements689,student10001343@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001344,Robinson,Connie,F,03/03/1998,Jordan,crobinson336,student10001344@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001345,Jackson,Joanne,F,13/06/2000,Egypt,jjackson738,student10001345@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001346,Reeves,John,M,22/01/1995,India,jreeves778,student10001346@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001347,Peterson,Caleb,M,27/05/1999,Canada,cpeterson352,student10001347@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001348,Barnes,Robert,M,31/01/2001,United Kingdom,rbarnes394,student10001348@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001349,Hudson,Ashley,F,18/08/1997,Bangladesh,ahudson900,student10001349@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001350,Davis,Jaime,F,04/04/1995,Bangladesh,jdavis824,student10001350@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001351,Barnes,Maria,F,26/02/1996,Philippines,mbarnes341,student10001351@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001352,Tate,Nicholas,M,01/02/2001,India,ntate904,student10001352@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001353,Contreras,Crystal,F,05/04/2003,Pakistan,ccontreras866,student10001353@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001354,Davis,Sarah,F,12/07/2000,Pakistan,sdavis305,student10001354@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001355,Greene,David,M,19/10/2002,United States,dgreene564,student10001355@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001356,Smith,Joseph,M,01/02/1999,Egypt,jsmith845,student10001356@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001357,Smith,Gregory,M,29/04/2002,United Kingdom,gsmith974,student10001357@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001358,Thompson,Diamond,F,03/03/1996,Jordan,dthompson160,student10001358@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001359,Vasquez,Felicia,F,02/02/1998,Egypt,fvasquez463,student10001359@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001360,Hoffman,Christopher,M,06/01/1996,Bangladesh,choffman939,student10001360@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001361,Lewis,Meagan,F,13/12/1997,Egypt,mlewis440,student10001361@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001362,Richardson,Aaron,M,13/01/1996,Pakistan,arichardson649,student10001362@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001363,Jones,Sarah,F,12/03/1997,United Kingdom,sjones613,student10001363@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001364,Cain,Steven,M,09/03/2000,Egypt,scain731,student10001364@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001365,Hodges,Laura,F,29/08/1999,United States,lhodges269,student10001365@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001366,Robinson,Kelly,F,20/01/2001,Philippines,krobinson480,student10001366@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001367,Allison,Sharon,F,10/11/2000,Philippines,sallison638,student10001367@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001368,Wright,Rachel,F,29/07/1996,Philippines,rwright607,student10001368@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001369,Webster,Nathan,M,02/08/1995,Pakistan,nwebster156,student10001369@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001370,Bauer,Chelsea,F,13/05/2002,Canada,cbauer388,student10001370@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001371,Johnson,Carolyn,F,07/07/2001,Bangladesh,cjohnson932,student10001371@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001372,Jones,Nicole,F,21/04/1995,Pakistan,njones205,student10001372@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001373,Brooks,James,M,13/01/1995,Pakistan,jbrooks472,student10001373@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001374,Carson,Kelly,F,18/08/1998,Bangladesh,kcarson697,student10001374@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001375,Moss,Thomas,M,30/06/1996,Bangladesh,tmoss105,student10001375@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001376,Archer,Christina,F,13/06/1995,India,carcher535,student10001376@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001377,Fletcher,Sarah,F,01/03/1999,Canada,sfletcher603,student10001377@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001378,Harris,Brian,M,08/10/1998,Bangladesh,bharris185,student10001378@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001379,Pham,Justin,M,02/05/2003,Canada,jpham901,student10001379@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001380,Goodman,Calvin,M,12/09/1996,Bangladesh,cgoodman304,student10001380@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001381,Williams,Kimberly,F,04/03/2000,Pakistan,kwilliams153,student10001381@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001382,Jimenez,Brian,M,08/11/2000,Canada,bjimenez220,student10001382@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001383,Soto,John,M,27/09/1999,Philippines,jsoto529,student10001383@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001384,Schneider,Douglas,M,19/04/2003,Jordan,dschneider978,student10001384@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001385,Johnson,Joshua,M,30/06/1997,Jordan,jjohnson627,student10001385@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001386,Price,Brandon,M,08/03/2001,Bangladesh,bprice302,student10001386@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001387,Baker,Jamie,F,23/12/1998,Bangladesh,jbaker547,student10001387@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001388,Lopez,Michael,M,01/10/1998,Bangladesh,mlopez719,student10001388@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001389,Campos,Karen,F,19/10/1998,Jordan,kcampos216,student10001389@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001390,Gallagher,Matthew,M,31/10/2001,United Kingdom,mgallagher403,student10001390@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001391,Rivera,Thomas,M,18/08/2000,United States,trivera497,student10001391@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001392,Herman,Jessica,F,16/03/1999,United States,jherman941,student10001392@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001393,Larson,Willie,M,02/02/2003,Jordan,wlarson494,student10001393@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001394,Pierce,Reginald,M,08/10/2000,United States,rpierce936,student10001394@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001395,Wise,Crystal,F,16/09/2003,Egypt,cwise558,student10001395@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001396,Rivera,Margaret,F,30/06/2003,Jordan,mrivera905,student10001396@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001397,Jimenez,Craig,M,11/03/2000,India,cjimenez105,student10001397@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001398,Pollard,Jennifer,F,02/06/2001,Egypt,jpollard464,student10001398@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001399,Collins,Miranda,F,19/03/2003,Jordan,mcollins451,student10001399@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001400,Johnson,Michelle,F,28/02/2001,Pakistan,mjohnson849,student10001400@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001401,Jackson,Timothy,M,03/06/1995,United States,tjackson346,student10001401@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001402,Foster,Alicia,F,31/12/1998,Bangladesh,afoster860,student10001402@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001403,Walter,Juan,M,04/10/1997,United Kingdom,jwalter374,student10001403@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001404,Smith,Bethany,F,11/05/1998,United Kingdom,bsmith553,student10001404@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001405,Thompson,Lisa,F,24/03/2001,Pakistan,lthompson524,student10001405@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001406,Garcia,James,M,16/11/1997,India,jgarcia722,student10001406@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001407,Green,Sandra,F,23/03/1998,Jordan,sgreen218,student10001407@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001408,Stanley,Andrew,M,29/12/1995,United Kingdom,astanley654,student10001408@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001409,Bush,Stacy,F,22/04/1998,Bangladesh,sbush357,student10001409@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001410,Lowe,Gina,F,10/07/2001,Bangladesh,glowe135,student10001410@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001411,Watson,Marissa,F,06/03/1999,Bangladesh,mwatson725,student10001411@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001412,Smith,Kristine,F,31/12/2003,Philippines,ksmith635,student10001412@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001413,Newman,Daniel,M,02/10/1997,Philippines,dnewman133,student10001413@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001414,Mendoza,Joshua,M,11/10/2001,Egypt,jmendoza617,student10001414@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001415,Wilkins,Holly,F,19/11/2000,Canada,hwilkins311,student10001415@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001416,Nichols,Mark,M,05/08/2002,Jordan,mnichols78,student10001416@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001417,Benjamin,Whitney,F,03/12/1998,United Kingdom,wbenjamin522,student10001417@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001418,Leon,Scott,M,11/06/2000,United Kingdom,sleon356,student10001418@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001419,Hernandez,Stephen,M,29/11/2001,Canada,shernandez99,student10001419@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001420,Arnold,Elizabeth,F,22/12/2002,Canada,earnold208,student10001420@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001421,Nguyen,Amy,F,01/08/1998,United States,anguyen228,student10001421@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management
+2020/21,10001422,Wheeler,Christina,F,08/04/1999,Egypt,cwheeler261,student10001422@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001423,Perez,Christopher,M,09/06/2002,United Kingdom,cperez388,student10001423@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001424,Wilson,Miguel,M,01/12/2002,United Kingdom,mwilson245,student10001424@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management
+2020/21,10001425,Mack,Richard,M,15/07/2003,United Kingdom,rmack704,student10001425@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management
+2020/21,10001426,Keller,Rodney,M,29/03/1997,United Kingdom,rkeller656,student10001426@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001427,Ali,Kristen,F,29/08/1997,United Kingdom,kali236,student10001427@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001428,Garcia,Jeremy,M,18/06/1997,India,jgarcia612,student10001428@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001429,Evans,Angela,F,27/02/1997,Bangladesh,aevans700,student10001429@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001430,Watson,Anna,F,21/10/1996,Philippines,awatson798,student10001430@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001431,Schultz,Susan,F,15/03/2000,India,sschultz781,student10001431@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001432,Mccarthy,Robert,M,10/01/2002,Pakistan,rmccarthy666,student10001432@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001433,Burns,Mary,F,09/06/2003,Philippines,mburns448,student10001433@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001434,Moreno,Earl,M,11/02/2002,Pakistan,emoreno551,student10001434@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001435,Parker,Marvin,M,06/07/2001,India,mparker858,student10001435@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001436,Torres,Amy,F,29/09/2002,Jordan,atorres221,student10001436@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001437,Bell,Jorge,M,20/06/2002,Egypt,jbell658,student10001437@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001438,Stevens,Daniel,M,01/12/1996,Bangladesh,dstevens117,student10001438@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001439,Hill,Laurie,F,06/11/1997,Bangladesh,lhill634,student10001439@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001440,Solomon,Sara,F,02/03/1997,United States,ssolomon702,student10001440@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001441,Reyes,Angelica,F,07/06/2002,Egypt,areyes954,student10001441@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001442,Carroll,Laura,F,23/07/2000,United States,lcarroll274,student10001442@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001443,Hall,Tasha,F,30/12/1995,Pakistan,thall160,student10001443@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001444,Walters,Lisa,F,22/05/1995,India,lwalters58,student10001444@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001445,Cole,Charles,M,08/05/1999,India,ccole540,student10001445@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001446,West,Tracy,F,13/01/2002,Philippines,twest778,student10001446@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001447,Morris,Amanda,F,05/08/1995,India,amorris760,student10001447@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001448,Ruiz,Wayne,M,01/06/2003,Philippines,wruiz223,student10001448@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001449,Garcia,Tammy,F,10/02/1997,United Kingdom,tgarcia544,student10001449@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001450,Bennett,Heather,F,04/04/1996,Egypt,hbennett118,student10001450@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001451,Wood,Michael,M,06/04/2003,Philippines,mwood336,student10001451@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001452,Gonzalez,Dennis,M,16/02/1999,United Kingdom,dgonzalez84,student10001452@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001453,Fisher,Elizabeth,F,26/05/2002,Pakistan,efisher666,student10001453@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001454,Gibbs,Leah,F,16/08/1997,Jordan,lgibbs448,student10001454@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001455,Hopkins,Kaitlyn,F,21/02/1999,United States,khopkins839,student10001455@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001456,Reyes,Ricardo,M,06/07/1995,India,rreyes30,student10001456@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001457,Cochran,Angel,M,12/07/1998,Jordan,acochran238,student10001457@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001458,Hopkins,Jonathan,M,02/08/2001,Egypt,jhopkins720,student10001458@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001459,Stokes,Donna,F,15/08/1999,Bangladesh,dstokes337,student10001459@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001460,Smith,Daniel,M,27/04/1999,Canada,dsmith273,student10001460@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001461,Hamilton,Nathan,M,02/10/1999,United States,nhamilton146,student10001461@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001462,Foster,Brian,M,22/12/2001,Philippines,bfoster280,student10001462@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001463,James,Jaclyn,F,22/02/2002,United States,jjames758,student10001463@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001464,Cole,Melissa,F,14/09/1998,Jordan,mcole901,student10001464@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001465,Murphy,Eileen,F,02/09/2000,Philippines,emurphy915,student10001465@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001466,Gordon,Jessica,F,14/09/1997,Egypt,jgordon566,student10001466@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001467,Jackson,Christopher,M,28/11/1995,Pakistan,cjackson405,student10001467@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001468,Avila,Victoria,F,29/10/1996,Canada,vavila862,student10001468@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001469,Lutz,Sara,F,10/08/2000,United Kingdom,slutz112,student10001469@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001470,Lowe,Jessica,F,29/07/2002,United Kingdom,jlowe104,student10001470@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001471,Hebert,Samantha,F,19/09/2003,United States,shebert27,student10001471@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001472,Bishop,Mark,M,22/10/1995,India,mbishop833,student10001472@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001473,Harmon,Robin,F,25/02/2001,United Kingdom,rharmon449,student10001473@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001474,Walker,Martha,F,31/03/1996,Philippines,mwalker127,student10001474@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001475,Hernandez,Lauren,F,26/04/2001,Canada,lhernandez306,student10001475@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001476,Green,David,M,02/03/2000,Bangladesh,dgreen957,student10001476@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001477,Vaughn,Walter,M,22/02/1997,India,wvaughn260,student10001477@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001478,Brown,Mark,M,27/04/1997,United States,mbrown398,student10001478@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001479,Hardy,Jason,M,09/10/2001,Egypt,jhardy723,student10001479@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001480,Howard,Jamie,F,30/12/1998,Jordan,jhoward782,student10001480@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001481,Ball,Isabella,F,13/02/2002,Egypt,iball41,student10001481@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001482,Mason,Alexander,M,18/07/1995,India,amason542,student10001482@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001483,Bauer,Joseph,M,17/05/1998,India,jbauer819,student10001483@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001484,Johnson,Jeffery,M,26/01/1996,United Kingdom,jjohnson971,student10001484@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001485,Morse,Arthur,M,04/07/1995,Canada,amorse86,student10001485@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001486,Bowers,Julia,F,05/03/1997,Egypt,jbowers900,student10001486@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001487,Jennings,Deborah,F,19/02/2002,Pakistan,djennings423,student10001487@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001488,Rodriguez,Chelsea,F,28/05/2002,Bangladesh,crodriguez412,student10001488@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001489,Smith,Cameron,M,29/06/1995,Egypt,csmith307,student10001489@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001490,Mejia,Jason,M,13/05/1997,Pakistan,jmejia565,student10001490@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001491,Jones,Jennifer,F,20/10/1996,Bangladesh,jjones556,student10001491@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001492,Nguyen,Michelle,F,06/01/1996,Philippines,mnguyen972,student10001492@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001493,Schmidt,Joshua,M,05/07/1999,Jordan,jschmidt781,student10001493@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001494,Eaton,Melissa,F,13/01/1997,Pakistan,meaton381,student10001494@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001495,Wright,James,M,08/12/1998,Jordan,jwright478,student10001495@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001496,Bush,Theresa,F,16/12/2003,Egypt,tbush462,student10001496@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001497,Gallagher,Aaron,M,01/06/1999,United Kingdom,agallagher833,student10001497@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001498,Spencer,Karen,F,10/05/1998,United Kingdom,kspencer989,student10001498@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001499,Mitchell,Christopher,M,28/08/1999,United Kingdom,cmitchell547,student10001499@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001500,Mccarthy,Sarah,F,05/04/2002,Canada,smccarthy654,student10001500@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001501,Garza,Brittany,F,15/12/1999,United States,bgarza826,student10001501@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001502,Lee,Emily,F,24/05/1998,Pakistan,elee543,student10001502@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001503,Cain,Earl,M,21/10/1997,Canada,ecain41,student10001503@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001504,Lopez,Catherine,F,15/04/2002,Bangladesh,clopez858,student10001504@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001505,Young,Devin,M,24/07/2000,India,dyoung619,student10001505@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001506,Reid,Andrew,M,28/09/1996,United States,areid118,student10001506@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001507,Ramirez,Joseph,M,17/01/1998,United States,jramirez746,student10001507@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001508,Garcia,Jessica,F,10/02/2001,Pakistan,jgarcia170,student10001508@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001509,Hughes,Alan,M,05/07/1995,Canada,ahughes55,student10001509@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001510,Taylor,Julie,F,01/10/1995,United States,jtaylor383,student10001510@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001511,Williams,David,M,29/04/2001,United Kingdom,dwilliams815,student10001511@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001512,Dean,James,M,08/01/2000,Egypt,jdean697,student10001512@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001513,Huff,Natalie,F,02/08/2003,United States,nhuff826,student10001513@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001514,Baker,Daniel,M,07/12/1998,Canada,dbaker245,student10001514@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001515,Williams,Tammy,F,27/06/1999,Bangladesh,twilliams935,student10001515@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001516,Marshall,Mary,F,13/09/1996,Egypt,mmarshall200,student10001516@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001517,Beard,Brittany,F,01/11/2002,Bangladesh,bbeard864,student10001517@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001518,Jones,Thomas,M,16/06/2000,United Kingdom,tjones180,student10001518@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001519,Jones,Colleen,F,31/03/1996,United States,cjones554,student10001519@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001520,Patton,Mark,M,18/10/1996,United Kingdom,mpatton807,student10001520@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001521,Newman,Corey,M,06/06/1998,Jordan,cnewman925,student10001521@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001522,Wilson,Charles,M,27/12/1999,Canada,cwilson254,student10001522@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001523,Frederick,Jessica,F,01/05/2002,Bangladesh,jfrederick262,student10001523@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001524,Keller,Nicholas,M,06/01/1997,Pakistan,nkeller8,student10001524@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001525,Robbins,Holly,F,21/04/2000,Canada,hrobbins796,student10001525@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001526,Vega,Patrick,M,07/11/2000,Canada,pvega891,student10001526@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001527,Dennis,Raymond,M,14/11/1999,Pakistan,rdennis888,student10001527@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001528,Arellano,Lori,F,28/01/1995,Canada,larellano943,student10001528@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001529,Leach,Briana,F,30/08/2003,Bangladesh,bleach771,student10001529@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001530,Collins,Andrew,M,06/11/2001,India,acollins803,student10001530@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001531,Diaz,Mackenzie,F,09/04/2003,United Kingdom,mdiaz843,student10001531@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001532,Palmer,Cory,M,31/12/1999,India,cpalmer187,student10001532@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001533,Smith,Brittany,F,29/07/1999,Pakistan,bsmith641,student10001533@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001534,Jones,Melissa,F,15/06/1997,Jordan,mjones786,student10001534@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001535,Gonzalez,Cindy,F,15/04/1999,Philippines,cgonzalez772,student10001535@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and International Relations
+2020/21,10001536,Smith,Andrew,M,17/11/1999,United Kingdom,asmith153,student10001536@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001537,Perez,Kimberly,F,04/10/1997,Jordan,kperez895,student10001537@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001538,Frazier,Stacy,F,22/09/2003,Philippines,sfrazier858,student10001538@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001539,Cherry,Rodney,M,21/09/1998,India,rcherry89,student10001539@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001540,Jones,Kimberly,F,22/05/1999,India,kjones777,student10001540@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001541,Grimes,Colton,M,03/08/2002,Pakistan,cgrimes96,student10001541@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001542,Johnson,Paul,M,21/05/1998,Jordan,pjohnson478,student10001542@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001543,Bryant,Stephanie,F,09/05/1998,Egypt,sbryant505,student10001543@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001544,Clark,Susan,F,05/04/1999,United States,sclark524,student10001544@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001545,Aguilar,Donald,M,29/04/1995,Canada,daguilar295,student10001545@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001546,Ware,John,M,13/10/2003,United States,jware845,student10001546@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001547,Eaton,Douglas,M,05/11/1998,Egypt,deaton706,student10001547@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001548,Hoffman,Nicole,F,16/11/2003,United Kingdom,nhoffman747,student10001548@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001549,Davis,Xavier,M,30/05/1999,Canada,xdavis752,student10001549@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001550,Watson,Jennifer,F,13/07/1997,Jordan,jwatson506,student10001550@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001551,Webster,Angela,F,23/10/2003,United Kingdom,awebster96,student10001551@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001552,Bell,Sharon,F,24/06/2000,Egypt,sbell167,student10001552@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and International Relations
+2020/21,10001553,Mitchell,Bridget,F,18/11/2000,United Kingdom,bmitchell305,student10001553@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001554,Dixon,Howard,M,12/11/1996,Egypt,hdixon489,student10001554@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001555,Kelley,Heidi,F,28/05/1995,India,hkelley323,student10001555@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001556,Boyle,Karen,F,29/11/2001,Jordan,kboyle628,student10001556@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001557,Spencer,Sara,F,10/03/1995,India,sspencer294,student10001557@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and International Relations
+2020/21,10001558,White,Christine,F,05/08/2002,Pakistan,cwhite340,student10001558@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001559,Adams,Sherri,F,26/12/1999,Egypt,sadams275,student10001559@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001560,Wilcox,Shaun,M,31/03/1995,India,swilcox511,student10001560@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001561,Ramirez,Allen,M,03/11/1998,Jordan,aramirez265,student10001561@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and Information Systems
+2020/21,10001562,Young,April,F,08/06/2000,India,ayoung359,student10001562@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001563,Jacobs,Rebecca,F,26/07/1999,Canada,rjacobs700,student10001563@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001564,Mcclure,Ryan,M,09/06/1998,United Kingdom,rmcclure933,student10001564@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001565,Campbell,Colleen,F,28/08/1999,Jordan,ccampbell605,student10001565@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001566,Gonzalez,Wayne,M,02/08/2002,Egypt,wgonzalez612,student10001566@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001567,Vincent,Mary,F,29/08/2002,Philippines,mvincent483,student10001567@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001568,Andrews,Samantha,F,04/09/2000,Bangladesh,sandrews949,student10001568@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001569,Barnett,Joy,F,10/09/1997,Canada,jbarnett377,student10001569@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001570,Jimenez,Cheyenne,F,28/01/1997,Canada,cjimenez495,student10001570@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001571,Peck,Ronald,M,07/03/2001,Jordan,rpeck642,student10001571@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001572,Clark,Peter,M,19/07/1998,Jordan,pclark642,student10001572@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001573,George,Curtis,M,11/03/1996,United Kingdom,cgeorge688,student10001573@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001574,Mckinney,Amy,F,16/02/2001,Egypt,amckinney66,student10001574@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001575,Gutierrez,Shane,M,06/11/1998,United States,sgutierrez64,student10001575@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001576,Rodriguez,Jessica,F,02/11/1998,Egypt,jrodriguez195,student10001576@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001577,Bennett,Carol,F,09/08/2003,Bangladesh,cbennett993,student10001577@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001578,Cole,Brittany,F,19/03/2000,Pakistan,bcole515,student10001578@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001579,Jones,Brandon,M,26/08/2001,India,bjones57,student10001579@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001580,Wright,Randall,M,20/03/2002,United States,rwright363,student10001580@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001581,Berry,Miranda,F,14/11/1997,Jordan,mberry364,student10001581@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001582,Vargas,Steven,M,31/07/1997,Pakistan,svargas470,student10001582@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001583,Taylor,Jennifer,F,01/07/1996,Canada,jtaylor378,student10001583@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001584,Johns,Brandon,M,07/09/2003,India,bjohns413,student10001584@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001585,James,Matthew,M,29/01/1998,Egypt,mjames519,student10001585@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001586,Gonzalez,Tracy,F,07/09/1998,Egypt,tgonzalez415,student10001586@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001587,Kelly,David,M,01/11/2003,Philippines,dkelly27,student10001587@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001588,Perez,Tina,F,23/04/2000,India,tperez806,student10001588@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001589,Kirby,Melissa,F,05/05/1998,United States,mkirby70,student10001589@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001590,Baker,Julie,F,17/07/2002,Bangladesh,jbaker959,student10001590@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001591,Fitzgerald,Brittany,F,03/03/1999,Canada,bfitzgerald233,student10001591@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001592,Baker,Nicole,F,31/05/2003,India,nbaker518,student10001592@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001593,Nelson,Theodore,M,24/08/1999,India,tnelson599,student10001593@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001594,Robertson,Linda,F,17/10/1995,Bangladesh,lrobertson152,student10001594@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001595,Rose,Jeremy,M,29/07/1998,Pakistan,jrose79,student10001595@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001596,Mayo,Barbara,F,29/06/2001,India,bmayo905,student10001596@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001597,Fleming,Joseph,M,25/06/1996,United States,jfleming157,student10001597@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001598,Cochran,Cheryl,F,31/03/2000,United Kingdom,ccochran195,student10001598@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001599,Ramirez,Robin,F,08/01/1997,Egypt,rramirez534,student10001599@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001600,Simpson,Deborah,F,05/12/2000,United States,dsimpson976,student10001600@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001601,Huffman,Julie,F,01/12/2000,India,jhuffman298,student10001601@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001602,Mendoza,Rachel,F,04/03/1995,Jordan,rmendoza345,student10001602@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001603,Weaver,Angela,F,21/12/1998,Egypt,aweaver225,student10001603@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001604,Valdez,Michael,M,29/07/2003,Philippines,mvaldez207,student10001604@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001605,Howard,Patrick,M,20/09/1999,Canada,phoward992,student10001605@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001606,Smith,Andrew,M,02/10/2003,Canada,asmith398,student10001606@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001607,West,Lauren,F,27/11/2002,Bangladesh,lwest901,student10001607@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001608,Green,Curtis,M,23/01/2003,Philippines,cgreen340,student10001608@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001609,Fox,Kevin,M,15/07/2002,United States,kfox229,student10001609@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001610,Henderson,Barbara,F,18/02/1997,Pakistan,bhenderson419,student10001610@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001611,Thomas,David,M,23/08/1999,United Kingdom,dthomas903,student10001611@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and Information Systems
+2020/21,10001612,Lewis,Michael,M,23/04/2001,United Kingdom,mlewis779,student10001612@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001613,Baker,Jennifer,F,14/05/2003,India,jbaker835,student10001613@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001614,Whitaker,Stephen,M,17/11/2002,United Kingdom,swhitaker664,student10001614@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001615,Williams,Raymond,M,20/10/1999,Canada,rwilliams646,student10001615@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001616,Bruce,Joseph,M,27/07/2001,Canada,jbruce170,student10001616@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001617,Sanders,Todd,M,24/09/2002,United States,tsanders322,student10001617@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001618,Cochran,Dennis,M,04/05/2002,Bangladesh,dcochran835,student10001618@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001619,Reyes,James,M,07/08/2002,United States,jreyes932,student10001619@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001620,Johnston,Austin,M,27/05/2000,Bangladesh,ajohnston66,student10001620@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and Information Systems
+2020/21,10001621,Johnson,Katelyn,F,12/04/1995,Philippines,kjohnson303,student10001621@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001622,Price,William,M,06/05/1997,Canada,wprice475,student10001622@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001623,Wright,Ryan,M,16/09/2003,Pakistan,rwright512,student10001623@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001624,Bryant,Holly,F,30/12/2000,Canada,hbryant568,student10001624@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001625,Clark,Misty,F,08/06/1996,Pakistan,mclark46,student10001625@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001626,Hale,William,M,22/01/2003,Bangladesh,whale269,student10001626@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001627,Yu,Emily,F,27/02/2002,Egypt,eyu549,student10001627@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001628,Campbell,Jonathan,M,31/03/1996,United States,jcampbell206,student10001628@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001629,Perry,Joanna,F,03/09/2002,India,jperry582,student10001629@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001630,Golden,Gerald,M,21/05/2002,United States,ggolden175,student10001630@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001631,Mack,Kari,F,10/08/2000,Philippines,kmack439,student10001631@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001632,Hill,Katherine,F,02/08/1999,United Kingdom,khill123,student10001632@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001633,Cruz,Hannah,F,28/03/2002,Philippines,hcruz865,student10001633@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001634,Henry,Angela,F,12/05/2003,United Kingdom,ahenry572,student10001634@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001635,Cooper,Evan,M,24/07/1998,United States,ecooper922,student10001635@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001636,Wilkins,Richard,M,28/02/2002,Bangladesh,rwilkins732,student10001636@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001637,Martin,Daniel,M,28/01/2003,India,dmartin949,student10001637@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001638,Romero,Joshua,M,21/11/2001,Canada,jromero720,student10001638@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001639,Solis,Linda,F,12/06/2001,Canada,lsolis464,student10001639@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001640,King,Daniel,M,09/10/1996,Egypt,dking171,student10001640@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001641,Thomas,Lisa,F,27/06/2002,Canada,lthomas169,student10001641@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001642,Boyer,Megan,F,04/03/1998,Jordan,mboyer52,student10001642@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and Information Systems
+2020/21,10001643,Hays,David,M,31/07/1997,India,dhays952,student10001643@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001644,Hodge,Rachel,F,27/05/1996,Jordan,rhodge178,student10001644@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001645,Dorsey,Kimberly,F,28/12/1997,United States,kdorsey771,student10001645@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001646,Stone,Mary,F,21/07/1996,India,mstone901,student10001646@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001647,Nielsen,Allen,M,05/02/2001,Canada,anielsen484,student10001647@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001648,Miller,Christian,M,04/03/2003,Bangladesh,cmiller444,student10001648@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001649,Jones,Laura,F,16/10/1997,Canada,ljones380,student10001649@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001650,Rangel,Eric,M,20/03/1996,Jordan,erangel358,student10001650@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001651,Taylor,Jessica,F,20/06/1997,United Kingdom,jtaylor293,student10001651@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001652,Guzman,Collin,M,29/11/2003,Canada,cguzman527,student10001652@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and Information Systems
+2020/21,10001653,Thompson,Tiffany,F,30/08/2001,Philippines,tthompson665,student10001653@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001654,Harper,Kenneth,M,14/02/1996,United States,kharper927,student10001654@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001655,Torres,James,M,03/01/1996,Pakistan,jtorres826,student10001655@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001656,Mcconnell,Amanda,F,11/11/1999,Philippines,amcconnell608,student10001656@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001657,Wiley,Karen,F,28/12/2003,Bangladesh,kwiley750,student10001657@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001658,Ramirez,Richard,M,19/12/1995,Philippines,rramirez355,student10001658@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001659,Ray,Christine,F,28/11/2000,Jordan,cray956,student10001659@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001660,Hernandez,Christopher,M,17/09/1998,United Kingdom,chernandez711,student10001660@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001661,Smith,Lindsay,F,22/07/2002,Canada,lsmith420,student10001661@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001662,King,Erik,M,12/08/2000,India,eking941,student10001662@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001663,Hawkins,Dominique,F,27/03/1997,Jordan,dhawkins358,student10001663@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001664,Patton,Andrew,M,02/10/1995,Jordan,apatton425,student10001664@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001665,Graham,Courtney,F,30/11/2003,Jordan,cgraham120,student10001665@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001666,Anderson,Kimberly,F,28/09/2001,United States,kanderson4,student10001666@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001667,Thompson,Linda,F,28/08/1996,United States,lthompson582,student10001667@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001668,Woodward,Kelly,F,25/02/2001,United Kingdom,kwoodward11,student10001668@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001669,Hall,Phillip,M,08/06/1996,Egypt,phall610,student10001669@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001670,Taylor,Jermaine,M,02/05/1998,India,jtaylor720,student10001670@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and Information Systems
+2020/21,10001671,Harper,Paul,M,18/04/1995,United States,pharper387,student10001671@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001672,Green,Tina,F,27/07/1997,Philippines,tgreen507,student10001672@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001673,Harris,Anna,F,15/02/2000,Bangladesh,aharris274,student10001673@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001674,Pierce,Susan,F,15/10/1996,Bangladesh,spierce514,student10001674@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001675,Woods,Clarence,M,15/08/2002,Canada,cwoods580,student10001675@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001676,Mckay,Charles,M,16/02/1998,Bangladesh,cmckay278,student10001676@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001677,Johnson,Ronald,M,13/02/2003,Philippines,rjohnson719,student10001677@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001678,Horton,Samuel,M,18/01/1997,United Kingdom,shorton272,student10001678@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001679,Martin,Timothy,M,27/01/1995,United Kingdom,tmartin484,student10001679@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001680,Bryant,Austin,M,31/10/2002,Jordan,abryant394,student10001680@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and Information Systems
+2020/21,10001681,Sims,Laura,F,18/09/1999,Canada,lsims220,student10001681@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001682,Edwards,Melissa,F,22/11/2000,India,medwards269,student10001682@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001683,Brown,Loretta,F,12/06/1996,United States,lbrown870,student10001683@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001684,Brooks,Jeanne,F,28/04/2003,Canada,jbrooks648,student10001684@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001685,Hess,Ricardo,M,18/06/1996,Egypt,rhess130,student10001685@sample.edu,3,1,2020-09-20,2021-06-30,UG,Business Management and Information Systems
+2020/21,10001686,Garcia,Eugene,M,22/12/1996,India,egarcia970,student10001686@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001687,Wilson,Maria,F,15/12/1998,Jordan,mwilson243,student10001687@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001688,Singh,David,M,25/02/2002,United Kingdom,dsingh165,student10001688@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001689,Jones,Tina,F,11/01/2000,India,tjones680,student10001689@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10001690,Anderson,Sarah,F,26/11/1998,United States,sanderson687,student10001690@sample.edu,2,1,2020-09-20,2022-06-30,UG,Business Management and Information Systems
+2020/21,10001691,Patel,Kenneth,M,17/09/1999,India,kpatel838,student10001691@sample.edu,1,1,2020-09-20,2023-06-30,UG,Business Management and Information Systems
+2020/21,10000001,Bradley,Angela,F,24/01/1999,India,abradley105,student10000001@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000002,Sandoval,Jacob,M,08/04/1996,Pakistan,jsandoval18,student10000002@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000003,Graham,Robin,F,04/12/1998,Canada,rgraham715,student10000003@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000004,Reynolds,Cynthia,F,19/02/1992,Jordan,creynolds701,student10000004@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000005,Grimes,Jane,F,01/01/1994,Jordan,jgrimes250,student10000005@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000007,Anderson,William,M,01/10/1992,Pakistan,wanderson487,student10000007@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000009,Wilkins,Wyatt,M,08/07/1992,Egypt,wwilkins127,student10000009@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000010,Wilson,Joy,F,09/10/1993,United Kingdom,jwilson39,student10000010@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000012,Burton,Jason,M,09/06/1994,Jordan,jburton969,student10000012@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000013,Floyd,Mary,F,25/04/1998,Philippines,mfloyd46,student10000013@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000015,Swanson,Stephen,M,12/02/1994,United Kingdom,sswanson268,student10000015@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000016,Bell,Jessica,F,09/10/1995,Pakistan,jbell682,student10000016@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000017,Garcia,Ruth,F,15/12/2000,India,rgarcia711,student10000017@sample.edu,4,4,2017-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000020,Peters,Jesus,M,07/10/1995,Pakistan,jpeters794,student10000020@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000021,Pierce,Ruth,F,22/01/1999,Bangladesh,rpierce408,student10000021@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000024,Horton,Wayne,M,21/08/1996,India,whorton184,student10000024@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000026,Jackson,Chris,M,22/04/1995,United States,cjackson386,student10000026@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000027,Cooper,Amber,F,30/12/1996,United Kingdom,acooper355,student10000027@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000028,Carey,Jason,M,21/10/1999,Jordan,jcarey29,student10000028@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000029,Torres,Lisa,F,24/09/1998,Egypt,ltorres869,student10000029@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000030,Mclaughlin,Joseph,M,15/03/1997,Canada,jmclaughlin234,student10000030@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000031,Martin,Nicole,F,30/05/1994,Philippines,nmartin777,student10000031@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000032,Schmidt,Diane,F,22/04/1992,United States,dschmidt854,student10000032@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000033,Martinez,Michael,M,08/01/1995,India,mmartinez426,student10000033@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000034,Hodge,Raymond,M,13/06/2000,Canada,rhodge19,student10000034@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000035,Allen,Mary,F,07/02/1996,Philippines,mallen952,student10000035@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000036,Jones,Cassandra,F,21/04/1995,United Kingdom,cjones581,student10000036@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000037,Soto,Becky,F,29/07/1993,Egypt,bsoto38,student10000037@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000038,Gray,Jill,F,09/03/1993,Philippines,jgray170,student10000038@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000039,Peterson,Barbara,F,24/04/1998,Canada,bpeterson497,student10000039@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000041,Ewing,Kimberly,F,13/10/1994,Philippines,kewing536,student10000041@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000043,Byrd,Rebecca,F,03/08/1992,Bangladesh,rbyrd236,student10000043@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000044,Ramirez,Christopher,M,05/02/2000,Pakistan,cramirez49,student10000044@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000045,Nixon,Jamie,F,14/11/1998,Bangladesh,jnixon467,student10000045@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000046,Contreras,Steven,M,13/07/1999,Philippines,scontreras45,student10000046@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000048,Ward,Carol,F,22/01/1992,Jordan,cward696,student10000048@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000049,Smith,Lisa,F,29/11/1999,Pakistan,lsmith176,student10000049@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000050,Thomas,Tammy,F,25/05/1992,United States,tthomas166,student10000050@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000051,Booth,Gregory,M,10/02/1995,Egypt,gbooth64,student10000051@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000052,Joseph,Kristen,F,15/03/1994,Canada,kjoseph717,student10000052@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000053,Brandt,Nicole,F,29/12/2000,United Kingdom,nbrandt280,student10000053@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000054,Todd,Emily,F,25/09/1996,Philippines,etodd732,student10000054@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000055,Lozano,Toni,F,30/09/1998,Pakistan,tlozano746,student10000055@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000056,Young,Kristie,F,10/11/1999,Jordan,kyoung242,student10000056@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000057,Walker,James,M,07/10/1992,United Kingdom,jwalker843,student10000057@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000058,Brown,Kaitlin,F,25/06/1998,Philippines,kbrown75,student10000058@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000059,Gonzalez,April,F,25/09/1998,Philippines,agonzalez175,student10000059@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000060,Jackson,Edwin,M,20/01/1992,Jordan,ejackson93,student10000060@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000061,Coleman,Brent,M,01/08/1995,Philippines,bcoleman559,student10000061@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000062,Butler,Sara,F,29/06/1999,Philippines,sbutler413,student10000062@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000064,Smith,Rebecca,F,31/10/1997,Pakistan,rsmith357,student10000064@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000065,Gates,Tracy,F,24/02/1999,Canada,tgates708,student10000065@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000066,Rodriguez,Cheryl,F,25/02/1993,Philippines,crodriguez79,student10000066@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000067,Mullen,Lauren,F,05/03/1992,Pakistan,lmullen499,student10000067@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000068,Morris,Tamara,F,06/09/1993,Philippines,tmorris677,student10000068@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000069,Parker,Kaylee,F,28/09/1996,Canada,kparker146,student10000069@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000072,Guerrero,Ricky,M,10/12/1997,United Kingdom,rguerrero742,student10000072@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000073,Nash,Jason,M,21/11/1994,United Kingdom,jnash374,student10000073@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000074,Wright,Laura,F,29/08/1995,United Kingdom,lwright944,student10000074@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000075,Davis,Adrienne,F,04/08/1992,United Kingdom,adavis67,student10000075@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000078,Beasley,Kimberly,F,19/04/1992,Philippines,kbeasley672,student10000078@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000079,Perry,Michele,F,03/01/1997,Bangladesh,mperry283,student10000079@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000080,Acevedo,Robert,M,03/04/2000,Philippines,racevedo931,student10000080@sample.edu,4,4,2017-09-20,2020-06-30,UG,Business Management
+2020/21,10000113,Adams,Brenda,F,20/02/1999,Egypt,badams551,student10000113@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000114,Miller,Randy,M,28/11/2000,India,rmiller54,student10000114@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000116,Ellis,Daisy,F,20/10/1998,Bangladesh,dellis436,student10000116@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000117,Rowland,Robert,M,03/10/2001,Pakistan,rrowland367,student10000117@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000118,Hood,Andrew,M,19/11/1995,Canada,ahood969,student10000118@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000120,Cooper,Dana,F,22/04/1997,Jordan,dcooper96,student10000120@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000121,Dudley,Kathleen,F,09/04/1996,Egypt,kdudley371,student10000121@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000122,Woods,Devin,M,22/03/1995,Egypt,dwoods416,student10000122@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000123,Harrison,Julie,F,11/08/1997,Bangladesh,jharrison445,student10000123@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000124,Murphy,Pam,F,15/01/2000,United States,pmurphy288,student10000124@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000125,Shields,Austin,M,18/02/2000,Canada,ashields303,student10000125@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000126,Wilson,Penny,F,09/09/1998,Egypt,pwilson725,student10000126@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000127,Wright,Carolyn,F,29/06/1999,Jordan,cwright789,student10000127@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000128,Barrett,Dana,F,12/04/2000,Philippines,dbarrett489,student10000128@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000129,Wilson,Valerie,F,15/03/1997,United Kingdom,vwilson534,student10000129@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000130,Clark,Samuel,M,10/12/1993,Jordan,sclark428,student10000130@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000131,Weaver,Allison,F,22/01/1993,Bangladesh,aweaver368,student10000131@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000132,Phillips,Deborah,F,30/05/1993,Egypt,dphillips921,student10000132@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000133,King,Andrea,F,09/03/2000,Canada,aking803,student10000133@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000134,Dunn,Christopher,M,24/02/2000,Egypt,cdunn577,student10000134@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000135,Morris,Andre,M,09/03/1993,India,amorris375,student10000135@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000136,Nelson,Pamela,F,07/10/1997,Philippines,pnelson41,student10000136@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000137,Mathews,Douglas,M,22/04/1996,United Kingdom,dmathews649,student10000137@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000138,Wilson,Rachel,F,16/09/1997,United States,rwilson142,student10000138@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000139,Gay,Robin,F,03/01/1997,Egypt,rgay983,student10000139@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000140,Kelly,Jacqueline,F,02/05/1995,United Kingdom,jkelly239,student10000140@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000141,Brown,Beth,F,25/06/2001,India,bbrown67,student10000141@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000142,Black,Vanessa,F,09/11/1999,Philippines,vblack376,student10000142@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000143,Serrano,Maria,F,15/12/1999,India,mserrano194,student10000143@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000144,Smith,Morgan,F,14/12/1993,Egypt,msmith256,student10000144@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000145,Jones,Tony,M,04/01/1993,Egypt,tjones125,student10000145@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000146,Shields,Joshua,M,29/12/2000,United States,jshields999,student10000146@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000148,Steele,Stephanie,F,18/10/1996,Egypt,ssteele789,student10000148@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000149,Downs,Lori,F,05/07/1999,Canada,ldowns503,student10000149@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000150,Lee,Brittney,F,12/05/2001,Egypt,blee462,student10000150@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000151,Kim,Billy,M,07/06/2001,Canada,bkim968,student10000151@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000152,Parker,Kristy,F,04/11/1998,Pakistan,kparker644,student10000152@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000153,Garcia,Kelly,M,29/09/1996,United States,kgarcia423,student10000153@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000154,King,Dakota,M,24/10/1995,Egypt,dking465,student10000154@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000155,Jackson,Mark,M,28/04/1999,India,mjackson487,student10000155@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000156,Lopez,Sonya,F,29/03/1999,Philippines,slopez712,student10000156@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000158,Moore,Laura,F,26/07/1996,Philippines,lmoore685,student10000158@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000159,Mcdonald,Nicole,F,06/05/1998,Pakistan,nmcdonald188,student10000159@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000160,Randolph,Bruce,M,28/07/2000,Philippines,brandolph465,student10000160@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000161,Nicholson,Ryan,M,08/08/2001,India,rnicholson902,student10000161@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000162,Hughes,Christopher,M,12/08/1998,United States,chughes277,student10000162@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000163,Rodriguez,Amanda,F,08/04/1997,Canada,arodriguez115,student10000163@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000164,Spencer,William,M,07/11/2001,United Kingdom,wspencer469,student10000164@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000165,Morales,Carrie,F,09/06/1995,Philippines,cmorales268,student10000165@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000166,Brown,Cynthia,F,12/05/2000,Jordan,cbrown939,student10000166@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000167,Smith,Chelsey,F,22/07/1993,Pakistan,csmith20,student10000167@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000168,Conway,Dana,F,01/06/1993,Canada,dconway533,student10000168@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000169,Miller,Paula,F,06/05/2000,India,pmiller365,student10000169@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000170,Cooper,Alan,M,04/01/1997,United States,acooper791,student10000170@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000171,Johnson,Eric,M,24/06/1995,United Kingdom,ejohnson249,student10000171@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000172,Smith,Michele,F,20/07/1996,Egypt,msmith55,student10000172@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000173,Smith,Craig,M,13/02/1993,India,csmith438,student10000173@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000174,Woods,Joanna,F,02/05/1998,Jordan,jwoods486,student10000174@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000175,Jensen,Darren,M,17/01/1995,India,djensen965,student10000175@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000176,Christensen,Christopher,M,24/11/1993,Philippines,cchristensen512,student10000176@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000177,Castillo,Brian,M,14/06/1998,Egypt,bcastillo390,student10000177@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000178,Sanders,Edgar,M,30/11/2000,Philippines,esanders677,student10000178@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000179,Vance,Mark,M,11/10/1996,United Kingdom,mvance762,student10000179@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000180,Turner,Margaret,F,29/12/2000,India,mturner114,student10000180@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000181,Marquez,Virginia,F,10/09/1997,United Kingdom,vmarquez169,student10000181@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000182,Whitney,Justin,M,13/06/1995,Jordan,jwhitney34,student10000182@sample.edu,4,3,2018-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000183,Conley,Shelby,F,05/09/1997,United Kingdom,sconley88,student10000183@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000184,Stephens,Matthew,M,22/07/1998,Pakistan,mstephens394,student10000184@sample.edu,3,3,2018-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000185,Garcia,Amanda,F,24/11/1995,Bangladesh,agarcia143,student10000185@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000186,Peterson,Heather,F,19/10/1999,United States,hpeterson138,student10000186@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000187,Hansen,Earl,M,18/07/1997,Jordan,ehansen687,student10000187@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000188,Green,Susan,F,10/05/2001,India,sgreen251,student10000188@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000189,Arroyo,Douglas,M,26/07/1998,Egypt,darroyo146,student10000189@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000190,Miller,Kyle,M,15/08/1996,Canada,kmiller621,student10000190@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000191,Fernandez,Eric,M,07/11/1994,United States,efernandez840,student10000191@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000192,Stevenson,Sean,M,26/08/1993,Bangladesh,sstevenson794,student10000192@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000193,Greene,Cynthia,F,03/11/1999,Egypt,cgreene94,student10000193@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000194,Molina,Laura,F,22/09/1997,Pakistan,lmolina22,student10000194@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000195,Williams,Carla,F,27/02/1996,Bangladesh,cwilliams299,student10000195@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000196,Lane,Alexandra,F,10/11/1998,United Kingdom,alane541,student10000196@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000197,Escobar,Kathleen,F,05/04/1998,India,kescobar41,student10000197@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000198,Koch,Christopher,M,08/01/2001,Bangladesh,ckoch656,student10000198@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000199,Adams,Mark,M,28/10/1994,Jordan,madams407,student10000199@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000200,Ramirez,Theresa,F,14/08/2000,India,tramirez986,student10000200@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000201,Ramirez,Alexander,M,23/12/1998,United States,aramirez122,student10000201@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000202,Jefferson,Ashley,F,13/08/1995,Egypt,ajefferson174,student10000202@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000203,Wilson,Jonathan,M,21/03/1998,Jordan,jwilson162,student10000203@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000204,Cochran,Bryan,M,25/02/2001,Canada,bcochran935,student10000204@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000205,Garcia,John,M,06/04/1995,United Kingdom,jgarcia441,student10000205@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000206,Clayton,Cynthia,F,02/08/1993,India,cclayton41,student10000206@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000207,Vasquez,Russell,M,30/04/1993,United States,rvasquez978,student10000207@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000208,Johnson,Lisa,F,05/08/2000,India,ljohnson89,student10000208@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000209,Phillips,Jonathan,M,17/11/1994,Egypt,jphillips71,student10000209@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000210,Campbell,Jason,M,11/10/1993,United States,jcampbell73,student10000210@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000211,Middleton,Lisa,F,27/10/1994,India,lmiddleton823,student10000211@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000212,Adkins,Henry,M,27/07/1993,Jordan,hadkins762,student10000212@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000213,Martin,Richard,M,29/08/1993,United States,rmartin144,student10000213@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000214,Chang,Michele,F,28/12/1999,Pakistan,mchang508,student10000214@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000215,Hart,Marie,F,09/08/1994,Jordan,mhart115,student10000215@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000216,Weaver,Heather,F,09/11/1998,Pakistan,hweaver75,student10000216@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000217,Green,Kimberly,F,21/08/1993,Egypt,kgreen188,student10000217@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000218,Underwood,Cindy,F,15/05/1998,Philippines,cunderwood889,student10000218@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000219,Douglas,Heather,F,10/12/2000,Jordan,hdouglas337,student10000219@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000221,Wiley,Alison,F,03/09/1996,Pakistan,awiley863,student10000221@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000222,Morris,Ashley,F,08/03/1999,Pakistan,amorris633,student10000222@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000223,Walker,Tammy,F,05/12/1995,United States,twalker57,student10000223@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000224,Wilkins,Matthew,M,14/02/1998,India,mwilkins878,student10000224@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000226,Hughes,Gary,M,02/07/1994,India,ghughes772,student10000226@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000227,Rivas,Sharon,F,13/07/1998,Bangladesh,srivas94,student10000227@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000228,Ball,Frances,F,13/10/2001,Bangladesh,fball277,student10000228@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000229,Braun,Patrick,M,31/01/1994,United States,pbraun478,student10000229@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000230,Davis,Christopher,M,25/05/1996,United States,cdavis90,student10000230@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000231,Wagner,Brian,M,18/07/1995,Bangladesh,bwagner454,student10000231@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000232,Robinson,Jaime,F,29/10/1993,Philippines,jrobinson796,student10000232@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000233,Bennett,Juan,M,08/08/1998,Canada,jbennett409,student10000233@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000236,Herrera,Marisa,F,06/12/1995,Bangladesh,mherrera891,student10000236@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000237,Harvey,Eric,M,20/03/1994,Bangladesh,eharvey669,student10000237@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000238,Matthews,Cynthia,F,30/01/1993,Pakistan,cmatthews717,student10000238@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000239,Marsh,Johnny,M,19/10/1995,Canada,jmarsh64,student10000239@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000240,Thompson,Curtis,M,21/02/2001,Jordan,cthompson715,student10000240@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000241,Lopez,Cody,M,28/03/1995,United Kingdom,clopez534,student10000241@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000242,Murphy,Amanda,F,02/03/1994,United Kingdom,amurphy77,student10000242@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000243,Elliott,Johnny,M,11/07/1997,United States,jelliott933,student10000243@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000244,Vaughn,Terri,F,11/08/1998,Jordan,tvaughn786,student10000244@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000245,Morales,Chad,M,09/07/1996,United States,cmorales294,student10000245@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000246,Cox,Stacy,F,27/05/1995,United Kingdom,scox467,student10000246@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000247,Graves,Shannon,F,01/08/2000,Canada,sgraves129,student10000247@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000248,Brooks,Jessica,F,31/01/1993,Canada,jbrooks517,student10000248@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000249,Mccarty,Rebecca,F,21/04/1996,United States,rmccarty286,student10000249@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000250,Houston,Lori,F,02/11/2000,United Kingdom,lhouston5,student10000250@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000251,Duarte,Keith,M,07/04/2001,Egypt,kduarte398,student10000251@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000252,Mccoy,Kathryn,F,05/10/2001,Pakistan,kmccoy15,student10000252@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000253,Banks,Krista,F,16/03/1998,Philippines,kbanks915,student10000253@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000254,Ward,Nicole,F,31/10/2000,Canada,nward549,student10000254@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000255,Ayala,Johnny,M,23/08/1998,Jordan,jayala606,student10000255@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000256,Davis,Caroline,F,06/06/1997,Canada,cdavis427,student10000256@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000257,Dominguez,Susan,F,31/03/2000,Pakistan,sdominguez557,student10000257@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000258,Hurst,John,M,19/02/1997,Philippines,jhurst35,student10000258@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000259,Smith,Matthew,M,19/05/2001,Philippines,msmith27,student10000259@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000260,Lopez,Matthew,M,31/07/1995,United Kingdom,mlopez53,student10000260@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000261,Smith,Daniel,M,19/02/1998,India,dsmith738,student10000261@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000262,Smith,Justin,M,23/02/1998,Jordan,jsmith831,student10000262@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000263,Robinson,Robin,F,20/11/1997,Egypt,rrobinson922,student10000263@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000264,Bryant,Diana,F,26/10/2000,Egypt,dbryant270,student10000264@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000265,Reyes,Crystal,F,18/06/2001,Egypt,creyes674,student10000265@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000266,Phillips,Sandra,F,12/11/1995,Bangladesh,sphillips922,student10000266@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000267,Stone,Daniel,M,21/09/2000,Philippines,dstone950,student10000267@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000268,Gray,Roger,M,28/01/1996,Canada,rgray210,student10000268@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000269,Kennedy,Jonathan,M,04/08/1995,Pakistan,jkennedy773,student10000269@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000270,Williams,Suzanne,F,21/06/1995,Philippines,swilliams947,student10000270@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000271,Torres,Jacob,M,05/12/1994,Philippines,jtorres583,student10000271@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000273,Black,Linda,F,09/11/1993,Jordan,lblack537,student10000273@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000274,Williams,Andrea,F,15/08/1993,Bangladesh,awilliams249,student10000274@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000275,Salas,Bobby,M,19/12/1995,Egypt,bsalas464,student10000275@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000276,Lee,Gina,F,28/06/1997,United Kingdom,glee252,student10000276@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000277,Adams,Vanessa,F,09/02/1998,Bangladesh,vadams265,student10000277@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000278,Whitaker,Jacqueline,F,25/04/1994,Egypt,jwhitaker575,student10000278@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000279,Taylor,Thomas,M,20/10/1994,Philippines,ttaylor546,student10000279@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000280,Evans,Matthew,M,01/06/1995,Egypt,mevans717,student10000280@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000281,Rodriguez,Samantha,F,06/06/1994,Bangladesh,srodriguez562,student10000281@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000282,Adams,Paul,M,12/04/1994,Philippines,padams209,student10000282@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000283,Garner,James,M,09/06/1997,Jordan,jgarner872,student10000283@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000284,Lewis,Gabriel,M,01/09/1997,Canada,glewis412,student10000284@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000285,Howard,Marc,M,03/04/1993,United States,mhoward775,student10000285@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000286,Porter,Jacqueline,F,14/12/1998,India,jporter958,student10000286@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000287,Scott,Barry,M,25/09/1994,Pakistan,bscott785,student10000287@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000288,Santana,Brooke,F,16/12/1998,Pakistan,bsantana380,student10000288@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000289,Brown,Kimberly,F,26/08/1994,United Kingdom,kbrown19,student10000289@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000290,Keller,Michael,M,10/02/2001,Canada,mkeller750,student10000290@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000291,Hayes,Kevin,M,23/07/1998,Philippines,khayes632,student10000291@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000292,Thomas,Isaiah,M,22/05/1998,Philippines,ithomas534,student10000292@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000293,Russell,Kevin,M,18/08/1996,United Kingdom,krussell62,student10000293@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000294,Lopez,Drew,M,14/06/1993,India,dlopez494,student10000294@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000295,Griffin,Adrian,M,12/06/1993,India,agriffin790,student10000295@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000296,Taylor,James,M,10/05/1994,Jordan,jtaylor689,student10000296@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000297,Black,Ronald,M,04/04/1997,India,rblack427,student10000297@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000299,Pierce,Denise,F,06/12/1993,Canada,dpierce397,student10000299@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000300,Davis,Debbie,F,24/04/1998,India,ddavis784,student10000300@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000301,Phillips,Erica,F,24/05/1994,Philippines,ephillips821,student10000301@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000302,Lee,Ethan,M,10/10/1993,Philippines,elee631,student10000302@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000303,Hamilton,Michael,M,10/04/2000,Philippines,mhamilton23,student10000303@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000304,Tyler,Brittany,F,06/06/1998,Pakistan,btyler665,student10000304@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000305,Luna,Sarah,F,23/01/1997,Philippines,sluna548,student10000305@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000306,Guerra,Autumn,F,09/03/1993,Jordan,aguerra611,student10000306@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000307,Avila,Victoria,F,18/01/2001,Jordan,vavila524,student10000307@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000308,Reilly,Jessica,F,31/12/1997,Philippines,jreilly533,student10000308@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000309,Lee,Lauren,F,28/11/1999,United States,llee325,student10000309@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000310,Christensen,Dylan,M,28/02/1994,Canada,dchristensen801,student10000310@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000311,Mendoza,James,M,10/10/2001,Bangladesh,jmendoza318,student10000311@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000312,Armstrong,Anthony,M,15/08/1994,India,aarmstrong306,student10000312@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000313,Green,Christine,F,31/03/1996,Canada,cgreen805,student10000313@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000314,Howell,John,M,31/05/2001,Canada,jhowell696,student10000314@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000315,Sexton,Eric,M,27/02/1994,United Kingdom,esexton189,student10000315@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000317,Lopez,Linda,F,21/10/2000,United Kingdom,llopez733,student10000317@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000318,Meza,Andrea,F,05/03/2001,United Kingdom,ameza729,student10000318@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000319,Walker,Emma,F,08/02/1997,Pakistan,ewalker919,student10000319@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000321,Finley,Nicole,F,20/10/1995,United Kingdom,nfinley455,student10000321@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000322,Mann,Cody,M,13/09/1998,Jordan,cmann985,student10000322@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000324,Reyes,Sydney,F,19/05/1995,United Kingdom,sreyes842,student10000324@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000325,Richard,Dwayne,M,31/10/2001,Pakistan,drichard282,student10000325@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000326,Mccann,James,M,21/04/2000,Pakistan,jmccann113,student10000326@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000327,Martinez,Mark,M,22/05/1998,Pakistan,mmartinez996,student10000327@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000328,Boyle,Kelly,F,08/03/2000,Pakistan,kboyle728,student10000328@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000329,Mcgee,Alexis,F,03/09/1999,United Kingdom,amcgee69,student10000329@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000330,Torres,Mitchell,M,14/01/1999,Bangladesh,mtorres144,student10000330@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000331,Stephens,Linda,F,20/12/1994,Egypt,lstephens903,student10000331@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000332,Collins,Michael,M,02/05/1994,United States,mcollins571,student10000332@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000333,Wilson,Jeanne,F,23/05/1998,United Kingdom,jwilson221,student10000333@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000334,Newton,Michelle,F,28/12/1997,Philippines,mnewton701,student10000334@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000335,Hudson,Matthew,M,22/02/1994,United States,mhudson63,student10000335@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000336,Barron,John,M,26/05/1998,Philippines,jbarron809,student10000336@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000337,Hill,Tammie,F,04/07/1998,Philippines,thill423,student10000337@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000338,Bryant,Wayne,M,21/04/1993,Egypt,wbryant418,student10000338@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000339,Lawson,Erin,F,27/05/1999,Canada,elawson366,student10000339@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000340,Church,Evelyn,F,02/02/1999,Philippines,echurch58,student10000340@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000342,Joseph,Patrick,M,04/08/1997,Canada,pjoseph195,student10000342@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000343,Henry,Sheila,F,10/12/1994,India,shenry541,student10000343@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000344,Joseph,Susan,F,17/05/1995,Jordan,sjoseph163,student10000344@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000345,Shaw,Morgan,F,15/08/1993,United States,mshaw35,student10000345@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000346,Stanton,Nicholas,M,02/10/2000,Bangladesh,nstanton53,student10000346@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000348,Hudson,Angela,F,03/01/1997,Philippines,ahudson735,student10000348@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000349,Davenport,Benjamin,M,27/11/1998,Pakistan,bdavenport162,student10000349@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000350,Fitzgerald,Candice,F,27/11/2001,Pakistan,cfitzgerald561,student10000350@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000351,Roberts,Sean,M,02/10/1997,United Kingdom,sroberts468,student10000351@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000352,Walker,Andrew,M,17/08/1999,Egypt,awalker461,student10000352@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000353,Sheppard,David,M,06/05/1994,Jordan,dsheppard280,student10000353@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000354,Scott,Luis,M,27/11/1995,United States,lscott746,student10000354@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000355,Hamilton,Charles,M,16/02/1994,United States,chamilton614,student10000355@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000356,Gonzalez,Kelsey,F,11/07/1996,United Kingdom,kgonzalez90,student10000356@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000357,Fleming,Robert,M,04/11/1996,Pakistan,rfleming638,student10000357@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000358,Lyons,Bradley,M,14/06/1999,Egypt,blyons491,student10000358@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000359,Watkins,Patricia,F,22/05/1994,Egypt,pwatkins703,student10000359@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000360,Roth,Kyle,M,02/09/1995,United Kingdom,kroth104,student10000360@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000361,Stark,Megan,F,11/02/1994,Pakistan,mstark644,student10000361@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000362,Greene,Elijah,M,04/06/1997,United Kingdom,egreene394,student10000362@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000363,Santiago,Ashley,F,27/09/1995,Canada,asantiago299,student10000363@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000364,Roberts,Donald,M,28/11/2001,Egypt,droberts324,student10000364@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000365,Green,Corey,M,14/08/1993,Jordan,cgreen540,student10000365@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000366,Holmes,Brittany,F,17/04/2001,Egypt,bholmes211,student10000366@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000367,Obrien,Erin,F,25/10/1996,Egypt,eobrien101,student10000367@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000368,Rollins,Christina,F,15/11/1994,Pakistan,crollins34,student10000368@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000369,Campbell,Alexander,M,09/04/2001,United Kingdom,acampbell529,student10000369@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000370,Robinson,Stacey,F,30/03/1993,United States,srobinson447,student10000370@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000371,Mcdaniel,Brian,M,29/08/1997,United States,bmcdaniel596,student10000371@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000372,Robertson,Alexander,M,01/02/1994,United Kingdom,arobertson476,student10000372@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000373,Ochoa,Ricky,M,06/12/1998,Egypt,rochoa510,student10000373@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000374,Harris,Michael,M,01/09/1997,Egypt,mharris96,student10000374@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000375,Ramirez,Betty,F,03/07/1993,Philippines,bramirez909,student10000375@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000376,Watkins,David,M,15/02/1998,United States,dwatkins659,student10000376@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000377,Cole,Randall,M,27/11/2000,Egypt,rcole656,student10000377@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000378,Lane,Richard,M,30/08/1999,India,rlane803,student10000378@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000379,Young,Jon,M,23/09/1997,United States,jyoung448,student10000379@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000380,Walker,Christine,F,27/07/1997,United Kingdom,cwalker282,student10000380@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000381,Bradley,Patrick,M,08/08/1994,Egypt,pbradley157,student10000381@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000382,Griffith,Audrey,F,05/09/1994,United Kingdom,agriffith194,student10000382@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000383,Hunter,Eric,M,30/04/1995,Pakistan,ehunter179,student10000383@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000384,Rush,April,F,29/12/1993,United Kingdom,arush819,student10000384@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000385,Austin,Daniel,M,09/02/1999,Philippines,daustin360,student10000385@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000386,Gibbs,Virginia,F,30/06/1995,United Kingdom,vgibbs316,student10000386@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000387,Orozco,Javier,M,27/05/1993,Egypt,jorozco861,student10000387@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000388,Hicks,Katherine,F,24/05/2001,Pakistan,khicks127,student10000388@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000389,Ramos,Jonathan,M,19/10/1997,United Kingdom,jramos225,student10000389@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000390,Stone,Jason,M,15/03/1994,Bangladesh,jstone565,student10000390@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000391,Harrison,Nicholas,M,12/08/1993,Egypt,nharrison103,student10000391@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000392,Phillips,Mary,F,25/09/1996,India,mphillips53,student10000392@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000393,Gutierrez,Susan,F,15/07/1993,Pakistan,sgutierrez76,student10000393@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000394,Padilla,Michael,M,23/04/1996,Egypt,mpadilla408,student10000394@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000395,Wood,Ronald,M,13/10/1998,India,rwood716,student10000395@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000396,Galloway,Colleen,F,02/07/1998,India,cgalloway115,student10000396@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000397,Byrd,Dawn,F,16/12/1996,Pakistan,dbyrd760,student10000397@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000399,Dunn,Jose,M,31/08/1999,United States,jdunn161,student10000399@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000400,Webster,Matthew,M,17/03/2001,United States,mwebster914,student10000400@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000401,Gray,Donald,M,28/02/1996,India,dgray681,student10000401@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000402,Fisher,Manuel,M,17/02/1994,Egypt,mfisher321,student10000402@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000404,Espinoza,Jill,F,28/07/1999,Jordan,jespinoza984,student10000404@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000405,Garner,Omar,M,16/02/1999,United Kingdom,ogarner278,student10000405@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000406,Baker,Alicia,F,20/06/1997,Egypt,abaker674,student10000406@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000407,Bautista,Richard,M,03/11/1995,Philippines,rbautista281,student10000407@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000408,Meza,Priscilla,F,28/11/1996,United States,pmeza309,student10000408@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000409,Murphy,Evelyn,F,31/07/1993,United States,emurphy891,student10000409@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000410,Norman,Benjamin,M,23/11/1996,India,bnorman469,student10000410@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000412,Obrien,Wayne,M,21/04/2000,Canada,wobrien822,student10000412@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000413,Simpson,Jeffery,M,24/04/1997,Philippines,jsimpson383,student10000413@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000414,Rivera,Dylan,M,04/07/2000,Egypt,drivera745,student10000414@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000415,Rose,Shannon,F,06/08/2000,Pakistan,srose530,student10000415@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000416,Chase,Kristen,F,02/01/1997,United Kingdom,kchase483,student10000416@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000417,Marshall,Alexa,F,10/01/1996,Egypt,amarshall885,student10000417@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000418,Martin,Kimberly,F,14/06/1996,United States,kmartin100,student10000418@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000419,Fox,John,M,17/04/1999,United Kingdom,jfox646,student10000419@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000421,Chavez,Joseph,M,06/03/1999,Egypt,jchavez652,student10000421@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000422,Bennett,Robin,F,28/10/2000,United States,rbennett721,student10000422@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000423,Rogers,Linda,F,22/10/1995,Philippines,lrogers141,student10000423@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000424,Kelly,Sarah,F,30/08/1998,United Kingdom,skelly586,student10000424@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000425,Cole,Gregory,M,15/04/1999,Jordan,gcole960,student10000425@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000426,Clay,Mary,F,09/08/1997,United States,mclay175,student10000426@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000427,Allen,Amber,F,29/08/2001,India,aallen126,student10000427@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000428,Williams,Deborah,F,18/11/1997,Bangladesh,dwilliams541,student10000428@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000429,Parker,Katie,F,15/02/1999,Canada,kparker315,student10000429@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000430,Foster,John,M,10/10/1996,Bangladesh,jfoster621,student10000430@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000431,Gonzalez,Kimberly,F,09/12/1995,Canada,kgonzalez768,student10000431@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000432,Cisneros,Shannon,F,07/05/1994,India,scisneros844,student10000432@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000433,Harris,James,M,04/08/1995,Philippines,jharris309,student10000433@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000434,Harris,Adam,M,19/07/1998,Jordan,aharris384,student10000434@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000435,Burke,Benjamin,M,10/10/1996,Egypt,bburke144,student10000435@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000436,Hunter,Christina,F,27/01/1997,India,chunter185,student10000436@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000437,Price,Heather,F,01/05/1995,Pakistan,hprice251,student10000437@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000438,Rose,James,M,24/10/2001,Pakistan,jrose246,student10000438@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000439,Thomas,Kenneth,M,25/05/1994,United Kingdom,kthomas202,student10000439@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000440,Fischer,Jacob,M,26/10/1998,United Kingdom,jfischer5,student10000440@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000441,Hill,Sheri,F,21/04/1996,Philippines,shill492,student10000441@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000442,Grimes,Don,M,09/10/1998,Pakistan,dgrimes420,student10000442@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000443,Jimenez,Diana,F,04/11/1999,Pakistan,djimenez791,student10000443@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000444,Ford,Matthew,M,26/05/2001,Philippines,mford665,student10000444@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000445,Morrison,Elizabeth,F,19/01/1994,United Kingdom,emorrison571,student10000445@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000446,Khan,Tamara,F,05/12/1996,United Kingdom,tkhan507,student10000446@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000447,Rich,Ronald,M,11/05/2000,Egypt,rrich393,student10000447@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000448,Williams,Jay,M,07/03/1995,United Kingdom,jwilliams206,student10000448@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000450,Miller,Raymond,M,17/09/1996,Canada,rmiller484,student10000450@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000452,Bailey,Julie,F,24/05/1994,Egypt,jbailey224,student10000452@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000453,Wilson,Mary,F,15/02/1996,Egypt,mwilson726,student10000453@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000454,Robinson,Christina,F,25/03/2000,Pakistan,crobinson570,student10000454@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000455,Sparks,Nicole,F,24/11/1998,Pakistan,nsparks260,student10000455@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000456,Williams,Tracey,F,12/09/1995,United States,twilliams373,student10000456@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000457,Payne,Robert,M,01/07/2000,Jordan,rpayne671,student10000457@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000458,Rodriguez,Carl,M,04/09/1997,United States,crodriguez123,student10000458@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000459,Richard,Erica,F,22/06/1994,Jordan,erichard273,student10000459@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000460,Sanchez,Patricia,F,13/10/1997,United Kingdom,psanchez769,student10000460@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000461,Rivera,Shannon,F,22/02/1996,Pakistan,srivera401,student10000461@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000462,Bowers,Johnny,M,01/08/1998,Philippines,jbowers860,student10000462@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000463,Page,Melissa,F,30/06/1993,United States,mpage436,student10000463@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000464,Montes,Lisa,F,03/11/1998,Bangladesh,lmontes812,student10000464@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000465,Lyons,Sylvia,F,10/12/1994,Pakistan,slyons954,student10000465@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000466,Davis,Craig,M,05/02/1995,Philippines,cdavis616,student10000466@sample.edu,4,3,2018-09-20,2020-06-30,UG,Business Management
+2020/21,10000467,Walsh,Jay,M,10/01/2001,Bangladesh,jwalsh259,student10000467@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000468,Flowers,Rachel,F,04/02/1994,Egypt,rflowers107,student10000468@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000469,Munoz,Barbara,F,05/09/1998,Egypt,bmunoz178,student10000469@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000470,Smith,Emily,F,12/08/1995,Egypt,esmith958,student10000470@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000471,Lane,Becky,F,19/07/1993,Egypt,blane880,student10000471@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000472,Brown,Henry,M,21/07/1999,Philippines,hbrown465,student10000472@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000473,Carter,Christine,F,20/08/2000,India,ccarter807,student10000473@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000474,Lamb,Natalie,F,02/05/1995,Philippines,nlamb800,student10000474@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000475,Wolfe,Shane,M,15/04/1996,Bangladesh,swolfe545,student10000475@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000476,Macias,Brad,M,28/04/1994,Canada,bmacias21,student10000476@sample.edu,3,3,2018-09-20,2021-06-30,UG,Business Management
+2020/21,10000622,Oliver,Samantha,F,21/02/1994,Pakistan,soliver249,student10000622@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000623,Meyer,William,M,12/09/1996,India,wmeyer477,student10000623@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000624,Underwood,Johnny,M,10/06/2002,Pakistan,junderwood489,student10000624@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000625,Wright,Catherine,F,11/04/2000,Jordan,cwright218,student10000625@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000626,Williams,Melissa,F,08/04/1995,Canada,mwilliams996,student10000626@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000627,Gordon,Samuel,M,03/03/2000,Pakistan,sgordon915,student10000627@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000628,Cox,James,M,17/02/1998,Jordan,jcox608,student10000628@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000629,Parker,Matthew,M,29/12/1994,Egypt,mparker106,student10000629@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000630,Walters,Allison,F,22/01/1994,United Kingdom,awalters304,student10000630@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000631,Li,Gabriella,F,05/10/1997,Philippines,gli965,student10000631@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000632,Webb,Sean,M,06/03/1996,Bangladesh,swebb729,student10000632@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000633,Smith,Christina,F,25/12/2000,United Kingdom,csmith96,student10000633@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000634,Shepherd,Thomas,M,15/12/2000,Pakistan,tshepherd20,student10000634@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000635,Bowen,Brittany,F,12/07/2002,Philippines,bbowen370,student10000635@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000636,Little,Steven,M,20/08/1999,Pakistan,slittle336,student10000636@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000637,Simmons,Kevin,M,26/12/1998,United States,ksimmons591,student10000637@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000638,Hicks,Joseph,M,18/04/1995,Philippines,jhicks388,student10000638@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000639,Roberts,Timothy,M,31/05/1999,Egypt,troberts9,student10000639@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000640,Perez,Bruce,M,12/04/1995,Jordan,bperez287,student10000640@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000641,Weaver,Luis,M,25/08/1995,Philippines,lweaver125,student10000641@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000642,Johnson,Shelley,F,17/07/1998,Philippines,sjohnson134,student10000642@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000643,Forbes,Sean,M,31/07/1994,Canada,sforbes656,student10000643@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000644,Moore,Connie,F,26/04/2000,Egypt,cmoore717,student10000644@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000645,Smith,Donald,M,02/05/2000,Bangladesh,dsmith849,student10000645@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000646,Palmer,Richard,M,18/06/1995,United Kingdom,rpalmer605,student10000646@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000647,Green,Kelsey,F,28/12/2001,Philippines,kgreen439,student10000647@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000648,Diaz,Albert,M,10/02/1994,Egypt,adiaz662,student10000648@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000649,Riley,Calvin,M,09/03/2001,United Kingdom,criley101,student10000649@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000650,Powell,Anthony,M,05/09/1995,Bangladesh,apowell120,student10000650@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000651,Wilson,Holly,F,08/02/1996,Canada,hwilson585,student10000651@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000652,Ballard,Ronald,M,30/06/1995,India,rballard352,student10000652@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000653,Jones,Samantha,F,02/07/2002,Egypt,sjones880,student10000653@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000654,Hanson,Jeremy,M,12/09/1996,India,jhanson169,student10000654@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000655,James,Carolyn,F,03/07/1999,Jordan,cjames304,student10000655@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000656,Marshall,Joshua,M,01/04/1997,Canada,jmarshall701,student10000656@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000657,Richardson,Robert,M,27/02/1997,United States,rrichardson242,student10000657@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000658,Sutton,Janice,F,05/03/1997,Jordan,jsutton104,student10000658@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000659,Yang,Sharon,F,30/05/2002,Philippines,syang905,student10000659@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000660,Lowe,Linda,F,27/12/1995,United States,llowe440,student10000660@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000661,Johnson,Wyatt,M,16/12/2000,Bangladesh,wjohnson494,student10000661@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000662,Lee,Gina,F,01/10/1995,Pakistan,glee116,student10000662@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000663,Hayes,Gregory,M,09/01/2001,Bangladesh,ghayes967,student10000663@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000664,Hernandez,Jaclyn,F,18/03/1999,Egypt,jhernandez671,student10000664@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000665,Howell,Jennifer,F,04/07/1994,Jordan,jhowell19,student10000665@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000666,Bennett,Ryan,M,10/04/1998,Canada,rbennett379,student10000666@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000667,Black,Patricia,F,08/01/2001,Canada,pblack69,student10000667@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000668,Gibson,Courtney,F,26/11/1996,Jordan,cgibson430,student10000668@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000669,Morris,Tina,F,04/02/1995,Bangladesh,tmorris282,student10000669@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000670,Dillon,Lisa,F,18/10/1995,United States,ldillon674,student10000670@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000671,Johnson,Heather,F,17/11/2002,Philippines,hjohnson850,student10000671@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000672,Herrera,Diana,F,05/12/1999,United Kingdom,dherrera518,student10000672@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000673,Kidd,Jessica,F,01/07/1998,Egypt,jkidd65,student10000673@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000674,Crawford,Jerry,M,19/04/1997,Egypt,jcrawford334,student10000674@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000675,Lee,Edward,M,22/03/1996,India,elee830,student10000675@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000676,Hudson,Erin,F,12/09/2001,Bangladesh,ehudson689,student10000676@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000677,Sullivan,Melissa,F,18/09/2001,Jordan,msullivan809,student10000677@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000678,Fernandez,Jodi,F,18/09/1994,India,jfernandez566,student10000678@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000679,Rios,Derek,M,28/07/2002,United States,drios923,student10000679@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000680,Alvarado,Laura,F,21/01/1995,Philippines,lalvarado573,student10000680@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000681,Adkins,John,M,09/06/1996,Pakistan,jadkins997,student10000681@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000682,Benton,Christopher,M,26/06/2002,Canada,cbenton987,student10000682@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000683,Peters,Robert,M,08/06/2001,Philippines,rpeters116,student10000683@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000684,Lewis,Mary,F,24/10/2001,Pakistan,mlewis722,student10000684@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000685,Jones,Stephanie,F,02/03/1997,Bangladesh,sjones567,student10000685@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000686,Ayers,Matthew,M,11/09/1997,Jordan,mayers672,student10000686@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000687,Gomez,Madison,F,15/11/2000,Bangladesh,mgomez705,student10000687@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000688,Wolfe,Kevin,M,06/11/1995,United States,kwolfe338,student10000688@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000689,White,Amanda,F,23/02/2000,India,awhite971,student10000689@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000690,Burns,Miranda,F,10/01/1995,Bangladesh,mburns401,student10000690@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000691,Joseph,Pam,F,26/01/1999,Bangladesh,pjoseph794,student10000691@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000692,Roberts,Debra,F,11/01/1999,Canada,droberts895,student10000692@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000693,Martinez,Linda,F,13/09/1998,Philippines,lmartinez221,student10000693@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000694,Jones,Tina,F,09/08/1994,Bangladesh,tjones815,student10000694@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000695,Davis,Shane,M,07/11/2002,Pakistan,sdavis16,student10000695@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000696,Keller,Kenneth,M,28/06/1998,Philippines,kkeller776,student10000696@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000697,Horn,Sergio,M,11/11/2002,Philippines,shorn757,student10000697@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000698,Vincent,Catherine,F,26/02/1998,Pakistan,cvincent625,student10000698@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000699,Jones,Tiffany,F,29/07/1997,India,tjones393,student10000699@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000700,Thompson,Donald,M,15/12/1996,Canada,dthompson497,student10000700@sample.edu,4,2,2019-09-20,2020-06-30,UG,Accountancy & Finance
+2020/21,10000701,Fischer,John,M,06/06/1996,Philippines,jfischer500,student10000701@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000702,Escobar,Susan,F,16/12/1995,Jordan,sescobar429,student10000702@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000703,Phillips,Julie,F,09/09/1997,Bangladesh,jphillips542,student10000703@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000704,Hunter,Amber,F,14/12/2001,United Kingdom,ahunter529,student10000704@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000705,Jackson,Stacey,F,20/07/2001,Canada,sjackson566,student10000705@sample.edu,2,2,2019-09-20,2022-06-30,UG,Accountancy & Finance
+2020/21,10000706,Pham,Corey,M,10/09/2000,Egypt,cpham59,student10000706@sample.edu,3,2,2019-09-20,2021-06-30,UG,Accountancy & Finance
+2020/21,10000707,Williams,David,M,03/02/1997,Jordan,dwilliams636,student10000707@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000708,Davis,Danny,M,10/11/1997,Bangladesh,ddavis773,student10000708@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000709,Foster,Caleb,M,20/08/1998,Philippines,cfoster110,student10000709@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000710,Martinez,Kyle,M,23/03/1996,Philippines,kmartinez695,student10000710@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000711,Goodman,Angela,F,15/06/1995,Pakistan,agoodman695,student10000711@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000712,Mcfarland,Veronica,F,28/12/2002,Jordan,vmcfarland690,student10000712@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000713,Robbins,Jane,F,14/10/1997,India,jrobbins21,student10000713@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000714,Austin,Scott,M,26/11/1998,Philippines,saustin167,student10000714@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000715,Roach,Samantha,F,22/02/2002,Egypt,sroach775,student10000715@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000716,Nelson,Gregory,M,17/06/1996,Egypt,gnelson827,student10000716@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000717,Anderson,Lydia,F,05/01/2000,Philippines,landerson132,student10000717@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000718,Perez,Angela,F,05/01/1995,Pakistan,aperez686,student10000718@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000719,Zhang,Nancy,F,25/04/2001,United Kingdom,nzhang499,student10000719@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000720,Hubbard,Andrea,F,13/06/1997,Bangladesh,ahubbard902,student10000720@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000721,Rivera,Daniel,M,05/10/2002,Philippines,drivera53,student10000721@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000722,Guzman,Robin,F,12/06/1995,Bangladesh,rguzman423,student10000722@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000723,Ferguson,Mario,M,19/02/1995,Philippines,mferguson777,student10000723@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000724,Smith,Mary,F,12/09/2000,India,msmith861,student10000724@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000725,Pugh,Kenneth,M,21/06/1996,Egypt,kpugh471,student10000725@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000726,Wood,William,M,04/04/1998,India,wwood493,student10000726@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000727,Jimenez,Steven,M,06/12/2002,United Kingdom,sjimenez682,student10000727@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000728,Smith,Luis,M,13/09/1995,Canada,lsmith605,student10000728@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000729,Barnes,Heather,F,09/02/1994,Canada,hbarnes72,student10000729@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000730,Rose,Matthew,M,15/12/1998,Egypt,mrose165,student10000730@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000731,Scott,Nicholas,M,10/10/1999,United Kingdom,nscott110,student10000731@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000732,Mann,Andrew,M,04/04/1995,United Kingdom,amann326,student10000732@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000733,Thompson,Emily,F,15/02/2000,Bangladesh,ethompson854,student10000733@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000734,Carpenter,Edward,M,15/12/2000,Philippines,ecarpenter340,student10000734@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000735,Foster,Connor,M,28/11/2001,United Kingdom,cfoster329,student10000735@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000736,Roach,Gregg,M,12/11/1997,Pakistan,groach485,student10000736@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000737,Carter,Sarah,F,18/09/2001,United Kingdom,scarter989,student10000737@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000738,Brown,Andre,M,28/05/1998,Bangladesh,abrown29,student10000738@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000739,Marshall,Brian,M,23/12/2000,Philippines,bmarshall51,student10000739@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000740,Hale,Shane,M,17/06/2000,Jordan,shale729,student10000740@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000741,Perry,Theresa,F,07/02/1999,India,tperry661,student10000741@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000742,Black,Kurt,M,26/04/2000,Pakistan,kblack770,student10000742@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000743,Macias,Robert,M,12/01/1995,United States,rmacias50,student10000743@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000744,Gentry,Miguel,M,12/10/1994,United Kingdom,mgentry280,student10000744@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000745,Miller,Zachary,M,05/09/1995,United Kingdom,zmiller172,student10000745@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000746,Brooks,Lindsay,F,10/02/2001,Egypt,lbrooks787,student10000746@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000747,Murphy,Susan,F,24/12/1996,Bangladesh,smurphy300,student10000747@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000748,Tucker,Maurice,M,14/09/1995,Canada,mtucker386,student10000748@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000749,Atkinson,Kimberly,F,03/10/1996,Philippines,katkinson318,student10000749@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000750,Wong,Chad,M,21/06/2000,Jordan,cwong615,student10000750@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000751,Davis,Ronnie,M,15/08/2001,India,rdavis513,student10000751@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000752,Gonzales,Dawn,F,05/06/1994,India,dgonzales967,student10000752@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000753,Knight,Brandon,M,19/11/1994,Bangladesh,bknight905,student10000753@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000754,Baker,Phillip,M,14/03/2000,United States,pbaker258,student10000754@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000755,Padilla,Jeffrey,M,27/01/1994,United States,jpadilla396,student10000755@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000756,Reynolds,Robert,M,05/09/2001,Canada,rreynolds437,student10000756@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000757,Carroll,Lori,F,06/03/1998,India,lcarroll257,student10000757@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000758,Jackson,Katie,F,08/12/1997,Bangladesh,kjackson760,student10000758@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000759,Howard,Joel,M,29/09/1997,Jordan,jhoward887,student10000759@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000760,Rose,Bryan,M,09/02/1998,United Kingdom,brose2,student10000760@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000761,Nash,Blake,M,18/11/1999,United Kingdom,bnash918,student10000761@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000762,Mason,Carla,F,21/03/1998,United States,cmason568,student10000762@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000763,Garcia,Raymond,M,18/10/1998,Jordan,rgarcia100,student10000763@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000764,Baker,Zachary,M,21/09/2001,Bangladesh,zbaker349,student10000764@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000765,Hansen,Benjamin,M,31/10/2000,Pakistan,bhansen985,student10000765@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000766,Reyes,Oscar,M,22/03/2000,Canada,oreyes411,student10000766@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000767,Pittman,Eileen,F,02/10/1997,Canada,epittman934,student10000767@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000768,Lloyd,Joyce,F,02/02/2002,Philippines,jlloyd203,student10000768@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000769,Graham,Amanda,F,07/11/1998,United States,agraham636,student10000769@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000770,Henry,Lisa,F,21/10/1996,Egypt,lhenry917,student10000770@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000771,Frank,Nathan,M,29/08/2002,Jordan,nfrank785,student10000771@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000772,Huffman,Jose,M,21/05/1994,United Kingdom,jhuffman620,student10000772@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000773,Cox,Taylor,F,08/08/1998,Egypt,tcox426,student10000773@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000774,Rowe,Scott,M,15/05/1996,Egypt,srowe484,student10000774@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000775,Evans,Gabrielle,F,02/12/2001,Pakistan,gevans518,student10000775@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000776,Atkinson,Susan,F,14/08/2000,United States,satkinson661,student10000776@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000777,Hopkins,Susan,F,07/08/1995,India,shopkins691,student10000777@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000778,Wagner,David,M,05/10/1997,India,dwagner465,student10000778@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000779,Knight,Steven,M,11/12/1997,Egypt,sknight296,student10000779@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000780,Duncan,Monique,F,05/07/1997,Egypt,mduncan420,student10000780@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000781,Wolfe,Kristin,F,18/09/1997,Bangladesh,kwolfe722,student10000781@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000782,Wolf,Latoya,F,08/06/2001,Canada,lwolf141,student10000782@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000783,Peterson,Joseph,M,09/02/1995,Bangladesh,jpeterson321,student10000783@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000784,Johnson,Holly,F,05/04/1995,India,hjohnson392,student10000784@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000785,Petersen,William,M,10/01/2001,United Kingdom,wpetersen948,student10000785@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000786,Keller,Lisa,F,14/10/1996,Egypt,lkeller494,student10000786@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000787,Marsh,Molly,F,27/03/1999,Pakistan,mmarsh607,student10000787@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000788,Salinas,Mia,F,24/10/1997,Bangladesh,msalinas496,student10000788@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000789,Aguilar,Penny,F,25/04/1997,Jordan,paguilar421,student10000789@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000790,Osborn,Stacey,F,17/08/2000,Bangladesh,sosborn53,student10000790@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000791,Gilbert,Melinda,F,29/08/1995,Pakistan,mgilbert853,student10000791@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000792,Black,Colton,M,01/08/1998,Philippines,cblack571,student10000792@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000793,Guerrero,Christine,F,17/07/2001,United Kingdom,cguerrero847,student10000793@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000794,Lee,Kayla,F,07/04/1995,Pakistan,klee140,student10000794@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000795,Smith,Sharon,F,02/01/1997,Bangladesh,ssmith313,student10000795@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000796,Bell,Joshua,M,20/08/1998,India,jbell231,student10000796@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000797,Roberts,Samantha,F,18/05/1995,United States,sroberts600,student10000797@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000798,Ryan,April,F,14/02/2002,Jordan,aryan649,student10000798@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000799,Lynch,Cheryl,F,24/05/2000,Bangladesh,clynch141,student10000799@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000800,Smith,Darren,M,12/07/1997,Jordan,dsmith714,student10000800@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000801,Suarez,Colleen,F,02/07/2002,United Kingdom,csuarez314,student10000801@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000802,Johns,David,M,12/04/1994,United States,djohns177,student10000802@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000803,Butler,Paul,M,03/05/1994,Bangladesh,pbutler443,student10000803@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000804,Jarvis,Kyle,M,15/09/1996,Bangladesh,kjarvis517,student10000804@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000805,Hanson,Melissa,F,27/05/1994,United States,mhanson435,student10000805@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000806,Thomas,Lauren,F,04/03/2001,India,lthomas47,student10000806@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000807,Herrera,Crystal,F,26/06/1996,India,cherrera504,student10000807@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000808,Robinson,Terri,F,12/09/1997,Canada,trobinson355,student10000808@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000809,Elliott,Kimberly,F,20/04/2000,Pakistan,kelliott512,student10000809@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000810,Evans,Sophia,F,17/07/1994,Canada,sevans909,student10000810@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000811,Faulkner,Michelle,F,02/01/2002,India,mfaulkner202,student10000811@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000812,Davis,Rachel,F,11/12/2000,India,rdavis312,student10000812@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000813,Lloyd,Brian,M,15/09/1995,Canada,blloyd555,student10000813@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000814,Gillespie,Eric,M,29/10/2000,Egypt,egillespie13,student10000814@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000815,Brown,Nicholas,M,11/03/1994,Jordan,nbrown532,student10000815@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000816,Holmes,Megan,F,13/03/1997,India,mholmes498,student10000816@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000817,Robinson,Sherri,F,11/10/1998,United Kingdom,srobinson737,student10000817@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000818,Hubbard,Robert,M,18/09/1994,Egypt,rhubbard427,student10000818@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000819,Miller,Edgar,M,19/12/1995,Canada,emiller615,student10000819@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000820,Wilson,Nathan,M,27/08/1998,United Kingdom,nwilson219,student10000820@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000821,Fox,David,M,11/06/2002,India,dfox534,student10000821@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000822,Jackson,David,M,19/07/2001,Egypt,djackson715,student10000822@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000823,King,Sylvia,F,28/12/1998,Philippines,sking77,student10000823@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000824,Leon,James,M,16/10/2002,Pakistan,jleon586,student10000824@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000825,Rivera,Laura,F,26/11/1998,Egypt,lrivera154,student10000825@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000826,Rowland,Joshua,M,02/12/1999,Philippines,jrowland380,student10000826@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000827,Edwards,Calvin,M,17/03/1995,Bangladesh,cedwards10,student10000827@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000828,Odom,Mary,F,27/03/1996,Egypt,modom827,student10000828@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000829,Scott,Kelly,M,19/01/1999,Egypt,kscott293,student10000829@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000830,Welch,Andrew,M,01/04/2001,United States,awelch710,student10000830@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000831,Leon,Robert,M,14/06/1995,United Kingdom,rleon571,student10000831@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000832,Thompson,Ashley,F,23/07/2000,Egypt,athompson415,student10000832@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000833,Scott,Danielle,F,17/07/1999,United Kingdom,dscott480,student10000833@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000834,Martinez,Sarah,F,24/12/1995,United States,smartinez30,student10000834@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000835,Briggs,Lance,M,05/12/2002,United States,lbriggs90,student10000835@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000836,Flores,Tammy,F,18/04/1994,Pakistan,tflores272,student10000836@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000837,Swanson,Benjamin,M,16/11/1997,Egypt,bswanson510,student10000837@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000838,Madden,Sara,F,11/07/1994,Jordan,smadden6,student10000838@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000839,Castro,Hunter,M,30/08/2000,Philippines,hcastro126,student10000839@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000840,Reeves,Ashley,F,18/06/1994,Canada,areeves408,student10000840@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000841,Bennett,Eddie,M,25/11/1997,Jordan,ebennett992,student10000841@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000842,Simmons,Samuel,M,16/10/1998,Philippines,ssimmons780,student10000842@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000843,Wilson,Timothy,M,09/04/1999,India,twilson996,student10000843@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000844,Kelley,Erin,F,08/05/1994,Pakistan,ekelley806,student10000844@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000845,Kennedy,Jeffrey,M,23/05/1998,Philippines,jkennedy865,student10000845@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000846,Smith,Jimmy,M,23/12/1999,Canada,jsmith208,student10000846@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000847,Reid,Perry,M,16/06/1995,Egypt,preid146,student10000847@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000848,Hendrix,Ricardo,M,30/09/1997,India,rhendrix170,student10000848@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000849,Walker,Monique,F,04/05/1998,India,mwalker429,student10000849@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000850,Hayes,Dustin,M,29/07/1994,United States,dhayes599,student10000850@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000851,Becker,Brad,M,25/06/1996,Bangladesh,bbecker233,student10000851@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000852,Hawkins,Amanda,F,02/05/2000,Egypt,ahawkins658,student10000852@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000853,Eaton,Michelle,F,03/12/1998,Pakistan,meaton188,student10000853@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000854,Sanders,Sydney,F,21/08/1997,Philippines,ssanders186,student10000854@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000855,Mitchell,Robert,M,16/12/1998,India,rmitchell567,student10000855@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000856,Adams,Gary,M,27/04/1999,United States,gadams167,student10000856@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000857,Wheeler,Lee,M,30/05/1994,Pakistan,lwheeler389,student10000857@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000858,Campos,Timothy,M,09/12/1994,Jordan,tcampos906,student10000858@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000859,Dixon,Madison,F,20/02/2000,Philippines,mdixon189,student10000859@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000860,Hurst,Wesley,M,02/04/1999,United Kingdom,whurst420,student10000860@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000861,Miller,Tristan,M,21/04/1994,United States,tmiller319,student10000861@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000862,Jimenez,Megan,F,04/01/1999,India,mjimenez502,student10000862@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000863,Rodriguez,Ryan,M,23/06/1996,Jordan,rrodriguez793,student10000863@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000864,Rodriguez,Mario,M,22/02/1995,Canada,mrodriguez469,student10000864@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000865,Young,Lisa,F,31/01/2000,United States,lyoung254,student10000865@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000866,Johnston,Christopher,M,14/03/1994,Philippines,cjohnston40,student10000866@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000867,Harris,Steven,M,21/08/1995,United States,sharris737,student10000867@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000868,Leach,Dwayne,M,11/05/1999,Philippines,dleach548,student10000868@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000869,Romero,Mark,M,02/11/1998,Philippines,mromero920,student10000869@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000870,White,Carla,F,19/11/2001,India,cwhite501,student10000870@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000871,Johnson,Steven,M,24/09/1999,India,sjohnson318,student10000871@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000872,Rogers,Brett,M,14/03/2002,Egypt,brogers679,student10000872@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000873,Villegas,Mark,M,27/01/2000,Jordan,mvillegas859,student10000873@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000874,Lopez,Dennis,M,06/08/1996,Bangladesh,dlopez545,student10000874@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000875,Pineda,Lisa,F,01/01/1998,Pakistan,lpineda964,student10000875@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000876,Scott,Wendy,F,20/10/1998,Philippines,wscott344,student10000876@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000877,Lopez,Andrea,F,10/06/2001,Pakistan,alopez975,student10000877@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000878,Harmon,Danielle,F,18/11/1995,Canada,dharmon250,student10000878@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000879,Williams,Brandon,M,29/08/1994,United Kingdom,bwilliams498,student10000879@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000880,Martin,Lisa,F,15/09/2000,Bangladesh,lmartin357,student10000880@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000881,Brooks,Brian,M,26/04/1998,Canada,bbrooks512,student10000881@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000882,Solis,Donald,M,06/06/2001,Pakistan,dsolis126,student10000882@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000883,Olson,Kimberly,F,09/11/1995,Jordan,kolson780,student10000883@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000884,White,Michael,M,24/01/2000,Egypt,mwhite35,student10000884@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000885,Mullen,Robert,M,19/05/1997,India,rmullen761,student10000885@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000886,Montgomery,Jason,M,20/03/1999,Bangladesh,jmontgomery49,student10000886@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000887,Short,Benjamin,M,17/07/1996,Jordan,bshort437,student10000887@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000888,Leach,Jennifer,F,13/02/1997,Bangladesh,jleach777,student10000888@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000889,Rodriguez,Jennifer,F,05/03/2001,India,jrodriguez115,student10000889@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000890,Reed,Mallory,F,30/06/1995,Canada,mreed990,student10000890@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000891,Newman,Suzanne,F,09/01/1999,United States,snewman872,student10000891@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000892,Michael,Emily,F,15/04/1996,Pakistan,emichael852,student10000892@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000893,Kirk,Joshua,M,10/06/1998,Philippines,jkirk262,student10000893@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000894,Myers,Jason,M,21/05/2002,United States,jmyers808,student10000894@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000895,Baldwin,Scott,M,08/12/1997,Canada,sbaldwin873,student10000895@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000896,Kirk,Michael,M,04/11/2002,Jordan,mkirk761,student10000896@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000897,Chan,Elizabeth,F,06/05/1995,United States,echan401,student10000897@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000898,Martin,Frederick,M,17/11/1996,United Kingdom,fmartin777,student10000898@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000899,Jackson,Samantha,F,04/12/1998,Canada,sjackson116,student10000899@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000900,Patterson,Stephanie,F,20/06/1998,United Kingdom,spatterson58,student10000900@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000901,Stark,Leslie,F,05/04/1999,United Kingdom,lstark390,student10000901@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000902,Ford,Walter,M,15/03/1995,United States,wford728,student10000902@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000903,Johnson,Patrick,M,23/07/1997,United States,pjohnson739,student10000903@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000904,Barnett,Richard,M,25/08/1994,Philippines,rbarnett413,student10000904@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000905,Thomas,Erica,F,27/11/1994,United Kingdom,ethomas12,student10000905@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000906,Harris,Raymond,M,22/04/1999,Bangladesh,rharris794,student10000906@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000907,Mullins,Wendy,F,15/09/2001,Jordan,wmullins113,student10000907@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000908,Cameron,Andrew,M,12/12/1994,Pakistan,acameron33,student10000908@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000909,Graves,Kimberly,F,04/10/2001,Jordan,kgraves984,student10000909@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000910,Johnson,Sean,M,29/09/2002,India,sjohnson438,student10000910@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000911,Ritter,Michael,M,19/04/1994,Bangladesh,mritter310,student10000911@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000912,Baker,Jesse,M,06/03/1994,Canada,jbaker544,student10000912@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000913,Pham,Elizabeth,F,15/09/1997,United States,epham635,student10000913@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000914,Williams,Jaime,M,07/11/2001,Jordan,jwilliams855,student10000914@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000915,Wiley,David,M,17/02/1995,Bangladesh,dwiley261,student10000915@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000916,Jacobs,Robert,M,15/01/1995,Pakistan,rjacobs439,student10000916@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000917,Herrera,Brian,M,14/09/2000,Canada,bherrera494,student10000917@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000918,Holmes,John,M,02/10/1995,India,jholmes930,student10000918@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000919,Collier,Joshua,M,22/08/1994,Jordan,jcollier71,student10000919@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000920,Yu,Andrew,M,01/12/1998,Canada,ayu909,student10000920@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000921,Anderson,Katrina,F,27/05/1996,Philippines,kanderson641,student10000921@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000922,Gibson,Linda,F,07/12/2002,Canada,lgibson959,student10000922@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000923,Lane,Tiffany,F,14/01/2001,Jordan,tlane159,student10000923@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000924,Jones,Billy,M,03/12/1997,Jordan,bjones59,student10000924@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000925,Mcclain,Terry,M,30/01/1994,Canada,tmcclain621,student10000925@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000926,Peterson,Sharon,F,02/08/2001,Egypt,speterson211,student10000926@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000927,Smith,Kaitlyn,F,06/07/1998,United States,ksmith349,student10000927@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000928,Lopez,Christopher,M,24/11/2000,Pakistan,clopez672,student10000928@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000929,Riley,Todd,M,29/06/1996,Jordan,triley623,student10000929@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000930,Pittman,Brittany,F,28/08/1996,United States,bpittman587,student10000930@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000931,Stout,April,F,03/07/1996,United Kingdom,astout115,student10000931@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000932,Fuller,Anthony,M,21/03/1994,Pakistan,afuller502,student10000932@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000933,Acosta,Taylor,M,06/02/1997,India,tacosta603,student10000933@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000934,Johnson,Terrance,M,17/07/1994,Pakistan,tjohnson805,student10000934@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000935,Edwards,Amanda,F,08/12/2000,Egypt,aedwards366,student10000935@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000936,Murray,Karen,F,10/01/2002,Pakistan,kmurray224,student10000936@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000937,Patterson,Kimberly,F,24/11/1995,Bangladesh,kpatterson765,student10000937@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000938,Cox,Joy,F,18/07/1994,United Kingdom,jcox762,student10000938@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000939,Cherry,Darren,M,08/04/1996,Bangladesh,dcherry237,student10000939@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000940,Campbell,Ashley,F,05/06/1995,Egypt,acampbell135,student10000940@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000941,Cunningham,Hailey,F,30/04/1998,India,hcunningham697,student10000941@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000942,Campbell,David,M,26/01/2001,Philippines,dcampbell700,student10000942@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000943,Calderon,Shirley,F,25/10/1996,Pakistan,scalderon551,student10000943@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000944,Smith,Maria,F,07/04/2002,United Kingdom,msmith67,student10000944@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000945,Wilson,Stephanie,F,20/02/2001,United Kingdom,swilson193,student10000945@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000946,Phillips,Patricia,F,20/08/2002,Canada,pphillips687,student10000946@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000947,Washington,Michael,M,24/04/2002,Pakistan,mwashington947,student10000947@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000948,Garcia,Scott,M,15/07/2002,Pakistan,sgarcia102,student10000948@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000949,Kline,Caroline,F,07/09/1999,Philippines,ckline261,student10000949@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000950,Ritter,Brandon,M,17/03/2002,Jordan,britter912,student10000950@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000951,Martinez,Kenneth,M,27/04/1998,Canada,kmartinez123,student10000951@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000952,Olson,Virginia,F,20/10/1997,United States,volson458,student10000952@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000953,Oliver,Mason,M,10/04/1997,Bangladesh,moliver812,student10000953@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000954,Hicks,Sheila,F,17/11/2000,United Kingdom,shicks209,student10000954@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000955,Hardy,Michael,M,10/07/1999,Pakistan,mhardy676,student10000955@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000956,Brooks,Tamara,F,18/01/1998,United Kingdom,tbrooks741,student10000956@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000957,Nelson,Stephanie,F,22/11/2000,Egypt,snelson671,student10000957@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000958,Buck,Douglas,M,16/09/1996,India,dbuck799,student10000958@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000959,Orr,Bryan,M,21/06/2002,Bangladesh,borr655,student10000959@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000960,Hicks,Stephanie,F,11/09/1996,Canada,shicks532,student10000960@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000961,Sandoval,Theresa,F,05/07/1996,Jordan,tsandoval841,student10000961@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000962,Dean,Joshua,M,06/07/1998,Philippines,jdean406,student10000962@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000963,Davis,Sherry,F,08/08/1994,India,sdavis346,student10000963@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000964,Frank,Tammy,F,28/05/1999,Philippines,tfrank638,student10000964@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000965,Young,Gregory,M,30/08/2000,Egypt,gyoung636,student10000965@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000966,Fitzgerald,Emily,F,14/09/2002,Philippines,efitzgerald524,student10000966@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000967,Garcia,Gregory,M,17/09/1996,Pakistan,ggarcia269,student10000967@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000968,Tran,Erika,F,08/07/2000,Philippines,etran994,student10000968@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000969,Banks,Martin,M,11/04/1998,United Kingdom,mbanks995,student10000969@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000970,Clements,Laura,F,28/08/2001,Jordan,lclements461,student10000970@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000971,Wallace,Karen,F,18/02/1997,Jordan,kwallace357,student10000971@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000972,Stephens,Robert,M,09/01/1999,India,rstephens662,student10000972@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000973,Rose,Rachel,F,20/11/1996,Philippines,rrose241,student10000973@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000974,Sparks,Maria,F,07/02/2002,Bangladesh,msparks477,student10000974@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000975,Gomez,Haley,F,16/04/1994,Jordan,hgomez836,student10000975@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000976,Foster,Brad,M,10/06/1999,Philippines,bfoster773,student10000976@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000977,Berry,Tony,M,30/04/2002,United States,tberry365,student10000977@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000978,Pena,Charles,M,04/12/1999,Egypt,cpena960,student10000978@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000979,Espinoza,Crystal,F,23/04/1995,Canada,cespinoza650,student10000979@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000980,Newton,Adam,M,30/07/1999,Philippines,anewton145,student10000980@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000981,Chan,Matthew,M,11/09/1999,United Kingdom,mchan436,student10000981@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000982,Murphy,Jim,M,15/07/1998,Bangladesh,jmurphy229,student10000982@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000983,Reyes,Claire,F,12/11/1994,Jordan,creyes583,student10000983@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10000984,Edwards,Sharon,F,12/05/1998,United Kingdom,sedwards754,student10000984@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000985,Schwartz,Linda,F,15/08/1994,Philippines,lschwartz40,student10000985@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000986,Rogers,Heather,F,16/12/2001,Canada,hrogers4,student10000986@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000987,Thomas,Robert,M,12/04/1997,Egypt,rthomas983,student10000987@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000988,Payne,Crystal,F,02/07/1997,Canada,cpayne474,student10000988@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000989,Moore,Sarah,F,05/12/1999,Egypt,smoore441,student10000989@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000990,Miller,Chris,M,18/05/2002,United Kingdom,cmiller365,student10000990@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000991,Snyder,Ronald,M,05/05/1996,United States,rsnyder568,student10000991@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000992,Cunningham,Linda,F,08/06/1999,Bangladesh,lcunningham398,student10000992@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000993,Reyes,Kelly,F,27/10/1996,Canada,kreyes378,student10000993@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000994,Taylor,Jeffery,M,18/08/1999,Egypt,jtaylor170,student10000994@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000995,Barnes,Austin,M,25/05/1997,India,abarnes60,student10000995@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000996,Watkins,Don,M,21/12/1995,Jordan,dwatkins717,student10000996@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000997,Farley,Andrew,M,06/08/1995,Bangladesh,afarley338,student10000997@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10000998,Ramirez,Kendra,F,05/03/1997,India,kramirez2,student10000998@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10000999,Ford,Joshua,M,06/08/1994,Bangladesh,jford771,student10000999@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001000,Harris,Elizabeth,F,02/11/1994,Pakistan,eharris654,student10001000@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10001001,Ramirez,Matthew,M,27/01/1994,Philippines,mramirez489,student10001001@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001002,Hayes,Andrea,F,02/11/2001,United States,ahayes965,student10001002@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001003,Taylor,Donna,F,05/07/2002,Pakistan,dtaylor120,student10001003@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001004,Black,Micheal,M,23/02/1999,United Kingdom,mblack145,student10001004@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001005,Watson,Scott,M,07/01/2000,United Kingdom,swatson595,student10001005@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001006,Osborne,James,M,12/08/1994,Canada,josborne116,student10001006@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001007,Perry,Maria,F,21/10/2002,Bangladesh,mperry31,student10001007@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001008,Wallace,Bradley,M,16/11/1995,India,bwallace916,student10001008@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001009,Thompson,Don,M,18/01/2002,Pakistan,dthompson497,student10001009@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001010,Davis,Ronald,M,01/07/1994,India,rdavis971,student10001010@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10001011,Roberts,Diane,F,24/09/2002,United States,droberts356,student10001011@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10001012,Stevens,Michael,M,10/09/1998,Egypt,mstevens118,student10001012@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001013,Lane,Cheryl,F,27/09/2002,United States,clane998,student10001013@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001014,Raymond,Kathryn,F,04/03/1996,United Kingdom,kraymond365,student10001014@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001015,Bailey,Patrick,M,05/09/2001,Philippines,pbailey882,student10001015@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10001016,Macias,Daniel,M,20/04/1999,Canada,dmacias291,student10001016@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001017,Frank,Matthew,M,27/05/1994,Pakistan,mfrank486,student10001017@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001018,Lawson,Melissa,F,26/05/1997,Philippines,mlawson786,student10001018@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001019,Rodriguez,Hannah,F,12/02/1996,United Kingdom,hrodriguez39,student10001019@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001020,Sutton,Jessica,F,19/08/1996,United Kingdom,jsutton498,student10001020@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001021,Morton,Charles,M,08/12/1999,India,cmorton910,student10001021@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001022,West,Connie,F,27/11/1998,United Kingdom,cwest918,student10001022@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001023,Lewis,Paul,M,28/11/2001,Egypt,plewis158,student10001023@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001024,Lawrence,Raven,F,13/02/2002,Jordan,rlawrence262,student10001024@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001025,Powell,Ryan,M,18/07/1996,Bangladesh,rpowell298,student10001025@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10001026,Santana,John,M,21/01/1995,Philippines,jsantana401,student10001026@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001027,Cantrell,Alexander,M,06/12/2002,India,acantrell670,student10001027@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001028,Holt,Edward,M,28/08/2001,Canada,eholt8,student10001028@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001029,Jones,Kathy,F,26/11/1996,Philippines,kjones261,student10001029@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001030,Rhodes,Charles,M,28/10/1997,Canada,crhodes526,student10001030@sample.edu,3,2,2019-09-20,2021-06-30,UG,Business Management
+2020/21,10001031,Marshall,Dean,M,30/09/2001,Bangladesh,dmarshall648,student10001031@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001032,Knapp,Rhonda,F,07/04/2002,Canada,rknapp26,student10001032@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001033,Alvarado,James,M,02/05/1995,Bangladesh,jalvarado647,student10001033@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001034,Meza,Daniel,M,30/11/2001,Canada,dmeza255,student10001034@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001035,Campbell,Vanessa,F,19/09/1998,Canada,vcampbell20,student10001035@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001036,Browning,Wendy,F,30/03/2002,Canada,wbrowning405,student10001036@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001037,King,Michael,M,31/01/1997,Canada,mking634,student10001037@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001038,Gross,Robert,M,05/10/1999,United Kingdom,rgross4,student10001038@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001039,Marshall,Danielle,F,10/02/1996,Canada,dmarshall980,student10001039@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001040,Glover,Vicki,F,08/10/2000,India,vglover754,student10001040@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001041,Clay,Michele,F,29/11/1996,United States,mclay562,student10001041@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001042,Lewis,James,M,13/06/1994,Pakistan,jlewis116,student10001042@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001043,Burke,Tara,F,24/12/2000,Canada,tburke289,student10001043@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001044,Smith,Abigail,F,24/09/2001,Canada,asmith807,student10001044@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001045,Day,Frank,M,04/01/1997,Pakistan,fday639,student10001045@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001046,Thomas,Julie,F,27/04/1996,Pakistan,jthomas246,student10001046@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management
+2020/21,10001047,Nelson,Douglas,M,20/06/2001,Canada,dnelson298,student10001047@sample.edu,4,2,2019-09-20,2020-06-30,UG,Business Management
+2020/21,10001048,Young,Roger,M,01/06/1996,Canada,ryoung217,student10001048@sample.edu,2,2,2019-09-20,2022-06-30,UG,Business Management

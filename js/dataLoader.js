@@ -7,8 +7,8 @@ const DataLoader = {
     
     // Configuration for CSV file paths (adjust based on your repository structure)
     csvPaths: {
-        students: 'data/students.csv',
-        enrollments: 'data/enrollments.csv',
+        students: 'data/01_Admissions_Synthetic_Data.csv',
+        enrollments: 'data/COMBINED_Course_Enrolments_All_Years.csv',
         grades: 'data/grades.csv'
     },
 
@@ -70,22 +70,84 @@ const DataLoader = {
     processStudentsData(data) {
         return data.map(student => ({
             ...student,
-            student_id: String(student.student_id),
-            entry_year: parseInt(student.entry_year),
-            age: parseInt(student.age),
-            is_disabled: Boolean(student.is_disabled || student.disability === 'Yes'),
+            student_id: String(student.Student_ID),
+            gender: student.Gender ? student.Gender.trim() : 'Unknown',
+            nationality: student.Nationality,
+            age: this.calculateAge(student['Date of Birth']),
+            entry_year: parseInt(student['Academic Year '].split('/')[0]),
+            status: this.mapStudentStatus(student['Student Status']),
+            school: this.getSchoolFromDegree(student['Course/Degree']),
+            programme: student['Course/Degree'],
+            is_disabled: student['Disability / Health Issues'] !== '00 No known disability',
+            english_proficiency: this.getEnglishProficiency(student.IELTS),
+            education_system: student['Recent Education System'],
             // Add calculated fields
-            expected_graduation_year: parseInt(student.entry_year) + 4
+            expected_graduation_year: parseInt(student['Academic Year '].split('/')[0]) + 4
         }));
+    },
+
+    // Calculate age from date of birth
+    calculateAge(dob) {
+        if (!dob) return 20; // default age
+        const birthDate = new Date(dob);
+        const today = new Date();
+        let age = today.getFullYear() - birthDate.getFullYear();
+        const monthDiff = today.getMonth() - birthDate.getMonth();
+        if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDate.getDate())) {
+            age--;
+        }
+        return age;
+    },
+
+    // Map student status from your data format
+    mapStudentStatus(status) {
+        if (!status) return 'Active';
+        if (status.includes('Graduated')) return 'Graduated';
+        if (status.includes('Dropped')) return 'Dropped';
+        if (status.includes('Suspended')) return 'Suspended';
+        return 'Active';
+    },
+
+    // Get school from degree name
+    getSchoolFromDegree(degree) {
+        if (!degree) return 'Unknown';
+        const degreeUpper = degree.toUpperCase();
+        if (degreeUpper.includes('ACCOUNT') || degreeUpper.includes('FINANCE') || 
+            degreeUpper.includes('BUSINESS') || degreeUpper.includes('ECONOM')) {
+            return 'Business';
+        }
+        if (degreeUpper.includes('LAW') || degreeUpper.includes('LEGAL')) {
+            return 'Legal Studies';
+        }
+        if (degreeUpper.includes('PSYCHOLOG') || degreeUpper.includes('SOCIOLOG') || 
+            degreeUpper.includes('INTERNATIONAL RELATIONS')) {
+            return 'Social Science';
+        }
+        if (degreeUpper.includes('COMPUT') || degreeUpper.includes('INFORMATION') || 
+            degreeUpper.includes('DATA')) {
+            return 'Natural & Computing Sciences';
+        }
+        return 'Other';
+    },
+
+    // Get English proficiency level from IELTS score
+    getEnglishProficiency(ielts) {
+        if (!ielts) return 'Not Specified';
+        const score = parseFloat(ielts);
+        if (score >= 7.5) return 'Advanced';
+        if (score >= 6.5) return 'Proficient';
+        if (score >= 5.5) return 'Intermediate';
+        return 'Beginner';
     },
 
     // Process enrollments data
     processEnrollmentsData(data) {
         return data.map(enrollment => ({
             ...enrollment,
-            student_id: String(enrollment.student_id),
-            academic_year: String(enrollment.academic_year),
-            year_of_study: parseInt(enrollment.year_of_study)
+            student_id: String(enrollment.Student_ID || enrollment.student_id),
+            academic_year: String(enrollment['Academic Year'] || enrollment.academic_year),
+            course_code: String(enrollment['Course Code'] || enrollment.course_code),
+            year_of_study: parseInt(enrollment['Year of Study'] || enrollment.year_of_study || 1)
         }));
     },
 
