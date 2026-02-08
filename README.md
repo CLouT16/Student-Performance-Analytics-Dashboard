@@ -48,12 +48,19 @@ All data is **fully synthetic and anonymized**. Generated using:
 - `VERIFY_PROGRAMME_COURSES.py` - Programme validation (20/20 correct)
 - `VERIFY_GPA_DETAILED.py` - GPA calculation verification
 
-## Key Features
+## Features
 
-- Programme-specific course assignments  
-- 50/50 GPA weighting (Year 3 + Year 4)  
-- Realistic grade distributions  
-- Attendance correlated with performance  
-- Proper degree classification bands  
+- **6 dashboard views**: Overview, Enrolment Trends, Academic Performance, Programme Comparison, Retention & Attrition, Data Explorer
+- **Interactive filtering**: Filter by academic year, school, and level — all charts update in real-time
+- **15+ chart types**: Bar, line, doughnut, polar area, radar, stacked area, and simulated box plots
+- **KPI cards**: Total students, average GPA, pass rate, graduates, withdrawal rate
+- **Student-level data table**: Sortable, filterable sample of 2,500 synthetic records
+- **Responsive design**: Works on desktop, tablet, and mobile
+- **Zero dependencies on backend**: All data embedded as JSON — no database required at runtime
 
-**Note:** This is a work-in-progress academic project. Data is completely synthetic and does not represent any real institution.
+## Tech Stack
+
+- **Chart.js 4.4** — interactive, responsive charts
+- **Vanilla HTML/CSS/JS** — no framework, fast loading 
+
+**Note:** This dashboard was developed as part of an MSc Data Science project, focusing on data-driven decision-making for undergraduate programme management in a transnational higher education context.
