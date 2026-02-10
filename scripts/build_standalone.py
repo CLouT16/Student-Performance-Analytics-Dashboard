@@ -20,6 +20,7 @@ JS_FILES = [
     PROJECT / "js" / "tables.js",
     PROJECT / "js" / "queryPanel.js",
     PROJECT / "js" / "insights.js",
+    PROJECT / "js" / "assistant.js",
     PROJECT / "js" / "app.js",
 ]
 CSV_FILES = {
@@ -101,6 +102,7 @@ DataLoader.loadCSV = function(path) {
     <title>Student Performance Analytics Dashboard</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
     <style>
 {css}
     </style>

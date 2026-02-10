@@ -217,7 +217,9 @@ const DataStore = {
     },
 
     // Retention: % of Year-N students in academic year Y who appear as Year-(N+1) in year Y+1
-    calculateRetentionRate(academicYear) {
+    // fromYear: programme year to track (1=Yr1→2, 2=Yr2→3, 3=Yr3→4). Default 1.
+    calculateRetentionRate(academicYear, fromYear) {
+        const progYr = fromYear || 1;
         const allYears = this.getAcademicYears();
         const yearIdx = allYears.indexOf(academicYear);
         if (yearIdx < 0 || yearIdx >= allYears.length - 1) return 0;
@@ -225,23 +227,37 @@ const DataStore = {
 
         const data = this.getData();
 
-        // Students in prog_yr 1 in the given year
-        const yr1Students = new Set();
+        // Students in prog_yr N in the given year
+        const sourceStudents = new Set();
         for (const cs of data.currentStudents) {
-            if (cs.academic_year === academicYear && cs.prog_yr === 1) {
-                yr1Students.add(cs.student_id);
+            if (cs.academic_year === academicYear && cs.prog_yr === progYr) {
+                sourceStudents.add(cs.student_id);
             }
         }
-        if (yr1Students.size === 0) return 0;
+        if (sourceStudents.size === 0) return 0;
 
-        // Count how many appear in the next year with prog_yr >= 2
+        // Count how many appear in the next year with prog_yr >= N+1
         let retained = 0;
         for (const cs of data.currentStudents) {
-            if (cs.academic_year === nextYear && cs.prog_yr >= 2 && yr1Students.has(cs.student_id)) {
+            if (cs.academic_year === nextYear && cs.prog_yr >= (progYr + 1) && sourceStudents.has(cs.student_id)) {
                 retained++;
             }
         }
-        return ((retained / yr1Students.size) * 100).toFixed(1);
+        return ((retained / sourceStudents.size) * 100).toFixed(1);
+    },
+
+    // Attrition rate by academic year — % of students who dropped out per entry cohort year
+    calculateAttritionRateByYear(academicYear) {
+        const data = this.getData();
+        // Students whose entry_year matches
+        let total = 0, dropped = 0;
+        for (const s of data.students) {
+            if (s.entry_year !== academicYear) continue;
+            total++;
+            if (s.status === 'Dropped') dropped++;
+        }
+        if (total === 0) return 0;
+        return ((dropped / total) * 100).toFixed(1);
     },
 
     // Completion rate — students who entered >= 4 years ago and graduated
@@ -349,13 +365,19 @@ const DataStore = {
         );
     },
 
+    // Helper: merge referral source into broader category
+    _mergeReferral(source) {
+        return CONFIG.referralMerge[source] || source;
+    },
+
     // Recruitment by source — count per referral source (from ALL applicants)
     getRecruitmentBySource() {
         const applicants = this._getManagementApplicants();
         const counts = {};
         for (const a of applicants) {
             if (!a.referral_source) continue;
-            counts[a.referral_source] = (counts[a.referral_source] || 0) + 1;
+            const merged = this._mergeReferral(a.referral_source);
+            counts[merged] = (counts[merged] || 0) + 1;
         }
         // Sort by count descending
         return Object.entries(counts)
@@ -377,10 +399,11 @@ const DataStore = {
         const stats = {};
         for (const a of applicants) {
             if (!a.referral_source) continue;
-            if (!stats[a.referral_source]) {
-                stats[a.referral_source] = { total: 0, registered: 0, graduated: 0, dropped: 0, rejected: 0, notInterested: 0 };
+            const merged = this._mergeReferral(a.referral_source);
+            if (!stats[merged]) {
+                stats[merged] = { total: 0, registered: 0, graduated: 0, dropped: 0, rejected: 0, notInterested: 0 };
             }
-            const s = stats[a.referral_source];
+            const s = stats[merged];
             s.total++;
             if (a.status === 'Rejected') { s.rejected++; }
             else if (a.status === 'Not Interested') { s.notInterested++; }
@@ -508,6 +531,338 @@ const DataStore = {
                 count: d.count
             }))
             .sort((a, b) => b.avgGPA - a.avgGPA);
+    },
+
+    // Sankey data: Applicants → Rejected / Not Interested / Registered; Registered → Graduated / Dropped / Active
+    getSankeyData() {
+        const applicants = this._getManagementApplicants();
+        const registeredIds = new Set();
+        for (const cs of DataLoader.currentStudents) registeredIds.add(cs.student_id);
+        const classIds = new Set();
+        for (const c of DataLoader.classifications) classIds.add(c.student_id);
+
+        let rejected = 0, notInterested = 0, registered = 0, graduated = 0, dropped = 0, active = 0;
+
+        for (const a of applicants) {
+            if (a.status === 'Rejected') { rejected++; continue; }
+            if (a.status === 'Not Interested') { notInterested++; continue; }
+            registered++;
+            if (classIds.has(a.student_id)) { graduated++; }
+            else if (a.status === 'Dropped') { dropped++; }
+            else { active++; }
+        }
+
+        // Nodes: Applicants(0), Rejected(1), Not Interested(2), Registered(3), Graduated(4), Dropped(5), Active(6)
+        return {
+            nodes: ['Applicants', 'Rejected', 'Not Interested', 'Registered', 'Graduated', 'Dropped', 'Active'],
+            links: {
+                source: [0, 0, 0, 3, 3, 3],
+                target: [1, 2, 3, 4, 5, 6],
+                value: [rejected, notInterested, registered, graduated, dropped, active]
+            }
+        };
+    },
+
+    // Sunburst data: School → Programme → Classification hierarchy
+    getSunburstData() {
+        const data = this.getData();
+        const ids = [];
+        const labels = [];
+        const parents = [];
+        const values = [];
+
+        // Build counts: school → programme → classification
+        const tree = {};
+        let grandTotal = 0;
+        for (const c of data.classifications) {
+            const student = DataLoader.studentIndex.get(c.student_id);
+            if (!student) continue;
+            const school = student.school || 'Unknown';
+            const prog = student.programme || 'Unknown';
+            const cls = c.classification || 'Unknown';
+
+            if (!tree[school]) tree[school] = {};
+            if (!tree[school][prog]) tree[school][prog] = {};
+            tree[school][prog][cls] = (tree[school][prog][cls] || 0) + 1;
+            grandTotal++;
+        }
+
+        if (grandTotal === 0) return { ids: [], labels: [], parents: [], values: [] };
+
+        // Root
+        ids.push('root');
+        labels.push('All Graduates');
+        parents.push('');
+        values.push(grandTotal);
+
+        for (const school of Object.keys(tree).sort()) {
+            const schoolId = 'S_' + school;
+            // Sum all classifications in this school
+            let schoolTotal = 0;
+            for (const prog of Object.keys(tree[school])) {
+                for (const cls of Object.keys(tree[school][prog])) {
+                    schoolTotal += tree[school][prog][cls];
+                }
+            }
+            ids.push(schoolId);
+            labels.push(school);
+            parents.push('root');
+            values.push(schoolTotal);
+
+            for (const prog of Object.keys(tree[school]).sort()) {
+                const progId = schoolId + '_P_' + prog;
+                let progTotal = 0;
+                for (const cls of Object.keys(tree[school][prog])) {
+                    progTotal += tree[school][prog][cls];
+                }
+                ids.push(progId);
+                labels.push(CONFIG.abbrevProgramme(prog));
+                parents.push(schoolId);
+                values.push(progTotal);
+
+                for (const cls of Object.keys(tree[school][prog]).sort()) {
+                    const clsId = progId + '_C_' + cls;
+                    ids.push(clsId);
+                    labels.push(cls);
+                    parents.push(progId);
+                    values.push(tree[school][prog][cls]);
+                }
+            }
+        }
+
+        return { ids, labels, parents, values };
+    },
+
+    // Programme Comparison: per programme Avg GPA, Pass Rate %, Completion Rate %, Avg Attendance %
+    getProgrammeComparison() {
+        const data = this.getData();
+        const allYears = this.getAcademicYears();
+        const latestStartYear = allYears.length >= 4 ? parseInt(allYears[allYears.length - 1].split('/')[0]) : null;
+
+        const progStats = {};
+
+        // Avg GPA from classifications
+        for (const c of data.classifications) {
+            if (!progStats[c.programme]) progStats[c.programme] = { gpaSum: 0, gpaCount: 0, passed: 0, totalResults: 0, eligible: 0, completed: 0, attSum: 0, attCount: 0 };
+            progStats[c.programme].gpaSum += c.final_gpa;
+            progStats[c.programme].gpaCount++;
+        }
+
+        // Pass rate from course results
+        for (const g of data.courseResults) {
+            const student = DataLoader.studentIndex.get(g.student_id);
+            if (!student) continue;
+            const prog = student.programme;
+            if (!progStats[prog]) progStats[prog] = { gpaSum: 0, gpaCount: 0, passed: 0, totalResults: 0, eligible: 0, completed: 0, attSum: 0, attCount: 0 };
+            progStats[prog].totalResults++;
+            if (g.is_passed) progStats[prog].passed++;
+        }
+
+        // Completion rate
+        if (latestStartYear) {
+            for (const s of data.students) {
+                const entryStartYear = parseInt((s.entry_year || '').split('/')[0]);
+                if (isNaN(entryStartYear) || (latestStartYear - entryStartYear) < 4) continue;
+                if (!progStats[s.programme]) progStats[s.programme] = { gpaSum: 0, gpaCount: 0, passed: 0, totalResults: 0, eligible: 0, completed: 0, attSum: 0, attCount: 0 };
+                progStats[s.programme].eligible++;
+            }
+            for (const c of data.classifications) {
+                if (progStats[c.programme] && progStats[c.programme].eligible > 0) {
+                    progStats[c.programme].completed++;
+                }
+            }
+        }
+
+        // Avg attendance
+        for (const a of data.attendance) {
+            const student = DataLoader.studentIndex.get(a.student_id);
+            if (!student) continue;
+            const prog = student.programme;
+            if (!progStats[prog]) continue;
+            progStats[prog].attSum += a.attendance_percentage;
+            progStats[prog].attCount++;
+        }
+
+        const programmes = Object.keys(progStats).sort();
+        const avgGPA = programmes.map(p => progStats[p].gpaCount > 0 ? parseFloat((progStats[p].gpaSum / progStats[p].gpaCount).toFixed(1)) : 0);
+        const passRate = programmes.map(p => progStats[p].totalResults > 0 ? parseFloat(((progStats[p].passed / progStats[p].totalResults) * 100).toFixed(1)) : 0);
+        const completionRate = programmes.map(p => progStats[p].eligible > 0 ? parseFloat(((progStats[p].completed / progStats[p].eligible) * 100).toFixed(1)) : 0);
+        const avgAttendance = programmes.map(p => progStats[p].attCount > 0 ? parseFloat((progStats[p].attSum / progStats[p].attCount).toFixed(1)) : 0);
+
+        return { programmes, avgGPA, passRate, completionRate, avgAttendance };
+    },
+
+    // Retention rate per programme — aggregated across all academic years for a given transition
+    // fromYear: 1, 2, 3, or 'all'
+    getRetentionByProgramme(fromYear) {
+        const progYr = fromYear || 'all';
+        const data = this.getData();
+        const allYears = this.getAcademicYears();
+        const programmes = this.getProgrammes();
+
+        // Build programme lookup
+        const studentProg = new Map();
+        for (const s of data.students) {
+            studentProg.set(s.student_id, s.programme);
+        }
+
+        // For each programme, sum source & retained across all academic-year pairs
+        const progStats = {};
+        for (const p of programmes) progStats[p] = { source: 0, retained: 0 };
+
+        const transitions = progYr === 'all' ? [1, 2, 3] : [progYr];
+
+        for (let yi = 0; yi < allYears.length - 1; yi++) {
+            const year = allYears[yi];
+            const nextYear = allYears[yi + 1];
+
+            for (const py of transitions) {
+                // Source: students in prog_yr py in this academic year
+                const sourceByProg = {};
+                for (const cs of data.currentStudents) {
+                    if (cs.academic_year === year && cs.prog_yr === py) {
+                        const prog = studentProg.get(cs.student_id);
+                        if (!prog || !progStats[prog]) continue;
+                        if (!sourceByProg[prog]) sourceByProg[prog] = new Set();
+                        sourceByProg[prog].add(cs.student_id);
+                    }
+                }
+
+                // Retained: appear in next year with prog_yr >= py+1
+                for (const cs of data.currentStudents) {
+                    if (cs.academic_year === nextYear && cs.prog_yr >= (py + 1)) {
+                        const prog = studentProg.get(cs.student_id);
+                        if (prog && sourceByProg[prog] && sourceByProg[prog].has(cs.student_id)) {
+                            progStats[prog].retained++;
+                        }
+                    }
+                }
+
+                // Add source counts
+                for (const [prog, ids] of Object.entries(sourceByProg)) {
+                    progStats[prog].source += ids.size;
+                }
+            }
+        }
+
+        const result = {};
+        for (const p of programmes) {
+            result[p] = progStats[p].source > 0
+                ? parseFloat(((progStats[p].retained / progStats[p].source) * 100).toFixed(1))
+                : 0;
+        }
+        return result;
+    },
+
+    // Pass/fail rate per course — identifies which courses cause failures
+    getPassRateByCourse() {
+        const data = this.getData();
+        const courseStats = {};
+        for (const g of data.courseResults) {
+            if (!courseStats[g.course_code]) courseStats[g.course_code] = { passed: 0, failed: 0, total: 0 };
+            courseStats[g.course_code].total++;
+            if (g.is_passed) courseStats[g.course_code].passed++;
+            else courseStats[g.course_code].failed++;
+        }
+        return Object.entries(courseStats)
+            .map(([course, s]) => ({
+                course,
+                passed: s.passed,
+                failed: s.failed,
+                total: s.total,
+                passRate: s.total > 0 ? parseFloat(((s.passed / s.total) * 100).toFixed(1)) : 0
+            }))
+            .sort((a, b) => a.passRate - b.passRate);
+    },
+
+    // Grade band distribution per programme — for stacked performance view
+    getGradeBandByProgramme() {
+        const data = this.getData();
+        const bandDef = {
+            'A (Excellent)': ['A1', 'A2', 'A3', 'A4', 'A5'],
+            'B (Very Good)': ['B1', 'B2', 'B3'],
+            'C (Good)': ['C1', 'C2', 'C3'],
+            'D (Pass)': ['D1', 'D2', 'D3'],
+            'E-F (Marginal Fail)': ['E1', 'E2', 'E3', 'F1', 'F2', 'F3'],
+            'G/NP (Clear Fail)': ['G1', 'G2', 'G3', 'NP']
+        };
+        const bands = Object.keys(bandDef);
+
+        const progCounts = {};
+        for (const g of data.courseResults) {
+            const student = DataLoader.studentIndex.get(g.student_id);
+            if (!student) continue;
+            const prog = student.programme;
+            if (!progCounts[prog]) {
+                progCounts[prog] = {};
+                bands.forEach(b => progCounts[prog][b] = 0);
+            }
+            for (const [band, grades] of Object.entries(bandDef)) {
+                if (grades.includes(g.overall_grade)) {
+                    progCounts[prog][band]++;
+                    break;
+                }
+            }
+        }
+
+        const programmes = Object.keys(progCounts).sort();
+        return { programmes, bands, data: progCounts };
+    },
+
+    // English proficiency per programme — for stacked proficiency chart
+    getProficiencyByProgramme() {
+        const data = this.getData();
+        const progProf = {};
+        for (const s of data.students) {
+            if (!s.english_proficiency) continue;
+            if (!progProf[s.programme]) progProf[s.programme] = {};
+            progProf[s.programme][s.english_proficiency] = (progProf[s.programme][s.english_proficiency] || 0) + 1;
+        }
+        const programmes = Object.keys(progProf).sort();
+        const levels = [...new Set(data.students.map(s => s.english_proficiency).filter(Boolean))];
+        // Sort levels by proficiency order
+        const levelOrder = ['Advanced', 'Proficient', 'Intermediate', 'Basic', 'Beginner'];
+        levels.sort((a, b) => {
+            const ia = levelOrder.indexOf(a);
+            const ib = levelOrder.indexOf(b);
+            return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+        });
+        return { programmes, levels, data: progProf };
+    },
+
+    // Gender distribution per programme — for stacked gender chart
+    getGenderByProgramme() {
+        const data = this.getData();
+        const progGender = {};
+        for (const s of data.students) {
+            if (!progGender[s.programme]) progGender[s.programme] = {};
+            progGender[s.programme][s.gender] = (progGender[s.programme][s.gender] || 0) + 1;
+        }
+        const programmes = Object.keys(progGender).sort();
+        const genders = [...new Set(data.students.map(s => s.gender))].sort();
+        return { programmes, genders, data: progGender };
+    },
+
+    // Attrition rate per programme — % of students who dropped out
+    getAttritionByProgramme() {
+        const data = this.getData();
+        const programmes = this.getProgrammes();
+        const progStats = {};
+        for (const p of programmes) progStats[p] = { total: 0, dropped: 0 };
+
+        for (const s of data.students) {
+            if (!progStats[s.programme]) continue;
+            progStats[s.programme].total++;
+            if (s.status === 'Dropped') progStats[s.programme].dropped++;
+        }
+
+        const result = {};
+        for (const p of programmes) {
+            result[p] = progStats[p].total > 0
+                ? parseFloat(((progStats[p].dropped / progStats[p].total) * 100).toFixed(1))
+                : 0;
+        }
+        return result;
     },
 
     // Export filtered students to CSV

@@ -168,37 +168,49 @@ const TablesManager = {
             ['Programme', 'Enrolled', 'Completed', 'Rate', 'Avg GPA'], rows);
     },
 
-    // --- Retention Table ---
+    // --- Retention Table (all year-level transitions: 1→2, 2→3, 3→4) ---
     renderRetentionTable() {
         const years = DataStore.getAcademicYears();
         const data = DataStore.getData();
         const calcYears = years.slice(0, -1);
+        const transitions = [
+            { from: 1, label: 'Yr 1→2' },
+            { from: 2, label: 'Yr 2→3' },
+            { from: 3, label: 'Yr 3→4' }
+        ];
 
-        const rows = calcYears.map(year => {
+        const rows = [];
+        calcYears.forEach(year => {
             const nextYear = years[years.indexOf(year) + 1];
-            let yr1Count = 0;
-            let yr2Count = 0;
-            const yr1Ids = new Set();
 
-            data.currentStudents.forEach(cs => {
-                if (cs.academic_year === year && cs.prog_yr === 1) {
-                    yr1Ids.add(cs.student_id);
-                    yr1Count++;
-                }
+            transitions.forEach(t => {
+                const sourceIds = new Set();
+                let sourceCount = 0;
+                let retainedCount = 0;
+
+                data.currentStudents.forEach(cs => {
+                    if (cs.academic_year === year && cs.prog_yr === t.from) {
+                        sourceIds.add(cs.student_id);
+                        sourceCount++;
+                    }
+                });
+
+                if (sourceCount === 0) return; // Skip if no students in this transition
+
+                data.currentStudents.forEach(cs => {
+                    if (cs.academic_year === nextYear && cs.prog_yr >= (t.from + 1) && sourceIds.has(cs.student_id)) {
+                        retainedCount++;
+                    }
+                });
+
+                const lost = sourceCount - retainedCount;
+                const rate = sourceCount > 0 ? ((retainedCount / sourceCount) * 100).toFixed(1) + '%' : 'N/A';
+                rows.push([year, t.label, sourceCount.toLocaleString(), retainedCount.toLocaleString(), lost.toLocaleString(), rate]);
             });
-
-            data.currentStudents.forEach(cs => {
-                if (cs.academic_year === nextYear && cs.prog_yr >= 2 && yr1Ids.has(cs.student_id)) {
-                    yr2Count++;
-                }
-            });
-
-            const rate = yr1Count > 0 ? ((yr2Count / yr1Count) * 100).toFixed(1) + '%' : 'N/A';
-            return [year, yr1Count.toLocaleString(), yr2Count.toLocaleString(), (yr1Count - yr2Count).toLocaleString(), rate];
         });
 
-        this.buildTable('retentionTable', 'Retention by Cohort',
-            ['Cohort Year', 'Y1 Count', 'Y2 Count', 'Lost', 'Retention Rate'], rows);
+        this.buildTable('retentionTable', 'Retention Cohort Summary',
+            ['Academic Year', 'Transition', 'Start Count', 'Retained', 'Lost', 'Retention Rate'], rows);
     },
 
     // --- Demographics Table ---

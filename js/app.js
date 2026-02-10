@@ -133,6 +133,46 @@ function showNotification(message) {
     setTimeout(() => el.remove(), 3000);
 }
 
+
+// Wire up chart toggle buttons (year toggles, normalize toggles)
+function setupChartToggles() {
+    // Normalize toggle buttons (Count / 100%)
+    document.querySelectorAll('.chart-toggles [data-chart]').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            const chartKey = btn.dataset.chart;
+            const mode = btn.dataset.mode;
+            // Update active state within this toggle group
+            btn.closest('.chart-toggles').querySelectorAll('.chart-toggle').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            const normalized = mode === 'normalized';
+            if (chartKey === 'recruitmentEffectiveness') {
+                ChartsManager.updateRecruitmentEffectivenessChart(normalized);
+            } else if (chartKey === 'classificationByProg') {
+                ChartsManager.updateClassificationByProgChart(normalized);
+            } else if (chartKey === 'passRate') {
+                ChartsManager.updatePassFailSchoolChart(normalized);
+            } else if (chartKey === 'performanceMatrix') {
+                ChartsManager.updatePerformanceMatrixChart(normalized);
+            } else if (chartKey === 'proficiency') {
+                ChartsManager.updateProficiencyChart(normalized);
+            } else if (chartKey === 'gpaDistribution') {
+                ChartsManager.updateGPADistributionChart(mode);
+            } else if (chartKey === 'coursePassRate') {
+                ChartsManager.updateCoursePassRateChart(mode);
+            } else if (chartKey === 'programmeComparison') {
+                ChartsManager.updateProgrammeComparisonChart(normalized);
+            } else if (chartKey === 'cohortCompletion') {
+                ChartsManager.updateCohortCompletionChart(normalized);
+            } else if (chartKey === 'retentionRate') {
+                ChartsManager.updateRetentionRateChart(normalized ? 'normalized' : 'all');
+            } else if (chartKey === 'genderDist') {
+                ChartsManager.updateGenderDistChart(normalized);
+            }
+        });
+    });
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
     const overlay = document.getElementById('loadingOverlay');
     const loadingText = document.getElementById('loadingText');
@@ -153,6 +193,20 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Wire up import panel
         setupImportPanel();
+
+        // Wire up chart toggle buttons
+        setupChartToggles();
+
+        // AI Assistant
+        Assistant.initialize();
+
+        // Export PDF button
+        const exportPDFBtn = document.getElementById('exportPDF');
+        if (exportPDFBtn) {
+            exportPDFBtn.addEventListener('click', () => {
+                window.print();
+            });
+        }
 
         // Hide loading overlay
         overlay.style.display = 'none';

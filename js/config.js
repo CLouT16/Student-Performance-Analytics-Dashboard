@@ -11,36 +11,38 @@ const CONFIG = {
     },
 
     // Scottish Common Grading Scale (CGS) — full mapping
-    // Grade → { points, pass }
+    // Grade → { points (min of range), pass }
+    // A1=22, A2=21.00-21.99, A3=20.00-20.99 ... G3=0.00-0.99
     gradeScale: {
-        'A2': { points: 22, pass: true },
-        'A3': { points: 21, pass: true },
-        'A4': { points: 20, pass: true },
-        'A5': { points: 19, pass: true },
-        'B1': { points: 18, pass: true },
-        'B2': { points: 17, pass: true },
-        'B3': { points: 16, pass: true },
-        'C1': { points: 15, pass: true },
-        'C2': { points: 14, pass: true },
-        'C3': { points: 13, pass: true },
-        'D1': { points: 12, pass: true },
-        'D2': { points: 11, pass: true },
-        'D3': { points: 10, pass: true },
-        'E1': { points: 9,  pass: true },
-        'E2': { points: 8,  pass: true },
-        'E3': { points: 7,  pass: true },
-        'F1': { points: 6,  pass: true },
-        'F2': { points: 5,  pass: true },
-        'F3': { points: 4,  pass: true },
-        'G1': { points: 3,  pass: false },
-        'G2': { points: 2,  pass: false },
-        'G3': { points: 1,  pass: false },
+        'A1': { points: 22, pass: true },
+        'A2': { points: 21, pass: true },
+        'A3': { points: 20, pass: true },
+        'A4': { points: 19, pass: true },
+        'A5': { points: 18, pass: true },
+        'B1': { points: 17, pass: true },
+        'B2': { points: 16, pass: true },
+        'B3': { points: 15, pass: true },
+        'C1': { points: 14, pass: true },
+        'C2': { points: 13, pass: true },
+        'C3': { points: 12, pass: true },
+        'D1': { points: 11, pass: true },
+        'D2': { points: 10, pass: true },
+        'D3': { points: 9,  pass: true },
+        'E1': { points: 8,  pass: false },
+        'E2': { points: 7,  pass: false },
+        'E3': { points: 6,  pass: false },
+        'F1': { points: 5,  pass: false },
+        'F2': { points: 4,  pass: false },
+        'F3': { points: 3,  pass: false },
+        'G1': { points: 2,  pass: false },
+        'G2': { points: 1,  pass: false },
+        'G3': { points: 0,  pass: false },
         'NP': { points: 0,  pass: false }
     },
 
     // Ordered list of CGS grades for chart display (best → worst)
     gradeOrder: [
-        'A2','A3','A4','A5',
+        'A1','A2','A3','A4','A5',
         'B1','B2','B3',
         'C1','C2','C3',
         'D1','D2','D3',
@@ -128,6 +130,19 @@ const CONFIG = {
 
     // Junk values to exclude from "How did you hear about us?" referral source
     referralJunkValues: ['6.5', '7', '6', 'Chemistry'],
+
+    // Merge granular referral sources into broader categories
+    referralMerge: {
+        'Facebook':                   'Social Media',
+        'Instagram':                  'Social Media',
+        'LinkedIn':                   'Social Media',
+        'Social Media':               'Social Media',
+        'Website':                    'Website & Search',
+        'Search Engine: Google':      'Website & Search',
+        'University Fair':            'Outreach Events',
+        'Outreach Activity: Open Day':'Outreach Events',
+        'School Visit':               'Outreach Events'
+    },
 
     // Helper: get school for a programme name
     getSchool(programme) {

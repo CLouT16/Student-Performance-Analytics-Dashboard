@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/dashboard.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
 </head>
 <body>
     <div class="dashboard-container">
@@ -28,7 +29,7 @@
                 </div>
                 <div class="stat-card">
                     <span class="stat-value" id="avgGPA">-</span>
-                    <span class="stat-label">Average GPA (0-22)</span>
+                    <span class="stat-label">Avg Grade Point (0-22)</span>
                 </div>
                 <div class="stat-card">
                     <span class="stat-value" id="avgAttendance">-</span>
@@ -98,15 +99,28 @@
                     <canvas id="recruitmentSourceChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>Recruitment Source Effectiveness</h3>
+                    <div class="chart-header-row">
+                        <h3>Recruitment Source Effectiveness</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="recruitmentEffectiveness" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="recruitmentEffectiveness" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
                     <canvas id="recruitmentEffectivenessChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>Admissions Conversion Funnel</h3>
+                    <h3>Admissions Pipeline</h3>
                     <canvas id="offerFunnelChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>Degree Classification by Programme</h3>
+                    <div class="chart-header-row">
+                        <h3>Degree Classification by Programme</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="classificationByProg" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="classificationByProg" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
+                    <div class="chart-prog-filter" id="classificationProgFilter"></div>
                     <canvas id="classificationByProgChart"></canvas>
                 </div>
                 <div class="chart-card">
@@ -114,7 +128,7 @@
                     <canvas id="attendanceRiskChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>Education System Performance</h3>
+                    <h3>Prior Education System vs Performance</h3>
                     <canvas id="educationPerformanceChart"></canvas>
                 </div>
             </div>
@@ -124,15 +138,11 @@
                     <canvas id="newReturningChart"></canvas>
                 </div>
             </div>
-            <div class="programme-key">
-                <p class="key-title">Programme Abbreviations</p>
-                <span class="key-item"><strong>AF</strong> Accountancy &amp; Finance</span>
-                <span class="key-item"><strong>BM</strong> Business Management</span>
-                <span class="key-item"><strong>BM-IS</strong> BM &amp; Information Systems</span>
-                <span class="key-item"><strong>BM-IR</strong> BM &amp; International Relations</span>
-                <span class="key-item"><strong>CS</strong> Computing Science</span>
-                <span class="key-item"><strong>LS</strong> Legal Studies</span>
-                <span class="key-item"><strong>PIR</strong> Politics &amp; International Relations</span>
+            <div class="overview-grid overview-grid-wide">
+                <div class="chart-card">
+                    <h3>Student Flow — Applicant Journey</h3>
+                    <div id="sankeyChart" class="plotly-container"></div>
+                </div>
             </div>
             <div class="data-table-container" id="recruitmentTable"></div>
         </section>
@@ -185,7 +195,7 @@
                         </select>
                     </div>
                     <div class="filter-group">
-                        <label for="filterClassification">Degree Classification</label>
+                        <label for="filterClassification">Degree Classification *</label>
                         <select id="filterClassification">
                             <option value="">All</option>
                         </select>
@@ -199,14 +209,6 @@
                 </div>
 
                 <div class="filters-row-2">
-                    <div class="filter-group filter-range">
-                        <label>GPA Range (0-22)</label>
-                        <div class="range-inputs">
-                            <input type="number" id="gpaMin" placeholder="Min" min="0" max="22" step="0.5">
-                            <span class="range-sep">&ndash;</span>
-                            <input type="number" id="gpaMax" placeholder="Max" min="0" max="22" step="0.5">
-                        </div>
-                    </div>
                     <div class="filter-group filter-search">
                         <label for="searchInput">Search</label>
                         <input type="text" id="searchInput" placeholder="Student name or ID...">
@@ -219,17 +221,19 @@
                     <button class="btn btn-primary" id="applyFilters">Apply Filters</button>
                     <button class="btn btn-secondary" id="resetFilters">Reset</button>
                     <button class="btn btn-secondary" id="exportData">Export CSV</button>
+                    <button class="btn btn-secondary" id="exportPDF">Export PDF</button>
                 </div>
             </div>
         </section>
 
         <nav class="tabs" role="tablist">
             <button class="tab active" data-tab="enrollment" role="tab">Enrollment Trends</button>
-            <button class="tab" data-tab="performance" role="tab">Academic Performance</button>
+            <button class="tab" data-tab="performance" role="tab">Academic Performance *</button>
             <button class="tab" data-tab="comparison" role="tab">Programme Comparison</button>
             <button class="tab" data-tab="retention" role="tab">Retention & Attrition</button>
             <button class="tab" data-tab="demographics" role="tab">Demographics</button>
             <button class="tab" data-tab="insights" role="tab">Insights</button>
+            <button class="tab" data-tab="assistant" role="tab">AI Assistant</button>
         </nav>
 
         <!-- Enrollment -->
@@ -254,23 +258,56 @@
 
         <!-- Performance -->
         <div id="performanceSection" class="content-section" role="tabpanel">
-            <h2 class="section-title">Academic Performance Analysis</h2>
+            <h2 class="section-title">Academic Performance Analysis *</h2>
+            <p class="section-footnote">* Final degree classifications and academic decisions are subject to the Board of Examiners&rsquo; recommendations. Figures shown are based on recorded data prior to any board adjustments.</p>
             <div class="chart-grid">
                 <div class="chart-card">
-                    <h3>Degree Classification Distribution</h3>
+                    <div class="chart-header-row">
+                        <h3>Degree Classification Distribution</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="gpaDistribution" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="gpaDistribution" data-mode="byProgramme">By Programme</button>
+                            <button class="chart-toggle" data-chart="gpaDistribution" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
                     <canvas id="gpaDistributionChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>Pass/Fail Rates by Programme</h3>
+                    <div class="chart-header-row">
+                        <h3>Pass/Fail Rates by Programme</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="passRate" data-mode="normalized">100%</button>
+                            <button class="chart-toggle" data-chart="passRate" data-mode="absolute">Count</button>
+                        </div>
+                    </div>
                     <canvas id="passRateChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>Average GPA by Programme</h3>
+                    <h3>Average Grade Point by Programme</h3>
                     <canvas id="avgGPAChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>Grade Distribution (CGS)</h3>
+                    <h3>Grade Distribution (Common Grading Scale)</h3>
                     <canvas id="gradeDistChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-grid">
+                <div class="chart-card chart-full">
+                    <div class="chart-header-row">
+                        <h3>Course Pass Rates</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="coursePassRate" data-mode="bottom10">Bottom 10</button>
+                            <button class="chart-toggle" data-chart="coursePassRate" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
+                    <div class="chart-prog-filter" id="coursePassRateFilter"></div>
+                    <canvas id="coursePassRateChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-grid">
+                <div class="chart-card chart-full">
+                    <h3>Classification Hierarchy — School / Programme / Classification</h3>
+                    <div id="sunburstChart" class="plotly-container"></div>
                 </div>
             </div>
             <div class="data-table-container" id="performanceTable"></div>
@@ -285,8 +322,27 @@
                     <canvas id="completionRatesChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>Programme Performance Matrix</h3>
+                    <div class="chart-header-row">
+                        <h3>Grade Band Distribution by Programme</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="performanceMatrix" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="performanceMatrix" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
+                    <div class="chart-prog-filter" id="perfMatrixProgFilter"></div>
                     <canvas id="performanceMatrixChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-grid">
+                <div class="chart-card chart-full">
+                    <div class="chart-header-row">
+                        <h3>Programme Metrics Comparison</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="programmeComparison" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="programmeComparison" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
+                    <canvas id="programmeComparisonChart"></canvas>
                 </div>
             </div>
             <div class="data-table-container" id="comparisonTable"></div>
@@ -297,15 +353,23 @@
             <h2 class="section-title">Retention & Attrition</h2>
             <div class="chart-grid">
                 <div class="chart-card chart-full">
-                    <h3>Retention Rate Over Time</h3>
+                    <div class="chart-header-row">
+                        <h3>Retention & Attrition Rates by Programme</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="retentionRate" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="retentionRate" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
                     <canvas id="retentionRateChart"></canvas>
                 </div>
-                <div class="chart-card">
-                    <h3>Attrition Rate by School</h3>
-                    <canvas id="attritionRateChart"></canvas>
-                </div>
-                <div class="chart-card">
-                    <h3>Completion Rate by Cohort</h3>
+                <div class="chart-card chart-full">
+                    <div class="chart-header-row">
+                        <h3>Completion Rate by Cohort</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="cohortCompletion" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="cohortCompletion" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
                     <canvas id="cohortCompletionChart"></canvas>
                 </div>
             </div>
@@ -317,7 +381,13 @@
             <h2 class="section-title">Demographics</h2>
             <div class="chart-grid">
                 <div class="chart-card">
-                    <h3>Gender Distribution</h3>
+                    <div class="chart-header-row">
+                        <h3>Gender Distribution</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="genderDist" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="genderDist" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
                     <canvas id="genderDistChart"></canvas>
                 </div>
                 <div class="chart-card">
@@ -329,7 +399,13 @@
                     <canvas id="ageDistChart"></canvas>
                 </div>
                 <div class="chart-card">
-                    <h3>English Proficiency Levels</h3>
+                    <div class="chart-header-row">
+                        <h3>English Proficiency Levels</h3>
+                        <div class="chart-toggles">
+                            <button class="chart-toggle active" data-chart="proficiency" data-mode="absolute">Count</button>
+                            <button class="chart-toggle" data-chart="proficiency" data-mode="normalized">100%</button>
+                        </div>
+                    </div>
                     <canvas id="proficiencyChart"></canvas>
                 </div>
             </div>
@@ -338,12 +414,48 @@
 
         <!-- Insights -->
         <div id="insightsSection" class="content-section" role="tabpanel">
-            <h2 class="section-title">Insights & Recommendations</h2>
+            <h2 class="section-title">Key Metrics Summary</h2>
             <div id="enrollmentInsights" class="insights-container"></div>
             <div id="performanceInsights" class="insights-container"></div>
             <div id="retentionInsights" class="insights-container"></div>
             <div id="demographicInsights" class="insights-container"></div>
             <div id="strategicRecommendations" class="insights-container"></div>
+        </div>
+
+        <!-- AI Assistant -->
+        <div id="assistantSection" class="content-section" role="tabpanel">
+            <h2 class="section-title">AI Assistant</h2>
+            <div class="assistant-container">
+                <div class="assistant-mode-selector">
+                    <button class="assistant-mode active" data-mode="online">Online (API)</button>
+                    <button class="assistant-mode" data-mode="local">Local (Ollama)</button>
+                </div>
+                <div class="assistant-config" id="assistantConfig">
+                    <div class="config-online" id="configOnline">
+                        <label>API Key</label>
+                        <input type="password" id="apiKey" placeholder="sk-...">
+                        <label>Model</label>
+                        <select id="onlineModel">
+                            <option value="gpt-4o-mini">GPT-4o Mini</option>
+                            <option value="gpt-4o">GPT-4o</option>
+                            <option value="claude-sonnet-4-5-20250929">Claude Sonnet</option>
+                        </select>
+                    </div>
+                    <div class="config-local" id="configLocal" style="display:none;">
+                        <label>Ollama URL</label>
+                        <input type="text" id="ollamaUrl" value="http://localhost:11434">
+                        <label>Model</label>
+                        <input type="text" id="localModel" value="llama3.2">
+                    </div>
+                </div>
+                <div class="chat-container" id="chatContainer">
+                    <div class="chat-messages" id="chatMessages"></div>
+                    <div class="chat-input-row">
+                        <textarea id="chatInput" placeholder="Ask about the data..." rows="2"></textarea>
+                        <button class="btn btn-primary" id="chatSend">Send</button>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <footer class="dashboard-footer">
@@ -365,6 +477,7 @@
     <script src="js/tables.js"></script>
     <script src="js/queryPanel.js"></script>
     <script src="js/insights.js"></script>
+    <script src="js/assistant.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>
