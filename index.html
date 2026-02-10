@@ -4,30 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Student Performance Analytics Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/dashboard.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 </head>
 <body>
     <div class="dashboard-container">
-        <!-- Header -->
         <header class="dashboard-header">
-            <div class="header-content">
-                <h1>Student Performance Analytics Dashboard</h1>
-                <p class="subtitle">Undergraduate Programmes (2017-2025)</p>
-            </div>
+            <h1>Student Performance Analytics Dashboard</h1>
+            <p class="subtitle">Undergraduate Programmes &mdash; All Academic Years</p>
+
             <div class="header-stats" id="headerStats">
                 <div class="stat-card">
-                    <span class="stat-value" id="totalStudents">-</span>
-                    <span class="stat-label">Total Students</span>
+                    <span class="stat-value" id="totalApplicants">-</span>
+                    <span class="stat-label">Total Applicants</span>
                 </div>
                 <div class="stat-card">
-                    <span class="stat-value" id="totalEnrollments">-</span>
-                    <span class="stat-label">Enrollments</span>
+                    <span class="stat-value" id="registeredStudents">-</span>
+                    <span class="stat-label">Registered Students</span>
                 </div>
                 <div class="stat-card">
                     <span class="stat-value" id="avgGPA">-</span>
-                    <span class="stat-label">Average GPA</span>
+                    <span class="stat-label">Average GPA (0-22)</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="avgAttendance">-</span>
+                    <span class="stat-label">Avg Attendance</span>
                 </div>
                 <div class="stat-card">
                     <span class="stat-value" id="completionRate">-</span>
@@ -36,235 +41,330 @@
             </div>
         </header>
 
-        <!-- Query Builder -->
-        <section class="query-panel">
-            <h2>Query Builder</h2>
-            <div class="filters">
-                <div class="filter-group">
-                    <label>Academic Year:</label>
-                    <select id="filterYear" multiple>
-                        <option value="all" selected>All Years</option>
-                    </select>
+        <section class="import-section" id="importSection">
+            <div class="import-header" id="importToggle">
+                <h2>Import Data</h2>
+                <span class="import-hint">Upload custom CSV files to analyse your own data</span>
+                <button class="btn btn-sm btn-toggle collapsed" id="importToggleBtn" aria-label="Toggle import panel">
+                    <span class="toggle-icon">&#9660;</span>
+                </button>
+            </div>
+            <div class="import-body collapsed" id="importBody">
+                <p class="import-instructions">Select all 6 CSV files, then click <strong>Load Imported Data</strong>. Each file must contain the required columns for its data type.</p>
+                <div class="import-grid">
+                    <div class="import-item">
+                        <label for="fileAdmissions">01 — Admissions</label>
+                        <input type="file" id="fileAdmissions" accept=".csv" data-key="admissions">
+                    </div>
+                    <div class="import-item">
+                        <label for="fileCurrentStudents">02 — Current Students</label>
+                        <input type="file" id="fileCurrentStudents" accept=".csv" data-key="currentStudents">
+                    </div>
+                    <div class="import-item">
+                        <label for="fileEnrollments">03 — Course Enrolments</label>
+                        <input type="file" id="fileEnrollments" accept=".csv" data-key="enrollments">
+                    </div>
+                    <div class="import-item">
+                        <label for="fileAttendance">04 — Attendance</label>
+                        <input type="file" id="fileAttendance" accept=".csv" data-key="attendance">
+                    </div>
+                    <div class="import-item">
+                        <label for="fileClassifications">05 — Degree Classifications</label>
+                        <input type="file" id="fileClassifications" accept=".csv" data-key="classifications">
+                    </div>
+                    <div class="import-item">
+                        <label for="fileCourseResults">06 — Course Results</label>
+                        <input type="file" id="fileCourseResults" accept=".csv" data-key="courseResults">
+                    </div>
                 </div>
-                <div class="filter-group">
-                    <label>School:</label>
-                    <select id="filterSchool" multiple>
-                        <option value="all" selected>All Schools</option>
-                    </select>
+                <div class="import-progress" id="importProgress" style="display:none;">
+                    <div class="import-progress-bar"><div class="import-progress-fill" id="importProgressFill"></div></div>
+                    <p class="import-progress-text" id="importProgressText">Loading...</p>
                 </div>
-                <div class="filter-group">
-                    <label>Programme:</label>
-                    <select id="filterProgramme" multiple>
-                        <option value="all" selected>All Programmes</option>
-                    </select>
+                <div class="import-error" id="importError" style="display:none;"></div>
+                <div class="import-actions">
+                    <button class="btn btn-primary" id="loadImportedData" disabled>Load Imported Data</button>
+                    <button class="btn btn-secondary" id="resetToDefault">Reset to Default Data</button>
                 </div>
-                <div class="filter-group">
-                    <label>Gender:</label>
-                    <select id="filterGender" multiple>
-                        <option value="all" selected>All</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label>Nationality:</label>
-                    <select id="filterNationality" multiple>
-                        <option value="all" selected>All</option>
-                    </select>
-                </div>
-                <button id="applyFilters" class="btn-primary">Apply Filters</button>
-                <button id="resetFilters" class="btn-secondary">Reset</button>
-                <button id="exportData" class="btn-secondary">Export Results</button>
             </div>
         </section>
 
-        <!-- Navigation Tabs -->
-        <nav class="tab-navigation">
-            <button class="tab-btn active" data-tab="enrollment">Enrollment Trends</button>
-            <button class="tab-btn" data-tab="performance">Academic Performance</button>
-            <button class="tab-btn" data-tab="programmes">Programme Comparison</button>
-            <button class="tab-btn" data-tab="retention">Retention & Attrition</button>
-            <button class="tab-btn" data-tab="demographics">Demographics</button>
-            <button class="tab-btn" data-tab="insights">Insights</button>
+        <section class="management-overview" id="managementOverview">
+            <h2>Management Overview</h2>
+            <p class="overview-subtitle">Strategic KPIs across all applicants — updates automatically as new data is added</p>
+            <div class="overview-grid">
+                <div class="chart-card">
+                    <h3>Recruitment Sources</h3>
+                    <canvas id="recruitmentSourceChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Recruitment Source Effectiveness</h3>
+                    <canvas id="recruitmentEffectivenessChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Admissions Conversion Funnel</h3>
+                    <canvas id="offerFunnelChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Degree Classification by Programme</h3>
+                    <canvas id="classificationByProgChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Attendance Risk Overview</h3>
+                    <canvas id="attendanceRiskChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Education System Performance</h3>
+                    <canvas id="educationPerformanceChart"></canvas>
+                </div>
+            </div>
+            <div class="overview-grid overview-grid-wide">
+                <div class="chart-card">
+                    <h3>New vs Returning Students by Academic Year</h3>
+                    <canvas id="newReturningChart"></canvas>
+                </div>
+            </div>
+            <div class="programme-key">
+                <p class="key-title">Programme Abbreviations</p>
+                <span class="key-item"><strong>AF</strong> Accountancy &amp; Finance</span>
+                <span class="key-item"><strong>BM</strong> Business Management</span>
+                <span class="key-item"><strong>BM-IS</strong> BM &amp; Information Systems</span>
+                <span class="key-item"><strong>BM-IR</strong> BM &amp; International Relations</span>
+                <span class="key-item"><strong>CS</strong> Computing Science</span>
+                <span class="key-item"><strong>LS</strong> Legal Studies</span>
+                <span class="key-item"><strong>PIR</strong> Politics &amp; International Relations</span>
+            </div>
+            <div class="data-table-container" id="recruitmentTable"></div>
+        </section>
+
+        <section class="query-panel" id="queryPanel">
+            <div class="query-panel-header">
+                <h2>Filter Data</h2>
+                <span class="filter-count" id="filterCount"></span>
+                <button class="btn btn-sm btn-toggle collapsed" id="toggleFilters" aria-label="Toggle filters">
+                    <span class="toggle-icon">&#9660;</span>
+                </button>
+            </div>
+
+            <div class="filters-body collapsed" id="filtersBody">
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="filterYear">Academic Year</label>
+                        <select id="filterYear">
+                            <option value="">All Years</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterSchool">School</label>
+                        <select id="filterSchool">
+                            <option value="">All Schools</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterProgramme">Programme</label>
+                        <select id="filterProgramme">
+                            <option value="">All Programmes</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterGender">Gender</label>
+                        <select id="filterGender">
+                            <option value="">All</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterNationality">Nationality</label>
+                        <select id="filterNationality">
+                            <option value="">All Nationalities</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterAttendance">Attendance Status</label>
+                        <select id="filterAttendance">
+                            <option value="">All</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterClassification">Degree Classification</label>
+                        <select id="filterClassification">
+                            <option value="">All</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterEntryLevel">Entry Level</label>
+                        <select id="filterEntryLevel">
+                            <option value="">All</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="filters-row-2">
+                    <div class="filter-group filter-range">
+                        <label>GPA Range (0-22)</label>
+                        <div class="range-inputs">
+                            <input type="number" id="gpaMin" placeholder="Min" min="0" max="22" step="0.5">
+                            <span class="range-sep">&ndash;</span>
+                            <input type="number" id="gpaMax" placeholder="Max" min="0" max="22" step="0.5">
+                        </div>
+                    </div>
+                    <div class="filter-group filter-search">
+                        <label for="searchInput">Search</label>
+                        <input type="text" id="searchInput" placeholder="Student name or ID...">
+                    </div>
+                </div>
+
+                <div class="filter-chips" id="filterChips"></div>
+
+                <div class="filter-actions">
+                    <button class="btn btn-primary" id="applyFilters">Apply Filters</button>
+                    <button class="btn btn-secondary" id="resetFilters">Reset</button>
+                    <button class="btn btn-secondary" id="exportData">Export CSV</button>
+                </div>
+            </div>
+        </section>
+
+        <nav class="tabs" role="tablist">
+            <button class="tab active" data-tab="enrollment" role="tab">Enrollment Trends</button>
+            <button class="tab" data-tab="performance" role="tab">Academic Performance</button>
+            <button class="tab" data-tab="comparison" role="tab">Programme Comparison</button>
+            <button class="tab" data-tab="retention" role="tab">Retention & Attrition</button>
+            <button class="tab" data-tab="demographics" role="tab">Demographics</button>
+            <button class="tab" data-tab="insights" role="tab">Insights</button>
         </nav>
 
-        <!-- Tab Content -->
-        <div class="tab-content-container">
-            
-            <!-- Enrollment Trends Tab -->
-            <div id="enrollment" class="tab-content active">
-                <h2>Enrollment Trends Analysis</h2>
-                <div class="charts-grid">
-                    <div class="chart-container">
-                        <h3>Enrollment Over Time</h3>
-                        <canvas id="enrollmentTrendChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Enrollment by School</h3>
-                        <canvas id="enrollmentSchoolChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Enrollment by Programme</h3>
-                        <canvas id="enrollmentProgrammeChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Year-on-Year Growth Rate</h3>
-                        <canvas id="enrollmentGrowthChart"></canvas>
-                    </div>
+        <!-- Enrollment -->
+        <div id="enrollmentSection" class="content-section active" role="tabpanel">
+            <h2 class="section-title">Enrollment Trends Analysis</h2>
+            <div class="chart-grid">
+                <div class="chart-card chart-full">
+                    <h3>Enrollment Over Time</h3>
+                    <canvas id="enrollmentTrendChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Enrollment by School</h3>
+                    <canvas id="enrollmentBySchoolChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Enrollment by Programme</h3>
+                    <canvas id="enrollmentByProgrammeChart"></canvas>
                 </div>
             </div>
-
-            <!-- Academic Performance Tab -->
-            <div id="performance" class="tab-content">
-                <h2>Academic Performance Analysis</h2>
-                <div class="charts-grid">
-                    <div class="chart-container">
-                        <h3>GPA Distribution</h3>
-                        <canvas id="gpaDistributionChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Pass/Fail Rates by School</h3>
-                        <canvas id="passFailSchoolChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Average GPA by Programme</h3>
-                        <canvas id="gpaProgrammeChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Grade Distribution (CGS)</h3>
-                        <canvas id="gradeDistributionChart"></canvas>
-                    </div>
-                    <div class="chart-container full-width">
-                        <h3>Performance Trends Over Time</h3>
-                        <canvas id="performanceTrendChart"></canvas>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Programme Comparison Tab -->
-            <div id="programmes" class="tab-content">
-                <h2>Programme Comparison</h2>
-                <div class="charts-grid">
-                    <div class="chart-container">
-                        <h3>Completion Rates by Programme</h3>
-                        <canvas id="completionProgrammeChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Average GPA Comparison</h3>
-                        <canvas id="gpaComparisonChart"></canvas>
-                    </div>
-                    <div class="chart-container full-width">
-                        <h3>Programme Performance Matrix</h3>
-                        <canvas id="programmeMatrixChart"></canvas>
-                    </div>
-                    <div class="chart-container full-width">
-                        <h3>Student Satisfaction & Performance</h3>
-                        <canvas id="satisfactionChart"></canvas>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Retention & Attrition Tab -->
-            <div id="retention" class="tab-content">
-                <h2>Retention & Attrition Analysis</h2>
-                <div class="charts-grid">
-                    <div class="chart-container">
-                        <h3>Retention Rate Over Time</h3>
-                        <canvas id="retentionTrendChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Attrition Rate by School</h3>
-                        <canvas id="attritionSchoolChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Completion Rate by Cohort</h3>
-                        <canvas id="completionCohortChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Dropout Reasons Analysis</h3>
-                        <canvas id="dropoutReasonsChart"></canvas>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Demographics Tab -->
-            <div id="demographics" class="tab-content">
-                <h2>Student Demographics Analysis</h2>
-                <div class="charts-grid">
-                    <div class="chart-container">
-                        <h3>Gender Distribution</h3>
-                        <canvas id="genderChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Nationality Distribution</h3>
-                        <canvas id="nationalityChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Age Distribution</h3>
-                        <canvas id="ageChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Disability Status</h3>
-                        <canvas id="disabilityChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>English Proficiency Levels</h3>
-                        <canvas id="englishProficiencyChart"></canvas>
-                    </div>
-                    <div class="chart-container">
-                        <h3>Educational System Background</h3>
-                        <canvas id="educationalSystemChart"></canvas>
-                    </div>
-                    <div class="chart-container full-width">
-                        <h3>Demographics by Programme</h3>
-                        <canvas id="demographicsProgrammeChart"></canvas>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Insights Tab -->
-            <div id="insights" class="tab-content">
-                <h2>Actionable Insights & Recommendations</h2>
-                <div id="insightsContainer" class="insights-container">
-                    <div class="insight-category">
-                        <h3>🎯 Enrollment Insights</h3>
-                        <div id="enrollmentInsights" class="insights-list"></div>
-                    </div>
-                    <div class="insight-category">
-                        <h3>📊 Performance Insights</h3>
-                        <div id="performanceInsights" class="insights-list"></div>
-                    </div>
-                    <div class="insight-category">
-                        <h3>🔄 Retention Insights</h3>
-                        <div id="retentionInsights" class="insights-list"></div>
-                    </div>
-                    <div class="insight-category">
-                        <h3>👥 Demographic Insights</h3>
-                        <div id="demographicInsights" class="insights-list"></div>
-                    </div>
-                    <div class="insight-category">
-                        <h3>💡 Strategic Recommendations</h3>
-                        <div id="strategicRecommendations" class="insights-list"></div>
-                    </div>
-                </div>
-            </div>
-
+            <div class="data-table-container" id="enrollmentTable"></div>
         </div>
 
-        <!-- Loading Overlay -->
-        <div id="loadingOverlay" class="loading-overlay">
-            <div class="spinner"></div>
-            <p>Loading data...</p>
+        <!-- Performance -->
+        <div id="performanceSection" class="content-section" role="tabpanel">
+            <h2 class="section-title">Academic Performance Analysis</h2>
+            <div class="chart-grid">
+                <div class="chart-card">
+                    <h3>Degree Classification Distribution</h3>
+                    <canvas id="gpaDistributionChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Pass/Fail Rates by Programme</h3>
+                    <canvas id="passRateChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Average GPA by Programme</h3>
+                    <canvas id="avgGPAChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Grade Distribution (CGS)</h3>
+                    <canvas id="gradeDistChart"></canvas>
+                </div>
+            </div>
+            <div class="data-table-container" id="performanceTable"></div>
         </div>
 
-        <!-- Footer -->
+        <!-- Comparison -->
+        <div id="comparisonSection" class="content-section" role="tabpanel">
+            <h2 class="section-title">Programme Comparison</h2>
+            <div class="chart-grid">
+                <div class="chart-card">
+                    <h3>Completion Rates by Programme</h3>
+                    <canvas id="completionRatesChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Programme Performance Matrix</h3>
+                    <canvas id="performanceMatrixChart"></canvas>
+                </div>
+            </div>
+            <div class="data-table-container" id="comparisonTable"></div>
+        </div>
+
+        <!-- Retention -->
+        <div id="retentionSection" class="content-section" role="tabpanel">
+            <h2 class="section-title">Retention & Attrition</h2>
+            <div class="chart-grid">
+                <div class="chart-card chart-full">
+                    <h3>Retention Rate Over Time</h3>
+                    <canvas id="retentionRateChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Attrition Rate by School</h3>
+                    <canvas id="attritionRateChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Completion Rate by Cohort</h3>
+                    <canvas id="cohortCompletionChart"></canvas>
+                </div>
+            </div>
+            <div class="data-table-container" id="retentionTable"></div>
+        </div>
+
+        <!-- Demographics -->
+        <div id="demographicsSection" class="content-section" role="tabpanel">
+            <h2 class="section-title">Demographics</h2>
+            <div class="chart-grid">
+                <div class="chart-card">
+                    <h3>Gender Distribution</h3>
+                    <canvas id="genderDistChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Top 10 Nationalities</h3>
+                    <canvas id="nationalityChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>Age Distribution</h3>
+                    <canvas id="ageDistChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>English Proficiency Levels</h3>
+                    <canvas id="proficiencyChart"></canvas>
+                </div>
+            </div>
+            <div class="data-table-container" id="demographicsTable"></div>
+        </div>
+
+        <!-- Insights -->
+        <div id="insightsSection" class="content-section" role="tabpanel">
+            <h2 class="section-title">Insights & Recommendations</h2>
+            <div id="enrollmentInsights" class="insights-container"></div>
+            <div id="performanceInsights" class="insights-container"></div>
+            <div id="retentionInsights" class="insights-container"></div>
+            <div id="demographicInsights" class="insights-container"></div>
+            <div id="strategicRecommendations" class="insights-container"></div>
+        </div>
+
         <footer class="dashboard-footer">
-            <p>MSc Data Science Project | Data: 2017-2025 Academic Years</p>
+            <p>MSc Data Science Project | Student Performance Analytics</p>
         </footer>
     </div>
 
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-content">
+            <div class="loading-spinner"></div>
+            <p class="loading-text" id="loadingText">Loading dashboard...</p>
+        </div>
+    </div>
+
+    <script src="js/config.js"></script>
     <script src="js/dataLoader.js"></script>
+    <script src="js/dataStore.js"></script>
     <script src="js/charts.js"></script>
-    <script src="js/queryBuilder.js"></script>
+    <script src="js/tables.js"></script>
+    <script src="js/queryPanel.js"></script>
     <script src="js/insights.js"></script>
-    <script src="js/main.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>

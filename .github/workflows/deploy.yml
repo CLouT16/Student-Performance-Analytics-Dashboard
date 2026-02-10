@@ -1,88 +1,58 @@
-name: Dashboard Deployment Check
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   validate:
     runs-on: ubuntu-latest
-    
     steps:
-    - uses: actions/checkout@v3
-    
+    - uses: actions/checkout@v4
+
     - name: Check file structure
       run: |
         echo "Checking required files..."
-        
-        if [ ! -f "index.html" ]; then
-          echo "❌ Missing index.html"
-          exit 1
-        fi
-        
-        if [ ! -f "css/dashboard.css" ]; then
-          echo "❌ Missing css/dashboard.css"
-          exit 1
-        fi
-        
-        if [ ! -d "js" ]; then
-          echo "❌ Missing js directory"
-          exit 1
-        fi
-        
-        if [ ! -d "data" ]; then
-          echo "⚠️  Warning: data directory not found (you may need to add your CSV files)"
-        fi
-        
-        echo "✅ All required files present"
-    
-    - name: Validate CSV files (if present)
-      run: |
-        if [ -d "data" ]; then
-          echo "Checking CSV files..."
-          
-          if [ -f "data/students.csv" ]; then
-            echo "✅ students.csv found"
-          else
-            echo "⚠️  students.csv not found"
-          fi
-          
-          if [ -f "data/enrollments.csv" ]; then
-            echo "✅ enrollments.csv found"
-          else
-            echo "⚠️  enrollments.csv not found"
-          fi
-          
-          if [ -f "data/grades.csv" ]; then
-            echo "✅ grades.csv found"
-          else
-            echo "⚠️  grades.csv not found"
-          fi
-        fi
-    
+        for f in index.html css/dashboard.css; do
+          if [ ! -f "$f" ]; then echo "Missing $f"; exit 1; fi
+        done
+        for f in config.js dataLoader.js dataStore.js charts.js tables.js queryPanel.js insights.js app.js; do
+          if [ ! -f "js/$f" ]; then echo "Missing js/$f"; exit 1; fi
+        done
+        echo "All required files present"
+
     - name: Check JavaScript syntax
       run: |
-        echo "Checking JavaScript files..."
         for file in js/*.js; do
-          if [ -f "$file" ]; then
-            # Basic syntax check - looks for obvious errors
-            if node -c "$file" 2>/dev/null || node --check "$file" 2>/dev/null; then
-              echo "✅ $file syntax OK"
-            else
-              echo "⚠️  Could not validate $file (node not available in CI)"
-            fi
-          fi
+          node --check "$file" 2>/dev/null && echo "OK: $file" || echo "Warning: $file"
         done
-    
-    - name: Deployment ready
-      run: |
-        echo "================================"
-        echo "✅ Dashboard is ready to deploy!"
-        echo "================================"
-        echo ""
-        echo "Your dashboard will be available at:"
-        echo "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
-        echo ""
-        echo "Make sure GitHub Pages is enabled in repository settings."
+
+  deploy:
+    needs: validate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v5
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.'
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

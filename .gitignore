@@ -40,8 +40,10 @@ temp/
 tmp/
 *.tmp
 
-# Documentation drafts (optional)
-# DRAFT_*.md
+# Documentation files (kept locally only)
+*.docx
+*.pdf
+*.pptx
 
 # Node modules (if you add any npm packages later)
 node_modules/
