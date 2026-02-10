@@ -16,7 +16,10 @@ const QueryPanel = {
         this.fillSelect('filterGender', DataStore.getGenders());
         this.fillSelect('filterNationality', DataStore.getNationalities());
         this.fillSelect('filterAttendance', DataStore.getAttendanceStatuses());
-        this.fillSelect('filterClassification', DataStore.getClassifications());
+        this.fillSelect('filterClassification', DataStore.getClassifications().map(c => ({
+            value: c,
+            label: c.startsWith('Borderline') ? c + ' *' : c
+        })));
         this.fillSelect('filterEntryLevel', DataStore.getEntryLevels().map(l => ({ value: l, label: 'Level ' + l })));
     },
 
@@ -94,8 +97,6 @@ const QueryPanel = {
             attendanceStatus: this.val('filterAttendance'),
             classification: this.val('filterClassification'),
             entryLevel: this.val('filterEntryLevel'),
-            gpaMin: this.numVal('gpaMin'),
-            gpaMax: this.numVal('gpaMax'),
             search: (document.getElementById('searchInput')?.value || '').trim() || null
         };
 
@@ -110,10 +111,6 @@ const QueryPanel = {
         ['filterYear', 'filterSchool', 'filterProgramme', 'filterGender',
          'filterNationality', 'filterAttendance', 'filterClassification', 'filterEntryLevel'
         ].forEach(id => {
-            const el = document.getElementById(id);
-            if (el) el.value = '';
-        });
-        ['gpaMin', 'gpaMax'].forEach(id => {
             const el = document.getElementById(id);
             if (el) el.value = '';
         });
@@ -190,18 +187,6 @@ const QueryPanel = {
             }
         });
 
-        if (filters.gpaMin != null) {
-            this.addChip(container, `GPA Min: ${filters.gpaMin}`, () => {
-                document.getElementById('gpaMin').value = '';
-                this.applyFilters();
-            });
-        }
-        if (filters.gpaMax != null) {
-            this.addChip(container, `GPA Max: ${filters.gpaMax}`, () => {
-                document.getElementById('gpaMax').value = '';
-                this.applyFilters();
-            });
-        }
         if (filters.search) {
             this.addChip(container, `Search: "${filters.search}"`, () => {
                 document.getElementById('searchInput').value = '';
@@ -230,7 +215,8 @@ const QueryPanel = {
             comparison: 'comparisonSection',
             retention: 'retentionSection',
             demographics: 'demographicsSection',
-            insights: 'insightsSection'
+            insights: 'insightsSection',
+            assistant: 'assistantSection'
         };
         document.getElementById(sectionMap[tabName]).classList.add('active');
     },

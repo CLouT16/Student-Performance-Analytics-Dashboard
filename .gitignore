@@ -42,7 +42,6 @@ tmp/
 
 # Documentation files (kept locally only)
 *.docx
-*.pdf
 *.pptx
 
 # Node modules (if you add any npm packages later)
@@ -58,3 +57,9 @@ dist/
 build/
 *.min.js
 *.min.css
+
+# Test data (import testing)
+test_data/
+
+# Mathematica files
+mathematica/

@@ -11,43 +11,44 @@ const CONFIG = {
     },
 
     // Scottish Common Grading Scale (CGS) — full mapping
-    // Grade → { points, pass }
+    // Grade → { points (min of range), pass }
+    // A1=22, A2=21.00-21.99, A3=20.00-20.99 ... G3=0.00-0.99
     gradeScale: {
-        'A2': { points: 22, pass: true },
-        'A3': { points: 21, pass: true },
-        'A4': { points: 20, pass: true },
-        'A5': { points: 19, pass: true },
-        'B1': { points: 18, pass: true },
-        'B2': { points: 17, pass: true },
-        'B3': { points: 16, pass: true },
-        'C1': { points: 15, pass: true },
-        'C2': { points: 14, pass: true },
-        'C3': { points: 13, pass: true },
-        'D1': { points: 12, pass: true },
-        'D2': { points: 11, pass: true },
-        'D3': { points: 10, pass: true },
-        'E1': { points: 9,  pass: true },
-        'E2': { points: 8,  pass: true },
-        'E3': { points: 7,  pass: true },
-        'F1': { points: 6,  pass: true },
-        'F2': { points: 5,  pass: true },
-        'F3': { points: 4,  pass: true },
-        'G1': { points: 3,  pass: false },
-        'G2': { points: 2,  pass: false },
-        'G3': { points: 1,  pass: false },
+        'A1': { points: 22, pass: true },
+        'A2': { points: 21, pass: true },
+        'A3': { points: 20, pass: true },
+        'A4': { points: 19, pass: true },
+        'A5': { points: 18, pass: true },
+        'B1': { points: 17, pass: true },
+        'B2': { points: 16, pass: true },
+        'B3': { points: 15, pass: true },
+        'C1': { points: 14, pass: true },
+        'C2': { points: 13, pass: true },
+        'C3': { points: 12, pass: true },
+        'D1': { points: 11, pass: true },
+        'D2': { points: 10, pass: true },
+        'D3': { points: 9,  pass: true },
+        'E1': { points: 8,  pass: false },
+        'E2': { points: 7,  pass: false },
+        'E3': { points: 6,  pass: false },
+        'F1': { points: 5,  pass: false },
+        'F2': { points: 4,  pass: false },
+        'F3': { points: 3,  pass: false },
+        'G1': { points: 2,  pass: false },
+        'G2': { points: 1,  pass: false },
+        'G3': { points: 0,  pass: false },
         'NP': { points: 0,  pass: false }
     },
 
     // Ordered list of CGS grades for chart display (best → worst)
     gradeOrder: [
-        'A2','A3','A4','A5',
+        'A1','A2','A3','A4','A5',
         'B1','B2','B3',
         'C1','C2','C3',
         'D1','D2','D3',
         'E1','E2','E3',
         'F1','F2','F3',
-        'G1','G2','G3',
-        'NP'
+        'G1','G2','G3'
     ],
 
     // GPA distribution ranges for charts (0–22 scale)
@@ -64,7 +65,7 @@ const CONFIG = {
     programmeToSchool: {
         'Accountancy & Finance':                          'Business',
         'Business Management':                            'Business',
-        'Business Management and Information Systems':    'Business',
+        'Business Management and Information Systems':    'Natural & Computing Sciences',
         'Business Management and International Relations': 'Social Science',
         'Computing Science':                              'Natural & Computing Sciences',
         'Legal Studies':                                  'Legal Studies',
@@ -92,17 +93,18 @@ const CONFIG = {
         { label: 'Beginner',      min: 0,   max: 5.4  }
     ],
 
-    // Chart color palette — soothing, muted tones
+    // Chart color palette — colour-blind friendly (muted/pastel tones, no red+green pairs)
+    // Lecture 6: use orange+blue instead of red+green for pass/fail contrasts
     colors: {
         primary:   '#4b7baa',
         secondary: '#5a9e8f',
-        success:   '#6aab8e',
+        success:   '#4b7baa',   // blue — pass/positive (was green)
         warning:   '#d4a843',
-        danger:    '#c05c5c',
+        danger:    '#c27c7c',   // pastel red — fail/negative
         info:      '#6b8db5',
         palette: [
             '#4b7baa', '#5a9e8f', '#8b7eb8', '#c5885a',
-            '#6aab8e', '#b56e8a', '#5d84a3', '#d4a843',
+            '#6b8db5', '#b56e8a', '#5d84a3', '#d4a843',
             '#5a8f8f', '#9b8ec0', '#a87c54', '#5e9a72'
         ]
     },
@@ -129,6 +131,19 @@ const CONFIG = {
     // Junk values to exclude from "How did you hear about us?" referral source
     referralJunkValues: ['6.5', '7', '6', 'Chemistry'],
 
+    // Merge granular referral sources into broader categories
+    referralMerge: {
+        'Facebook':                   'Social Media',
+        'Instagram':                  'Social Media',
+        'LinkedIn':                   'Social Media',
+        'Social Media':               'Social Media',
+        'Website':                    'Website & Search',
+        'Search Engine: Google':      'Website & Search',
+        'University Fair':            'Outreach Events',
+        'Outreach Activity: Open Day':'Outreach Events',
+        'School Visit':               'Outreach Events'
+    },
+
     // Helper: get school for a programme name
     getSchool(programme) {
         return this.programmeToSchool[programme] || 'Other';
@@ -144,17 +159,17 @@ const CONFIG = {
         courseResults: ['Student_ID', 'Academic_Year', 'Semester', 'Course_Code', 'Course_Grade_Point', 'Overall_Grade']
     },
 
-    // Degree classification colors (matches classificationOrder)
+    // Degree classification colors — colour-blind friendly (blue-to-orange)
     classificationColors: [
-        '#1a7a3a', // First Class Honours — dark green
-        '#3a9e5c', // Borderline 2.1/1st — lighter green
-        '#4baa6e', // Upper Second Class Honours — green
-        '#7dbf8e', // Borderline 2.2/2.1 — light green
+        '#1a5276', // First Class Honours — dark blue
+        '#2471a3', // Borderline 2.1/1st — blue
+        '#4b7baa', // Upper Second Class Honours — steel blue
+        '#7fb3d3', // Borderline 2.2/2.1 — light blue
         '#d4a843', // Lower Second Class Honours — amber
-        '#c5965a', // Borderline 3rd/2.2 — light brown
+        '#c5885a', // Borderline 3rd/2.2 — tan
         '#b07840', // Third Class Honours — warm brown
-        '#c07858', // Borderline Fail/3rd — light red-brown
-        '#c05c5c'  // Fail — red
+        '#b58070', // Borderline Fail/3rd — muted rose
+        '#c27c7c'  // Fail — pastel red
     ],
 
     // Short labels for classification chart x-axis

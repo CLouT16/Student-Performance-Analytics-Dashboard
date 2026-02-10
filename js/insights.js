@@ -1,212 +1,306 @@
-// Insights Generator — all 5 insight sections re-enabled with fixed field names and 0-22 GPA scale
+// Insights Generator — category-based metrics derived directly from imported data
+// No narrative text, no AI-generated prose — purely data traceable to dashboard charts
 const InsightsGenerator = {
 
     generateAllInsights() {
-        this.generateEnrollmentInsights();
-        this.generatePerformanceInsights();
-        this.generateRetentionInsights();
-        this.generateDemographicInsights();
-        this.generateStrategicRecommendations();
+        try { this.generateEnrollmentInsights(); } catch(e) { console.warn('Enrollment insights error:', e); }
+        try { this.generatePerformanceInsights(); } catch(e) { console.warn('Performance insights error:', e); }
+        try { this.generateRetentionInsights(); } catch(e) { console.warn('Retention insights error:', e); }
+        try { this.generateDemographicInsights(); } catch(e) { console.warn('Demographic insights error:', e); }
+        try { this.generateStrategicSummary(); } catch(e) { console.warn('Strategic insights error:', e); }
     },
 
-    // Helper to create insight HTML
-    createInsightHTML(title, description, metric, type = 'positive') {
+    // Metric card: category label + large metric + supporting details
+    _metric(label, value, details, type = 'positive') {
+        const detailsHtml = details.map(d => `<span class="metric-detail">${d}</span>`).join('');
         return `
             <div class="insight-item ${type}">
-                <h4>${title}</h4>
-                <p>${description}</p>
-                ${metric ? `<span class="insight-metric">${metric}</span>` : ''}
+                <h4>${label}</h4>
+                <span class="insight-metric">${value}</span>
+                <div class="metric-details">${detailsHtml}</div>
             </div>
         `;
     },
 
-    // --- Enrollment Insights ---
+    // Section heading
+    _heading(title) {
+        return `<h3 class="insights-heading">${title}</h3>`;
+    },
+
+    // Data source disclaimer
+    _disclaimer(data) {
+        return `<p class="insights-disclaimer">All metrics calculated from ${data.students.length.toLocaleString()} student records, ${data.courseResults.length.toLocaleString()} course results, and ${data.attendance.length.toLocaleString()} attendance records in the imported data.</p>`;
+    },
+
+    // --- Enrollment & Recruitment ---
     generateEnrollmentInsights() {
         const data = DataStore.getData();
         const container = document.getElementById('enrollmentInsights');
         if (!container) return;
-        let insights = '';
+        let html = this._heading('Enrollment & Recruitment');
+        html += this._disclaimer(data);
 
-        // Enrollment growth from unique students per year
+        // Enrollment growth
         const enrollment = DataStore.getEnrollmentByYear();
         const years = Object.keys(enrollment).sort();
         if (years.length >= 2) {
             const latest = enrollment[years[years.length - 1]];
             const previous = enrollment[years[years.length - 2]];
             const growth = ((latest - previous) / previous * 100).toFixed(1);
-            const growthType = growth > 0 ? 'positive' : (growth < 0 ? 'critical' : 'warning');
-            insights += this.createInsightHTML(
-                'Enrollment Growth Trend',
-                `Enrollment ${growth > 0 ? 'increased' : 'decreased'} by ${Math.abs(growth)}% from ${years[years.length - 2]} to ${years[years.length - 1]}. ${growth > 0 ? 'Recruitment strategies are working effectively.' : 'Review marketing and recruitment strategies.'}`,
-                `${growth > 0 ? '+' : ''}${growth}% Change`,
-                growthType
+            html += this._metric(
+                'Enrollment Growth',
+                `${growth > 0 ? '+' : ''}${growth}%`,
+                [
+                    `${years[years.length - 2]}: ${previous.toLocaleString()}`,
+                    `${years[years.length - 1]}: ${latest.toLocaleString()}`
+                ],
+                growth > 0 ? 'positive' : (growth < -5 ? 'critical' : 'warning')
             );
         }
 
-        // Highest enrollment school
+        // Applicant conversion
+        const totalApplicants = DataStore.getTotalApplicants();
+        const registeredStudents = DataStore.getUniqueRegisteredStudents();
+        if (totalApplicants > 0) {
+            const conversionRate = ((registeredStudents / totalApplicants) * 100).toFixed(1);
+            html += this._metric(
+                'Applicant Conversion',
+                `${conversionRate}%`,
+                [
+                    `Applicants: ${totalApplicants.toLocaleString()}`,
+                    `Registered: ${registeredStudents.toLocaleString()}`
+                ],
+                conversionRate >= 50 ? 'positive' : (conversionRate >= 30 ? 'warning' : 'critical')
+            );
+        }
+
+        // Top recruitment source
+        const sources = DataStore.getRecruitmentBySource();
+        if (sources.length > 0) {
+            const top = sources[0];
+            const totalSrc = sources.reduce((s, r) => s + r.count, 0);
+            const pct = ((top.count / totalSrc) * 100).toFixed(1);
+            html += this._metric(
+                'Top Recruitment Channel',
+                top.source,
+                [
+                    `${top.count.toLocaleString()} applicants (${pct}%)`,
+                    `${sources.length} channels total`
+                ],
+                'positive'
+            );
+        }
+
+        // Largest school
         const schoolCounts = {};
         data.students.forEach(s => { schoolCounts[s.school] = (schoolCounts[s.school] || 0) + 1; });
         const topSchool = Object.entries(schoolCounts).sort((a, b) => b[1] - a[1])[0];
         if (topSchool) {
             const pct = (topSchool[1] / data.students.length * 100).toFixed(1);
-            insights += this.createInsightHTML(
-                'Highest Enrollment School',
-                `${topSchool[0]} has the highest enrollment with ${topSchool[1]} students (${pct}% of total).`,
-                `${topSchool[1]} Students`,
+            html += this._metric(
+                'Largest School',
+                topSchool[0],
+                [
+                    `n=${topSchool[1].toLocaleString()} (${pct}%)`,
+                    `${Object.keys(schoolCounts).length} schools total`
+                ],
                 'positive'
             );
         }
 
-        // Programme count
-        const uniqueProgs = new Set(data.students.map(s => s.programme)).size;
-        insights += this.createInsightHTML(
-            'Programme Diversity',
-            `The institution offers ${uniqueProgs} programmes, providing diverse academic pathways.`,
-            `${uniqueProgs} Programmes`,
-            uniqueProgs >= 5 ? 'positive' : 'warning'
-        );
-
-        container.innerHTML = insights;
+        container.innerHTML = html;
     },
 
-    // --- Performance Insights ---
+    // --- Academic Performance ---
     generatePerformanceInsights() {
         const data = DataStore.getData();
         const container = document.getElementById('performanceInsights');
         if (!container) return;
-        let insights = '';
+        let html = this._heading('Academic Performance *');
+        html += `<p class="insights-disclaimer" style="border-left:2px solid #d4a843;font-style:italic;">* Subject to Board of Examiners\u2019 recommendations. Figures based on recorded data.</p>`;
 
-        // Overall pass rate from course results
+        // Overall pass rate
         const totalGrades = data.courseResults.length;
         if (totalGrades > 0) {
             const passed = data.courseResults.filter(g => g.is_passed).length;
+            const failed = totalGrades - passed;
             const passRate = (passed / totalGrades * 100).toFixed(1);
-            const passType = passRate >= 80 ? 'positive' : (passRate >= 70 ? 'warning' : 'critical');
-            insights += this.createInsightHTML(
+            html += this._metric(
                 'Overall Pass Rate',
-                `Current pass rate is ${passRate}%. ${passRate >= 80 ? 'Excellent academic performance across programmes.' : passRate >= 70 ? 'Performance is acceptable but has room for improvement.' : 'Pass rate below threshold — immediate intervention required.'}`,
-                `${passRate}% Pass Rate`,
-                passType
+                `${passRate}%`,
+                [
+                    `Passed: ${passed.toLocaleString()}`,
+                    `Failed: ${failed.toLocaleString()}`,
+                    `Total: ${totalGrades.toLocaleString()} results`
+                ],
+                passRate >= 80 ? 'positive' : (passRate >= 70 ? 'warning' : 'critical')
             );
         }
 
-        // Average GPA (0-22 scale) from classifications using index
-        const grads = data.classifications.filter(c => c.final_gpa > 0);
+        // Average GPA (graduated only)
+        const grads = data.classifications.filter(c => c.graduation_status === 'Graduated' && c.final_gpa > 0);
         if (grads.length > 0) {
             const avgGPA = (grads.reduce((sum, c) => sum + c.final_gpa, 0) / grads.length).toFixed(1);
-            // 0-22 scale: ~14+ is good, ~11-14 moderate, <11 concerning
-            const gpaType = avgGPA >= 14 ? 'positive' : (avgGPA >= 11 ? 'warning' : 'critical');
-            insights += this.createInsightHTML(
+            html += this._metric(
                 'Average Graduate GPA',
-                `Average GPA across graduates is ${avgGPA} (0-22 scale). ${avgGPA >= 14 ? 'Strong academic achievement.' : avgGPA >= 11 ? 'Moderate performance — targeted support could improve outcomes.' : 'Low GPA requires intervention strategies.'}`,
-                `${avgGPA} / 22 GPA`,
-                gpaType
+                `${avgGPA} / 22`,
+                [
+                    `n=${grads.length.toLocaleString()} graduates`,
+                    `CGS scale 0\u201322`
+                ],
+                avgGPA >= 14 ? 'positive' : (avgGPA >= 11 ? 'warning' : 'critical')
             );
         }
 
-        // Top performing school by average GPA using classification index
-        const schoolGPA = {};
-        data.classifications.forEach(c => {
-            if (!schoolGPA[c.school]) schoolGPA[c.school] = { sum: 0, count: 0 };
-            schoolGPA[c.school].sum += c.final_gpa;
-            schoolGPA[c.school].count++;
+        // Good honours rate (graduated only)
+        const graduated = data.classifications.filter(c => c.graduation_status === 'Graduated');
+        if (graduated.length > 0) {
+            const counts = {};
+            graduated.forEach(c => { counts[c.classification] = (counts[c.classification] || 0) + 1; });
+            const firstClass = counts['First Class Honours'] || 0;
+            const upperSecond = counts['Upper Second Class Honours'] || 0;
+            const goodHons = firstClass + upperSecond;
+            const goodPct = ((goodHons / graduated.length) * 100).toFixed(1);
+            html += this._metric(
+                'Good Honours (1st + 2:1)',
+                `${goodPct}%`,
+                [
+                    `First: ${firstClass}`,
+                    `Upper Second: ${upperSecond}`,
+                    `Total graduates: ${graduated.length.toLocaleString()}`
+                ],
+                goodPct >= 60 ? 'positive' : (goodPct >= 40 ? 'warning' : 'critical')
+            );
+        }
+
+        // Programme performance spread (graduated only)
+        const progGPA = {};
+        graduated.forEach(c => {
+            if (!progGPA[c.programme]) progGPA[c.programme] = { sum: 0, count: 0 };
+            progGPA[c.programme].sum += c.final_gpa;
+            progGPA[c.programme].count++;
         });
-        const schoolAvgs = Object.entries(schoolGPA)
-            .map(([school, d]) => ({ school, avg: (d.sum / d.count).toFixed(1) }))
+        const progAvgs = Object.entries(progGPA)
+            .map(([prog, d]) => ({ prog, avg: (d.sum / d.count).toFixed(1), count: d.count }))
             .sort((a, b) => b.avg - a.avg);
-        if (schoolAvgs.length > 0) {
-            insights += this.createInsightHTML(
-                'Top Performing School',
-                `${schoolAvgs[0].school} leads with average GPA of ${schoolAvgs[0].avg}. Share best practices to elevate overall performance.`,
-                `${schoolAvgs[0].avg} / 22 GPA`,
-                'positive'
+        if (progAvgs.length >= 2) {
+            const best = progAvgs[0];
+            const worst = progAvgs[progAvgs.length - 1];
+            html += this._metric(
+                'Programme GPA Spread',
+                `${best.avg} \u2014 ${worst.avg}`,
+                [
+                    `Highest: ${CONFIG.abbrevProgramme(best.prog)} (${best.avg}, n=${best.count})`,
+                    `Lowest: ${CONFIG.abbrevProgramme(worst.prog)} (${worst.avg}, n=${worst.count})`
+                ],
+                'warning'
             );
         }
 
-        // Grade distribution — A grades (A2-A5 in CGS)
+        // A-grade rate
         if (totalGrades > 0) {
             const gradeCounts = {};
-            data.courseResults.forEach(g => {
-                gradeCounts[g.overall_grade] = (gradeCounts[g.overall_grade] || 0) + 1;
-            });
-            const aGrades = (gradeCounts['A2'] || 0) + (gradeCounts['A3'] || 0) +
+            data.courseResults.forEach(g => { gradeCounts[g.overall_grade] = (gradeCounts[g.overall_grade] || 0) + 1; });
+            const aGrades = (gradeCounts['A1'] || 0) + (gradeCounts['A2'] || 0) + (gradeCounts['A3'] || 0) +
                             (gradeCounts['A4'] || 0) + (gradeCounts['A5'] || 0);
             const aPct = (aGrades / totalGrades * 100).toFixed(1);
-            insights += this.createInsightHTML(
-                'Excellence Rate (A Grades)',
-                `${aPct}% of all grades are A-level (A2-A5). ${aPct >= 15 ? 'Strong proportion of high achievers.' : 'Consider enrichment activities to increase excellence rate.'}`,
-                `${aPct}% A Grades`,
+            html += this._metric(
+                'A-Grade Rate (A1\u2013A5)',
+                `${aPct}%`,
+                [
+                    `${aGrades.toLocaleString()} of ${totalGrades.toLocaleString()} results`
+                ],
                 aPct >= 15 ? 'positive' : (aPct >= 10 ? 'warning' : 'critical')
             );
         }
 
-        // Degree classification analysis
-        if (data.classifications.length > 0) {
-            const firstClass = data.classifications.filter(c => c.classification === 'First Class Honours').length;
-            const upperSecond = data.classifications.filter(c => c.classification === 'Upper Second Class Honours').length;
-            const excellenceRate = ((firstClass + upperSecond) / data.classifications.length * 100).toFixed(1);
-            insights += this.createInsightHTML(
-                'Degree Classification Analysis',
-                `${excellenceRate}% of graduates achieved First Class or Upper Second Class Honours.`,
-                `${firstClass} First Class | ${upperSecond} Upper Second`,
-                excellenceRate >= 60 ? 'positive' : (excellenceRate >= 40 ? 'warning' : 'critical')
-            );
-        }
-
-        container.innerHTML = insights;
+        container.innerHTML = html;
     },
 
-    // --- Retention Insights ---
+    // --- Retention & Completion ---
     generateRetentionInsights() {
         const data = DataStore.getData();
         const container = document.getElementById('retentionInsights');
         if (!container) return;
-        let insights = '';
+        let html = this._heading('Retention & Completion');
 
-        // Average retention rate — dynamic years
-        const years = DataStore.getAcademicYears();
-        const calcYears = years.slice(0, -1);
-        const rates = calcYears.map(y => parseFloat(DataStore.calculateRetentionRate(y))).filter(r => r > 0);
-        const avgRetention = rates.length > 0 ? (rates.reduce((a, b) => a + b, 0) / rates.length).toFixed(1) : 0;
-        const retType = avgRetention >= 85 ? 'positive' : (avgRetention >= 75 ? 'warning' : 'critical');
-        insights += this.createInsightHTML(
-            'Average Retention Rate',
-            `Average Y1→Y2 retention rate is ${avgRetention}%. ${avgRetention >= 85 ? 'Excellent student retention.' : avgRetention >= 75 ? 'Retention could be improved with enhanced support.' : 'Critical retention issue — conduct exit interviews.'}`,
-            `${avgRetention}% Retention`,
-            retType
+        // Use status-based counts — consistent with Retention Cohort Summary table
+        const counts = DataStore.getRetentionAttritionCounts();
+        const programmes = Object.keys(counts).sort();
+
+        // Overall retention (graduated / (graduated + dropped))
+        let totalRetained = 0, totalDropped = 0, totalStudents = 0;
+        for (const p of programmes) {
+            totalRetained += counts[p].retained;
+            totalDropped += counts[p].dropped;
+            totalStudents += counts[p].total;
+        }
+        const overallRetention = (totalRetained + totalDropped) > 0
+            ? ((totalRetained / (totalRetained + totalDropped)) * 100).toFixed(1) : 0;
+
+        html += this._metric(
+            'Overall Retention',
+            `${overallRetention}%`,
+            [
+                `Graduated: ${totalRetained.toLocaleString()}`,
+                `Dropped: ${totalDropped.toLocaleString()}`,
+                `Of ${(totalRetained + totalDropped).toLocaleString()} with known outcomes`
+            ],
+            overallRetention >= 85 ? 'positive' : (overallRetention >= 75 ? 'warning' : 'critical')
         );
+
+        // Programme with lowest retention
+        const progRetention = programmes.map(p => {
+            const c = counts[p];
+            const known = c.retained + c.dropped;
+            return { prog: p, rate: known > 0 ? (c.retained / known * 100) : 100, dropped: c.dropped, total: c.total };
+        }).filter(p => (counts[p.prog].retained + counts[p.prog].dropped) > 10)
+          .sort((a, b) => a.rate - b.rate);
+
+        if (progRetention.length > 0 && progRetention[0].rate < 95) {
+            const worst = progRetention[0];
+            html += this._metric(
+                'Lowest Programme Retention',
+                `${worst.rate.toFixed(1)}%`,
+                [
+                    `${CONFIG.abbrevProgramme(worst.prog)}`,
+                    `${worst.dropped} dropped of ${worst.total}`
+                ],
+                worst.rate >= 85 ? 'warning' : 'critical'
+            );
+        }
 
         // Completion rate
         const completionRate = parseFloat(DataStore.calculateCompletionRate());
-        const compType = completionRate >= 70 ? 'positive' : (completionRate >= 60 ? 'warning' : 'critical');
-        insights += this.createInsightHTML(
-            'Programme Completion Rate',
-            `${completionRate}% of eligible students have completed their degrees.`,
-            `${completionRate}% Completion`,
-            compType
+        html += this._metric(
+            'Programme Completion',
+            `${completionRate}%`,
+            [
+                `Students entered 4+ years ago`
+            ],
+            completionRate >= 70 ? 'positive' : (completionRate >= 60 ? 'warning' : 'critical')
         );
 
         // Attrition
-        const statusCounts = {};
-        data.students.forEach(s => { statusCounts[s.status] = (statusCounts[s.status] || 0) + 1; });
-        const droppedCount = statusCounts['Dropped'] || 0;
-        const attritionRate = data.students.length > 0 ? (droppedCount / data.students.length * 100).toFixed(1) : 0;
-        insights += this.createInsightHTML(
-            'Student Attrition Rate',
-            `${attritionRate}% of students have dropped out. ${attritionRate < 10 ? 'Low attrition.' : attritionRate < 20 ? 'Implement early warning systems.' : 'High attrition requires comprehensive review.'}`,
-            `${attritionRate}% Attrition`,
+        const attritionRate = totalStudents > 0 ? (totalDropped / totalStudents * 100).toFixed(1) : 0;
+        html += this._metric(
+            'Overall Attrition',
+            `${attritionRate}%`,
+            [
+                `${totalDropped.toLocaleString()} dropped of ${totalStudents.toLocaleString()}`
+            ],
             attritionRate < 10 ? 'positive' : (attritionRate < 20 ? 'warning' : 'critical')
         );
 
-        container.innerHTML = insights;
+        container.innerHTML = html;
     },
 
-    // --- Demographic Insights ---
+    // --- Demographics ---
     generateDemographicInsights() {
         const data = DataStore.getData();
         const container = document.getElementById('demographicInsights');
         if (!container) return;
-        let insights = '';
+        let html = this._heading('Demographics');
 
         // Gender balance
         const genderCounts = {};
@@ -215,10 +309,10 @@ const InsightsGenerator = {
         if (genderEntries.length > 0) {
             const dominant = genderEntries[0];
             const pct = (dominant[1] / data.students.length * 100).toFixed(1);
-            insights += this.createInsightHTML(
-                'Gender Distribution',
-                `${dominant[0]} students represent ${pct}% of the student body. ${pct >= 60 ? 'Consider targeted recruitment to improve balance.' : 'Good gender balance.'}`,
+            html += this._metric(
+                'Gender Balance',
                 `${pct}% ${dominant[0]}`,
+                genderEntries.map(([g, c]) => `${g}: ${c.toLocaleString()} (${(c / data.students.length * 100).toFixed(1)}%)`),
                 pct >= 60 ? 'warning' : 'positive'
             );
         }
@@ -227,47 +321,70 @@ const InsightsGenerator = {
         const natCounts = {};
         data.students.forEach(s => { natCounts[s.nationality] = (natCounts[s.nationality] || 0) + 1; });
         const uniqueNats = Object.keys(natCounts).length;
-        insights += this.createInsightHTML(
+        const topNats = Object.entries(natCounts).sort((a, b) => b[1] - a[1]).slice(0, 3);
+        html += this._metric(
             'International Diversity',
-            `Students represent ${uniqueNats} nationalities. ${uniqueNats > 20 ? 'Excellent international diversity.' : 'Consider expanding international recruitment.'}`,
             `${uniqueNats} Nationalities`,
+            topNats.map(([n, c]) => `${n}: ${c.toLocaleString()}`),
             uniqueNats > 20 ? 'positive' : 'warning'
         );
 
-        // Age distribution — exclude nulls
+        // Age profile
         const ages = data.students.map(s => s.age).filter(a => a != null);
         if (ages.length > 0) {
             const avgAge = (ages.reduce((a, b) => a + b, 0) / ages.length).toFixed(1);
-            const traditionalPct = ((ages.filter(a => a <= 24).length / ages.length) * 100).toFixed(1);
-            insights += this.createInsightHTML(
-                'Student Age Profile',
-                `Average student age is ${avgAge} years with ${traditionalPct}% being traditional college age (<=24).`,
-                `${avgAge} Average Age`,
+            const under25 = ages.filter(a => a <= 24).length;
+            const under25Pct = ((under25 / ages.length) * 100).toFixed(1);
+            html += this._metric(
+                'Age Profile',
+                `${avgAge} avg`,
+                [
+                    `Under 25: ${under25Pct}% (n=${under25})`,
+                    `25+: ${(100 - under25Pct).toFixed(1)}% (n=${ages.length - under25})`
+                ],
                 'positive'
             );
         }
 
-        // Disability
-        const disabledCount = data.students.filter(s => s.is_disabled).length;
-        const disabPct = data.students.length > 0 ? (disabledCount / data.students.length * 100).toFixed(1) : 0;
-        insights += this.createInsightHTML(
-            'Accessibility & Support',
-            `${disabPct}% of students have disclosed disabilities. Ensure adequate accommodations are available.`,
-            `${disabledCount} Students`,
-            'positive'
+        // English proficiency
+        const profCounts = {};
+        data.students.forEach(s => { profCounts[s.english_proficiency] = (profCounts[s.english_proficiency] || 0) + 1; });
+        const advanced = profCounts['Advanced'] || 0;
+        const proficient = profCounts['Proficient'] || 0;
+        const strongPct = data.students.length > 0 ? (((advanced + proficient) / data.students.length) * 100).toFixed(1) : 0;
+        html += this._metric(
+            'English Proficiency',
+            `${strongPct}% Advanced/Proficient`,
+            Object.entries(profCounts).sort((a, b) => b[1] - a[1]).map(([l, c]) => `${l}: ${c.toLocaleString()}`),
+            strongPct >= 60 ? 'positive' : 'warning'
         );
 
-        container.innerHTML = insights;
+        // Attendance health
+        const attRisk = DataStore.getAttendanceRiskOverview();
+        const goodAtt = attRisk['Good'] || 0;
+        const totalAtt = Object.values(attRisk).reduce((a, b) => a + b, 0);
+        if (totalAtt > 0) {
+            const goodPct = ((goodAtt / totalAtt) * 100).toFixed(1);
+            html += this._metric(
+                'Attendance Status',
+                `${goodPct}% Good`,
+                Object.entries(attRisk).sort((a, b) => b[1] - a[1]).map(([s, c]) => `${s}: ${c.toLocaleString()}`),
+                goodPct >= 70 ? 'positive' : (goodPct >= 50 ? 'warning' : 'critical')
+            );
+        }
+
+        container.innerHTML = html;
     },
 
-    // --- Strategic Recommendations ---
-    generateStrategicRecommendations() {
+    // --- Strategic Summary (flagged metrics only) ---
+    generateStrategicSummary() {
         const data = DataStore.getData();
-        const container = document.getElementById('strategicRecommendations');
+        const container = document.getElementById('dataFlags');
         if (!container) return;
-        let recommendations = '';
+        let html = this._heading('Flagged Metrics');
+        let flagCount = 0;
 
-        // Enrollment growth check
+        // Enrollment decline
         const enrollment = DataStore.getEnrollmentByYear();
         const years = Object.keys(enrollment).sort();
         if (years.length >= 2) {
@@ -275,83 +392,111 @@ const InsightsGenerator = {
             const previous = enrollment[years[years.length - 2]];
             const growth = ((latest - previous) / previous * 100).toFixed(1);
             if (growth < 0) {
-                recommendations += this.createInsightHTML(
-                    'Boost Enrollment Growth',
-                    'Develop targeted marketing campaigns for underperforming programmes. Partner with local schools for recruitment.',
-                    'Priority: High',
+                html += this._metric(
+                    'Enrollment Decline',
+                    `${growth}%`,
+                    [
+                        `${years[years.length - 2]}: ${previous}`,
+                        `${years[years.length - 1]}: ${latest}`
+                    ],
                     'critical'
                 );
+                flagCount++;
             }
         }
 
-        // Academic support (0-22 scale: < 11 is concerning)
-        const grads = data.classifications.filter(c => c.final_gpa > 0);
-        if (grads.length > 0) {
-            const avgGPA = grads.reduce((sum, c) => sum + c.final_gpa, 0) / grads.length;
-            if (avgGPA < 11) {
-                recommendations += this.createInsightHTML(
-                    'Enhance Academic Support',
-                    'Implement peer tutoring, expand office hours, and create study skills workshops. Consider mandatory advising for students with GPA below 8.',
-                    'Priority: Critical',
-                    'critical'
-                );
-            }
+        // Low-performing programme
+        const progGPA = {};
+        data.classifications.forEach(c => {
+            if (!progGPA[c.programme]) progGPA[c.programme] = { sum: 0, count: 0 };
+            progGPA[c.programme].sum += c.final_gpa;
+            progGPA[c.programme].count++;
+        });
+        const progAvgs = Object.entries(progGPA)
+            .map(([prog, d]) => ({ prog, avg: d.sum / d.count }))
+            .sort((a, b) => a.avg - b.avg);
+        if (progAvgs.length > 0 && progAvgs[0].avg < 12) {
+            html += this._metric(
+                'Lowest Programme GPA',
+                `${progAvgs[0].avg.toFixed(1)}`,
+                [
+                    `${CONFIG.abbrevProgramme(progAvgs[0].prog)}`,
+                    `Below C1 threshold (12.0)`
+                ],
+                'warning'
+            );
+            flagCount++;
         }
 
-        // Retention check
+        // Completion below target
         const completionRate = parseFloat(DataStore.calculateCompletionRate());
         if (completionRate < 70) {
-            recommendations += this.createInsightHTML(
-                'Improve Retention & Completion',
-                'Establish early warning system for at-risk students. Create bridge programmes and enhance career counseling.',
-                'Priority: High',
-                'warning'
+            html += this._metric(
+                'Completion Below Target',
+                `${completionRate}%`,
+                [
+                    `Target: 70%`,
+                    `Gap: ${(70 - completionRate).toFixed(1)}pp`
+                ],
+                'critical'
             );
+            flagCount++;
         }
 
-        // Programme performance — find lowest-performing school
-        const schoolGPA = {};
-        data.classifications.forEach(c => {
-            if (!schoolGPA[c.school]) schoolGPA[c.school] = { sum: 0, count: 0 };
-            schoolGPA[c.school].sum += c.final_gpa;
-            schoolGPA[c.school].count++;
-        });
-        const schoolAvgs = Object.entries(schoolGPA)
-            .map(([school, d]) => ({ school, avg: d.sum / d.count }))
-            .sort((a, b) => a.avg - b.avg);
-        if (schoolAvgs.length > 0 && schoolAvgs[0].avg < 11) {
-            recommendations += this.createInsightHTML(
-                'Programme Review & Enhancement',
-                `${schoolAvgs[0].school} shows lower performance (avg GPA ${schoolAvgs[0].avg.toFixed(1)}). Conduct curriculum review and enhance faculty development.`,
-                'Priority: Medium',
+        // Attendance concerns
+        const attRisk = DataStore.getAttendanceRiskOverview();
+        const concernStudents = (attRisk['Concern'] || 0);
+        if (concernStudents > 0) {
+            html += this._metric(
+                'Attendance Concern',
+                `${concernStudents} students`,
+                [
+                    `Status: "Concern"`,
+                    `Warning: ${attRisk['Warning'] || 0}`
+                ],
                 'warning'
             );
+            flagCount++;
         }
 
-        // Gender balance
+        // Gender imbalance
         const genderCounts = {};
         data.students.forEach(s => { genderCounts[s.gender] = (genderCounts[s.gender] || 0) + 1; });
         const genderEntries = Object.entries(genderCounts).sort((a, b) => b[1] - a[1]);
         if (genderEntries.length > 0) {
             const pct = (genderEntries[0][1] / data.students.length * 100).toFixed(1);
             if (pct > 65) {
-                recommendations += this.createInsightHTML(
-                    'Promote Diversity & Inclusion',
-                    'Develop targeted recruitment for underrepresented groups. Create mentorship programmes and review admission criteria.',
-                    'Priority: Medium',
+                html += this._metric(
+                    'Gender Imbalance',
+                    `${pct}% ${genderEntries[0][0]}`,
+                    genderEntries.map(([g, c]) => `${g}: ${c}`),
                     'warning'
                 );
+                flagCount++;
             }
         }
 
-        // Always include data-driven recommendation
-        recommendations += this.createInsightHTML(
-            'Leverage Analytics for Strategy',
-            'Regularly monitor this dashboard to identify trends early. Use predictive analytics to forecast enrollment and identify at-risk students.',
-            'Priority: Ongoing',
+        if (flagCount === 0) {
+            html += this._metric(
+                'No Flags',
+                'All Clear',
+                [`All key metrics within acceptable thresholds`],
+                'positive'
+            );
+        }
+
+        // Data summary
+        html += this._metric(
+            'Data Coverage',
+            `${data.students.length.toLocaleString()} Students`,
+            [
+                `${data.courseResults.length.toLocaleString()} course results`,
+                `${data.attendance.length.toLocaleString()} attendance records`,
+                `${data.classifications.length.toLocaleString()} classifications`
+            ],
             'positive'
         );
 
-        container.innerHTML = recommendations;
+        container.innerHTML = html;
     }
 };

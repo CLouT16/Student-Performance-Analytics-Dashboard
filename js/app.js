@@ -20,6 +20,7 @@ function reinitializeDashboard() {
     QueryPanel.populateFilters();
     InsightsGenerator.generateAllInsights();
     QueryPanel.updateHeaderStats();
+    QueryPanel.updateFilterCount();
 }
 
 // Wire up import panel events
@@ -34,7 +35,13 @@ function setupImportPanel() {
     const progressFill = document.getElementById('importProgressFill');
     const progressText = document.getElementById('importProgressText');
 
-    const fileInputs = body.querySelectorAll('input[type="file"]');
+    // New dropdown-based import UI
+    const fileTypeSelect = document.getElementById('importFileType');
+    const fileInput = document.getElementById('importFileInput');
+
+    // Track imported files by type
+    const importedFiles = {};
+    const allKeys = ['admissions', 'currentStudents', 'enrollments', 'attendance', 'classifications', 'courseResults'];
 
     // Toggle panel
     toggleHeader.addEventListener('click', () => {
@@ -42,12 +49,40 @@ function setupImportPanel() {
         toggleBtn.classList.toggle('collapsed');
     });
 
-    // Enable load button when all 6 files are selected
+    // Check if all 6 files are loaded and enable button
     function checkAllFiles() {
-        const allSelected = Array.from(fileInputs).every(input => input.files.length > 0);
-        loadBtn.disabled = !allSelected;
+        loadBtn.disabled = !allKeys.every(k => importedFiles[k]);
     }
-    fileInputs.forEach(input => input.addEventListener('change', checkAllFiles));
+
+    // Mark loaded options in the dropdown
+    function updateDropdownLabels() {
+        const options = fileTypeSelect.querySelectorAll('option');
+        options.forEach(opt => {
+            if (opt.value && importedFiles[opt.value]) {
+                if (!opt.textContent.endsWith(' \u2714')) opt.textContent += ' \u2714';
+            }
+        });
+    }
+
+    // When a file is selected, store it for the chosen type
+    fileInput.addEventListener('change', () => {
+        const selectedType = fileTypeSelect.value;
+        if (!selectedType) {
+            showNotification('Please select a file type first.');
+            fileInput.value = '';
+            return;
+        }
+        if (fileInput.files.length > 0) {
+            importedFiles[selectedType] = fileInput.files[0];
+            updateDropdownLabels();
+            checkAllFiles();
+            const loaded = allKeys.filter(k => importedFiles[k]).length;
+            showNotification(`${selectedType} loaded (${loaded}/6).`);
+            // Reset for next file
+            fileTypeSelect.value = '';
+            fileInput.value = '';
+        }
+    });
 
     // Load imported data
     loadBtn.addEventListener('click', async () => {
@@ -56,13 +91,8 @@ function setupImportPanel() {
         progressFill.style.width = '0%';
         loadBtn.disabled = true;
 
-        const fileMap = {};
-        fileInputs.forEach(input => {
-            fileMap[input.dataset.key] = input.files[0];
-        });
-
         try {
-            await DataLoader.loadAllDataFromFiles(fileMap, (current, total, name) => {
+            await DataLoader.loadAllDataFromFiles(importedFiles, (current, total, name) => {
                 const pct = Math.round((current / total) * 100);
                 progressFill.style.width = pct + '%';
                 progressText.textContent = `Validating & loading ${name} (${current}/${total})...`;
@@ -92,8 +122,11 @@ function setupImportPanel() {
         progressEl.style.display = 'block';
         progressFill.style.width = '0%';
 
-        // Clear file inputs
-        fileInputs.forEach(input => { input.value = ''; });
+        // Clear imported files
+        Object.keys(importedFiles).forEach(k => delete importedFiles[k]);
+        fileTypeSelect.value = '';
+        fileInput.value = '';
+        checkAllFiles();
         loadBtn.disabled = true;
 
         try {
@@ -121,6 +154,19 @@ function setupImportPanel() {
     });
 }
 
+// Wire up Management Overview collapsible toggle
+function setupManagementOverviewToggle() {
+    const toggleHeader = document.getElementById('managementOverviewToggle');
+    const toggleBtn = document.getElementById('managementOverviewToggleBtn');
+    const body = document.getElementById('managementOverviewBody');
+    if (!toggleHeader || !body) return;
+
+    toggleHeader.addEventListener('click', () => {
+        body.classList.toggle('collapsed');
+        toggleBtn.classList.toggle('collapsed');
+    });
+}
+
 // Simple notification helper
 function showNotification(message) {
     const existing = document.querySelector('.notification');
@@ -131,6 +177,46 @@ function showNotification(message) {
     el.textContent = message;
     document.body.appendChild(el);
     setTimeout(() => el.remove(), 3000);
+}
+
+
+// Wire up chart toggle buttons (year toggles, normalize toggles)
+function setupChartToggles() {
+    // Normalize toggle buttons (Count / 100%)
+    document.querySelectorAll('.chart-toggles [data-chart]').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            const chartKey = btn.dataset.chart;
+            const mode = btn.dataset.mode;
+            // Update active state within this toggle group
+            btn.closest('.chart-toggles').querySelectorAll('.chart-toggle').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            const normalized = mode === 'normalized';
+            if (chartKey === 'recruitmentEffectiveness') {
+                ChartsManager.updateRecruitmentEffectivenessChart(normalized);
+            } else if (chartKey === 'classificationByProg') {
+                ChartsManager.updateClassificationByProgChart(normalized);
+            } else if (chartKey === 'passRate') {
+                ChartsManager.updatePassFailSchoolChart(normalized);
+            } else if (chartKey === 'performanceMatrix') {
+                ChartsManager.updatePerformanceMatrixChart(normalized);
+            } else if (chartKey === 'proficiency') {
+                ChartsManager.updateProficiencyChart(normalized);
+            } else if (chartKey === 'gpaDistribution') {
+                ChartsManager.updateGPADistributionChart(mode);
+            } else if (chartKey === 'coursePassRate') {
+                ChartsManager.updateCoursePassRateChart(mode);
+            } else if (chartKey === 'programmeComparison') {
+                ChartsManager.updateProgrammeComparisonChart(normalized);
+            } else if (chartKey === 'cohortCompletion') {
+                ChartsManager.updateCohortCompletionChart(normalized);
+            } else if (chartKey === 'retentionRate') {
+                ChartsManager.updateRetentionRateChart(mode === 'normalized' ? 'normalized' : 'absolute');
+            } else if (chartKey === 'genderDist') {
+                ChartsManager.updateGenderDistChart(normalized);
+            }
+        });
+    });
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -153,6 +239,23 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Wire up import panel
         setupImportPanel();
+
+        // Wire up Management Overview toggle
+        setupManagementOverviewToggle();
+
+        // Wire up chart toggle buttons
+        setupChartToggles();
+
+        // AI Assistant
+        Assistant.initialize();
+
+        // Export PDF button
+        const exportPDFBtn = document.getElementById('exportPDF');
+        if (exportPDFBtn) {
+            exportPDFBtn.addEventListener('click', () => {
+                window.print();
+            });
+        }
 
         // Hide loading overlay
         overlay.style.display = 'none';

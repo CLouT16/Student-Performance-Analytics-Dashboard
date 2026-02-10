@@ -97,7 +97,7 @@ const TablesManager = {
         });
 
         this.buildTable('enrollmentTable', 'Enrollment Summary',
-            ['Year', 'Students', 'By School', 'YoY Change'], rows);
+            ['Year', 'Students', 'By School', 'Annual Change'], rows);
     },
 
     // --- Performance Table ---
@@ -142,15 +142,17 @@ const TablesManager = {
         const latestStartYear = parseInt(allYears[allYears.length - 1].split('/')[0]);
 
         const progData = {};
+        const eligibleIds = new Set();
         data.students.forEach(s => {
             const entryStartYear = parseInt((s.entry_year || '').split('/')[0]);
             if (isNaN(entryStartYear) || (latestStartYear - entryStartYear) < 4) return;
             if (!progData[s.programme]) progData[s.programme] = { enrolled: 0, completed: 0, gpaSum: 0, gpaCount: 0 };
             progData[s.programme].enrolled++;
+            eligibleIds.add(s.student_id);
         });
 
         data.classifications.forEach(c => {
-            if (progData[c.programme]) {
+            if (progData[c.programme] && eligibleIds.has(c.student_id)) {
                 progData[c.programme].completed++;
                 progData[c.programme].gpaSum += c.final_gpa;
                 progData[c.programme].gpaCount++;
@@ -168,37 +170,38 @@ const TablesManager = {
             ['Programme', 'Enrolled', 'Completed', 'Rate', 'Avg GPA'], rows);
     },
 
-    // --- Retention Table ---
+    // --- Retention Table (per entry cohort: graduated / dropped / active) ---
     renderRetentionTable() {
-        const years = DataStore.getAcademicYears();
         const data = DataStore.getData();
-        const calcYears = years.slice(0, -1);
+        const classIds = new Set();
+        for (const c of data.classifications) {
+            if (c.graduation_status === 'Graduated') classIds.add(c.student_id);
+        }
 
-        const rows = calcYears.map(year => {
-            const nextYear = years[years.indexOf(year) + 1];
-            let yr1Count = 0;
-            let yr2Count = 0;
-            const yr1Ids = new Set();
-
-            data.currentStudents.forEach(cs => {
-                if (cs.academic_year === year && cs.prog_yr === 1) {
-                    yr1Ids.add(cs.student_id);
-                    yr1Count++;
-                }
-            });
-
-            data.currentStudents.forEach(cs => {
-                if (cs.academic_year === nextYear && cs.prog_yr >= 2 && yr1Ids.has(cs.student_id)) {
-                    yr2Count++;
-                }
-            });
-
-            const rate = yr1Count > 0 ? ((yr2Count / yr1Count) * 100).toFixed(1) + '%' : 'N/A';
-            return [year, yr1Count.toLocaleString(), yr2Count.toLocaleString(), (yr1Count - yr2Count).toLocaleString(), rate];
+        // Group by entry year
+        const cohorts = {};
+        data.students.forEach(s => {
+            if (!s.entry_year) return;
+            if (!cohorts[s.entry_year]) cohorts[s.entry_year] = { total: 0, graduated: 0, dropped: 0, active: 0 };
+            cohorts[s.entry_year].total++;
+            if (s.status === 'Dropped') {
+                cohorts[s.entry_year].dropped++;
+            } else if (classIds.has(s.student_id)) {
+                cohorts[s.entry_year].graduated++;
+            } else {
+                cohorts[s.entry_year].active++;
+            }
         });
 
-        this.buildTable('retentionTable', 'Retention by Cohort',
-            ['Cohort Year', 'Y1 Count', 'Y2 Count', 'Lost', 'Retention Rate'], rows);
+        const rows = Object.keys(cohorts).sort().map(year => {
+            const c = cohorts[year];
+            const completionRate = c.total > 0 ? ((c.graduated / c.total) * 100).toFixed(1) + '%' : 'N/A';
+            const attritionRate = c.total > 0 ? ((c.dropped / c.total) * 100).toFixed(1) + '%' : 'N/A';
+            return [year, c.total.toLocaleString(), c.graduated.toLocaleString(), c.dropped.toLocaleString(), c.active.toLocaleString(), completionRate, attritionRate];
+        });
+
+        this.buildTable('retentionTable', 'Retention Cohort Summary',
+            ['Entry Cohort', 'Total', 'Graduated', 'Dropped', 'Active', 'Completion Rate', 'Attrition Rate'], rows);
     },
 
     // --- Demographics Table ---
